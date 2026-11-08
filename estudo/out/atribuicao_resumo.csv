@@ -1,0 +1,6 @@
+projeto,commits,prs_aidev,agente_aidev,agente_assinatura,pct_agente,agente_principal,adocao,mes_adocao_aidev,commits_12m_antes,inclui,aidev_x_assinatura_discordam
+numbagg/numbagg,791,12,12,28,5.1,Claude_Code,2025-06-17,2025-06,56,True,0
+econ-ark/HARK,1063,8,8,7,1.4,OpenAI_Codex,2025-05-20,2025-05,71,True,0
+NewFuture/DDNS,596,13,13,68,13.6,Copilot,2025-07-01,2025-07,115,True,0
+lidofinance/diffyscan,193,6,6,0,3.1,OpenAI_Codex,2025-05-22,2025-05,36,True,0
+airbytehq/PyAirbyte,588,14,9,234,41.3,Devin,2025-01-28,2025-01,246,True,0

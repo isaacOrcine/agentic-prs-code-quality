@@ -1,0 +1,48 @@
+repo,sha,data,autor_agente,agente,caminho,regra,data_remocao,como,removido_por_agente
+numbagg/numbagg,5da5c56eb83961cd536cc8a6613eecddeb24d999,2025-07-18 07:22:54+00:00,True,Claude_Code,numbagg/decorators.py,B019,,,
+numbagg/numbagg,5da5c56eb83961cd536cc8a6613eecddeb24d999,2025-07-18 07:22:54+00:00,True,Claude_Code,numbagg/funcs.py,C901,2025-07-20 23:57:17+00:00,aviso corrigido,True
+numbagg/numbagg,5da5c56eb83961cd536cc8a6613eecddeb24d999,2025-07-18 07:22:54+00:00,True,Claude_Code,numbagg/funcs.py,PLR0912,2025-07-20 23:57:17+00:00,aviso corrigido,True
+numbagg/numbagg,5da5c56eb83961cd536cc8a6613eecddeb24d999,2025-07-18 07:22:54+00:00,True,Claude_Code,numbagg/test/conftest.py,PLW0108,2025-07-20 21:36:10+00:00,aviso corrigido,True
+numbagg/numbagg,5da5c56eb83961cd536cc8a6613eecddeb24d999,2025-07-18 07:22:54+00:00,True,Claude_Code,numbagg/test/conftest.py,PLW0108,2025-07-20 21:36:10+00:00,aviso corrigido,True
+numbagg/numbagg,5da5c56eb83961cd536cc8a6613eecddeb24d999,2025-07-18 07:22:54+00:00,True,Claude_Code,numbagg/test/test_benchmark.py,SIM102,2025-07-20 21:36:10+00:00,aviso corrigido,True
+numbagg/numbagg,5da5c56eb83961cd536cc8a6613eecddeb24d999,2025-07-18 07:22:54+00:00,True,Claude_Code,numbagg/test/test_nancovmatrix.py,ERA001,2025-07-20 21:36:10+00:00,arquivo removido,True
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/decorators.py,B019,,,
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/moving.py,E402,2025-07-21 22:45:01+00:00,aviso corrigido,False
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/moving_matrix.py,C901,2025-07-21 22:45:01+00:00,aviso corrigido,False
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/moving_matrix.py,PLR0912,2025-07-21 22:45:01+00:00,aviso corrigido,False
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/moving_matrix.py,C901,2025-07-21 22:45:01+00:00,aviso corrigido,False
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/moving_matrix.py,PLR0912,2025-07-21 22:45:01+00:00,aviso corrigido,False
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/test/conftest.py,PLW0108,,,
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/test/conftest.py,PLW0108,,,
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/test/conftest.py,PLW0108,,,
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/test/conftest.py,PLW0108,,,
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/test/conftest.py,C901,,,
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/test/test_matrix_functions.py,SIM108,,,
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/test/test_matrix_functions.py,SIM108,2025-07-21 22:29:10+00:00,aviso corrigido,True
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/test/test_matrix_functions.py,SIM108,2025-07-21 22:29:10+00:00,aviso corrigido,True
+numbagg/numbagg,9b215e97049bb11e42b9fba685c15beaca9dec16,2025-07-20 21:36:10+00:00,True,Claude_Code,numbagg/test/test_matrix_functions.py,ERA001,,,
+numbagg/numbagg,16488e826e328af4240f28e724f76d219b2deea4,2025-07-20 23:40:21+00:00,True,Claude_Code,numbagg/decorators.py,B019,,,
+numbagg/numbagg,16488e826e328af4240f28e724f76d219b2deea4,2025-07-20 23:40:21+00:00,True,Claude_Code,numbagg/moving_matrix.py,C901,2025-08-09 16:07:16+00:00,aviso corrigido,False
+numbagg/numbagg,16488e826e328af4240f28e724f76d219b2deea4,2025-07-20 23:40:21+00:00,True,Claude_Code,numbagg/moving_matrix.py,PLR0912,2025-07-20 23:57:17+00:00,aviso corrigido,True
+numbagg/numbagg,16488e826e328af4240f28e724f76d219b2deea4,2025-07-20 23:40:21+00:00,True,Claude_Code,numbagg/moving_matrix.py,PLR0915,2025-07-20 23:57:17+00:00,aviso corrigido,True
+numbagg/numbagg,7821e4eb655b98482d51e986e06db5183f91a82f,2025-07-22 00:51:53+00:00,True,Claude_Code,numbagg/test/conftest.py,PLR0912,,,
+numbagg/numbagg,7821e4eb655b98482d51e986e06db5183f91a82f,2025-07-22 00:51:53+00:00,True,Claude_Code,numbagg/test/run_benchmarks.py,C901,2026-08-14 08:55:39+00:00,aviso corrigido,False
+numbagg/numbagg,7821e4eb655b98482d51e986e06db5183f91a82f,2025-07-22 00:51:53+00:00,True,Claude_Code,numbagg/test/run_benchmarks.py,PLR0915,2026-08-14 08:55:39+00:00,aviso corrigido,False
+numbagg/numbagg,3ae91bc46f0ead2495d6cfa38996004d69006ceb,2025-12-15 05:55:57+00:00,True,Claude_Code,numbagg/grouped.py,SIM102,,,
+numbagg/numbagg,3ae91bc46f0ead2495d6cfa38996004d69006ceb,2025-12-15 05:55:57+00:00,True,Claude_Code,numbagg/grouped.py,SIM102,,,
+numbagg/numbagg,3ae91bc46f0ead2495d6cfa38996004d69006ceb,2025-12-15 05:55:57+00:00,True,Claude_Code,numbagg/grouped.py,SIM113,,,
+numbagg/numbagg,3ae91bc46f0ead2495d6cfa38996004d69006ceb,2025-12-15 05:55:57+00:00,True,Claude_Code,numbagg/grouped.py,SIM113,,,
+numbagg/numbagg,3ae91bc46f0ead2495d6cfa38996004d69006ceb,2025-12-15 05:55:57+00:00,True,Claude_Code,numbagg/test/test_grouped.py,ERA001,,,
+numbagg/numbagg,f9f9e8582652d6fc99ca8575d32d84483295a33c,2025-07-21 22:45:01+00:00,False,,numbagg/moving.py,E402,,,
+numbagg/numbagg,f9f9e8582652d6fc99ca8575d32d84483295a33c,2025-07-21 22:45:01+00:00,False,,numbagg/moving_matrix.py,C901,,,
+numbagg/numbagg,f9f9e8582652d6fc99ca8575d32d84483295a33c,2025-07-21 22:45:01+00:00,False,,numbagg/moving_matrix.py,PLR0912,,,
+numbagg/numbagg,f9f9e8582652d6fc99ca8575d32d84483295a33c,2025-07-21 22:45:01+00:00,False,,numbagg/moving_matrix.py,C901,,,
+numbagg/numbagg,f9f9e8582652d6fc99ca8575d32d84483295a33c,2025-07-21 22:45:01+00:00,False,,numbagg/moving_matrix.py,PLR0912,,,
+numbagg/numbagg,4f41ce496d4e4dd17102441c24885a7dbae06b55,2025-08-09 16:07:16+00:00,False,,numbagg/moving_matrix.py,PLR0915,,,
+numbagg/numbagg,dfa2241f262be72c4d565695bfea5959a4de3daa,2025-09-14 15:14:55+00:00,False,,numbagg/decorators.py,B019,,,
+numbagg/numbagg,dfa2241f262be72c4d565695bfea5959a4de3daa,2025-09-14 15:14:55+00:00,False,,numbagg/decorators.py,SIM108,,,
+numbagg/numbagg,2430cf594b0a9a711fe32ae8fbec25a96c3a18a2,2026-08-27 22:21:42+00:00,False,,numbagg/test/test_threading_detection.py,SIM117,,,
+numbagg/numbagg,01b1453702bc98b27204348b409d7200e2884772,2026-08-29 00:01:55+00:00,False,,numbagg/moving_matrix.py,PLR0915,,,
+numbagg/numbagg,01b1453702bc98b27204348b409d7200e2884772,2026-08-29 00:01:55+00:00,False,,numbagg/moving_matrix.py,PLR1730,,,
+numbagg/numbagg,01b1453702bc98b27204348b409d7200e2884772,2026-08-29 00:01:55+00:00,False,,numbagg/moving_matrix.py,PLR1730,,,
+numbagg/numbagg,01b1453702bc98b27204348b409d7200e2884772,2026-08-29 00:01:55+00:00,False,,numbagg/moving_matrix.py,C901,,,

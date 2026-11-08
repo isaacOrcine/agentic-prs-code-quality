@@ -1,0 +1,1799 @@
+a8bc201f612e858ab3dd7f7861d7478aa06878d7cccec3598c7265cde19ff174521a02651f3c4557Ian Altonian.alton@airbyte.io2026-10-26T20:20:27-07:00chore: drop beta wording from Airbyte MCP issue template (#1427)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+cccec3598c7265cde19ff174521a02651f3c4557f002bbff76cda660abd0e30b39e3d6b3c4de6ddeKayvan Zahiri123409429+Kayvan-Zahiri@users.noreply.github.com2026-10-26T10:20:22-07:00fix: resolve document timestamp type at runtime (#1415)
+f002bbff76cda660abd0e30b39e3d6b3c4de6ddeb911c5d13e1a33219dcc537d4eb8898203a9364bTram Anhtramanhdo51@gmail.com2026-10-26T10:17:45-07:00fix(mcp): rename deploy_noop_destination_to_cloud name param to destination_name (#1416)
+
+Co-authored-by: anhdoox <206002858+anhdoox@users.noreply.github.com>
+b911c5d13e1a33219dcc537d4eb8898203a9364bc80c74e91211d2a7c3c3536ba9f0ff94d2904f96devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2026-10-22T08:55:38-07:00fix(mcp): accept dotted SSO realm identifiers like example.com (#1419)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: bot_apk <apk@cognition.ai>
+c80c74e91211d2a7c3c3536ba9f0ff94d2904f968f890e173a037a69a4bf1b10468588defcb0583bSuryakant Sahoo230859682+suryakant-source@users.noreply.github.com2026-10-16T18:17:32-07:00test: opt out of telemetry before test modules import the MCP server (#1386)
+8f890e173a037a69a4bf1b10468588defcb0583b6e2866d3fc1a3252bd1316f79a1db26d4f0d65f6Caleb Evanscaleb.evans@airbyte.io2026-10-16T17:09:26-06:00ci: add /evals slash command to run Cloud MCP evals on a PR (#1395)
+6e2866d3fc1a3252bd1316f79a1db26d4f0d65f6bbc96db5c834fb4c78880fc36b9471874368335cIan Altonian.alton@airbyte.io2026-10-02T14:43:54-07:00fix(mcp): point the hosted MCP landing page at the Airbyte MCP docs (#1304)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+bbc96db5c834fb4c78880fc36b9471874368335c4d8a3ce5bb208f718d0e9bcf20e0ae783f9271b9Ian Altonian.alton@airbyte.io2026-10-02T14:33:51-07:00chore: add Airbyte MCP beta feedback issue form (#1299)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+4d8a3ce5bb208f718d0e9bcf20e0ae783f9271b929e2f276ffc1039194ef23de05b0e830590dbd40Pedro S. Lopezpedroslopez@me.com2026-10-02T10:23:47-07:00ci: use `airbytehq` forks of `aaronsteers` GitHub Actions (#1301)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+29e2f276ffc1039194ef23de05b0e830590dbd40349ac2ebf7bac0287ae58e7026618c45eaefa8aaAaron ("AJ") Steersaj@airbyte.io2026-09-30T11:04:58-07:00fix(mcp): point the hosted MCP landing page at the Replication MCP setup docs (#1283)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+349ac2ebf7bac0287ae58e7026618c45eaefa8aa5d886dcbfb3147fb59260809688b21ee3ee9b883Aaron ("AJ") Steersaj@airbyte.io2026-09-30T07:45:28-07:00ci: bump semantic-pr-release-drafter to v2.5.1 (one release-notes entry per PR) (#1282)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+5d886dcbfb3147fb59260809688b21ee3ee9b883e244749c46521389e21a3261db0e904aa0faaf7fAldo Gonzalezaldo.gonzalez@airbyte.io2026-09-29T19:26:08-07:00fix(cloud): return raw destination configuration from `get_destination` (#1279)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+e244749c46521389e21a3261db0e904aa0faaf7fa0329bf71aade3b9e90bcb31a84b32495df9c214Aaron ("AJ") Steersaj@airbyte.io2026-09-29T16:08:47-07:00fix(mcp): route manifest file paths through the trusted-execution gate (#1277)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+a0329bf71aade3b9e90bcb31a84b32495df9c214067ca482845ee3df9b68f7e1445db254ba3ca0fdAaron ("AJ") Steersaj@airbyte.io2026-09-24T15:47:17-07:00docs: add release-candidate branch guidance to `README.md` and `AGENTS.md` (#1245)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+067ca482845ee3df9b68f7e1445db254ba3ca0fd68d30879942e82bb6e93b647705e96c0d14b18a5Caleb Evanscaleb.evans@airbyte.io2026-09-24T16:36:18-06:00feat(cloud): defer connector authentication with draft actors (#1180)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+68d30879942e82bb6e93b647705e96c0d14b18a59fc67f618f5e733167eec8573747c45353137d6fAaron ("AJ") Steersaj@airbyte.io2026-09-24T15:25:45-07:00ci: link dispatched cloud-mcp deploys to the target workflow runs page (#1242)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+9fc67f618f5e733167eec8573747c45353137d6f2163e3e48ccb64c3c9c8e8060ae181fbd01608bdAaron ("AJ") Steersaj@airbyte.io2026-09-24T15:09:32-07:00ci(rc-branch-update): trigger on push to `main`; refresh untouched sync branch in place (#1239)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2163e3e48ccb64c3c9c8e8060ae181fbd01608bd2b0889bf64f60ca8fff287272433e9db7b48536eAaron ("AJ") Steersaj@airbyte.io2026-09-24T15:07:59-07:00ci: route cloud-mcp deploys by trigger-type with per-target variables (#1224)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2b0889bf64f60ca8fff287272433e9db7b48536e1bd30b1b3ef0c26732b4eb1fbff31d036bc1805bAaron ("AJ") Steersaj@airbyte.io2026-09-23T14:33:27-07:00ci: draft release-candidate prereleases from release-candidate/** branches (#1234)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1bd30b1b3ef0c26732b4eb1fbff31d036bc1805b9631b4a75f97e51e07ee8045c8a59cd0703179abAaron ("AJ") Steersaj@airbyte.io2026-09-23T13:22:01-07:00ci: add scheduled `rc-branch-update` workflow to sync `main` into the release-candidate trunk (#1230)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+9631b4a75f97e51e07ee8045c8a59cd0703179abcbff456a9e0b73d88406bd5e252fd3cfaed5c6c6Caleb Evanscaleb.evans@airbyte.io2026-09-23T11:36:06-06:00feat(mcp): capture agent intent on the hosted server over OpenTelemetry (AGENTIC-2240) (#1199)
+
+Co-authored-by: Claude Fable 5.1 <noreply@anthropic.com>
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+cbff456a9e0b73d88406bd5e252fd3cfaed5c6c6f3ccdfc6b1d7a0ac6452ab461bb1d9903eca0a5fCam Kennedycameron.kennedy@airbyte.io2026-09-23T09:53:18-07:00feat(mcp): add SSO realm login to the hosted MCP's interactive OIDC flow (#1213)
+
+Co-authored-by: Claude Fable 5.1 <noreply@anthropic.com>
+f3ccdfc6b1d7a0ac6452ab461bb1d9903eca0a5f14020ba0463a58c6b0095b433d4d5574521c589dAaron ("AJ") Steersaj@airbyte.io2026-09-22T20:05:17-07:00refactor(agents): move `airbyte.agents` implementation helpers into `airbyte._direct_connectors` (no public API changes) (#1221)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+14020ba0463a58c6b0095b433d4d5574521c589d1d6e7d5f6372f05a03dde362fafda0407c773ec0Aaron ("AJ") Steersaj@airbyte.io2026-09-21T19:28:51-07:00feat(mcp): merge server destination docs with local `sql_select` guidance (#1208)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1d6e7d5f6372f05a03dde362fafda0407c773ec0bbc2b86755fda4079fbe5373785e523ef4416c10Aaron ("AJ") Steersaj@airbyte.io2026-09-21T19:25:31-07:00fix(mcp): use Quartz cron examples and validate `cron_expression` field count (#1207)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+bbc2b86755fda4079fbe5373785e523ef4416c109a6798bb66c2167b79eafdda41327b93c556247aAaron ("AJ") Steersaj@airbyte.io2026-09-21T18:17:20-07:00fix(cloud): friendlier error when `run_cloud_sync` targets a disabled connection (#1210)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+9a6798bb66c2167b79eafdda41327b93c556247a1b11ce1e3fa30be248a7d17a847f701807650dc1Aaron ("AJ") Steersaj@airbyte.io2026-09-21T17:32:42-07:00fix(mcp): add `workspace_id` param to `permanently_delete_cloud_{source,destination,connection}` (#1206)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1b11ce1e3fa30be248a7d17a847f701807650dc10e7f082dca07cf30faf4ccdd896c675086ab89aeCam Kennedycameron.kennedy@airbyte.io2026-09-21T12:36:51-07:00feat: add delegation to platform-internal repo in addition to ops-mcp (#1198)
+
+Co-authored-by: Claude Opus 5 (1M context) <noreply@anthropic.com>
+0e7f082dca07cf30faf4ccdd896c675086ab89ae3ebabb608f8364bfef72de7d9a1b8a36e70f5873Cam Kennedycameron.kennedy@airbyte.io2026-09-21T10:56:13-07:00feat(mcp): hand OAuth consent off to the branded Keycloak login (#1192)
+
+Co-authored-by: Claude Opus 5 (1M context) <noreply@anthropic.com>
+3ebabb608f8364bfef72de7d9a1b8a36e70f5873e0c08134c5762cfcfec625b49a8b813907615f2fAaron ("AJ") Steersaj@airbyte.io2026-09-18T21:57:44-07:00fix(mcp): drop incorrect BigQuery case-sensitivity claim from column guidance (#1197)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+e0c08134c5762cfcfec625b49a8b813907615f2f2e6210990c67d90e8f892c10acc393cc60a9ebc5Aaron ("AJ") Steersaj@airbyte.io2026-09-18T21:54:14-07:00feat(mcp): return structured errors with SQL guidance for rejected agent actions (#1196)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2e6210990c67d90e8f892c10acc393cc60a9ebc5f1529ca7694bb2dae425203bedea8edfc298f885Aaron ("AJ") Steersaj@airbyte.io2026-09-18T21:52:29-07:00docs(agents): warn that Snowflake columns are upper-cased and must not be quoted (#1195)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+f1529ca7694bb2dae425203bedea8edfc298f8857e4ad7b08b01640fa4456af5554a824b8ac770a5Alexandre Girardalexandre@airbyte.io2026-09-18T14:48:11-07:00ci: run integration tests once in a sharded job instead of per matrix entry (#1184)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+7e4ad7b08b01640fa4456af5554a824b8ac770a52ee8e1e1f825ff24db14ffb5c85e87ba5017579bAaron ("AJ") Steersaj@airbyte.io2026-09-18T14:02:56-07:00fix(mcp): improve destination docs content for `sql_select` (#1193)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2ee8e1e1f825ff24db14ffb5c85e87ba5017579b97e26220f8d087a1bd0e2ae29d6734f5649de255Aaron ("AJ") Steersaj@airbyte.io2026-09-18T13:30:40-07:00feat(mcp): destination `inspect_agent_connector` returns connections, streams, and target database/schema; fold `message` into `warnings`/`errors` (#1194)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+97e26220f8d087a1bd0e2ae29d6734f5649de255531604d7698fddb490b6d76c841a1bd92db8189eAaron ("AJ") Steersaj@airbyte.io2026-09-18T12:35:05-07:00feat(mcp): rename `inspect_agent_connector` `source_definition_name` to `integration_name` (#1190)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+531604d7698fddb490b6d76c841a1bd92db8189ee900c017832d36312203445db4b4e9a33d246fbcAaron ("AJ") Steersaj@airbyte.io2026-09-18T12:34:08-07:00feat(mcp): clean up `inspect_agent_connector` docs — drop `outline`, render `content` as markdown (#1191)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+e900c017832d36312203445db4b4e9a33d246fbc71439a4bdf17cb8d4276117234dcc3efcc754634Aaron ("AJ") Steersaj@airbyte.io2026-09-18T11:26:32-07:00test(cloud): delete stale `test_translate_cloud_job_to_sql_cache` (#1181)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+71439a4bdf17cb8d4276117234dcc3efcc7546345f665bed5395749c2a5bf3fc14b4c2576c0dc0a1Aaron ("AJ") Steersaj@airbyte.io2026-09-18T11:26:02-07:00fix(mcp): set MCP mode in server lifespan instead of at import (#1183)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+5f665bed5395749c2a5bf3fc14b4c2576c0dc0a1c98faaff2a1cfc349695b8604ad841fcf511fca6Aaron ("AJ") Steersaj@airbyte.io2026-09-17T23:36:08-07:00feat(mcp): return inline docs summary from `inspect_agent_connector` (#1187)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+c98faaff2a1cfc349695b8604ad841fcf511fca68f1d69c4c8ec1afbb6204403f63034adb44db39eAaron ("AJ") Steersaj@airbyte.io2026-09-17T20:58:50-07:00chore(agents): remove skill search tools and API surface (#1185)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+8f1d69c4c8ec1afbb6204403f63034adb44db39e86832f90c00c5907aa763ee9ec0e5db53250c03dAlexandre Girardalexandre@airbyte.io2026-09-17T19:15:47-07:00feat(mcp): honor allowlisted upstream `X-Airbyte-Analytic-Source` in MCP mode (#1182)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+86832f90c00c5907aa763ee9ec0e5db53250c03d3112b232e0ba489650d70dac3d0f170462e02c7dAaron ("AJ") Steersaj@airbyte.io2026-09-16T19:55:01-07:00fix(mcp): report Agents-disabled connectors as disabled, with enablement guidance (#1178)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+3112b232e0ba489650d70dac3d0f170462e02c7df5a0e3f758587f4188ee42f6672aaead2bfbc173Aaron ("AJ") Steersaj@airbyte.io2026-09-16T18:11:19-07:00fix(mcp): surface Agents 403 `detail` and list SQL passthrough destinations (#1177)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+f5a0e3f758587f4188ee42f6672aaead2bfbc17312e2b08f9c9a064613776e538bd94407badeadbbAaron ("AJ") Steersaj@airbyte.io2026-09-16T15:49:20-07:00feat(mcp): serve built-in skill docs for SQL passthrough destinations instead of 404 (#1176)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+12e2b08f9c9a064613776e538bd94407badeadbb740c9469a2feb3662ba0ad0d0f7435bba9bbd621Aaron ("AJ") Steersaj@airbyte.io2026-09-16T09:27:25-07:00fix(agents): send workspace for `sql_select` and clarify pagination and `organization_id` docs (#1172)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+740c9469a2feb3662ba0ad0d0f7435bba9bbd621c9ae64fc39ace2a2474534db01f5bf32c03134a6Alexandre Girardalexandre@airbyte.io2026-09-15T13:41:37-07:00feat(mcp): label Airbyte Cloud API calls with X-Airbyte-Analytic-Source (#1170)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+c9ae64fc39ace2a2474534db01f5bf32c03134a6bfde576fa6e3c5dfb69d4f05785e0ffb34ff6790Aaron ("AJ") Steersaj@airbyte.io2026-09-15T08:04:15-07:00feat(agents): expose only `search` action and send it unchanged to the Agents API (#1169)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+bfde576fa6e3c5dfb69d4f05785e0ffb34ff679090c4acdbe33e24e9e0c8b4b2f5f439f79870d6aaAaron ("AJ") Steersaj@airbyte.io2026-09-15T01:25:49Zfeat(mcp): gate agents tools to Cloud deployments via API root overrides (#1167)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+90c4acdbe33e24e9e0c8b4b2f5f439f79870d6aadb0d199207504fd6f8a2e0c1c83de9b232f3a1d8Aaron ("AJ") Steersaj@airbyte.io2026-09-14T19:16:55Zfeat(mcp): add Agents skills tools (list, search, read docs) (#1150)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+db0d199207504fd6f8a2e0c1c83de9b232f3a1d8c2be5d5ee83622fbc6e5a0d993c3172cf3fda386Aaron ("AJ") Steersaj@airbyte.io2026-09-14T18:14:33Zfix(cloud): drop unbounded org-liveness scan from `set_default_cloud_workspace` (#1166)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+c2be5d5ee83622fbc6e5a0d993c3172cf3fda3864517aa0612389bcb51a7b70165f6937a731d08c5Aaron ("AJ") Steersaj@airbyte.io2026-09-14T17:32:10Zfix(mcp): return slim workspace summaries from `get_default_cloud_context` (#1165)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+4517aa0612389bcb51a7b70165f6937a731d08c526b3ba50e5a21ce2dcbc7d896787f9f6ab4d11c8Aaron ("AJ") Steersaj@airbyte.io2026-09-14T09:08:56-07:00feat(mcp): add `set_default_cloud_workspace` tool with membership and tombstone validation (#1161)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+26b3ba50e5a21ce2dcbc7d896787f9f6ab4d11c8cd991712dd31a9c539d6670d680e22a457dc26b6Aaron ("AJ") Steersaj@airbyte.io2026-09-12T18:57:49-07:00feat(mcp): add `describe_cloud_workspace` and `get_cloud_organization_billing_status` tools (#1162)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+cd991712dd31a9c539d6670d680e22a457dc26b6c1cb90c3127b9850317334476cd3a90c8b4d1249Aaron ("AJ") Steersaj@airbyte.io2026-09-12T18:57:48-07:00feat(mcp)!: remove `check_airbyte_cloud_workspace` tool in favor of `get_default_cloud_context` (#1159)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+c1cb90c3127b9850317334476cd3a90c8b4d124958471f7ca3960318d87a9b7b2c3078f353901f59Aaron ("AJ") Steersaj@airbyte.io2026-09-12T18:57:48-07:00feat(cloud): resolve live default workspace and its org in `get_default_cloud_context` (#1158)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+58471f7ca3960318d87a9b7b2c3078f353901f5986ddd3ccb83eaed1cb0e79adf5c3852d0674aa3fAaron ("AJ") Steersaj@airbyte.io2026-09-12T02:48:59Zfeat(cloud-mcp): add one-step `get_default_cloud_context` MCP tool; feat(cloud): add `privilege_scope` to `list_workspaces` (#1157)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+86ddd3ccb83eaed1cb0e79adf5c3852d0674aa3fa556d114f410ed609ad99da1fc4f1d8419c76486Aaron ("AJ") Steersaj@airbyte.io2026-09-11T22:45:15Zci: deploy `cloud-mcp-preview` on every publish, not just prereleases (#1155)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+a556d114f410ed609ad99da1fc4f1d8419c76486977810a6afcca00905a8cef1ad805974818f4c96Aaron ("AJ") Steersaj@airbyte.io2026-09-11T15:44:05-07:00feat(mcp): fall back to the authenticated user's default workspace (and its org) when none is specified (#1156)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+977810a6afcca00905a8cef1ad805974818f4c96667a6b181bd08a5c232e7f85bace59d2a772cf81Aaron ("AJ") Steersaj@airbyte.io2026-09-10T16:50:41-07:00feat(mcp): support `sql_select` action on agent connector tools (#1154)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+667a6b181bd08a5c232e7f85bace59d2a772cf8182bd6ededed973aeb8a31afd0fec810c1fb61c7aAaron ("AJ") Steersaj@airbyte.io2026-09-10T00:40:47Zchore(executors): address bot review nits from `#1143` and `#1144` (#1152)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+82bd6ededed973aeb8a31afd0fec810c1fb61c7afeae466f6d48592d29ddcaee0cf19bd6b9324171Sagar Harsora142764820+sagarrh@users.noreply.github.com2026-09-09T17:11:51-07:00fix: pass connector config to declarative sources (#1144)
+feae466f6d48592d29ddcaee0cf19bd6b93241719d0e4ceac75ec3a3d7eb710d0896f389372c98eeSagar Harsora142764820+sagarrh@users.noreply.github.com2026-09-09T17:10:25-07:00fix: use POSIX paths when mapping CLI args into Docker containers (#1143)
+9d0e4ceac75ec3a3d7eb710d0896f389372c98ee957697429bdf2c2082f2b706176ac02f2fdac3e5Aaron ("AJ") Steersaj@airbyte.io2026-09-09T15:56:03-07:00fix(ci): use correct `pr-source-repo-is-fork` output in PR welcome workflow (#1149)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+957697429bdf2c2082f2b706176ac02f2fdac3e5055bccdbeba7d4a067ac5dd44b1ce55d0aa0779fAaron ("AJ") Steersaj@airbyte.io2026-09-09T15:50:00-07:00fix(mcp): accept `organization_id` on Agents connector tools (#1147)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+055bccdbeba7d4a067ac5dd44b1ce55d0aa0779f02921e773503827150fc5768016a0bfd305a80e6Pablopablo.vega@airbyte.io2026-09-09T10:46:53-07:00fix(mcp): validate Host and Origin headers on the HTTP transport (#1120)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+02921e773503827150fc5768016a0bfd305a80e6d3528a01fbadc4c4bb587b515cd14b01a1a58c33Aaron ("AJ") Steersaj@airbyte.io2026-09-03T14:36:22-07:00fix(docs): document every MCP module (agents, local, interactive) and fail on unresolved includes (#1121)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+d3528a01fbadc4c4bb587b515cd14b01a1a58c332720361ecae08305cd52e1d368a3a651ad97ecaaAaron ("AJ") Steersaj@airbyte.io2026-09-01T20:20:42-07:00fix(mcp): scale organization discovery and resolve default org (#1125)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2720361ecae08305cd52e1d368a3a651ad97ecaa180aef84a9e40c0b7b4f300f28acb3c372bbd7afAaron ("AJ") Steersaj@airbyte.io2026-09-01T14:09:27-07:00feat(agents): rename describe to inspect and surface docs_skill_id (#1139)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+180aef84a9e40c0b7b4f300f28acb3c372bbd7af71b6e646e828dfe821d7dc0f1ea7d09bbd2d7943Aaron ("AJ") Steersaj@airbyte.io2026-08-31T21:46:20Zdocs(agents): add experimental warnings to Agents module docstrings (#1138)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+71b6e646e828dfe821d7dc0f1ea7d09bbd2d7943feb0da38b4f73aace8585d0cf1d37ea30334034fAaron ("AJ") Steersaj@airbyte.io2026-08-31T14:29:44-07:00fix(mcp): gate Agents MCP tools behind insiders mode, add missing org-id header (#1135)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+feb0da38b4f73aace8585d0cf1d37ea30334034f6aaa2ba03330c26bd9569891d2827cfbbdcd7b7eAaron ("AJ") Steersaj@airbyte.io2026-08-28T19:31:36Zchore(deps): bump airbyte-cdk to >=7.28.3 to pick up nltk 3.9.4 (#1133)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+6aaa2ba03330c26bd9569891d2827cfbbdcd7b7e47379d9c874e762152a5e64d50b1526d18ef9197Aaron ("AJ") Steersaj@airbyte.io2026-08-27T17:48:44-07:00feat(cloud): add Airbyte Agents support in PyAirbyte and `cloud-mcp`: `execute` API and MCP tools, `AgentOrganization`, and `AgentWorkspace` (#1127)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+47379d9c874e762152a5e64d50b1526d18ef9197f18189113350904915ecaeb5e5d86472af26ba5eAaron ("AJ") Steersaj@airbyte.io2026-08-27T19:42:01Zci: add `TK-TODO` check workflow (#1130)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+f18189113350904915ecaeb5e5d86472af26ba5e8469339015e7ceb35eced96b3db13e917b291762Aaron ("AJ") Steersaj@airbyte.io2026-08-27T19:32:28Zfeat(mcp): emit MCP tool-call telemetry via `fastmcp-extensions` (#1124)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+8469339015e7ceb35eced96b3db13e917b29176269e4df5b61bf53ae9118728c236c9416d0dc33e3Aaron ("AJ") Steersaj@airbyte.io2026-08-27T10:02:43-07:00ci: auto-deploy cloud-mcp preview on main, prod on release (#1128)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+69e4df5b61bf53ae9118728c236c9416d0dc33e3e872911203b438215e29a04a96f16213a63d4332Aaron ("AJ") Steersaj@airbyte.io2026-08-27T00:08:21-07:00docs: fix CacheBase.streams docstring (#1126)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+e872911203b438215e29a04a96f16213a63d4332b99f3a0d1f105aa699b17ef9b7eec45b51bd50efAaron ("AJ") Steersaj@airbyte.io2026-08-26T16:54:04-07:00fix(cloud): Drop undocumented AIRBYTE_API_ROOT env var aliases (#1123)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+b99f3a0d1f105aa699b17ef9b7eec45b51bd50efcc2288271e5ebd0ec2b86c0e4cc52620b8dae79ePablopablo.vega@airbyte.io2026-08-25T09:58:10-07:00test(mcp): pin API-root, credential, and trust config args as non-header-controllable (#1116)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+cc2288271e5ebd0ec2b86c0e4cc52620b8dae79ef65f2272882ffc8fae7ca9b459976574d07d51d5Aaron ("AJ") Steersaj@airbyte.io2026-08-25T16:37:43Zfeat(mcp): add Cloud connector check and sync cancellation tools (#1122)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+f65f2272882ffc8fae7ca9b459976574d07d51d51fb3ea98cd6f4c3528f18e92ae652c8207d1f6f7Aaron ("AJ") Steersaj@airbyte.io2026-08-17T19:03:08-07:00feat(mcp): let agents discover their own Cloud org and workspace IDs (#1094)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1fb3ea98cd6f4c3528f18e92ae652c8207d1f6f75d1f65314c7ff88ddc3dc74611474d882f84d7f9Aaron ("AJ") Steersaj@airbyte.io2026-08-17T17:28:47-07:00fix(mcp): drop `X-Airbyte-Cloud-Client-Id`/`-Secret` request headers (#1111)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+5d1f65314c7ff88ddc3dc74611474d882f84d7f9d5c02a892f013b9be5a72054cd9e9bc869d6a523Aaron ("AJ") Steersaj@airbyte.io2026-08-15T19:38:07Zfix(cloud): expose connector `definition_id` on `CloudConnector`, `CloudSourceInfo`, and `CloudDestinationInfo` (#1110)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+d5c02a892f013b9be5a72054cd9e9bc869d6a523f7b99eea2ca5c0e563c30e71eb95d12fe0f7851fAaron ("AJ") Steersaj@airbyte.io2026-08-15T18:20:01Zfix(mcp): remove non-working Prefab generative UI tools (#1108)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+f7b99eea2ca5c0e563c30e71eb95d12fe0f7851f6d7973ececf4bc589108111b575645c8fe81252bAaron ("AJ") Steersaj@airbyte.io2026-08-13T22:20:51-07:00chore(deps): require fastmcp-extensions 0.19.1 (#1107)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+6d7973ececf4bc589108111b575645c8fe81252b433b5c145eac783cb87f331aa2ac82ce9dc7b6c2Aaron ("AJ") Steersaj@airbyte.io2026-08-13T20:06:26-07:00refactor(mcp): drop capability wiring now default in fastmcp-extensions (#1106)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+433b5c145eac783cb87f331aa2ac82ce9dc7b6c28c9b195d08cf6aa9b41a0979abed7f5deb51ebddAaron ("AJ") Steersaj@airbyte.io2026-08-13T18:58:42-07:00fix(mcp): honor client UI extension over stateless HTTP (#1097)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+8c9b195d08cf6aa9b41a0979abed7f5deb51ebddeb041fb62f9a0c056e801cdb17432677f7a31611Aaron ("AJ") Steersaj@airbyte.io2026-08-14T00:50:16Zfeat(mcp): show the server version on the landing page footer (#1102)
+
+Co-authored-by: devin-ai-integration[bot] <devin-ai-integration[bot]@users.noreply.github.com>
+eb041fb62f9a0c056e801cdb17432677f7a316111f3fb8852743a852240e3da7409f37608f0c6550Aaron ("AJ") Steersaj@airbyte.io2026-08-13T17:30:58-07:00ci: gate cloud-mcp dispatch on uv resolution, not the HTML simple index (#1103)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1f3fb8852743a852240e3da7409f37608f0c6550bfcee4369a9eea9917681522f8bdc3b6ab1e12a4Aaron ("AJ") Steersaj@airbyte.io2026-08-13T16:25:14-07:00fix(mcp): advertise slash-less protected-resource at root mount (#1088)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+bfcee4369a9eea9917681522f8bdc3b6ab1e12a42d218775e970f49d2cc995a55446c0f202042736Aaron ("AJ") Steersaj@airbyte.io2026-08-13T11:52:18-07:00ci: gate the cloud-mcp preview dispatch on the simple index, not the JSON API (#1101)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2d218775e970f49d2cc995a55446c0f202042736a51e0a0e2636d7adc357cea21ba10374f723d374Aaron ("AJ") Steersaj@airbyte.io2026-08-13T10:44:08-07:00feat(mcp): opt-in static client-credentials transport auth for the HTTP server (#1100)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+a51e0a0e2636d7adc357cea21ba10374f723d37435f46917669d0e35d6afaf927e08a9fd205bd7d1Aaron ("AJ") Steersaj@airbyte.io2026-08-05T23:18:55Zfix(config): use uv by default and honor AIRBYTE_NO_UV (#1099)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+35f46917669d0e35d6afaf927e08a9fd205bd7d1173e7793ad61523d42bc77c31362703028749a79Ian Altonian.alton@airbyte.io2026-08-01T10:56:57-07:00docs: fence docstring examples so pdoc output renders as code (#1095)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+173e7793ad61523d42bc77c31362703028749a796f539a8b715ef0b667ad0efc2adaf16e06d0d57fAaron ("AJ") Steersaj@airbyte.io2026-07-24T20:39:52-07:00fix(cloud): accept list-shaped workspace notifications from Config API (#1093)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+6f539a8b715ef0b667ad0efc2adaf16e06d0d57f7aff5b4ae3660be2f88b0c8da0c1d40fd326b2beAaron ("AJ") Steersaj@airbyte.io2026-07-24T23:13:02Zfix(mcp): request openid scope on interactive OIDC so downstream APIs accept the token (#1091)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+7aff5b4ae3660be2f88b0c8da0c1d40fd326b2bebacbe7b66f760f94e17a94859dbfd99c9232b9f2Aaron ("AJ") Steersaj@airbyte.io2026-07-24T23:08:48Zfix(mcp): make Cloud credential guidance execution-mode-aware (#1089)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+bacbe7b66f760f94e17a94859dbfd99c9232b9f241a04e24698269cfec61a6cbbe0eced0e79e7c3aAaron ("AJ") Steersaj@airbyte.io2026-07-23T23:17:35-07:00ci: bump semantic-pr-release-drafter to v2.3.1 to unblock release draft finalize (#1087)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+41a04e24698269cfec61a6cbbe0eced0e79e7c3adbe4d480d4bbba18e1b2fc511db105d90e4f6c3aAaron ("AJ") Steersaj@airbyte.io2026-07-23T23:04:21-07:00feat(mcp): map branded AIRBYTE_MCP_* env into typed build_mcp_auth (#1085)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+dbe4d480d4bbba18e1b2fc511db105d90e4f6c3a65e4309dc0c9dbeef5d49f7b364b39b7e65e2580Aaron ("AJ") Steersaj@airbyte.io2026-07-22T23:37:10Zci(mcp): trigger cloud-mcp deploy after PyPI publish (#1050)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+65e4309dc0c9dbeef5d49f7b364b39b7e65e2580349726d3fcd6c7b1629e75db5ff0016e47cc7de0Aaron ("AJ") Steersaj@airbyte.io2026-07-21T04:29:37Zci: use prepared-release-id to finalize release draft (#1083)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+349726d3fcd6c7b1629e75db5ff0016e47cc7de01d9b3ca5d7f366664e6646bab184c02417b0a6d1Aaron ("AJ") Steersaj@airbyte.io2026-07-20T21:02:59-07:00feat(mcp): wire trusted-execution gate and function-layer guards (#1082)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1d9b3ca5d7f366664e6646bab184c02417b0a6d15cfc9d3467208983b100d4858302e451f6318645Aaron ("AJ") Steersaj@airbyte.io2026-07-15T15:07:54-07:00fix(mcp): forward verified upstream token, not proxy reference JWT, to Cloud API (#1081)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+5cfc9d3467208983b100d4858302e451f63186458a6160fc182ab651bba8d6cca1542d6e31984a6bAaron ("AJ") Steersaj@airbyte.io2026-07-15T00:34:09Zfix(mcp): stop accepting API base URLs from caller-controlled HTTP headers (#1080)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+8a6160fc182ab651bba8d6cca1542d6e31984a6b6a1ce755b1493a6e8e7735c2bce2e95a03334d80Aaron ("AJ") Steersaj@airbyte.io2026-07-14T21:18:47Zfix(mcp): resolve get_connector_info spec from registry instead of installing (#1077)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+6a1ce755b1493a6e8e7735c2bce2e95a03334d805ba44a21d00d8f98a09994edbd8dc8aab9b347c3Aaron ("AJ") Steersaj@airbyte.io2026-07-14T07:54:27Ztest(cloud): deflake httpbin-dependent URL construction tests (#1075)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+5ba44a21d00d8f98a09994edbd8dc8aab9b347c3936986452de9a64d5ebe0ab4f5d8310d480947a2Aaron ("AJ") Steersaj@airbyte.io2026-07-14T00:19:14-07:00feat(mcp): serve HTML landing page on browser GET to MCP endpoint (#1072)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+936986452de9a64d5ebe0ab4f5d8310d480947a215ca9abac8f68d96e216577e98c3204c25a7258bAaron ("AJ") Steersaj@airbyte.io2026-07-13T23:42:25-07:00feat(mcp): support headless bearer-token transport auth (#1073)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+15ca9abac8f68d96e216577e98c3204c25a7258b1e2d7d88d920620ef5881bd6d9217a965df8f964Aaron ("AJ") Steersaj@airbyte.io2026-07-05T09:23:08Zci: add CodeQL analysis for Python and GitHub Actions (#1053)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1e2d7d88d920620ef5881bd6d9217a965df8f9648b89e346c17e6b6642db2415df2dc3045341217cAaron ("AJ") Steersaj@airbyte.io2026-06-29T18:42:30Zfeat(mcp): annotate local tools with `requires_client_filesystem` (#1052)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+8b89e346c17e6b6642db2415df2dc3045341217c866f86dd34664471ec9a233b3e947ae0fd2a1996Aaron ("AJ") Steersaj@airbyte.io2026-06-29T18:09:03Zfix(mcp): derive MCP endpoint path dynamically from MCP_SERVER_URL (#1051)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+866f86dd34664471ec9a233b3e947ae0fd2a1996ad6b43f380e24f9252078281b4f823cdbc667c92Aaron ("AJ") Steersaj@airbyte.io2026-06-26T20:33:33-07:00ci(release-drafter): adopt not-ready 3-step workflow, upgrade to v2.1.0 (#1049)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+ad6b43f380e24f9252078281b4f823cdbc667c92c5d5a58c519f7176959885953bde18634348b8f6Aaron ("AJ") Steersaj@airbyte.io2026-06-26T19:07:20-07:00feat(mcp): add OIDC auth, HTTP entry point, and Dockerfile for hosted deployment (#1046)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+c5d5a58c519f7176959885953bde18634348b8f6b2c8f7f73b1cdd341afbd22e14f45cfe52fce18cAaron ("AJ") Steersaj@airbyte.io2026-06-06T22:20:53-07:00chore: widen cryptography constraint and bump CDK to 7.21.1 (#1044)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+b2c8f7f73b1cdd341afbd22e14f45cfe52fce18c2170721f2398d5103ce68ffaeb1d7dbde3088645Aaron ("AJ") Steersaj@airbyte.io2026-06-05T22:27:25-07:00ci: restore workflow_dispatch trigger to pypi_publish.yml for prereleases (#1045)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2170721f2398d5103ce68ffaeb1d7dbde3088645246b0cda4cb4dc84b99fc0e10e1bb80973cc21b2Aaron ("AJ") Steersaj@airbyte.io2026-06-03T16:00:37-07:00fix(cloud): wrap public API response models (#1034)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+246b0cda4cb4dc84b99fc0e10e1bb80973cc21b2da03d99b48eb3825eda1883ddcb6f40ad04bbfffAaron ("AJ") Steersaj@airbyte.io2026-06-03T14:49:56-07:00feat(mcp): add workspace sync status UI tool (#1043)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+da03d99b48eb3825eda1883ddcb6f40ad04bbfff662bc744592a8a1f52ee7e95cb648a01431c94dfAaron ("AJ") Steersaj@airbyte.io2026-06-03T10:35:24-07:00feat(mcp): add `show_connection_sync_history` interactive UI tool (#1042)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+662bc744592a8a1f52ee7e95cb648a01431c94df4da3cdd1c58e7244d9592d6bcfc42edde1b55302Aaron ("AJ") Steersaj@airbyte.io2026-06-03T08:26:21-07:00feat(mcp): Add connector catalog UI tool (#1040)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+4da3cdd1c58e7244d9592d6bcfc42edde1b55302d9f652f352c0d6904e8e32cf6b6da8343753dda7Aaron ("AJ") Steersaj@airbyte.io2026-05-27T10:56:32-07:00ci: add explicit workflow permissions (#1039)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+d9f652f352c0d6904e8e32cf6b6da8343753dda720477415f2dd011953583316c8bc983d1cd9d7cbAaron ("AJ") Steersaj@airbyte.io2026-05-27T08:53:58-07:00ci: allow manual coverage test workflow runs (#1038)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+20477415f2dd011953583316c8bc983d1cd9d7cb8427840710dd907848e16a9513c4fb3dec7ce552Aaron ("AJ") Steersaj@airbyte.io2026-05-27T07:58:14-07:00ci: Upload coverage to GitHub Code Quality (#1036)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+8427840710dd907848e16a9513c4fb3dec7ce552eddb399da188f227fb655e1a5294f3e56ab48933Aaron ("AJ") Steersaj@airbyte.io2026-05-26T23:18:38Zfeat(cloud): Add workspace create, delete, and rename support (#1032)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+eddb399da188f227fb655e1a5294f3e56ab489332f223e7b78550c9f50d4bcaca81724cc794f097fAaron ("AJ") Steersaj@airbyte.io2026-05-26T08:56:25-07:00docs: rename PyAirbyte MCP references (#1031)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2f223e7b78550c9f50d4bcaca81724cc794f097f8a2b207a28370b83bbf7f8e53d7dddc0917d51e4Aaron ("AJ") Steersaj@airbyte.io2026-05-19T18:48:56-07:00feat: migrate CLI from Click to Cyclopts (#1014)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+8a2b207a28370b83bbf7f8e53d7dddc0917d51e470a7d82d41815a0fff2272892c56a2806e647fc0Aaron ("AJ") Steersaj@airbyte.io2026-05-20T01:46:49Zfeat(cloud): add `CloudClient`, move `CloudOrganization` to dedicated `cloud.organizations` module  (#1030)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+70a7d82d41815a0fff2272892c56a2806e647fc0967a34d83a579274d607d8ea30eb0a114a0c578eAaron ("AJ") Steersaj@airbyte.io2026-05-18T17:43:13-07:00feat(cloud): add pagination for cloud `list` operations (#1024)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+967a34d83a579274d607d8ea30eb0a114a0c578e8fb66f25154b455dafae7b533597c7794c693cf5Aaron ("AJ") Steersaj@airbyte.io2026-05-18T14:34:10-07:00feat(cloud): allow config API root override (#1023)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+8fb66f25154b455dafae7b533597c7794c693cf582bf1e4a57aed1c2407bd236da496f9331ed0925devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2026-05-06T15:50:56-07:00feat: normalize state and catalog to Airbyte protocol format by default (#1017)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: patrick.nilan@airbyte.io <patrick.nilan@airbyte.io>
+82bf1e4a57aed1c2407bd236da496f9331ed0925ce1a58975aa16706ae3b470826a59aa8d29b9426Aaron ("AJ") Steersaj@airbyte.io2026-04-17T08:24:06-07:00feat: add Markdown MCP docs generator (Docusaurus- and pdoc-compatible) (#1015)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+ce1a58975aa16706ae3b470826a59aa8d29b94263873093570922679ed1ddf3c9880e3ef212ce24eAaron ("AJ") Steersaj@airbyte.io2026-04-02T16:18:23-07:00chore: upgrade fastmcp dependency from v2 to v3 (#1009)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+3873093570922679ed1ddf3c9880e3ef212ce24e65e1c03c338312af72b1152df4fa163b7c1a3b0fAaron ("AJ") Steersaj@airbyte.io2026-03-26T21:45:05Zfeat: Add preflight check to destination smoke test tool (#1007)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+65e1c03c338312af72b1152df4fa163b7c1a3b0f3ab17f9e6e01791df1cedeef2dbe7f9e76abc187Aaron ("AJ") Steersaj@airbyte.io2026-03-26T04:55:47Zfix: Download components.zip instead of components.py from registry (#1005)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+3ab17f9e6e01791df1cedeef2dbe7f9e76abc187c59d9a33d1ebbb437fb86674fbbb92a51cec3a24Aaron ("AJ") Steersaj@airbyte.io2026-03-23T13:31:50-07:00feat: add destination readback introspection for smoke tests (#1000)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+c59d9a33d1ebbb437fb86674fbbb92a51cec3a249d9e91bb6acde5bbf4ce1c47c4c85b572df06537Aaron ("AJ") Steersaj@airbyte.io2026-03-23T13:09:43-07:00fix(telemetry): print analytics banners to stderr instead of stdout (#1003)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+9d9e91bb6acde5bbf4ce1c47c4c85b572df06537a8666b22431d85d6978e36b0bf91dd5d4946d066Aaron ("AJ") Steersaj@airbyte.io2026-03-23T08:35:25-07:00feat: Add 7 new smoke test scenarios for improved destination coverage (#1002)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+a8666b22431d85d6978e36b0bf91dd5d4946d06600ab7caa3c82a224f1efc4120c29765a543adb34Aaron ("AJ") Steersaj@airbyte.io2026-03-19T00:08:48Zfeat(cli,mcp): add namespace support to destination smoke tests (#999)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+00ab7caa3c82a224f1efc4120c29765a543adb34803fc93096d2b5ac131573043e9f980ea59eed59Aaron ("AJ") Steersaj@airbyte.io2026-03-18T20:35:06Zfeat(cli,mcp): add destination-smoke-test command and MCP tool (#998)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+803fc93096d2b5ac131573043e9f980ea59eed5971597ca30d8dd69dcb9a4e7d01c1f77ce4e63ef7Aaron ("AJ") Steersaj@airbyte.io2026-03-18T11:49:28-07:00feat(cli): add `source-smoke-test` CLI (#996)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+71597ca30d8dd69dcb9a4e7d01c1f77ce4e63ef7fa525197c4cd045728dd1bad51f9d57902c888afAaron ("AJ") Steersaj@airbyte.io2026-03-10T19:28:55-07:00feat(mcp): Add support for reading Connector Builder draft manifests (#992)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+fa525197c4cd045728dd1bad51f9d57902c888afe48484f0ebe9b09f595e955e47da4b4cf78684e0Aaron ("AJ") Steersaj@airbyte.io2026-02-20T12:29:28-08:00docs: add CONTRIBUTING.md with Releasing section (#984)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+e48484f0ebe9b09f595e955e47da4b4cf78684e0bdffff931ee1cc627a71ce8bd098df48a7981ba2Aaron ("AJ") Steersaj@airbyte.io2026-02-06T22:33:30-08:00feat(cloud): add connection state and catalog management to CloudConnection (#975)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+bdffff931ee1cc627a71ce8bd098df48a7981ba2f350fe11a81575d6f4997bbffb5b0f57e73a2c0edependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2026-02-02T17:52:11-08:00Chore(deps): Bump peter-evans/slash-command-dispatch from 4.0.0 to 5.0.2 (#962)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+f350fe11a81575d6f4997bbffb5b0f57e73a2c0e2ea8876753fb09f3c8ea89f3a51fa0b8e7e69366dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2026-02-02T17:50:35-08:00Chore(deps): Bump aaronsteers/semantic-pr-release-drafter from 0.9.0 to 1.0.0 (#971)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+2ea8876753fb09f3c8ea89f3a51fa0b8e7e6936684188154dc19cb2034e73c72ef64f7db5c8f6c93Aaron ("AJ") Steersaj@airbyte.io2026-02-03T00:38:06Zfeat(mcp): Add `job_type` filtering support to `list_cloud_sync_jobs` (#974)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+84188154dc19cb2034e73c72ef64f7db5c8f6c937c666256c1e7fe08511e73582cd7583fb07f86ddAaron ("AJ") Steersaj@airbyte.io2026-01-28T17:01:15-08:00fix(release): update category titles for clarity (#968)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+7c666256c1e7fe08511e73582cd7583fb07f86dd69d46e4a08d492a4f8d1c1bf5c919b15f635cf6aAaron ("AJ") Steersaj@airbyte.io2026-01-28T16:50:42-08:00ci(release): add scope-based categories with MCP features section (#967)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+69d46e4a08d492a4f8d1c1bf5c919b15f635cf6acd5e6a0d4e3e44d5f7b477ba393ad61975d2260fAaron ("AJ") Steersaj@airbyte.io2026-01-28T16:31:30-08:00fix(mcp): rename account_is_locked to is_account_locked and use CloudOrganization public methods (#966)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+cd5e6a0d4e3e44d5f7b477ba393ad61975d2260f8a43e06bfe4b5e4de56d5394a900033b8026961fAaron ("AJ") Steersaj@airbyte.io2026-01-28T14:51:19-08:00feat(mcp): add `billing_status`, `subscription_status`, and `is_account_locked` to `check_airbyte_cloud_workspace` MCP tool (#965)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+8a43e06bfe4b5e4de56d5394a900033b8026961fee6337feefca019b91870472584917af829ff8e1Aaron ("AJ") Steersaj@airbyte.io2026-01-22T15:30:36-08:00chore: collapse welcome message content by default (#960)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+ee6337feefca019b91870472584917af829ff8e1ed44b8333a08c916b4ec29ec1d22e3a897d93f01Aaron ("AJ") Steersaj@airbyte.io2026-01-21T16:23:16-08:00ci: Rename workflow to enforce-draft-pr-status for clarity (#958)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+ed44b8333a08c916b4ec29ec1d22e3a897d93f012cabe29bce135357bf158fd37b150fea17b8f8a3Aaron ("AJ") Steersaj@airbyte.io2026-01-21T13:00:00-08:00ci: Improve auto-draft comment formatting with Note block and collapsible section (#956)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2cabe29bce135357bf158fd37b150fea17b8f8a375beb980fb9bae34994da30802770ca21b2ec8f3Aaron ("AJ") Steersaj@airbyte.io2026-01-21T12:48:53-08:00ci: Use GitHub App token for auto-draft PR conversion (#954)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+75beb980fb9bae34994da30802770ca21b2ec8f3864ae433958ec229c2719559880a5a9aba352c5bAaron ("AJ") Steersaj@airbyte.io2026-01-21T12:33:19-08:00ci: Add workflow to auto-convert new PRs to draft status (#951)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+864ae433958ec229c2719559880a5a9aba352c5b56d7158758a1e6252c3619ff98173108a43dd30aAaron ("AJ") Steersaj@airbyte.io2026-01-21T12:12:31-08:00ci: fix release versioning by using UV_DYNAMIC_VERSIONING_BYPASS (#952)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+56d7158758a1e6252c3619ff98173108a43dd30a82f0613b938ff48fc311db56bda9fefb54eb4923Aaron ("AJ") Steersaj@airbyte.io2026-01-20T04:43:02Zchore(mcp): migrate to fastmcp-extensions library (#949)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+82f0613b938ff48fc311db56bda9fefb54eb4923a7b8c6127e2e142bc5cf834c4d0385d75d8d2423dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2026-01-19T20:20:39-08:00Chore(deps): Bump actions-ecosystem/action-add-labels from 1.1.0 to 1.1.3 (#925)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+a7b8c6127e2e142bc5cf834c4d0385d75d8d2423816e7fefb6312f0d586679706d6c22004b65a81dAaron ("AJ") Steersaj@airbyte.io2026-01-18T23:30:49-08:00ci: update to semantic-pr-release-drafter@v0.4.0 and simplify publish workflow (#944)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+816e7fefb6312f0d586679706d6c22004b65a81d73cd209f24b7dfd99e423b811d3de3f6c518eef1Aaron ("AJ") Steersaj@airbyte.io2026-01-18T17:25:42-08:00ci: migrate from Poetry to uv package manager (#945)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+73cd209f24b7dfd99e423b811d3de3f6c518eef14d74e162ec03ab3320a6cd5e73a3e94348b36defAaron ("AJ") Steersaj@airbyte.io2026-01-18T03:58:27-08:00ci: migrate to semantic-pr-release-drafter@0.2.1 (#943)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+4d74e162ec03ab3320a6cd5e73a3e94348b36defa7588b3074d19d44d43854eed3238b24a8f31441Aaron ("AJ") Steersaj@airbyte.io2026-01-15T00:55:46Zfeat: add MCP server instructions for tool search support (#941)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+a7588b3074d19d44d43854eed3238b24a8f3144195cd51a020c4effdd99acf0266d76c6d7ccfa195Aaron ("AJ") Steersaj@airbyte.io2026-01-15T00:04:58Zfeat(duckdb): Enable native MERGE INTO support for DuckDB 1.4.0+ (#938)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+95cd51a020c4effdd99acf0266d76c6d7ccfa19506b4dad73d7647f6ceaaf30ff223526bbc9fcc83Aaron ("AJ") Steersaj@airbyte.io2026-01-08T11:24:41-08:00fix: Use /local/db.duckdb path for destination-duckdb tests (#936)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+06b4dad73d7647f6ceaaf30ff223526bbc9fcc83bf6af9176d48836e32ac0d49b1c0d38af69f90f7Aaron ("AJ") Steersaj@airbyte.io2026-01-08T11:15:31-08:00chore: Change DuckDB version constraint to >=1.4.0,<2.0 for Dependabot compatibility (#937)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+bf6af9176d48836e32ac0d49b1c0d38af69f90f75cfcea5409843285dded1687e06ad3b482609d2bAaron ("AJ") Steersaj@airbyte.io2026-01-08T11:13:40-08:00fix(tests): Set world-writable permissions on Docker volume mount directory for CI (#935)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+5cfcea5409843285dded1687e06ad3b482609d2b72ac2ff31c23478b70b27c8ea1f6b3f3473bac83Aaron ("AJ") Steersaj@airbyte.io2026-01-08T10:54:22-08:00chore: Bump DuckDB versions to 1.4.x and duckdb-engine to 0.17.x (#934)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+72ac2ff31c23478b70b27c8ea1f6b3f3473bac833c36bef1f2cd00cd336cdf29202f5d0ee600d539Aaron ("AJ") Steersaj@airbyte.io2026-01-08T10:51:09-08:00feat(mcp): Add get_custom_source_definition tool to retrieve connector builder manifests (#933)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+3c36bef1f2cd00cd336cdf29202f5d0ee600d53985984586894aa1c6e6482076108461b69c7c0b36dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2026-01-08T10:27:09-08:00Chore(deps): Bump actions/checkout from 4.3.0 to 6.0.1 (#927)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+85984586894aa1c6e6482076108461b69c7c0b362fb5157670591a3974317f5362772f6e440efe44dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2026-01-08T10:25:30-08:00chore(deps): bump actions/upload-artifact from 5.0.0 to 6.0.0 (#932)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+2fb5157670591a3974317f5362772f6e440efe4469463e718c6e6b6be9aeb07f9b02f6fa1d46a661dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2026-01-01T19:42:38-08:00ci(deps): Bump actions/setup-python from 5.6.0 to 6.1.0 (#928)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+69463e718c6e6b6be9aeb07f9b02f6fa1d46a66147da94f60197412706d836ea7bb22cec3f403a60Aaron ("AJ") Steersaj@airbyte.io2026-01-01T17:58:27-08:00feat: Add MCP tool and Python API for connection enable/disable and scheduling (#923)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+47da94f60197412706d836ea7bb22cec3f403a60299d55651d272a88c78cba23bfe924ae548b21cdAaron ("AJ") Steersaj@airbyte.io2026-01-01T15:41:01-08:00ci: fix release drafter race condition (#931)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+299d55651d272a88c78cba23bfe924ae548b21cd0f76d416b11b8bfcd2b19531567c9371f643f6a7Aaron ("AJ") Steersaj@airbyte.io2025-12-30T18:21:42-08:00feat(cloud): Add workspace validation to CloudConnection (#929)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+0f76d416b11b8bfcd2b19531567c9371f643f6a7525fec160649c3b32c4cf3b384dd76ec9d8231cadevin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-12-18T14:16:59-08:00fix: Normalize API URLs to handle trailing slashes in Config API resolution (#922)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: aldo.gonzalez@airbyte.io <aldo.gonzalez@airbyte.io>
+525fec160649c3b32c4cf3b384dd76ec9d8231cabc74b56fcd58b5ed684ad54df73df8743e6453e9Aaron ("AJ") Steersaj@airbyte.io2025-12-17T18:54:54-08:00feat(mcp): Add AIRBYTE_CLOUD_CONFIG_API_URL environment variable (#920)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+bc74b56fcd58b5ed684ad54df73df8743e6453e9abf317a05274382a235633a987a0b347fbf8824ddevin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-12-17T13:15:25-08:00fix(mcp): Add bearer token authentication to organization-level tools (#919)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: aldo.gonzalez@airbyte.io <aldo.gonzalez@airbyte.io>
+abf317a05274382a235633a987a0b347fbf8824da2ea38fe1799020072442ee0a3c5bf0bd9c7a070Aaron ("AJ") Steersaj@airbyte.io2025-12-17T08:29:46Zfix: Pass explicit `SyncMode.full_refresh` when `force_full_refresh=True` (#899)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+a2ea38fe1799020072442ee0a3c5bf0bd9c7a070b26b5ece33bc407437c6529e97ff813d36046dc4dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-12-17T07:26:05ZChore(deps): Bump EnricoMi/publish-unit-test-result-action from 2.20.0 to 2.21.0 (#855)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+b26b5ece33bc407437c6529e97ff813d36046dc4ce2970d27551b2ecc7136ec4cfc7fdc69cc2376ddependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-12-17T07:11:03ZChore(deps): Bump actions/upload-artifact from 4.6.2 to 5.0.0 (#856)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+ce2970d27551b2ecc7136ec4cfc7fdc69cc2376d9c9f4a73a9b135b95ec6a292f0575e1bb86b0320Aaron ("AJ") Steersaj@airbyte.io2025-12-17T07:01:00Zfeat: Add poe-command workflow, slash command, and test-my-tools poe task (#894)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+9c9f4a73a9b135b95ec6a292f0575e1bb86b0320d9aba9c63a7a0ede61180d26d52776dd122a1425Aaron ("AJ") Steersaj@airbyte.io2025-12-17T05:01:36Zfix: Prevent deadlock in subprocess executor by allowing concurrent I/O (#901)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+d9aba9c63a7a0ede61180d26d52776dd122a1425725e2625780da77beeee4a036c0ed061ea5c7c82Aaron ("AJ") Steersaj@airbyte.io2025-12-16T20:11:05-08:00fix: Use Pydantic exclude_none=True to omit null namespace fields from catalog serialization (#825)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+725e2625780da77beeee4a036c0ed061ea5c7c829f3c70759fd55657045422e3960cb0cf0f0fe3d4Aaron ("AJ") Steersaj@airbyte.io2025-12-16T18:52:59-08:00feat(cloud): Add CloudCredentials class and bearer token authentication support (#916)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: Copilot Autofix powered by AI <223894421+github-code-quality[bot]@users.noreply.github.com>
+9f3c70759fd55657045422e3960cb0cf0f0fe3d4cd1b390126d5458d7e7d884a9ae200898fca8eccAaron ("AJ") Steersaj@airbyte.io2025-12-13T16:47:47-08:00fix: Use GitHub App token for prerelease workflow dispatch (#913)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+cd1b390126d5458d7e7d884a9ae200898fca8ecc3869ac4d1e00d3dc5681185d441d8eeac88e107bAaron ("AJ") Steersaj@airbyte.io2025-12-13T16:23:44-08:00fix: Use workflow_dispatch instead of workflow_call for OIDC compatibility (#912)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+3869ac4d1e00d3dc5681185d441d8eeac88e107b60a087f7ac7eb30ed574feee2f1f1e8cfba1f69bAaron ("AJ") Steersaj@airbyte.io2025-12-13T16:11:43-08:00fix: Add required permissions for prerelease workflow (#911)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+60a087f7ac7eb30ed574feee2f1f1e8cfba1f69bf882e933e3ad6dd55dc31d2c355a61b96a04de9dAaron ("AJ") Steersaj@airbyte.io2025-12-13T15:57:57-08:00feat: Add `/prerelease` slash command for PyPI prereleases (#910)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+f882e933e3ad6dd55dc31d2c355a61b96a04de9d441105eff0d135898795efda7b6eb50e5fc03908Aaron ("AJ") Steersaj@airbyte.io2025-12-11T22:22:23Zfeat(cloud): Add CloudWorkspace.from_env() classmethod (#909)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+441105eff0d135898795efda7b6eb50e5fc03908a7c9ccfd8dcea6ad6e6b0d1486d124f45ffc24c7Aaron ("AJ") Steersaj@airbyte.io2025-12-10T18:44:26-08:00feat(cloud): Add `CloudConnection` methods: `get_state_artifacts()` and `get_catalog_artifact()` (#906)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+a7c9ccfd8dcea6ad6e6b0d1486d124f45ffc24c7a4fa90115fdcdeaf114e47e0022dc6b736c49b30Aaron ("AJ") Steersaj@airbyte.io2025-12-10T21:28:31Zrefactor(cloud): Add CloudOrganization class and get_organization method (#905)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+a4fa90115fdcdeaf114e47e0022dc6b736c49b30810d742996f969730d8db1fe71cb63dbcbf7b052devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-12-10T21:13:33Zfeat(mcp): Add list_cloud_sync_jobs tool with pagination support (#902)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: aldo.gonzalez@airbyte.io <aldo.gonzalez@airbyte.io>
+810d742996f969730d8db1fe71cb63dbcbf7b0521b48476d23bdb43b2655e3ed16bac9cde5cf0103Aaron ("AJ") Steersaj@airbyte.io2025-12-10T12:49:16-08:00chore: Add workflow to auto-label community PRs from forks (#904)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1b48476d23bdb43b2655e3ed16bac9cde5cf0103ff0f4271eee52d7c3c7b9d6b2e17f61f4b5a83fbbosper35133131171+bosper351@users.noreply.github.com2025-12-08T18:37:43-08:00chore(deps): Replace pytz.utc with datetime.timezone.utc (#887)
+
+
+ff0f4271eee52d7c3c7b9d6b2e17f61f4b5a83fb9de76d27f4e1d06fed597eb3035725584d56d11fAaron ("AJ") Steersaj@airbyte.io2025-12-08T18:09:52-08:00feat: Add capability to set testing values on custom connector projects in Builder UI (#896)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+9de76d27f4e1d06fed597eb3035725584d56d11f69f6c96d9eff81ad1919e7e064dd3766f37005b0Aaron ("AJ") Steersaj@airbyte.io2025-12-08T17:36:36-08:00feat(mcp): Add organization info to check_airbyte_cloud_workspace tool (#897)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+69f6c96d9eff81ad1919e7e064dd3766f37005b09301599dc93058b48b86fe554ba3167bc33dd185Aaron ("AJ") Steersaj@airbyte.io2025-12-05T20:08:27Zfeat(mcp): Add test-my-tools prompt with optional scope parameter (#893)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+9301599dc93058b48b86fe554ba3167bc33dd185ed8f42c7301d492953c19bbfd3ec689f28d53fbaAaron ("AJ") Steersaj@airbyte.io2025-12-03T23:59:08Zfix(mcp): Change run_cloud_sync wait default to False (#892)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+ed8f42c7301d492953c19bbfd3ec689f28d53fbaac9cfee2a2c8e8a04c89f7204ed9042c2e89282fAaron ("AJ") Steersaj@airbyte.io2025-12-02T21:31:28-08:00fix(mcp): Use Field() for optional params to fix MCP tool validation (#889)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+ac9cfee2a2c8e8a04c89f7204ed9042c2e89282f2ccbeb20da1c32618c5e8f9b1834dbabe969dd63Aaron ("AJ") Steersaj@airbyte.io2025-12-02T21:29:04-08:00ci: enable autolabeler for release drafter (#891)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2ccbeb20da1c32618c5e8f9b1834dbabe969dd63cf608646be13cf53e27ac5963829d7ea75559e0bAaron ("AJ") Steersaj@airbyte.io2025-12-03T03:40:04Zfeat(mcp): Add AIRBYTE_MCP_DOMAINS and AIRBYTE_MCP_DOMAINS_DISABLED env vars (#890)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+cf608646be13cf53e27ac5963829d7ea75559e0b5b9f2fabc75d303d3081025d3f01a57b7dcaf5dcAaron ("AJ") Steersaj@airbyte.io2025-12-02T17:05:07-08:00feat(mcp): Add pagination parameters to get_cloud_sync_logs tool (#888)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+5b9f2fabc75d303d3081025d3f01a57b7dcaf5dc2d495bad3a35d239af23d0fcec9b4d192886c339Aaron ("AJ") Steersaj@airbyte.io2025-12-01T23:50:49-08:00feat(mcp): Add connection status filtering to list_deployed_cloud_connections (#882)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2d495bad3a35d239af23d0fcec9b4d192886c339aac9caefe02b9c3faf4a4d4c8184a0749c5d8a66Aaron ("AJ") Steersaj@airbyte.io2025-12-01T23:46:14-08:00feat(mcp): add list_cloud_workspaces and describe_cloud_organization tools (#883)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+aac9caefe02b9c3faf4a4d4c8184a0749c5d8a66ef69ae0b376796f9ee21ff2bf66b64147bbd2870Aaron ("AJ") Steersaj@airbyte.io2025-12-01T23:40:18-08:00chore(mcp): replace workspace help test tip with constant string (#881)
+
+
+ef69ae0b376796f9ee21ff2bf66b64147bbd287052310a09ba3487d65614929f13eeaba87d29bfeaAaron ("AJ") Steersaj@airbyte.io2025-12-01T21:55:19Zfix(mcp): resolve incorrect cloud auth help text env vars (#880)
+
+
+52310a09ba3487d65614929f13eeaba87d29bfeaf7ba17fee0698c977fb32b5df1f0410eb6c553bcAaron ("AJ") Steersaj@airbyte.io2025-11-27T00:50:24-08:00feat(mcp): add cloud `describe` mcp tools (#879)
+
+
+f7ba17fee0698c977fb32b5df1f0410eb6c553bc2cfd4c00372da4cab00d89762ccf8a3c83c71083Aaron ("AJ") Steersaj@airbyte.io2025-11-27T04:53:56Zfeat: allow cloud deletes for all object types (with name-based safety protections) (#877)
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2cfd4c00372da4cab00d89762ccf8a3c83c71083a8cf82c9c2b25abfd289261bf4204f46c4e22d1bAaron ("AJ") Steersaj@airbyte.io2025-11-27T04:48:57Zfeat: Add InstallType.ANY and InstallType.INSTALLABLE enum values (#864)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+a8cf82c9c2b25abfd289261bf4204f46c4e22d1bf1cb667f593782c65a30f7456e130870ce2098a8Aaron ("AJ") Steersaj@airbyte.io2025-11-25T15:23:14-08:00feat(mcp): Add optional workspace_id parameter to cloud tools with conditional schema hiding (#876)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+f1cb667f593782c65a30f7456e130870ce2098a82981b3d08c6226452cd31aa3c916fcdb96af8d8aAaron ("AJ") Steersaj@airbyte.io2025-11-22T11:46:13-08:00feat: Return names and URLs in MCP Cloud list tools (#874)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2981b3d08c6226452cd31aa3c916fcdb96af8d8a7eb746bda4a5e72b4643b6af7692d6a736080e60Aaron ("AJ") Steersaj@airbyte.io2025-11-19T02:27:50Zchore: Upgrade pdoc from ^14.3.0 to ^16.0.0 (#870)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+7eb746bda4a5e72b4643b6af7692d6a736080e60782b1f2addb8f184cefeb91e8dda1fca609e5fdeAaron ("AJ") Steersaj@airbyte.io2025-11-12T12:15:57-08:00feat(mcp): Add get_api_docs_urls tool with data.externalDocumentationUrls support (#858)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+782b1f2addb8f184cefeb91e8dda1fca609e5fde813d0d0b29cd0bc3574670e8e3a5d8ccecf9caeeAaron ("AJ") Steersaj@airbyte.io2025-11-12T05:07:03Zfeat(mcp): Add get_connector_version_history tool to registry domain (#857)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+813d0d0b29cd0bc3574670e8e3a5d8ccecf9caee11b7f0264bc9366ad6a6adbae745a872afe7ed50Aaron ("AJ") Steersaj@airbyte.io2025-11-05T11:52:04-08:00ci: fix lint issue (#854)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+11b7f0264bc9366ad6a6adbae745a872afe7ed50cb032921d60a52c8b7e12ad0c2fe17599cac82bfdependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-11-05T11:48:47-08:00Chore(deps): Bump hynek/build-and-inspect-python-package from 2.13.0 to 2.14.0 (#848)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+cb032921d60a52c8b7e12ad0c2fe17599cac82bf4b58c404812066add18a4ae333f4561f6adb6632Aaron ("AJ") Steersaj@airbyte.io2025-11-04T16:39:45-08:00docs: Add MCP troubleshooting section with setup guidance (#853)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+4b58c404812066add18a4ae333f4561f6adb6632d8fd0be8919362e5c4f11b253ef7d3121faf65acdependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-11-04T16:39:06-08:00Chore(deps): Bump actions/download-artifact from 4.3.0 to 6.0.0 (#849)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+d8fd0be8919362e5c4f11b253ef7d3121faf65accbb071743a131477b3180b87ec037a394fb076a7Aaron ("AJ") Steersaj@airbyte.io2025-11-04T16:37:24-08:00fix: Skip local validation when deploying connectors to Cloud via MCP (#851)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+cbb071743a131477b3180b87ec037a394fb076a770f55a3023bb856af9f12dc123eadd266114e7ebAaron ("AJ") Steersaj@airbyte.io2025-10-24T22:46:57-07:00fix: properly handle `set_cloud_connection_table_prefix` tool within safe mode (#847)
+
+
+70f55a3023bb856af9f12dc123eadd266114e7ebb3c538b9b1182ad2ddbe7caa132360642556ca53Aaron ("AJ") Steersaj@airbyte.io2025-10-24T12:25:10-07:00fix(mcp): MCP safe mode should use runtime checks instead of tool filtering (#846)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+b3c538b9b1182ad2ddbe7caa132360642556ca53fed8d94e0c03376d0c2c3bf9ce462d982cd39205Aaron ("AJ") Steersaj@airbyte.io2025-10-24T11:45:28-07:00feat: Set AIRBYTE_CLOUD_MCP_SAFE_MODE default to 1 (#845)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+fed8d94e0c03376d0c2c3bf9ce462d982cd39205eda647b21e3b293ba646d0a26ae77249423083a0Aaron ("AJ") Steersaj@airbyte.io2025-10-24T07:18:10Zfeat: Implement session-based safe mode for Cloud ops (#844)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+eda647b21e3b293ba646d0a26ae77249423083a0cbc94371fd30ea98ad483eb7eaa7a788a94fc05bAaron ("AJ") Steersaj@airbyte.io2025-10-23T22:33:52-07:00feat: Add interfaces for editing cloud source, destination, and connection configs (#841)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+cbc94371fd30ea98ad483eb7eaa7a788a94fc05b9f34de30960d34ca62843d619007e73d7e3aee02Aaron ("AJ") Steersaj@airbyte.io2025-10-24T03:46:21Zfeat(mcp): Implement decorator-based safe mode filtering for Cloud ops tools (#842)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+9f34de30960d34ca62843d619007e73d7e3aee0201ffecc388b6bf74acfac76b3bead7bcd059c586Aaron ("AJ") Steersaj@airbyte.io2025-10-23T22:37:45Zfeat: Add MCP tool annotations for read-only, destructive, and idempotent hints (#839)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+01ffecc388b6bf74acfac76b3bead7bcd059c5860f7f3c77996f2c14013c84ae60621b854682d2aeAaron ("AJ") Steersaj@airbyte.io2025-10-22T17:13:23-07:00chore: Bump airbyte-cdk to 7.3.9 (#835)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+0f7f3c77996f2c14013c84ae60621b854682d2ae3ed5139c5635cc14f0a4077fcd8c58270d726eebAaron ("AJ") Steersaj@airbyte.io2025-10-20T17:28:09-07:00fix: Add dark mode background color to theme.css (#834)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+3ed5139c5635cc14f0a4077fcd8c58270d726eebee240b591e880d2cd4871ac459389fd4ac0c766cAaron ("AJ") Steersaj@airbyte.io2025-10-20T21:56:11Zdocs: Add Airbyte branding and styling to pdoc documentation (#832)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+ee240b591e880d2cd4871ac459389fd4ac0c766c1a3354dd6e7b03c4615000a24c3b10a4c4347470Aaron ("AJ") Steersaj@airbyte.io2025-10-20T14:23:59-07:00chore: swap mypy with pyrefly for type checking (#817)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: Copilot Autofix powered by AI <62310815+github-advanced-security[bot]@users.noreply.github.com>
+1a3354dd6e7b03c4615000a24c3b10a4c43474701eeda00dcf3ddd03a2dadaaf30fd35f5f46cbba9Aaron ("AJ") Steersaj@airbyte.io2025-10-20T18:15:59Zfeat: Add safety_mode to custom connector definition deletion (#831)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1eeda00dcf3ddd03a2dadaaf30fd35f5f46cbba9a84612fc220ac7f9e949f3dcb92778a366e4a25edependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-10-20T10:00:40-07:00Chore(deps): Bump peter-evans/create-or-update-comment from 4.0.0 to 5.0.0 (#822)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+a84612fc220ac7f9e949f3dcb92778a366e4a25e7313e98492234ff0a881e96f913c53efe064265fAaron ("AJ") Steersaj@airbyte.io2025-10-16T16:35:25Zfeat: Add YAML custom connector publishing (Docker stubbed) (#827)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: William Chu <william.chu@uptickhq.com>
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+7313e98492234ff0a881e96f913c53efe064265f99d2ccf90c098cd8afdeaa63b3eff5d8f3639a37Aaron ("AJ") Steersaj@airbyte.io2025-10-09T15:27:09-07:00feat: Add `time_to_first_record` metric and adjusted performance stats (#826)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+99d2ccf90c098cd8afdeaa63b3eff5d8f3639a37a6b513e192a390d4c37b66e0a5e7be508558461bAaron ("AJ") Steersaj@airbyte.io2025-10-02T15:52:14-07:00fix: store timestamps with timezone (from @uptickmetachu PR) (#814)
+
+Co-authored-by: William Chu <william.chu@uptickhq.com>
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+a6b513e192a390d4c37b66e0a5e7be508558461bbe288bb26d64ab9ef49681bd1235f088f56c552aAaron ("AJ") Steersaj@airbyte.io2025-10-02T20:52:18Zchore: bump airbyte-api to 0.53.0 (#815)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+be288bb26d64ab9ef49681bd1235f088f56c552ab02b0edda8506eb27be28ff87f7d4303f7093ea8Aaron ("AJ") Steersaj@airbyte.io2025-10-01T14:02:27-07:00docs: remove older mcp json example (#812)
+
+
+b02b0edda8506eb27be28ff87f7d4303f7093ea83617a9399d426f2db7d9db0cf00fd123c2169308Aaron ("AJ") Steersaj@airbyte.io2025-10-01T13:50:40-07:00docs: recommend uvx with airbyte@latest and --python flag for MCP setup (#811)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+3617a9399d426f2db7d9db0cf00fd123c2169308f5f0f4787648ab22741567ed9e916dc6615091aeTobias Wennergrenwennergr@gmail.com2025-10-01T01:45:03Zfeat: pin sha for github actions (#801)
+
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+f5f0f4787648ab22741567ed9e916dc6615091aec64e73d8a3bf2e2b7ca7257adaf5c65e9f5105edAaron ("AJ") Steersaj@airbyte.io2025-09-30T18:22:19-07:00fix(cache): Properly dispose DuckDB connections to prevent file locking (#808)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+c64e73d8a3bf2e2b7ca7257adaf5c65e9f5105ed20bb0a88e0ce3d5d694bb1b6ff31f7a225094e8fAaron ("AJ") Steersaj@airbyte.io2025-09-29T22:58:05Zdocs(mcp): improve MCP docs including auto-generated pdocs (#806)
+
+
+20bb0a88e0ce3d5d694bb1b6ff31f7a225094e8f1b341dea59782968ce9a52f921b185f48e946da0Aaron ("AJ") Steersaj@airbyte.io2025-09-24T22:11:54Zfeat(mcp): Add manifest_path parameter to local operations tools (#800)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+1b341dea59782968ce9a52f921b185f48e946da07b3406e9d1f2c517e684e054ce5f27fb7910d745Aaron ("AJ") Steersaj@airbyte.io2025-09-20T16:08:43Zfeat: add list secret names tool and api for dotenv files (#799)
+
+
+7b3406e9d1f2c517e684e054ce5f27fb7910d74502ee4401d7c6b0ad4de0a2edd4e69463534df9dcAaron ("AJ") Steersaj@airbyte.io2025-09-20T04:43:41Zfeat(cloud): Add ability to view Cloud sync logs, including `SyncAttempt` abstraction for fetching job attempts (#781)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+02ee4401d7c6b0ad4de0a2edd4e69463534df9dc6009b6929a98ca27b8c555609e485316e744c79cAaron ("AJ") Steersaj@airbyte.io2025-09-20T03:02:30Zfeat: add pagination support and `name` attribute for cloud objects: `CloudConnection`, `CloudSource`, and `CloudDestination` (#782)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+6009b6929a98ca27b8c555609e485316e744c79c7560c5156c82051c4078032c9e010610275ad8cfAaron ("AJ") Steersaj@airbyte.io2025-09-19T21:12:31Zfix: auto-create specified project or install directory if they do not yet exist (#796)
+
+
+7560c5156c82051c4078032c9e010610275ad8cf503b12486aad34c6c40d3421d8ae9c0fd5ea6be7Aaron ("AJ") Steersaj@airbyte.io2025-09-19T20:15:43Zchore: bump to poetry 2.2.0 (#795)
+
+
+503b12486aad34c6c40d3421d8ae9c0fd5ea6be78ef72378aaa76e8add84eb3a2e852a1578295397Aaron ("AJ") Steersaj@airbyte.io2025-09-19T19:46:06Zfix(mcp): resolve nested `anyOf` in MCP tool args (#794)
+
+
+8ef72378aaa76e8add84eb3a2e852a15782953971d9292fcf53cbf1b5e6dc3983e56395a8c1b8e43Aaron ("AJ") Steersaj@airbyte.io2025-09-19T00:22:06Zfix: properly disable prompt secret source in mcp mode (#793)
+
+
+1d9292fcf53cbf1b5e6dc3983e56395a8c1b8e4310125ff307747e40600d95a26d7b096656746716Aaron ("AJ") Steersaj@airbyte.io2025-09-18T21:15:03Zfix: misc MCP files (from Davin feedback) (#791)
+
+
+10125ff307747e40600d95a26d7b0966567467162295dd209dfca457b9ce1519cfc989a342a88c31Aaron ("AJ") Steersaj@airbyte.io2025-09-17T06:55:33Zfeat: add MCP mode flags to `meta` and `telemetry` modules, auto-register `.envrc` files as secret managers (#790)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+2295dd209dfca457b9ce1519cfc989a342a88c316c1c954c87475776e7eb1e8656f5ae3b0a456798Aaron ("AJ") Steersaj@airbyte.io2025-09-16T20:35:00Zchore(mcp): add `mcp-tool-test` Poe task (#789)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+6c1c954c87475776e7eb1e8656f5ae3b0a4567989f172788a3db703b8e35d239644bcb075f2c45adAaron ("AJ") Steersaj@airbyte.io2025-09-16T09:04:37-07:00chore: poetry lock (#788)
+
+
+9f172788a3db703b8e35d239644bcb075f2c45ad0f1595184b93b9859ababe172edbdec53da176beAaron ("AJ") Steersaj@airbyte.io2025-09-15T20:54:52-07:00hotfix: add .envrc to gitignore (#787)
+
+
+0f1595184b93b9859ababe172edbdec53da176bee2f3fd55a2f1a57658a5f12777090e89969830cdAaron ("AJ") Steersaj@airbyte.io2025-09-16T01:19:19Zfeat(mcp): add Airbyte Cloud MCP tools: Deploy, Sync, and List (#743)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+e2f3fd55a2f1a57658a5f12777090e89969830cdbeb6665da5f88beb5ade512c7713398e3265b0dbAaron ("AJ") Steersaj@airbyte.io2025-09-09T21:08:53Zci: skip integration tests on Windows to reduce CI timeout (#779)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+beb6665da5f88beb5ade512c7713398e3265b0dbd0d52686b99b6a36049b4f8474761dd74b9d1094Aaron ("AJ") Steersaj@airbyte.io2025-09-09T13:22:40-07:00chore: bump airbyte-cdk to latest version (6.61.6) (#768)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+d0d52686b99b6a36049b4f8474761dd74b9d10943e88df51dcda3d721fb37b86b5060833d2fb3252Aaron ("AJ") Steersaj@airbyte.io2025-09-09T12:17:35-07:00ci: Add GitHub action linting workflow (#774)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+3e88df51dcda3d721fb37b86b5060833d2fb325237df3365530e7aa98e75afe92043a97a0188c22fbosper35133131171+bosper351@users.noreply.github.com2025-09-09T11:38:20-07:00chore(deps): Relax `uv` version requirement for broader compatibility with other tools (#777)
+
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+37df3365530e7aa98e75afe92043a97a0188c22fe9ba4226df2c1ced424dde7d4d8be5aee8a388deAaron ("AJ") Steersaj@airbyte.io2025-09-09T10:13:22-07:00chore: replace maintenance PATs with octavia-bot GitHub App authentication (#773)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+e9ba4226df2c1ced424dde7d4d8be5aee8a388de7dadc3f33687a6522d53fe23ee9340a8eb4de7cadependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-09-09T10:09:48-07:00Chore(deps): Bump amannn/action-semantic-pull-request from 5 to 6 (#755)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+7dadc3f33687a6522d53fe23ee9340a8eb4de7ca375f7807e02550ea8b3f37146559b32d953ca5c1dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-09-09T10:04:52-07:00Chore(deps): Bump actions/checkout from 4 to 5 (#756)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+375f7807e02550ea8b3f37146559b32d953ca5c176308cec3ddef498895410a95dc6a8c4778e8992dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-09-09T10:03:32-07:00Chore(deps): Bump actions/upload-pages-artifact from 3 to 4 (#760)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+76308cec3ddef498895410a95dc6a8c4778e8992caa81f71f55db28f9ebb5db5f9a014b00dc90206dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-09-09T10:01:28-07:00Chore(deps): Bump pypa/gh-action-pypi-publish from 1.12.2 to 1.13.0 (#775)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+caa81f71f55db28f9ebb5db5f9a014b00dc9020643e5af7e0ac9bbddfe6f99cd4f8982e0eb4eb7faAaron ("AJ") Steersaj@airbyte.io2025-09-09T09:55:47-07:00chore: fix community welcome message permissions (#778)
+
+
+43e5af7e0ac9bbddfe6f99cd4f8982e0eb4eb7fa721f26cccd15fc73a49866f73b0c5baed5ec1568Aaron ("AJ") Steersaj@airbyte.io2025-08-29T06:43:33Zfeat(mcp): add support for overriding execution mode (yaml, python, docker, auto) (#761)
+
+
+721f26cccd15fc73a49866f73b0c5baed5ec156856748f45fc932030d86c778209f49c4872df5d3fAaron ("AJ") Steersaj@airbyte.io2025-08-28T02:07:20Zfeat: split config parameter into config and config_file for better MCP client interoperability (#762)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+56748f45fc932030d86c778209f49c4872df5d3f58dbaf044ca97687d86d651cf7575702b5b230c5Aaron ("AJ") Steersaj@airbyte.io2025-08-27T20:10:41Zfeat: add `DEFAULT_INSTALL_DIR` and `DEFAULT_PROJECT_DIR` constants (#763)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+58dbaf044ca97687d86d651cf7575702b5b230c5be50b70b176e98d4ced919cee65c2501111f92ceAaron ("AJ") Steersaj@airbyte.io2025-08-27T18:16:02Ztest: xfail cloud tests with permission errors (#765)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+be50b70b176e98d4ced919cee65c2501111f92ce8e64b4b03626d9e8b980b3fdedf39f45f02b1c75Aaron ("AJ") Steersaj@airbyte.io2025-08-19T22:03:52Zchore: revert dummy change (#758)
+
+
+8e64b4b03626d9e8b980b3fdedf39f45f02b1c7562ca42ab358600b49a864610734f2bc1a853cee4 73c0b06c609ce0d75c8556c904c858a3f01dd9bfAaron Steersaj@airbyte.io2025-08-19T13:58:36-07:00Merge branch 'main' of https://github.com/airbytehq/PyAirbyte
+
+62ca42ab358600b49a864610734f2bc1a853cee4cef893e93b9c31459bdbd79e3fe0bbd73eb96272Aaron Steersaj@airbyte.io2025-08-19T13:58:33-07:00revert-me: dummy change
+
+cef893e93b9c31459bdbd79e3fe0bbd73eb9627207e843e8668e83fc63c60745a21f085f997b8f01Aaron ("AJ") Steersaj@airbyte.io2025-08-17T14:30:07-07:00feat: Migrate workflows to use resolve-vars-action@v0 (#754)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+07e843e8668e83fc63c60745a21f085f997b8f019c3245f72b59ffa5585842c248253f23d8b1c470Aaron ("AJ") Steersaj@airbyte.io2025-08-06T10:52:53-07:00feat: add manifest_url to get_connector_info tool (#742)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+9c3245f72b59ffa5585842c248253f23d8b1c4706189e9cb9e21949b6a779f3055374f99094e8f59Aaron ("AJ") Steersaj@airbyte.io2025-08-01T18:24:58Zfeat: Add get_stream_previews MCP tool (#738)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+6189e9cb9e21949b6a779f3055374f99094e8f59a2b051e58c01d9153f76565d727a616422dcb18edependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-08-01T06:14:50ZChore(deps): Bump chuhlomin/render-template from 1.4 to 1.10 (#723)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+a2b051e58c01d9153f76565d727a616422dcb18e1a9c4115936efc5d4c4dfa1e87ca59b675919390Aaron ("AJ") Steersaj@airbyte.io2025-08-01T05:38:05Zfeat: replace pip with uv and add use_python parameter (#730)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1a9c4115936efc5d4c4dfa1e87ca59b675919390f9275ea83b98b83b57da6e89bc692adb6369d2d7Aaron ("AJ") Steersaj@airbyte.io2025-07-31T22:01:56-07:00feat: prefer Docker images in MCP server when Docker is available (#736)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+f9275ea83b98b83b57da6e89bc692adb6369d2d7121d34fe244908e04170251163cf524967b75617dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-07-31T21:24:10-07:00Chore(deps): Bump pyarrow from 17.0.0 to 21.0.0 (#722)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+121d34fe244908e04170251163cf524967b75617e74bf25b10999510e3c1e18eec846e469404fd39Aaron ("AJ") Steersaj@airbyte.io2025-08-01T02:36:01Zfix: fix docker refs for destinations in cli module (#735)
+
+
+e74bf25b10999510e3c1e18eec846e469404fd398629d3e9f3fc31d9f284c99c9ea44925f4910154Aaron ("AJ") Steersaj@airbyte.io2025-08-01T01:10:29Zfeat: Add stream previews for sources (#725)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+8629d3e9f3fc31d9f284c99c9ea44925f4910154bfed5ef6a60ccff32e3e64efd63e156d2be9a82bAaron ("AJ") Steersaj@airbyte.io2025-07-31T21:54:40Zfeat: add new mcp tools for working with cached data (#734)
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+bfed5ef6a60ccff32e3e64efd63e156d2be9a82b1266018fc93bf50c0009c97680846dd8bbae510aAaron ("AJ") Steersaj@airbyte.io2025-07-31T05:17:35Zchore: Remove flaky lowcode connector validation tests (#732)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+1266018fc93bf50c0009c97680846dd8bbae510a661db91b94de5010edeb7d333e9068ead4da3d46Aaron ("AJ") Steersaj@airbyte.io2025-07-18T03:27:40Zfix: use stderr for log prints (#720)
+
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+661db91b94de5010edeb7d333e9068ead4da3d46a31830ccb16a887ac974adda04784a9cf23b5892devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-07-17T19:10:22-07:00feat: Add PR welcome message system with uvx installation examples (#721)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: AJ Steers <aj@airbyte.io>
+a31830ccb16a887ac974adda04784a9cf23b5892816fa44eb5914dd5b657c7a766b0a15b200154a2Yohann Jardinyohann.jardin@telecomnancy.net2025-07-15T21:31:16-07:00feat(sources): Update sources with init errors (#718)
+
+
+816fa44eb5914dd5b657c7a766b0a15b200154a204bfd7a3414e01c1cf397197b17eeb2c71dc9053Nicolas48596976+nicob3y@users.noreply.github.com2025-07-04T14:09:34-07:00fix: "write /dev/stdout: broken pipe" error during execution (#613)
+
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+04bfd7a3414e01c1cf397197b17eeb2c71dc9053679498794a1619906146c5d31390be9ef02f3015Aaron ("AJ") Steersaj@airbyte.io2025-07-04T19:29:22Zfeat: add experimental MCP server to PyAirbyte, add secrets references and secrets hydration features (#696)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+679498794a1619906146c5d31390be9ef02f301568078b6864f63575c82dffa1adec82ec741fcc92Yves Alioune Amoussou48109941+Alioune05@users.noreply.github.com2025-06-27T10:19:25-07:00Feat: Add support for Snowflake key-pair authentication (#702)
+
+
+68078b6864f63575c82dffa1adec82ec741fcc9286f22c156270e5946239c3280be14eb51c830bd8devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-06-26T01:51:08Zfeat: Add support for custom `components.py` files in manifest-only sources (#697)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: AJ Steers <aj@airbyte.io>
+86f22c156270e5946239c3280be14eb51c830bd8c74027202eb4cd543907f66184c6043de1976c3bdependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-06-20T21:04:29ZChore(deps): Bump actions/github-script from 6 to 7 (#649)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+c74027202eb4cd543907f66184c6043de1976c3b345d64888b39bedd90437e6fbe8ea21c267e8827Aaron ("AJ") Steersaj@airbyte.io2025-06-20T20:46:07Zci: move ruff rules to dedicated config file (#693)
+
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+345d64888b39bedd90437e6fbe8ea21c267e8827ab9ec0334f3bbf8c41c4f823c2f24afdec69e125Jan Bílekhonza.bilek4@gmail.com2025-06-20T13:06:53-07:00feat: Allow configuring dataset location in BigQueryCache (#689)
+
+
+ab9ec0334f3bbf8c41c4f823c2f24afdec69e125796200b78bf95f0ad694fbab6459765435994d35dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-06-20T13:02:03-07:00Chore(deps): Bump actions/create-github-app-token from 1 to 2 (#690)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+796200b78bf95f0ad694fbab6459765435994d3568c71b72c71819c7d3ab7ace0c2eaa7304092043Aaron Steersaj@airbyte.io2025-06-02T15:02:41-07:00ci(hotfix): set action_url as well as details_url in slash command
+
+68c71b72c71819c7d3ab7ace0c2eaa7304092043c9997f3539481bfbdba88f859464353c54e10576Aaron Steersaj@airbyte.io2025-06-02T14:55:35-07:00ci(hotfix): use better details-url
+
+c9997f3539481bfbdba88f859464353c54e10576bf4214a4a609916ff7affaad81a1f302012e5d0aAaron Steersaj@airbyte.io2025-06-02T14:49:36-07:00ci(hotfix): fix repo name in slash command check post
+
+bf4214a4a609916ff7affaad81a1f302012e5d0a03f40319db46a70b5b92467dd36fd4f3c4f0cc77Aaron Steersaj@airbyte.io2025-06-02T14:47:05-07:00ci(hotfix): auth within each job
+
+03f40319db46a70b5b92467dd36fd4f3c4f0cc77392a61bed7c7dc45f3f8c559f6d2058d216ba78aAaron ("AJ") Steersaj@airbyte.io2025-06-02T14:40:50-07:00ci: Use GitHub App token for CI workflow (#687)
+
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+392a61bed7c7dc45f3f8c559f6d2058d216ba78ad2cbde1e246d94e2ee72485fc32603e2e85412f7Aaron Steersaj@airbyte.io2025-06-02T13:19:58-07:00ci(hotfix): use Octavia PAT in slash command
+
+d2cbde1e246d94e2ee72485fc32603e2e85412f7f4ed27b6a7431c55619d0b553b2fcaee4d5b5e9eAaron Steersaj@airbyte.io2025-06-02T13:15:55-07:00ci(hotfix): slash command permissions
+
+f4ed27b6a7431c55619d0b553b2fcaee4d5b5e9eb30ba20fadfe827f7e0dbf27084cba6079de05e1Aaron ("AJ") Steersaj@airbyte.io2025-06-02T13:10:47-07:00ci: use pre-built 'get-pr' action (#686)
+
+
+b30ba20fadfe827f7e0dbf27084cba6079de05e11b886e767a937875045ad1ce9d92937762fd7a1fAaron ("AJ") Steersaj@airbyte.io2025-06-02T09:17:38-07:00ci: update checks-action to post status to the Airbyte repository (#685)
+
+
+1b886e767a937875045ad1ce9d92937762fd7a1f647fd09c64943f2605da0793bc86926a11613afcAaron ("AJ") Steersaj@airbyte.io2025-06-02T09:11:02-07:00ci: add check statuses to PRs from slash command execution (#683)
+
+
+647fd09c64943f2605da0793bc86926a11613afc5a593f91fead01c435d767b1763b02cd17240007devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-05-26T22:46:29Zchore(ci): Add JUnit XML output to pytest and publish test results to PRs (#677)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: Aaron <AJ> Steers <aj@airbyte.io>
+5a593f91fead01c435d767b1763b02cd172400076cb8e0762d0fd9e077d9e962a63eef1a15905f0cAaron ("AJ") Steersaj@airbyte.io2025-05-26T14:55:54-07:00ci: add "not flaky" condition to on-demand test workflow (#678)
+
+
+6cb8e0762d0fd9e077d9e962a63eef1a15905f0c02962954a6d62aa8c1bcf1c04e619b47e9373c44Ben Wilen52761035+benjaminwilen@users.noreply.github.com2025-05-26T13:21:34-07:00feat: Remove long standing connections on sql state and catalog backends (#676)
+
+
+02962954a6d62aa8c1bcf1c04e619b47e9373c441b87bda1948d8a815498f949e3547854c63d2782devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-05-16T13:01:08-07:00ci(workflow): Fix auto-merge notification workflow (#672)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: Aaron <AJ> Steers <aj@airbyte.io>
+1b87bda1948d8a815498f949e3547854c63d27823eda2e301bc89a4d1821387b9b79cff534c9e78dAaron ("AJ") Steersaj@airbyte.io2025-05-16T19:20:04Zfeat: add ability to override pk and cursor key values (#668)
+
+Co-authored-by: devin-ai-integration[bot] <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+3eda2e301bc89a4d1821387b9b79cff534c9e78d2e810989a12e2c4e438a45d9d313a7236d8ebfdeAaron ("AJ") Steersaj@airbyte.io2025-04-16T06:51:47Zfix: give logs a second to flush (#660)
+
+
+2e810989a12e2c4e438a45d9d313a7236d8ebfde49edd5ace799b556bbdad57c6005ff608f42fb89Aaron ("AJ") Steersaj@airbyte.io2025-04-15T23:44:02-07:00chore: update github example script
+49edd5ace799b556bbdad57c6005ff608f42fb8947aa6d13c114f7d98b73135f35bad947ae49030bAaron ("AJ") Steersaj@airbyte.io2025-04-15T23:39:41-07:00chore: update destination example script configuration to use GitHub and state cache (#659)
+
+
+47aa6d13c114f7d98b73135f35bad947ae49030b1b339b2e9710cf8bc4d6c2a0ec20f65e7ecd0a75Aaron ("AJ") Steersaj@airbyte.io2025-04-15T23:38:14-07:00chore: update sample script to accept positional argument for connector name (#658)
+
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+1b339b2e9710cf8bc4d6c2a0ec20f65e7ecd0a75ee5cb2d20c001f52dc192dd2aff3d39aba5953c9Marcos Marxmarcosmarxm@users.noreply.github.com2025-04-04T09:11:48-07:00fix: specifying a target version for a source does not actually install that version (#651)
+
+
+ee5cb2d20c001f52dc192dd2aff3d39aba5953c97ee57ff81d5dc03b46171ceba87dcb625036a1b8Aaron ("AJ") Steersaj@airbyte.io2025-03-29T00:23:01Zfix: resolve issue in `Cache.create_source_tables` (#642)
+
+
+7ee57ff81d5dc03b46171ceba87dcb625036a1b8ff20533875d0f8390b60a4907e03bdd5863608adDanny Xie47478345+dnxie12@users.noreply.github.com2025-03-28T14:58:46-07:00fix: `sources/base.py` documentation to properly reflect allowed `write_strategy` arguments (#581)
+
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+ff20533875d0f8390b60a4907e03bdd5863608ad6e2f9469b6684164da4d1776445a837e73798a45devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-03-28T14:55:38-07:00ci: add check for PR titles with specific phrases (#636)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: Aaron <AJ> Steers <aj@airbyte.io>
+6e2f9469b6684164da4d1776445a837e73798a45280e17291508613fda6396b8c37bd5128e29452aAaron ("AJ") Steersaj@airbyte.io2025-03-25T15:25:05-07:00chore(deps): remove constraint on `request` lib (#639)
+
+Co-authored-by: coderabbitai[bot] <136622811+coderabbitai[bot]@users.noreply.github.com>
+Co-authored-by: Copilot <175728472+Copilot@users.noreply.github.com>
+280e17291508613fda6396b8c37bd5128e29452a753c2ac675ed386a69285a201c302aa40e48f530Aaron ("AJ") Steersaj@airbyte.io2025-03-25T22:22:36Zfix: remove 'cdk:low-code' logic with false-positives for manifest-only connector detection (#637)
+
+
+753c2ac675ed386a69285a201c302aa40e48f5300d4029ae14ee13dc89a483aefae07637c7a7a661devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-03-22T04:07:07Zfeat(caches): add create_source_tables method to CacheBase class (do not merge) (#631)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: Aaron <AJ> Steers <aj@airbyte.io>
+0d4029ae14ee13dc89a483aefae07637c7a7a6619de468a686b9dea2792997c9546e6bcaed2b14e9dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2025-03-21T20:25:06-07:00Chore(deps-dev): Bump viztracer from 0.16.3 to 1.0.3 (#628)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+9de468a686b9dea2792997c9546e6bcaed2b14e9d064d42fdc9ae44681c1eb710fbcd4fc8c7dfeafAaron ("AJ") Steersaj@airbyte.io2025-03-22T02:20:17Zchore: update pyproject.toml python requirement (#599)
+
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+d064d42fdc9ae44681c1eb710fbcd4fc8c7dfeafcc2c53355d2d19b0848ebcd3907ccf380d6fab09devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-02-07T16:27:20-08:00feat: add auto-merge notification workflow (#604)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: Aaron <AJ> Steers <aj@airbyte.io>
+cc2c53355d2d19b0848ebcd3907ccf380d6fab09e0c70b86b4093662e78cdaa38df8f06d4b90f332Aaron ("AJ") Steersaj@airbyte.io2025-01-29T16:45:53Zchore: add python 3.12 support (#596)
+
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+e0c70b86b4093662e78cdaa38df8f06d4b90f332778ceca6d26c987783bb8699b6ffebb28b54d849Aaron ("AJ") Steersaj@airbyte.io2025-01-29T08:20:39-08:00fix: Poetry builds and snowflake tests (#595)
+
+
+778ceca6d26c987783bb8699b6ffebb28b54d849da77b94dbdaa3c3692b1d026e57234dd99fa3859devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-01-28T11:01:08-08:00ci: fix poetry lock workflow for missing/blank file (#593)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: Aaron <AJ> Steers <aj@airbyte.io>
+da77b94dbdaa3c3692b1d026e57234dd99fa3859f7b88eba400d7aa768c8c370cfbac6f18dfc61c6devin-ai-integration[bot]158243242+devin-ai-integration[bot]@users.noreply.github.com2025-01-28T09:49:30-08:00chore: update Poetry version to 2.0.1 in CI workflows (#587)
+
+Co-authored-by: Devin AI <158243242+devin-ai-integration[bot]@users.noreply.github.com>
+Co-authored-by: Aaron <AJ> Steers <aj@airbyte.io>
+f7b88eba400d7aa768c8c370cfbac6f18dfc61c6bed128df35256a7c1767c31816d051e3701a4370Aaron ("AJ") Steersaj@airbyte.io2024-12-17T03:30:16Zdocs: add `cli` module to api docs (#564)
+
+
+bed128df35256a7c1767c31816d051e3701a4370b6fdbe75bbb097646a15b7392d5e67ceebf64086dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-12-16T17:21:00-08:00Chore(deps-dev): Bump poethepoet from 0.26.1 to 0.31.1 (#558)
+
+
+b6fdbe75bbb097646a15b7392d5e67ceebf64086ef7eb8fdaa44ca3b21841a0547ceb9ed30030c55dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-12-16T17:20:20-08:00Chore(deps): Bump airbyte-api from 0.52.1 to 0.52.2 (#560)
+
+
+ef7eb8fdaa44ca3b21841a0547ceb9ed30030c557e65ab3cfab39c04e6f0ece7cbc83367b7acb4a9Aaron ("AJ") Steersaj@airbyte.io2024-12-17T00:15:42ZFeat(cloud): Add `check` feature for Cloud connectors (#562)
+
+
+7e65ab3cfab39c04e6f0ece7cbc83367b7acb4a95e472fcf42d4db62c5f0ead525193843d14e1806Aaron ("AJ") Steersaj@airbyte.io2024-12-10T03:19:59Zchore: bump to CDK `^6.9.0` (#552)
+
+
+5e472fcf42d4db62c5f0ead525193843d14e1806ea547117dc4dac250132289b0c16081ed12e648aAaron ("AJ") Steersaj@airbyte.io2024-12-10T02:48:16ZFeat: Add Cloud deploy functionality out of experimental status (#419)
+
+
+ea547117dc4dac250132289b0c16081ed12e648af001d175554a099a02dde5a4ec9267e6b987d002Tino Merl35485536+tinomerl@users.noreply.github.com2024-12-09T17:24:32-08:00Fix: Added regex to sub special characters (#545)
+
+
+f001d175554a099a02dde5a4ec9267e6b987d0024c34bae8b52974caf9e3f23053639eb7cc244f20Aaron ("AJ") Steersaj@airbyte.io2024-12-07T01:30:27Zchore: only import submodules at type checking level (#553)
+
+
+4c34bae8b52974caf9e3f23053639eb7cc244f201eef8892a9def213489584fa18ddfdeb0e78f8c1Aaron ("AJ") Steersaj@airbyte.io2024-12-06T17:11:34-08:00ci: use case-insensitive semantic pr checks (#554)
+
+
+1eef8892a9def213489584fa18ddfdeb0e78f8c1fa505de7b0d2f11f0b64d405d0c6e9c9006c3093Aaron ("AJ") Steersaj@airbyte.io2024-12-05T15:41:21-08:00Revert "CI: Fix flaky no-code verifications, add native GitHub Actions success notification for `/test-pr` slash command (#283)" (#551)
+
+
+fa505de7b0d2f11f0b64d405d0c6e9c9006c3093ccc5c6af517bc2d3b6ccde6405e56e911830bcf9Aaron ("AJ") Steersaj@airbyte.io2024-12-04T05:41:34ZChore: Analyze dependency and imports using `deptry` (#534)
+
+
+ccc5c6af517bc2d3b6ccde6405e56e911830bcf9f2529a686b5c3cc089c4875f219294c60b1b72f8Aaron ("AJ") Steersaj@airbyte.io2024-12-03T00:01:15Zfix: handle missing config in CLI `validate` command for destinations (#546)
+
+
+f2529a686b5c3cc089c4875f219294c60b1b72f85164d1f8297b5c7681f5ae3e8a894586ce219fe0Aaron ("AJ") Steersaj@airbyte.io2024-11-19T07:09:11ZChore: Bump cdk to 6.6.4 (#540)
+
+
+5164d1f8297b5c7681f5ae3e8a894586ce219fe0c1f6ec1ce747ffd2d1fc8cd15f6c16a12c8c4bc5Niyas Hameedniyasrad@gmail.com2024-11-18T18:53:53-08:00Chore(deps): Update `psycopg` to `^3.1.19` for `macOS` <14 compatibility (#538)
+
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+c1f6ec1ce747ffd2d1fc8cd15f6c16a12c8c4bc5186d0c53b79b42b3023c95a87c9ab35ab8183683Aaron ("AJ") Steersaj@airbyte.io2024-11-18T20:03:19ZChore(deps): Bump CDK, nltk, and python-ulid to latest (#537)
+
+
+186d0c53b79b42b3023c95a87c9ab35ab818368313f8dd6bb793fdd731af9ddcd3adced3f787bbb2dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-11-15T21:53:04-08:00Chore(deps): Bump pypa/gh-action-pypi-publish from 1.11.0 to 1.12.2 (#448)
+
+
+13f8dd6bb793fdd731af9ddcd3adced3f787bbb200e9ddd1a0853cf06d6e88485ea41a4df7fbac88dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-11-09T12:44:08-08:00Chore(deps): Bump snowflake-connector-python from 3.12.2 to 3.12.3 in the pip group (#437)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+00e9ddd1a0853cf06d6e88485ea41a4df7fbac883a0c1f1b62cffc6be72f5742df38f0257b10b3f5dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-11-09T12:43:16-08:00Chore(deps): Bump duckdb-engine from 0.13.3 to 0.13.4 (#434)
+
+
+3a0c1f1b62cffc6be72f5742df38f0257b10b3f57d5c76fc448049c19050de7fb0d512c14d188b0cdependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-11-09T12:42:25-08:00Chore(deps): Bump rich from 13.9.2 to 13.9.4 (#438)
+
+
+7d5c76fc448049c19050de7fb0d512c14d188b0c923496723fdde845dce2906d5b25d2d46646b798dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-11-09T12:40:45-08:00Chore(deps): Bump pypa/gh-action-pypi-publish from 1.10.3 to 1.11.0 (#439)
+
+
+923496723fdde845dce2906d5b25d2d46646b7982a01c964f4f361ea648eb92e802f744d96680182dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-11-09T12:38:14-08:00Chore(deps): Bump sqlalchemy-bigquery from 1.11.0 to 1.12.0 (#435)
+
+
+2a01c964f4f361ea648eb92e802f744d966801828556629ede3e034411f2e196c7380fcaf431e6efAaron Steersaj@airbyte.io2024-11-08T15:57:33-08:00hotfix: docs format
+
+8556629ede3e034411f2e196c7380fcaf431e6ef6246e6bb64e9b66b4fd671e7f673dd50b96a6248Aaron ("AJ") Steersaj@airbyte.io2024-11-08T23:52:29ZChore: Add docs for callback, add type alias (#447)
+
+
+6246e6bb64e9b66b4fd671e7f673dd50b96a62487c703ac0e4e72ca2587eb00a9e51067b95bb10e6Thomas Bolestcboles@users.noreply.github.com2024-11-08T14:40:56-08:00Feat: Adds config_change_callback to Destinations and Sources (#440)
+
+
+7c703ac0e4e72ca2587eb00a9e51067b95bb10e602f5ede963aa238b7d7e9268f3e00a7368db6aa3Niyas Hameedniyasrad@gmail.com2024-10-29T09:10:00-07:00Feat: Introducing `AIRBYTE_OFFLINE_MODE` for air-gapped environments (#432)
+
+
+02f5ede963aa238b7d7e9268f3e00a7368db6aa3c6440665c5dcd444484cbe0dc4ee1e48b738c959dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-10-22T09:00:11-07:00Chore(deps): Bump pypa/gh-action-pypi-publish from 1.10.2 to 1.10.3 (#412)
+
+
+c6440665c5dcd444484cbe0dc4ee1e48b738c959b355ea9b1befad785eeb695c5d393f9b471f8ea5Aaron ("AJ") Steersaj@airbyte.io2024-10-21T21:00:25-07:00Feat: Add `sync` CLI (#417)
+
+
+b355ea9b1befad785eeb695c5d393f9b471f8ea53b50f3c91a1e67a01f3d3434e5c6491ee2b5b657Guen Prawiroatmodjoguenevere.p@gmail.com2024-10-21T20:40:35-07:00Fix: Skip latest sqlalchemy version until duckdb_engine fixes bug (#429)
+
+
+3b50f3c91a1e67a01f3d3434e5c6491ee2b5b657e0290e07b266caa7f2344c8ecf1c09d9aa586ac2Yohann Jardinyohann.jardin@telecomnancy.net2024-10-21T20:38:19-07:00Feat: Support Snowflake's travel time (#414)
+
+
+e0290e07b266caa7f2344c8ecf1c09d9aa586ac2f3bc4c69a94585ddf58e9de51857f335d3c874e0jaejun63435794+jx2lee@users.noreply.github.com2024-10-21T20:34:19-07:00Chore: Remove import only used in TYPE_CHECKING (#421)
+
+
+f3bc4c69a94585ddf58e9de51857f335d3c874e0919a812de361ce9811256d3a1049edb40d70ee5bAaron ("AJ") Steersaj@airbyte.io2024-10-09T16:07:19-07:00Feat: Add `pip_url` support in CLI (#416)
+
+
+919a812de361ce9811256d3a1049edb40d70ee5b53246a3b8377f8cbf7281f9719f52e65979c3ac6Aaron ("AJ") Steersaj@airbyte.io2024-10-09T15:02:05-07:00Feat(CLI): Add support for docker images and local python dev executables in poetry (#415)
+
+
+53246a3b8377f8cbf7281f9719f52e65979c3ac68ef6817a35f3dcc66cf6f28264ac968d66918972Aaron ("AJ") Steersaj@airbyte.io2024-10-07T00:19:49ZFeat: Add new PyAirbyte CLI for connector validation and benchmarking; add helper functions `get_noop_destination()` and `get_benchmark_source()` (#411)
+
+
+8ef6817a35f3dcc66cf6f28264ac968d669189724cd8167edf1c169c1114763c3efdfa89695c6315Aaron ("AJ") Steersaj@airbyte.io2024-10-02T10:42:35-07:00Feat: Add 'execute_sql' command on caches, add DuckDB WAL cleanup step (#407)
+
+
+4cd8167edf1c169c1114763c3efdfa89695c6315b22a6b48fb953ba9fa23e44245f1a4ccb0f699a6Aaron ("AJ") Steersaj@airbyte.io2024-09-23T23:26:56ZChore: Bump CDK dependency, DuckDB, Postgres, Pandas, and others (#383)
+
+
+b22a6b48fb953ba9fa23e44245f1a4ccb0f699a6453ed37dad9a1e0d829f7c954cd11521b8cd1234Aaron ("AJ") Steersaj@airbyte.io2024-09-23T22:09:20ZChore: Bump to Sqlalchemy 2.0 (#396)
+
+
+453ed37dad9a1e0d829f7c954cd11521b8cd1234c9686a6c33b5535b4152d3f833d523cb627a7bd9dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-23T14:46:04-07:00Chore(deps): Bump grpcio from 1.64.3 to 1.66.1 (#393)
+
+
+c9686a6c33b5535b4152d3f833d523cb627a7bd91e620a035502d08d022ad51cf06694f6610243c5dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-23T14:44:44-07:00Chore(deps): Bump google-auth from 2.34.0 to 2.35.0 (#390)
+
+
+1e620a035502d08d022ad51cf06694f6610243c59669ff56d3269e4079df78124bfd0794fba4bf49dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-23T14:44:15-07:00Chore(deps): Bump pypa/gh-action-pypi-publish from 1.10.1 to 1.10.2 (#388)
+
+
+9669ff56d3269e4079df78124bfd0794fba4bf49b8dcc395b6d54a3e873f3d953ecfd7b45ab4020adependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-23T14:43:14-07:00Chore(deps): Bump release-drafter/release-drafter from 5 to 6 (#387)
+
+
+b8dcc395b6d54a3e873f3d953ecfd7b45ab4020a9f6f8f3a3727fcc9f95d12922500d5b98e6d72dbdependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-23T14:42:30-07:00Chore(deps): Bump pyarrow from 16.1.0 to 17.0.0 (#391)
+
+
+9f6f8f3a3727fcc9f95d12922500d5b98e6d72db2fae5a3ee413c888b8afa90fc0c3772e3d704d86Aaron ("AJ") Steersaj@airbyte.io2024-09-23T14:13:48-07:00Feat: Use GCS public bucket to get manifest yaml for connectors; adds support for pinning versions and getting prior versions (#394)
+
+
+2fae5a3ee413c888b8afa90fc0c3772e3d704d86f4a3170ecb3324f4e3d3d1f9c6ee72632bdd7b74Aaron ("AJ") Steersaj@airbyte.io2024-09-20T22:52:28ZFix: More accurate perf metrics for slow-starting streams (#385)
+
+
+f4a3170ecb3324f4e3d3d1f9c6ee72632bdd7b7459691afc290b603d4a19fc01f2e264dd44f80f2cdependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-18T22:13:15ZChore(deps): Bump requests from 2.31.0 to 2.32.2 (#371)
+
+
+59691afc290b603d4a19fc01f2e264dd44f80f2c2c61f6a269fb1c46731295bcb080ee855cb5eb78dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-18T14:49:13-07:00Chore(deps): Add inline comment about grpcio (#377)
+
+
+2c61f6a269fb1c46731295bcb080ee855cb5eb789f259d1739dc23563201c2b2b34f31b27b97beffAaron ("AJ") Steersaj@airbyte.io2024-09-18T14:37:11-07:00chore(ci):fix poetry-lock command
+9f259d1739dc23563201c2b2b34f31b27b97beff95236d083386f92cb70cc0b78db7558e57bcdacfdependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-18T10:35:12-07:00Chore(deps): Bump sqlalchemy-bigquery from 1.9.0 to 1.11.0 (#381)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+95236d083386f92cb70cc0b78db7558e57bcdacf002faaa89f3006e088b1cfbaee93ce067fa6e7cadependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-18T10:25:04-07:00Chore(deps): Bump pypa/gh-action-pypi-publish from 1.8.11 to 1.10.1 (#374)
+
+
+002faaa89f3006e088b1cfbaee93ce067fa6e7ca7766c91cabae7ab9761285663bfe41756ab63ca9dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-18T10:24:04-07:00Chore(deps-dev): Bump pytest from 8.3.2 to 8.3.3 (#379)
+
+
+7766c91cabae7ab9761285663bfe41756ab63ca90a78c5002012e022b4c83a3db69df3ca34e55caedependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-18T10:21:29-07:00Chore(deps): Bump actions/download-artifact from 2 to 4 (#373)
+
+
+0a78c5002012e022b4c83a3db69df3ca34e55cae49ebaafdd7bec6f140a6708df79fa0fe6a944fa9dependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-18T10:15:17-07:00Chore(deps): Bump actions/configure-pages from 4 to 5 (#372)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+49ebaafdd7bec6f140a6708df79fa0fe6a944fa9afba59571210080c772c2ca927dfaa40e1f528badependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-18T10:13:07-07:00Chore(deps): Bump peter-evans/create-or-update-comment from 1 to 4 (#375)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+afba59571210080c772c2ca927dfaa40e1f528bacbd9eecdc904a91384e5634ffb5bea1d684f329ddependabot[bot]49699333+dependabot[bot]@users.noreply.github.com2024-09-18T10:12:09-07:00Chore(deps): Bump actions/upload-artifact from 2 to 4 (#376)
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+cbd9eecdc904a91384e5634ffb5bea1d684f329de3050431eb1f69e2769c3d75d78ff326c07a8a61Aaron ("AJ") Steersaj@airbyte.io2024-09-18T10:06:23-07:00Create dependabot.yml
+e3050431eb1f69e2769c3d75d78ff326c07a8a61e534a3d7aeeb934b2996d73b7c527b26228c5fa1Aaron ("AJ") Steersaj@airbyte.io2024-09-17T16:26:22-07:00Chore: Rename override constant to `TEMP_DIR_OVERRIDE` (#370)
+
+
+e534a3d7aeeb934b2996d73b7c527b26228c5fa14a61345244600f9275de24fde5f62d2fa6e4c6d4Niyas Hameedniyasrad@gmail.com2024-09-17T16:17:27-07:00Feat: Introducing `AIRBYTE_TEMP_DIR` For Temporary File Mount Overrides (#368)
+
+
+4a61345244600f9275de24fde5f62d2fa6e4c6d4599549fe55edda357b613ff4acf74bea955e2719Aaron ("AJ") Steersaj@airbyte.io2024-09-17T14:47:57-07:00Fix: Remove hard-coded preference for docker when installing destinations (#366)
+
+
+599549fe55edda357b613ff4acf74bea955e2719f10933f52d53411f8f77ad99731b2c228a011465Aaron ("AJ") Steersaj@airbyte.io2024-09-17T21:36:56ZFix: Improve alignment with Airbyte Cloud on data sizes and MB/s (#369)
+
+
+f10933f52d53411f8f77ad99731b2c228a0114652f27c871c2b9150fc1a4578dfd7c7e847d6d4b0aNiyas Hameedniyasrad@gmail.com2024-09-16T08:49:03-07:00Feat: Added `use_host_network` param to `get_destination()` (#364)
+
+
+2f27c871c2b9150fc1a4578dfd7c7e847d6d4b0ac5fea253e517b9b67ebf6d42a9c9f1e2e12ad922Aaron ("AJ") Steersaj@airbyte.io2024-09-14T20:58:56-07:00Feat: Easy persistent cache with new `ab.get_colab_cache` helper function (#361)
+
+
+c5fea253e517b9b67ebf6d42a9c9f1e2e12ad922ddbf6f472e4b18d22ed21351fb236e9dadcbce7aAaron ("AJ") Steersaj@airbyte.io2024-09-12T15:27:02-07:00Feat: Add performance stats and logging (#360)
+
+
+ddbf6f472e4b18d22ed21351fb236e9dadcbce7a826d689abb1e841722d9eee8173a65aa4a95b7faAaron ("AJ") Steersaj@airbyte.io2024-09-09T20:34:24ZFix: Resolve issues in Postgres name normalization when names are >63 characters (#359)
+
+
+826d689abb1e841722d9eee8173a65aa4a95b7fa1775cb4050a4bb2b91f3769bb1ead964a1140959Sukanta Roy96112956+sukantaroy01@users.noreply.github.com2024-09-06T17:37:41-07:00Fix: Resolve issue where PyAirbyte would fail if property names contain the dot character (`'.'`), e.g. with `source-google-ads` (#343)
+
+Co-authored-by: Ajit Pratap Singh <18012955+ajitpratap0@users.noreply.github.com>
+Co-authored-by: uditchaudhary <udit.chaudhary@pixis.ai>
+
+1775cb4050a4bb2b91f3769bb1ead964a11409597488afb5bcd14f0810ab583a670683d585e7942eAaron ("AJ") Steersaj@airbyte.io2024-09-03T03:42:08ZChore: Replace `generate-docs` CLI command with Poe tasks `docs-generate` and `docs-preview` (#357)
+
+
+7488afb5bcd14f0810ab583a670683d585e7942e31b6eeb2be6735a9d37830207a1bdeb2a156d9ceAaron ("AJ") Steersaj@airbyte.io2024-09-02T19:08:11ZFeat: Add performance metrics and mb/s tracking (#356)
+
+
+31b6eeb2be6735a9d37830207a1bdeb2a156d9ceacbcdda16580744316f203363cc421c9ea971561Aaron ("AJ") Steersaj@airbyte.io2024-09-02T07:02:05ZChore: Refactor: Rename module `_future_cdk` to `shared` (#354)
+
+
+acbcdda16580744316f203363cc421c9ea9715617ca3541e1e50904aa1210c6248a3ae4ffcd2c4daAaron ("AJ") Steersaj@airbyte.io2024-09-01T23:33:53-07:00Chore: Remove cortex processor (#353)
+
+
+7ca3541e1e50904aa1210c6248a3ae4ffcd2c4dafc18d0a8bbc5e4fdc04876a151a45cfde52593c5Aaron ("AJ") Steersaj@airbyte.io2024-09-01T23:10:05-07:00Chore: Refactor new "Writers" interface for destinations and caches (#326)
+
+
+fc18d0a8bbc5e4fdc04876a151a45cfde52593c59257d4ecb79450e2cc2a10b3bac76932d17db8b6Aaron ("AJ") Steersaj@airbyte.io2024-09-02T01:11:13ZChore: Update docs for `airbyte.logs` (#352)
+
+
+9257d4ecb79450e2cc2a10b3bac76932d17db8b654033ea0a697ed575f4a446cda95a25eb7e03f72Aaron ("AJ") Steersaj@airbyte.io2024-09-01T17:00:47-07:00Feat: Improved exception logging (#351)
+
+
+54033ea0a697ed575f4a446cda95a25eb7e03f7247d7c166f295ec54a8a2302bf8123490ed700c19Aaron ("AJ") Steersaj@airbyte.io2024-09-01T19:14:44ZFeat: File-based progress logging, new `airbyte.logs` module (#349)
+
+
+47d7c166f295ec54a8a2302bf8123490ed700c19c5e4c206560e50835499eab22a3c17623cab34c3Aaron ("AJ") Steersaj@airbyte.io2024-08-31T01:51:48ZFix: Auto-use manifests when declared in the connector registry (#347)
+
+
+c5e4c206560e50835499eab22a3c17623cab34c3b43e68d618434a27e0048431aeced18bef31b077Aaron ("AJ") Steersaj@airbyte.io2024-08-22T19:35:01ZFeat: Add ability to inspect GSM secret labels and save secret contents directly to files (#346)
+
+
+b43e68d618434a27e0048431aeced18bef31b07780c8cd1ff2164e9c0784251cc234ae89d5eb3ca8Aaron ("AJ") Steersaj@airbyte.io2024-08-20T11:28:10-07:00Chore: Remove Py39 styling (#341)
+
+
+80c8cd1ff2164e9c0784251cc234ae89d5eb3ca8f05baf1aab3a2607b975d695734fdbe37f8f5d46Aaron ("AJ") Steersaj@airbyte.io2024-08-19T14:16:22-07:00Chore: Add hardcoded-records source to profiling script (#339)
+
+
+f05baf1aab3a2607b975d695734fdbe37f8f5d4639fe9a3e29190c0a0cb8873bc3d2197a39892855Aaron ("AJ") Steersaj@airbyte.io2024-08-19T14:14:11-07:00Fix: Updated handling for Manifest-only connectors; Breaks: Remove Python 3.9 support (#340)
+
+
+39fe9a3e29190c0a0cb8873bc3d2197a398928552aa93996c3ef34f2e737e482250e4cd1240deecdAaron ("AJ") Steersaj@airbyte.io2024-08-10T03:10:14ZCI: Skip PR title checks on draft PRs (#337)
+
+
+2aa93996c3ef34f2e737e482250e4cd1240deecd94681b06f6a1b7512bcd0f232066e300f542a053nakamichinakamichiworks@users.noreply.github.com2024-08-09T17:36:55-07:00Fix: Normalize schema names for correct name comparison (#296)
+
+
+94681b06f6a1b7512bcd0f232066e300f542a0539bb782e83607e0017cccc13d00d0a47535ebadc7Aaron ("AJ") Steersaj@airbyte.io2024-08-09T17:16:18-07:00Feat: Add new configurable env var `AIRBYTE_TEMP_FILE_CLEANUP` (#336)
+
+
+9bb782e83607e0017cccc13d00d0a47535ebadc723da9202f64b13d76f552fec46c01cd9b70392c7Aaron ("AJ") Steersaj@airbyte.io2024-08-10T00:08:10ZFeat: Process streams using deterministic (alpha-sorted) ordering (#335)
+
+
+23da9202f64b13d76f552fec46c01cd9b70392c7383d89ce0aa027d4f4311e495565c4dcc1b9844dAaron ("AJ") Steersaj@airbyte.io2024-08-09T21:48:01ZFeat: Improve log file handling for connector failures (#333)
+
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+383d89ce0aa027d4f4311e495565c4dcc1b9844d4c293d85bb2668f3a065b96334c9fde8e90e5ab1Aaron ("AJ") Steersaj@airbyte.io2024-08-09T18:37:15ZFix: Spammy logging from `grpcio` (temporarily force-downgrade `grpcio`) (#334)
+
+
+4c293d85bb2668f3a065b96334c9fde8e90e5ab1821c699c1f8643990bc6ac8b85b4bad80151a9eaAaron ("AJ") Steersaj@airbyte.io2024-08-09T02:11:41ZFix: Add "Destinations 1.0" handling to PyAirbyte: sync IDs, generation IDs, and stream success statuses (#330)
+
+
+821c699c1f8643990bc6ac8b85b4bad80151a9ead7a42d3670799ef54977ce73581f0c3f553591deAaron ("AJ") Steersaj@airbyte.io2024-07-31T23:38:13ZChore: Add PyAirbyte performance profiling option without caching (#323)
+
+
+d7a42d3670799ef54977ce73581f0c3f553591de67502d53d8f5d68f17f0845f694ecd86df3fe360Aaron ("AJ") Steersaj@airbyte.io2024-07-31T05:29:42ZFix: Default to docker-based destination executors (#322)
+
+
+67502d53d8f5d68f17f0845f694ecd86df3fe3601bcb440cd39e11011f3996987adcf6fbf02aa893Aaron ("AJ") Steersaj@airbyte.io2024-07-30T23:51:15ZFix: Misc cleanup (#317)
+
+
+1bcb440cd39e11011f3996987adcf6fbf02aa893aee6273a1b62e622312db514b8cd13a13277a30aAaron ("AJ") Steersaj@airbyte.io2024-07-30T21:33:47ZDocs: Clean up readme and module docs (#316)
+
+
+aee6273a1b62e622312db514b8cd13a13277a30ad42cb24f3f2e005e1b59101017ed478516ea47fcAaron ("AJ") Steersaj@airbyte.io2024-07-30T14:13:42-07:00Docs: Expose config classes in cache modules (#315)
+
+
+d42cb24f3f2e005e1b59101017ed478516ea47fc4a5722a53e562c9882a52b550379ee1ed3053fdeAaron ("AJ") Steersaj@airbyte.io2024-07-30T18:38:33ZDocs: Add destinations API reference docs (#314)
+
+
+4a5722a53e562c9882a52b550379ee1ed3053fde4591a6d1a3a47c8fac9d0881351e7133d6f4a82bAaron ("AJ") Steersaj@airbyte.io2024-07-30T17:29:48ZDocs: Improve docstrings and automated API ref docs (#313)
+
+
+4591a6d1a3a47c8fac9d0881351e7133d6f4a82bcaa0279ebb593e79e20182bea44742010d71e6a3Aaron ("AJ") Steersaj@airbyte.io2024-07-30T07:07:11-07:00Feat: Add destinations support (#257)
+
+
+caa0279ebb593e79e20182bea44742010d71e6a3ce20b56c708d8814e775ce5391ce9ba295497be1Aaron ("AJ") Steersaj@airbyte.io2024-07-22T13:51:48-07:00Chore: Compile pytest tests as part of `poe check` (#306)
+
+
+ce20b56c708d8814e775ce5391ce9ba295497be1e784ed95baa948efe3f34a022c3967e2fb61c7bbAaron ("AJ") Steersaj@airbyte.io2024-07-18T12:21:23-07:00Feat: Faster per-record processing (#301)
+
+
+e784ed95baa948efe3f34a022c3967e2fb61c7bb0616d8a2d5e4cb5c0a811956b7b5a2b5ccbccc3eAaron ("AJ") Steersaj@airbyte.io2024-07-18T12:15:33-07:00Feat: Improve progress prints (#302)
+
+
+0616d8a2d5e4cb5c0a811956b7b5a2b5ccbccc3e4249bd40dbeb250b61a8e90ef79268f7ce85cfafAaron ("AJ") Steersaj@airbyte.io2024-07-17T20:46:27-07:00Feat: Replace ULID raw record ID with UUID v7 (#300)
+
+
+4249bd40dbeb250b61a8e90ef79268f7ce85cfaf1acd6dfaa57a6f3091e94d30951dd6b49a5ef27bAaron ("AJ") Steersaj@airbyte.io2024-07-17T19:01:29-07:00Chore: Improve perf benchmarking (#299)
+
+
+1acd6dfaa57a6f3091e94d30951dd6b49a5ef27b326683cc212767f5d51a8cc6e63e2f8b3efcb173Aaron ("AJ") Steersaj@airbyte.io2024-07-17T16:55:26ZFeat: Multiple perf improvements and `viztracer` performance profiling (#298)
+
+
+326683cc212767f5d51a8cc6e63e2f8b3efcb173f5f7b0372e327b5ed99eb76ed39c6df8ab00d5b7Aaron ("AJ") Steersaj@airbyte.io2024-07-10T11:22:02-07:00Feat: Promote `get_source()` args for `docker_image` and `source_manifest` out of experimental status (#294)
+
+
+f5f7b0372e327b5ed99eb76ed39c6df8ab00d5b72682ed2511d8399bba001c7be21da5d17542d4e1Suraj153008493+Suraj-Vishwakarma70@users.noreply.github.com2024-07-09T08:38:01-07:00Fix: Instead of failing, raise a warning if stream selection is performed before config is present (#285)
+
+
+2682ed2511d8399bba001c7be21da5d17542d4e13e1ffb0fa8aa25fb72cbaef0efba07ad03a0f58fAviraj Gour100823015+avirajsingh7@users.noreply.github.com2024-07-08T21:38:55-07:00Feat: Adds interop with Arrow library using new method `Dataset.to_arrow()` (#281)
+
+
+3e1ffb0fa8aa25fb72cbaef0efba07ad03a0f58faea02e1b41ae4774e8ab9b72939a98fb59922861Aviraj Gour100823015+avirajsingh7@users.noreply.github.com2024-07-07T18:05:15-07:00Fix: Syncs shows "0 records" synced when using incremental sync (#282)
+
+
+aea02e1b41ae4774e8ab9b72939a98fb5992286186761251fb282b461fa401d02c1015631a58ddffV Singh143428836+vspanxcode@users.noreply.github.com2024-07-07T17:52:09-07:00Feat: Enable logging when new stream starts (#288)
+
+
+86761251fb282b461fa401d02c1015631a58ddff42e9c85395ad42f7451120f0e98a7d4169ef43c6Aaron ("AJ") Steersaj@airbyte.io2024-07-07T15:43:13-07:00Feat: Upgrade to Pydantic 2.0 and CDK 2.0 (#291)
+
+
+42e9c85395ad42f7451120f0e98a7d4169ef43c6cb0153e1664d58f6f9896c9be98596ea403f807bAaron ("AJ") Steersaj@airbyte.io2024-07-03T16:33:24ZDocs: Fix omitted `skip_validation` arg in `Source.read()` docstring (#289)
+
+
+cb0153e1664d58f6f9896c9be98596ea403f807ba008a198aeeec7922e606b3279053d6bf79f57dfAaron Steersaj@airbyte.io2024-06-29T12:02:30-07:00CI: [hotfix] On-demand pytest job should wait for 'start-workflow'
+
+a008a198aeeec7922e606b3279053d6bf79f57dfcc716f75f7e4520c07140ecdac283bb09ec1878aAaron Steersaj@airbyte.io2024-06-29T11:38:13-07:00CI: [hotfix] missing token in slash command workflow
+
+cc716f75f7e4520c07140ecdac283bb09ec1878a37b50db7ec5a1121d3f6c51b7faef850f35317daAaron ("AJ") Steersaj@airbyte.io2024-06-29T11:20:57-07:00CI: Fix flaky no-code verifications, add native GitHub Actions success notification for `/test-pr` slash command (#283)
+
+
+37b50db7ec5a1121d3f6c51b7faef850f35317da0dbe99d89157919320956f04105a3ce632d17029Niyas Hameedniyasrad@gmail.com2024-06-20T18:56:41-07:00Feat: Added `use_host_network` param to `get_source()`, allowing Docker containers to use host's network (#277)
+
+
+0dbe99d89157919320956f04105a3ce632d170294de5793d24231f04de1afe7eb81031b539eb323aAaron ("AJ") Steersaj@airbyte.io2024-06-20T18:31:50-07:00Chore: Update low-code registry overrides (#278)
+
+
+4de5793d24231f04de1afe7eb81031b539eb323a68da09d4dc77829152bb88588b3202f7e47da146Aaron ("AJ") Steersaj@airbyte.io2024-06-03T19:37:13-07:00Feat: Add experimental support for low-code source execution via manifest YAML (#175)
+
+
+68da09d4dc77829152bb88588b3202f7e47da146e8ea14a0a4dac984d92e8e48f8b171e6a4581e37Aaron ("AJ") Steersaj@airbyte.io2024-06-03T19:09:47-07:00Feat: Add means to disable the Rich "live view" (#271)
+
+
+e8ea14a0a4dac984d92e8e48f8b171e6a4581e376210103a8312c796f18bccbf303531b1ffa8d8caTang Quoc Thaivictortang212@gmail.com2024-06-03T18:26:49-07:00Feat: Add `install_root` arg for `get_source()`, allows users to override virtualenv base path (#268)
+
+
+6210103a8312c796f18bccbf303531b1ffa8d8cabdc10cada8c21fce0540d125ad48bf064e46cb11Aaron ("AJ") Steersaj@airbyte.io2024-06-03T18:45:03ZChore: Bump DuckDB from `0.9` to stable version `v1.x` (#269)
+
+
+bdc10cada8c21fce0540d125ad48bf064e46cb11499eeed67f8c0a2cc0c9d71ea23fac8afd84e4eaAaron ("AJ") Steersaj@airbyte.io2024-06-03T09:53:32-07:00Fix: Add back default schema name `'airbyte_raw'` for caches (#259)
+
+
+499eeed67f8c0a2cc0c9d71ea23fac8afd84e4eaad850f0eb3a5fee612ec8fdefe25695fe34d9803rshorserrshorser@gmail.com2024-05-30T08:37:51-07:00Fix: Wrap `is_interactive()` checks in an exception handler, enables running in ASGI environments (#263)
+
+
+ad850f0eb3a5fee612ec8fdefe25695fe34d9803bd8ee6dd40fe32fb4f48102f227ffb65c968f677Aaron ("AJ") Steersaj@airbyte.io2024-05-23T17:06:34ZFeat: Handle special chars in column and table name normalization (#239)
+
+
+bd8ee6dd40fe32fb4f48102f227ffb65c968f677bcfed966ba9a59cf9541e721a023e6f43c5c67bcAaron ("AJ") Steersaj@airbyte.io2024-05-21T20:23:57-07:00Chore: Configure warnings as errors in `pytest` (#245)
+
+
+bcfed966ba9a59cf9541e721a023e6f43c5c67bc3f161eea949c133b186ba0476bab835a9fb0a25aAaron ("AJ") Steersaj@airbyte.io2024-05-21T18:21:40ZFix: Resolve `TypeError` issue: "unhashable type 'list'" (#251)
+
+
+3f161eea949c133b186ba0476bab835a9fb0a25ae82d37c73b216c6a1ce53c1171067231431b555cAaron ("AJ") Steersaj@airbyte.io2024-05-16T17:54:18-07:00Chore: Clean up missing column additions logic (#243)
+
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+e82d37c73b216c6a1ce53c1171067231431b555c9564b4c92ed1e1d25cb24b05295d36aa286d17fbAaron ("AJ") Steersaj@airbyte.io2024-05-15T19:47:53ZFeat: CatalogManager refactor, decoupling sql processors, caches, and internal sql backend tables (#220)
+
+
+9564b4c92ed1e1d25cb24b05295d36aa286d17fb65558c8c8c3f62959e7ad73355ab9489490b0c80Aaron ("AJ") Steersaj@airbyte.io2024-05-15T12:18:49-07:00Chore: Bump Snowflake client and `cryptography` package (#234)
+
+
+65558c8c8c3f62959e7ad73355ab9489490b0c807859c10c2ea889a71d5108dccc037b145b112a8dAaron ("AJ") Steersaj@airbyte.io2024-05-15T10:47:02-07:00CI: Add '/poetry-lock' slash command (#236)
+
+
+7859c10c2ea889a71d5108dccc037b145b112a8df4cd1ce53a3e04a955b442526cfeedeab55b7d8bAaron ("AJ") Steersaj@airbyte.io2024-05-14T16:59:07-07:00Chore: Add Poe task support and code coverage reporting (#231)
+
+
+f4cd1ce53a3e04a955b442526cfeedeab55b7d8bddde34ccb19c5dc2db921f22ae525289e26d9defAaron ("AJ") Steersaj@airbyte.io2024-05-14T15:42:58-07:00Feat: Accept docker image names, move `DockerExecutor` support to `experimental` module (#230)
+
+
+ddde34ccb19c5dc2db921f22ae525289e26d9def51026ee5b6be7995a2882389434873263d4abcb7Tarek Kekhiatarek.kekhia@gmail.com2024-05-14T11:35:38-07:00Feat: Add an Executor for Docker sources (#209)
+
+Authored-by: Tarek Kekhia <@Tarekk>
+51026ee5b6be7995a2882389434873263d4abcb7cd1327a6835b2934f67de3f7f1b2598bee390a4dBindi Pankhudibindi@airbyte.io2024-05-10T10:24:24-07:00Feat: Add Cortex-compatible Snowflake SQL processor for storing vector data; Enable native merge upsert for Snowflake caches (#203)
+
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+cd1327a6835b2934f67de3f7f1b2598bee390a4d6b46c9bfab2b158b49076ec6bb3a9d2803ae53cfAaron ("AJ") Steersaj@airbyte.io2024-05-07T09:59:59-07:00Feat: Add `Source.connector_version` property (#211)
+
+
+6b46c9bfab2b158b49076ec6bb3a9d2803ae53cf3702e7129b91cc4df7c79e0b38385a0a5d06f7acAaron ("AJ") Steersaj@airbyte.io2024-04-24T09:48:49-07:00Chore: Update ruff rules and fix exceptions (#205)
+
+
+3702e7129b91cc4df7c79e0b38385a0a5d06f7ac88af60ec1ed4b99031e446429c08707fafe78da8Aaron ("AJ") Steersaj@airbyte.io2024-04-17T17:45:18-07:00CI: Fix minor issues in on-demand test and format workflows (#198)
+
+
+88af60ec1ed4b99031e446429c08707fafe78da897119c97d81e5a61634ea1a5c8d8cf9a8795363aAaron ("AJ") Steersaj@airbyte.io2024-04-15T21:37:25-07:00Fix: Expand default decimal size to `(38, 9)`, resolve issues with large number values (#194)
+
+
+97119c97d81e5a61634ea1a5c8d8cf9a8795363a77497c5553023e9646822c1ca8cd84643178d9c6Aaron ("AJ") Steersaj@airbyte.io2024-04-12T16:02:28-07:00Feat: Add singular `fetch_connector_secret()` for `GoogleGSMSecretManager`, fix GSM edge cases, and add CI tests (#191)
+
+
+77497c5553023e9646822c1ca8cd84643178d9c6ff38fbf368e33a17f6c622a78ee541d7d3d217bbAaron ("AJ") Steersaj@airbyte.io2024-04-12T13:01:51-07:00Docs: Improve docs around `0.10.x` features (#190)
+
+
+ff38fbf368e33a17f6c622a78ee541d7d3d217bb740deeb8726ac7fd6d08ef22f7ffcc621f1efe23Aaron ("AJ") Steersaj@airbyte.io2024-04-12T09:07:27-07:00Fix: Mark google secrets library as a main dependency (#189)
+
+
+740deeb8726ac7fd6d08ef22f7ffcc621f1efe23011315caa6a31cd2f7244c4b83d1082ec0510b2cAaron ("AJ") Steersaj@airbyte.io2024-04-12T08:25:57-07:00Docs: Add code samples/snippets; Feat: add `parse_json()` as convenience method on Handles (#182)
+
+
+011315caa6a31cd2f7244c4b83d1082ec0510b2c6c9dab824f2f0cbab209732dd4e88fdcd5ebaf1cSebastien Haentjenssebastien.haentjens@gmail.com2024-04-12T07:49:23-07:00Fix: Resolve load failures for large files by running Snowflake `PUT` queries sequentially (#188)
+
+
+6c9dab824f2f0cbab209732dd4e88fdcd5ebaf1ca1a39097cf1167289e1fb570bdcf685a9de1ea48Aaron ("AJ") Steersaj@airbyte.io2024-04-11T20:00:30-07:00Chore: Bump `airbyte-api` (#186)
+
+
+a1a39097cf1167289e1fb570bdcf685a9de1ea483a7ba199fced1af5dc66a022e0831d0a92e94d19Sebastien Haentjenssebastien.haentjens@gmail.com2024-04-10T18:14:08-07:00Fix: Add `json` fall back for deeply nested records (#178)
+
+
+3a7ba199fced1af5dc66a022e0831d0a92e94d19ad19764b84057193b986812abf0c8e3417fabc6fAaron ("AJ") Steersaj@airbyte.io2024-04-10T21:05:06ZFeat: Add Cloud Interop and Robust Secrets Management (#143)
+
+
+ad19764b84057193b986812abf0c8e3417fabc6ff7953d14415f8ccf6e116152092f5df742311e10Natik Gadzhinatik@respawn.io2024-04-07T11:16:09-07:00Chore(tools): Align Pyright configuration with MyPy and specific deterministic venv location for Pyright (#176)
+
+
+f7953d14415f8ccf6e116152092f5df742311e10db79c23111d095e18ee463c026e6d7baa48fe3e5Aaron ("AJ") Steersaj@airbyte.io2024-04-03T19:27:43-07:00Docs: Fix left-nav issue (#172)
+
+
+db79c23111d095e18ee463c026e6d7baa48fe3e5b28c8d8b2e493ef96112308fde44f4ac2b984b82Aaron ("AJ") Steersaj@airbyte.io2024-04-03T15:58:31-07:00Docs: Add schema evolution topic (#170)
+
+
+b28c8d8b2e493ef96112308fde44f4ac2b984b82bb76142ba38327163dff6976cdf0f421fc7ba696Aaron ("AJ") Steersaj@airbyte.io2024-04-03T15:10:08-07:00Docs: Move `StreamRecord` class to public module, add docs (#166)
+
+Co-authored-by: octavia-squidington-iii <contact@airbyte.com>
+bb76142ba38327163dff6976cdf0f421fc7ba6960a20aa2c9974fcd17546e1530f18e6e6ee2ba3a5Aaron ("AJ") Steersaj@airbyte.io2024-04-03T15:06:54-07:00CI: Skip lint checks in pytest when redundant (#169)
+
+
+0a20aa2c9974fcd17546e1530f18e6e6ee2ba3a54cfb55b80cb637e560dbd8cea58d1c6692330358Aaron ("AJ") Steersaj@airbyte.io2024-04-03T11:29:33-07:00Feat: Align internal Airbyte columns with Dv2; Feat: Auto-add missing columns to Cache tables. (#144)
+
+
+4cfb55b80cb637e560dbd8cea58d1c6692330358a0eab0b66d7067948363536e24c08894e69c718bCole Snodgrasscole@airbyte.io2024-04-02T10:44:21-07:00Chore: Update user-facing header to be more inclusive in `analytics.yml` (#163)
+
+
+a0eab0b66d7067948363536e24c08894e69c718beca28c0dab8e8474838453e4be81d00213dac3634sushimartinus-dev@protonmail.com2024-04-01T23:21:31-07:00Feat: Adapt BigQuery classes to be able to use default credential (#157)
+
+
+eca28c0dab8e8474838453e4be81d00213dac3632b7b2a5280d790065596ca5fcc4ccd97df52596bAaron ("AJ") Steersaj@airbyte.io2024-04-01T20:52:50-07:00CI: Improved slash commands, append job link and status to comment (#162)
+
+
+2b7b2a5280d790065596ca5fcc4ccd97df52596b46728491e11a9995131cf99677632289a9513f2dAaron Steersaj@airbyte.io2024-04-01T17:56:51-07:00CI: Hotfix: Handle unsafe lint fixes in `pr-fix` slash command
+
+46728491e11a9995131cf99677632289a9513f2d072082227b7b577c165cb89eba1d13180f0680a2Aaron ("AJ") Steersaj@airbyte.io2024-04-01T17:23:26-07:00Fix: Resolve issue where case-sensitive column pruning removes real columns (#161)
+
+
+072082227b7b577c165cb89eba1d13180f0680a2f2fb3488d07f6741c2906416e952a5dc44e6d8c6Aaron ("AJ") Steersaj@airbyte.io2024-03-29T14:41:01-07:00Test the CI fix slash command (#155)
+
+
+f2fb3488d07f6741c2906416e952a5dc44e6d8c6ae13ca7a4e5fe25116b2827dbe63506423c1cf3cAaron ("AJ") Steersaj@airbyte.io2024-03-29T14:28:13-07:00CI: Add new `fix-pr` slach command (#154)
+
+
+ae13ca7a4e5fe25116b2827dbe63506423c1cf3c5f92af13ef5656f7c5e69ab5e02c6c0ce370ce82Aaron Steersaj@airbyte.io2024-03-29T14:14:29-07:00ci: hotfix: slash command dispatch type
+
+5f92af13ef5656f7c5e69ab5e02c6c0ce370ce826100aac74da6243499264fd627aaaaf110c7805cAaron ("AJ") Steersaj@airbyte.io2024-03-29T13:58:32-07:00ci: hotfix: use string types in dispatch
+6100aac74da6243499264fd627aaaaf110c7805c6b4d63f7d659e948f1ae10fe8e3c6aea960d594dAaron ("AJ") Steersaj@airbyte.io2024-03-29T13:23:15-07:00Docs: Fix renamed 'get_connection' (#153)
+
+
+6b4d63f7d659e948f1ae10fe8e3c6aea960d594d5238c641492f9fd7dc8e7b9d3a2612dd0bad9c56Aaron ("AJ") Steersaj@airbyte.io2024-03-28T15:04:11-07:00Chore: Pin `orjson` to last stable version (#152)
+
+
+5238c641492f9fd7dc8e7b9d3a2612dd0bad9c563e5cc4b8868f93f7ec2b4ac3665de03a98b475fcAaron Steersaj@airbyte.io2024-03-28T11:28:29-07:00ci: hotfix: slash command token, add error comment.
+
+3e5cc4b8868f93f7ec2b4ac3665de03a98b475fcf587cbeeeb911d918f8915a662421085a4b50105Tino Merl35485536+tinomerl@users.noreply.github.com2024-03-28T10:23:48-07:00Fix: Add fully qualified name in cache to swapping method (#149)
+
+
+f587cbeeeb911d918f8915a662421085a4b5010500a6df956320fcdb979833b6f06935c8f08836b6Aaron Steersaj@airbyte.io2024-03-28T09:26:16-07:00ci: hotfix: slash command definition
+
+00a6df956320fcdb979833b6f06935c8f08836b616df49998ce2c9a29cd5b601610fce36c819c26bAaron ("AJ") Steersaj@airbyte.io2024-03-28T09:21:17-07:00CI: Fix the on-demand PR test workflow (#150)
+
+
+16df49998ce2c9a29cd5b601610fce36c819c26b2e2888280ff7c5a76d7e96cca201e1aafd28eb56Aaron ("AJ") Steersaj@airbyte.io2024-03-28T09:04:02-07:00CI: Add 'no-creds' test in CI, fix "only on forks" condition of full pytest suite, add pr check workflow (#145)
+
+
+2e2888280ff7c5a76d7e96cca201e1aafd28eb567652c332c42dcaae604cb15730d5073ed1bc1055Aaron ("AJ") Steersaj@airbyte.io2024-03-27T19:04:31-07:00Fix: Improve progress updates, including list of streams finalized (#147)
+
+
+7652c332c42dcaae604cb15730d5073ed1bc105509957737b11f9143f603c356488af68182d0ba98Aaron ("AJ") Steersaj@airbyte.io2024-03-27T22:02:33ZFix: Resolve issue where `read()` would fail if it received unexpected/undeclared top-level properties in a stream (#131)
+
+
+09957737b11f9143f603c356488af68182d0ba988e3441baff7048e683c98dcea502840516277823Aaron ("AJ") Steersaj@airbyte.io2024-03-22T10:11:17-07:00Chore: Bump `airbyte-cdk` to latest (#137)
+
+
+8e3441baff7048e683c98dcea502840516277823c8ceafba025bcad16141c56814b024a20d8d26fdAaron ("AJ") Steersaj@airbyte.io2024-03-21T19:48:05-07:00Feat: Allow incremental refresh in combination with `REPLACE` strategy (#136)
+
+
+c8ceafba025bcad16141c56814b024a20d8d26fd2d90641759f1d5e15bd2eb94833c60ab126dcd87Tino Merl35485536+tinomerl@users.noreply.github.com2024-03-21T19:40:16-07:00Feat: Adding method to generate an example config based on the connector spec. (#80)
+
+
+2d90641759f1d5e15bd2eb94833c60ab126dcd87e60615724ad6ed86532b7be0e7dcec40103ac016Aaron ("AJ") Steersaj@airbyte.io2024-03-19T22:29:45ZChore: Add logging for config validation, source check, and successful installs (#135)
+
+
+e60615724ad6ed86532b7be0e7dcec40103ac0161827801ce3864e1354a9afb3a47da6f68771edf3Aaron ("AJ") Steersaj@airbyte.io2024-03-19T13:02:27-07:00Fix: Resolve bug in Colab notebook name detection (#132)
+
+
+1827801ce3864e1354a9afb3a47da6f68771edf3ee47a3b57291a22115f5395585c475ddd1b1b233Aaron ("AJ") Steersaj@airbyte.io2024-03-19T13:00:11-07:00Feat: Always run config pre-validation (#134)
+
+
+ee47a3b57291a22115f5395585c475ddd1b1b233225af9e75cef87b611d6f8a033afdb498a5848a2Aaron ("AJ") Steersaj@airbyte.io2024-03-18T22:25:33-07:00Fix: Resolve Windows compatibility issues (#100)
+
+
+225af9e75cef87b611d6f8a033afdb498a5848a28f6c011db163efba3122f3ec55b2d7e118ccaff0Aaron ("AJ") Steersaj@airbyte.io2024-03-18T21:24:34-07:00Fix: Resolve issue where BigQuery caches fail to load on streams without a primary key, or when a table rename is required (#122)
+
+
+8f6c011db163efba3122f3ec55b2d7e118ccaff03b26f819fd0c3ce1302448f3de2a4235ef0a0b9dAaron ("AJ") Steersaj@airbyte.io2024-03-13T12:24:08-07:00Chore: Add telemetry tracking flag for `langchain-airbyte`; Fix: incorrect telemetry URL printed in first-time execution (#125)
+
+
+3b26f819fd0c3ce1302448f3de2a4235ef0a0b9d2f483ec1af451bbd8cc55b45893274ccceba3bcbBindi Pankhudibindi@airbyte.io2024-03-12T19:20:37-07:00Feat: Telemetry - Added "install" event type to track failed installs (#115)
+
+Co-authored-by: bindipankhudi <bindi@airbyte.com>
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+2f483ec1af451bbd8cc55b45893274ccceba3bcb1e45e42bbd6af2e22cd5d144b8bbbf2637e098cfAaron ("AJ") Steersaj@airbyte.io2024-03-12T23:55:39ZChore: Add anonymous user ID in tracking events (#124)
+
+
+1e45e42bbd6af2e22cd5d144b8bbbf2637e098cf5a8ebf575d6bee306a8693585aca9d9b33317e0eAaron ("AJ") Steersaj@airbyte.io2024-03-08T23:58:01ZFix: Resolve issue where mixed-case stream properties would result in missing data (#114)
+
+
+5a8ebf575d6bee306a8693585aca9d9b33317e0ebfad07b2f98aff798e6958d4dc3810993a31beabAaron ("AJ") Steersaj@airbyte.io2024-03-08T14:31:09-08:00Docs: Add usage samples for each cache option (#112)
+
+
+bfad07b2f98aff798e6958d4dc3810993a31beab5cbde1811e8ec6377410213e916fea97a436bea5Aaron ("AJ") Steersaj@airbyte.io2024-03-08T12:04:29-08:00Fix: Handle array types with json schema parsing errors in subtypes (#113)
+
+
+5cbde1811e8ec6377410213e916fea97a436bea5ce2bcf4617d99f167bf7c36d5dd80a28d0a6eb0fAaron ("AJ") Steersaj@airbyte.io2024-03-07T18:29:25-08:00Feat: Clean up public API and improve docs (#109)
+
+
+ce2bcf4617d99f167bf7c36d5dd80a28d0a6eb0fe1260c43ea9f8688e3b8524172834cea7de050e6Aaron ("AJ") Steersaj@airbyte.io2024-03-07T15:12:02-08:00Fix: Resolve conflicting schema issues by removing dependency on PyArrow (#67)
+
+
+e1260c43ea9f8688e3b8524172834cea7de050e69e5cc3eebe4e1172ad574736e43f676bdcfd6622Aaron ("AJ") Steersaj@airbyte.io2024-03-05T09:06:46-08:00Chore: Loosen version requirements to match Colab defaults (#97)
+
+
+9e5cc3eebe4e1172ad574736e43f676bdcfd662211a78e2a72e5cce7cf2616055fdd8750110ff32aAaron ("AJ") Steersaj@airbyte.io2024-03-04T22:07:59-08:00Fix: Resolve Python 3.9 compatibility issues, expand CI test matrix (#98)
+
+
+11a78e2a72e5cce7cf2616055fdd8750110ff32a9fdce038563e8c6ea422fda1c7f2b76cd4b6e4e1Aaron ("AJ") Steersaj@airbyte.io2024-03-04T20:35:33-08:00Chore: Add `.gitignore` rules for secrets dirs (#96)
+
+
+9fdce038563e8c6ea422fda1c7f2b76cd4b6e4e187c0f34b56b94933ea521a65e0e9636db41f5cf7Bindi Pankhudibindi@airbyte.io2024-03-01T10:51:38-08:00Docs: Fixed typo and indentation in README.md (#88)
+
+
+87c0f34b56b94933ea521a65e0e9636db41f5cf70aa2fb59f76241c7fbf8bae79d4935af345e8fa6Bindi Pankhudibindi@airbyte.io2024-03-01T10:37:52-08:00Docs: Add table of contents & FAQ to readme (#83)
+
+Co-authored-by: bindipankhudi <bindi@airbyte.com>
+0aa2fb59f76241c7fbf8bae79d4935af345e8fa6edf23141a0f3f72464c677ec62ad2ba3d4333d86Bindi Pankhudibindi@airbyte.io2024-02-29T18:25:43ZDocs: update readme (#81)
+
+Co-authored-by: bindipankhudi <bindi@airbyte.com>
+edf23141a0f3f72464c677ec62ad2ba3d4333d86d1d12d68db7d1dc9e4eb8327cc45f9a7f7a3b262Aaron ("AJ") Steersaj@airbyte.io2024-02-28T14:51:09-08:00Chore: Revamp anonymous usage stats (#62)
+
+
+d1d12d68db7d1dc9e4eb8327cc45f9a7f7a3b2628ebc28fc5d450f1142b9c4c7bf2a5998223ad6feAaron ("AJ") Steersaj@airbyte.io2024-02-28T06:50:50-08:00Fix: Method `to_sql_table()` fails when called from cached dataset (#76)
+
+
+8ebc28fc5d450f1142b9c4c7bf2a5998223ad6fe1964a8b001655e600a8a716316c19d51f5106f7bAaron ("AJ") Steersaj@airbyte.io2024-02-27T14:44:49-08:00Feat: Add support for rendering records as LLM documents (#48)
+
+
+1964a8b001655e600a8a716316c19d51f5106f7b54898e55f076e285d0774700a6628dcbe4216331Aaron ("AJ") Steersaj@airbyte.io2024-02-26T20:22:37-08:00Fix: Pass `streams` list from `get_source()` to `Source` constructor (#71)
+
+
+54898e55f076e285d0774700a6628dcbe42163316cfc3b5e64db45622bbe4ac3d9b18b360e22c8acBindi Pankhudibindi@airbyte.io2024-02-25T11:15:44-08:00Docs: Update airbyte logo to pyairbyte logo in docs  (#68)
+
+Co-authored-by: bindipankhudi <bindi@airbyte.com>
+6cfc3b5e64db45622bbe4ac3d9b18b360e22c8ac797e657d8e889bdd052b8d7036a2ac73667b1741Bindi Pankhudibindi@airbyte.io2024-02-25T17:14:11ZFeat: Add BigQuery cache support; Fix: IPython rendering bug when using a TTY (#65)
+
+Co-authored-by: bindipankhudi <bindi@airbyte.com>
+Co-authored-by: Aaron Steers <aj@airbyte.io>
+797e657d8e889bdd052b8d7036a2ac73667b17417b527d0acb70bf0f3536c2108e4e4a123f996a7bAaron ("AJ") Steersaj@airbyte.io2024-02-23T21:34:18ZFeat: Add MotherDuck cache support 🦆 (#43)
+
+
+7b527d0acb70bf0f3536c2108e4e4a123f996a7b81d1b9c4116d415a0917054db4e4a7f8ba475d67Aaron ("AJ") Steersaj@airbyte.io2024-02-22T12:35:18-08:00Feat: Remove need to import `CacheConfig` classes in addition to `Cache` classes (major refactor) (#59)
+
+
+81d1b9c4116d415a0917054db4e4a7f8ba475d67b0a98fe04172fa3a4c2c31abe443fa1572640e28Aaron ("AJ") Steersaj@airbyte.io2024-02-21T20:24:56-08:00Feat: Replace Parquet File Writer with Gzipped Jsonl File Writer (#60)
+
+
+b0a98fe04172fa3a4c2c31abe443fa1572640e280441fdfb104d93a50df5d6c31b18ba0c9f2988d7Aaron ("AJ") Steersaj@airbyte.io2024-02-21T12:41:38-08:00Test: Add script to streamline integ test with any source (#58)
+
+
+0441fdfb104d93a50df5d6c31b18ba0c9f2988d773398623fc8053731c88ff570c5d1629cdf73b79Aaron ("AJ") Steersaj@airbyte.io2024-02-20T07:41:27-08:00Feat: Allow stream selection in `get_source()` and `read()`, with support for `streams="*"` (#52)
+
+
+73398623fc8053731c88ff570c5d1629cdf73b79182635ab2c039f44dfe1a6a64a6111eb3e8eed1aAaron ("AJ") Steersaj@airbyte.io2024-02-17T12:41:44-08:00CI: Consolidate CI jobs into fewer files (cleaner UI in GitHub) (#49)
+
+
+182635ab2c039f44dfe1a6a64a6111eb3e8eed1a9becf1334a3faf59c4ff658483e6167afe14994eAaron ("AJ") Steersaj@airbyte.io2024-02-17T08:12:20-08:00Chore: Replace changelog with link to GitHub Releases (#47)
+
+
+9becf1334a3faf59c4ff658483e6167afe14994e65b86dd9c7e5a9da3da4c8ba5dfd297635fabba2Aaron ("AJ") Steersaj@airbyte.io2024-02-16T21:25:51-08:00Docs: Cleanup auto-generated reference docs (#46)
+
+
+65b86dd9c7e5a9da3da4c8ba5dfd297635fabba2529ed70a51226e29be2014799f25c07392c343d8Aaron ("AJ") Steersaj@airbyte.io2024-02-16T20:46:51-08:00CI: Add PyPi publish workflow (#44)
+
+
+529ed70a51226e29be2014799f25c07392c343d8001a3b4aa58f5a4d347f7b72d804fb2fd0b9378eAaron Steersaj@airbyte.io2024-02-16T20:45:05-08:00ci: fix release drafter config filename
+
+001a3b4aa58f5a4d347f7b72d804fb2fd0b9378ea2de7cc3da058c0ab68b4c0ddb3a5af003d7c2baAaron Steersaj@airbyte.io2024-02-16T20:42:46-08:00ci: fix casing of semantic pr types
+
+a2de7cc3da058c0ab68b4c0ddb3a5af003d7c2ba633e1b4df82060d708eecd43144158ad44119187Aaron ("AJ") Steersaj@airbyte.io2024-02-16T20:39:58-08:00CI: Add auto-release draft and semantic PR titles check (#45)
+
+
+633e1b4df82060d708eecd43144158ad441191877861c04b47e1c02b8eb00641d14f050777efceaaAaron ("AJ") Steersaj@airbyte.io2024-02-16T17:47:28-08:00Add documentation publish and preview workflows (#42)
+
+
+7861c04b47e1c02b8eb00641d14f050777efceaae2e8f0b64e9e6312ca776ee32665fba48df732feAaron ("AJ") Steersaj@airbyte.io2024-02-16T17:13:46-08:00add LICENSE
+e2e8f0b64e9e6312ca776ee32665fba48df732fe81d78943b73a295954f0d80d7e5590e62657642aAaron ("AJ") Steersaj@airbyte.io2024-02-15T23:29:51-08:00Chore: add github ci workflows (#41)
+
+
+81d78943b73a295954f0d80d7e5590e62657642a39eabc72cb5dbea6ff5923b8e542b21640094055Aaron ("AJ") Steersaj@airbyte.io2024-02-15T19:59:39-08:00Chore: rename 'airbyte-lib' and 'airbyte_lib' to 'PyAirbyte' or 'airbyte' (#40)
+
+
+39eabc72cb5dbea6ff5923b8e542b2164009405525eba33f5a704c0cc763a84f2e3118ef2eef03c0Aaron Steersaj@airbyte.io2024-02-15T19:12:00-08:00add gitignore from python template
+
+25eba33f5a704c0cc763a84f2e3118ef2eef03c04c641a36ee48b2f4e24e6bf7889d2adabf0704eeBindi Pankhudibindi@airbyte.io2024-02-15T14:07:05-08:00AirbyteLib: Fix no-such-table-error (#35311)
+
+Co-authored-by: Bindi Pankhudi <bindi@airbyte.com>
+Co-authored-by: Aaron Steers <aj@airbyte.io>
+4c641a36ee48b2f4e24e6bf7889d2adabf0704ee99c5387d71799cfd7aa580b19db2029c872129bcAaron ("AJ") Steersaj@airbyte.io2024-02-14T13:23:26-08:00AirbyteLib: suppress duckdb reflection warnings (#35300)
+
+
+99c5387d71799cfd7aa580b19db2029c872129bccfb36aefb9c7c5ce6e751016579c621b0fb6c2edAaron ("AJ") Steersaj@airbyte.io2024-02-14T11:47:49-08:00AirbyteLib: Mark and deprioritize slow tests (#35298)
+
+
+cfb36aefb9c7c5ce6e751016579c621b0fb6c2ed84689765331152553dd3316353b6370d81c4e4cdAaron ("AJ") Steersaj@airbyte.io2024-02-14T18:04:19ZAirbyteLib: Add support for JSON and VARIANT types (#35117)
+
+Co-authored-by: Joe Reuter <joe@airbyte.io>
+84689765331152553dd3316353b6370d81c4e4cd3857a0daa0749441340b1477eef9b692f122328bAaron ("AJ") Steersaj@airbyte.io2024-02-13T19:31:14-08:00AirbyteLib: improve json schema type detection (#35263)
+
+
+3857a0daa0749441340b1477eef9b692f122328b05762b724b590b0b5864bb141516ec243ed125dcAaron ("AJ") Steersaj@airbyte.io2024-02-13T22:50:37ZAirbyteLib: support secrets in dotenv files (#35244)
+
+
+05762b724b590b0b5864bb141516ec243ed125dc200dd0c06d0f0eb952de6763d1221e1c9d8ebb3fAaron ("AJ") Steersaj@airbyte.io2024-02-12T11:48:22-08:00AirbyteLib: Release 0.1.0 (#35184)
+
+
+200dd0c06d0f0eb952de6763d1221e1c9d8ebb3fbf4dbefb365cae3979ccf32df525b0921c061c78Joe Reuterjoe@airbyte.io2024-02-09T15:27:06-08:00airbyte-lib: Escape column names (#34969)
+
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+bf4dbefb365cae3979ccf32df525b0921c061c78dd3c802417b544e9fa964e093b15683e5174a4d4Joe Reuterjoe@airbyte.io2024-02-08T16:36:43-08:00airbyte-lib: Fix telemetry for streaming (#34955)
+
+
+dd3c802417b544e9fa964e093b15683e5174a4d47c6695a836175ce70d02896d6eecc9d8cceec449Joe Reuterjoe@airbyte.io2024-02-08T16:30:32-08:00airbyte-lib: Clean up test schema in Snowflake (#35015)
+
+
+7c6695a836175ce70d02896d6eecc9d8cceec44954118a29bb9b29924b54c98b24674345c72c21f9Joe Reuterjoe@airbyte.io2024-02-08T16:27:46-08:00AirbyteLib: Show list of actually available connectors (#35018)
+
+
+54118a29bb9b29924b54c98b24674345c72c21f9586f4a7c9528b8dd408716cd054601128e9cdafbAaron ("AJ") Steersaj@airbyte.io2024-02-07T17:48:13-08:00AirbyteLib: Use case-insensitive method of finding column objects (#34985)
+
+
+586f4a7c9528b8dd408716cd054601128e9cdafb459f313a9bd2c01a677c7eaaf42a991aaf826540Aaron ("AJ") Steersaj@airbyte.io2024-02-07T16:04:45-08:00AirbyteLib: Add 'get_available_connectors()' option (#34982)
+
+
+459f313a9bd2c01a677c7eaaf42a991aaf826540abd621c255039560965dbf0d8f4f86b75420b1f4Aaron ("AJ") Steersaj@airbyte.io2024-02-07T22:18:09ZAirbyteLib: Require stream selection (#34979)
+
+
+abd621c255039560965dbf0d8f4f86b75420b1f4726cd9de01ec9b13292c0ceb84ab47124e260368Aaron ("AJ") Steersaj@airbyte.io2024-02-07T11:15:00-08:00AirbyteLib: Improved progress print, especially in the terminal (#34973)
+
+
+726cd9de01ec9b13292c0ceb84ab47124e260368116114d0ca2b1bead843a0a7c475611ce662b0efAugustinaugustin@airbyte.io2024-02-07T15:08:05Zinternal poetry packages: declare poe tasks and airbyte-ci sections in pyproject.toml (#34735)
+
+
+116114d0ca2b1bead843a0a7c475611ce662b0ef52fd2cc8676718f9b1e8e36c64fc7d83c615ffb1Aaron ("AJ") Steersaj@airbyte.io2024-02-06T15:54:37-08:00AirbyteLib: Case insensitive missing column checks, deterministic column ordering in duckdb inserts (#34824)
+
+
+52fd2cc8676718f9b1e8e36c64fc7d83c615ffb1cd1c97962739cbd952daa1b5a185ff0eb8a92783Joe Reuterjoe@airbyte.io2024-02-06T12:47:57+01:00airbyte-lib: Stream state (#34778)
+
+Co-authored-by: Aaron Steers <aj@airbyte.io>
+cd1c97962739cbd952daa1b5a185ff0eb8a9278313305b88b50b78d2293d9e8ccae96164dcda76a8Joe Reuterjoe@airbyte.io2024-02-06T12:36:10+01:00airbyte-ci: Make pypi publish enabled for certified connectors (#34836)
+
+
+13305b88b50b78d2293d9e8ccae96164dcda76a820c588a76d3651faf713d9795d80e0018588d778Joe Reuterjoe@airbyte.io2024-02-06T12:29:49+01:00airbyte-lib: Use proper segment key (#34863)
+
+
+20c588a76d3651faf713d9795d80e0018588d7783f5e2cd174615a1595fe53b8ae6b5b591f9ddea3Joe Reuterjoe@airbyte.io2024-02-06T12:29:35+01:00airbyte-lib: Improve source factory (#34849)
+
+
+3f5e2cd174615a1595fe53b8ae6b5b591f9ddea318930ac3b7a739ea1a1bdef2cda8299ab4accf5fJoe Reuterjoe@airbyte.io2024-02-06T11:40:33+01:00airbyte-lib: Fix processed records counter (#34857)
+
+
+18930ac3b7a739ea1a1bdef2cda8299ab4accf5f920e64c8abd615f9813d0c95b69be1a2677cc18aAaron ("AJ") Steersaj@airbyte.io2024-02-06T00:36:52-08:00AirbyteLib: Add basic secrets management (#34822)
+
+
+920e64c8abd615f9813d0c95b69be1a2677cc18a2554f7ebeecb561b4c2097ed27903ee74a346f5fAaron ("AJ") Steersaj@airbyte.io2024-02-06T00:26:17-08:00AirbyteLib: detect REPL and disable Rich.Live if so (#34782)
+
+
+2554f7ebeecb561b4c2097ed27903ee74a346f5f3ed9f58d5432b494a5339f232eb9856ac0030291Aaron ("AJ") Steersaj@airbyte.io2024-02-06T00:25:10-08:00AirbyteLib: Support write strategies: 'merge' and 'auto' (#34592)
+
+Co-authored-by: Joe Reuter <joe@airbyte.io>
+3ed9f58d5432b494a5339f232eb9856ac003029165e375eea02043dbaabd70b05331882597cc7625Aaron ("AJ") Steersaj@airbyte.io2024-02-04T17:11:51-08:00AirbyteLib: Add pip_url helpers to streamline connector debugging  (#34827)
+
+
+65e375eea02043dbaabd70b05331882597cc762518de36b2cb9731a0a32197c972a8c874ab6aaacbAaron ("AJ") Steersaj@airbyte.io2024-02-02T20:20:27-08:00AirbyteLib: friendly install and post-install messaging (#34816)
+
+
+18de36b2cb9731a0a32197c972a8c874ab6aaacb3e194b7336eb719987b539610f11178f7dafc669Aaron ("AJ") Steersaj@airbyte.io2024-02-02T17:09:43-08:00AirbyteLib: Fix column count mismatch bug (#34783)
+
+
+3e194b7336eb719987b539610f11178f7dafc669801a0130ab08fb3db601a48f01a574947118f9a2Aaron ("AJ") Steersaj@airbyte.io2024-02-02T11:39:35-08:00AirbyteLib: Ignore unused Airbyte Protocol message types (#34779)
+
+
+801a0130ab08fb3db601a48f01a574947118f9a2b8d42c676857927ba2df589ae01fbdfc1d25ddbaJoe Reuterjoe@airbyte.io2024-02-02T10:17:17-08:00AirbyteLib: Treat error trace as logs (#34771)
+
+
+b8d42c676857927ba2df589ae01fbdfc1d25ddba6690e807decf79e4c601a5ed20534d75bf349fe7Aaron ("AJ") Steersaj@airbyte.io2024-02-02T10:13:27-08:00AirbyteLib: Add len() support on SQL datasets and Mapping behaviors for ReadResult (#34763)
+
+
+6690e807decf79e4c601a5ed20534d75bf349fe7078f5f49a6b3f78fefdae2a22133def98682b7a5Aaron ("AJ") Steersaj@airbyte.io2024-02-02T09:35:15-08:00AirbyteLib: fix examples in getting started (#34762)
+
+
+078f5f49a6b3f78fefdae2a22133def98682b7a5d53acf1a7c86aea3a342d4f5cb8ac31352ddb40eJoe Reuterjoe@airbyte.io2024-01-31T12:01:49-08:00airbyte-lib: Use connector metadata (#34697)
+
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+d53acf1a7c86aea3a342d4f5cb8ac31352ddb40e0a3ec347fceb2a5818bd17cc76eb4994d8bbe755Joe Reuterjoe@airbyte.io2024-01-30T18:02:55+01:00airbyte-lib: Prepare for published connectors (#34651)
+
+
+0a3ec347fceb2a5818bd17cc76eb4994d8bbe755c869543449794d43363c6caf9ad4469d23448c73Joe Reuterjoe@airbyte.io2024-01-30T10:35:30+01:00airbyte-lib: Fix validation (#34599)
+
+
+c869543449794d43363c6caf9ad4469d23448c737532bd49dbebf5cd3f0e7acaec75f24dc40c2f3fAaron ("AJ") Steersaj@airbyte.io2024-01-30T06:56:24ZAirbyteLib: DuckDB Perf Boost (#34589)
+
+
+7532bd49dbebf5cd3f0e7acaec75f24dc40c2f3f147be375195103310f0ca2e587d089bd864f76d0Aaron ("AJ") Steersaj@airbyte.io2024-01-30T06:39:26ZAirbyteLib: Progress Printer (#34588)
+
+
+147be375195103310f0ca2e587d089bd864f76d096241c87ba7acf5ccf0eb20e99f0f28c6bcc463dAaron ("AJ") Steersaj@airbyte.io2024-01-30T06:07:21ZAirbyteLib: Installation improvements and improved error handling (#34572)
+
+
+96241c87ba7acf5ccf0eb20e99f0f28c6bcc463d3c6d4c73d0fc771f20e63628862a8582088808f1Joe Reuterjoe@airbyte.io2024-01-29T11:17:52+01:00airbyte-lib: Track streams in cache (#34517)
+
+
+3c6d4c73d0fc771f20e63628862a8582088808f1beae547867f51fdbb3d54aafe16f82498c453af4Joe Reuterjoe@airbyte.io2024-01-26T09:20:48Zairbyte-lib: Add publish action (#34486)
+
+Co-authored-by: alafanechere <augustin.lafanechere@gmail.com>
+beae547867f51fdbb3d54aafe16f82498c453af466a01db58ed165e5caaa9e5b4ed6249aa2374731Joe Reuterjoe@airbyte.io2024-01-26T09:26:41+01:00airbyte-lib: Fix docs generation (#34474)
+
+
+66a01db58ed165e5caaa9e5b4ed6249aa23747319f2878f7a3eeddedb258797d50b55947fb30b43fJoe Reuterjoe@airbyte.io2024-01-26T09:20:27+01:00airbyte-lib: Lightweight validation (#34475)
+
+
+9f2878f7a3eeddedb258797d50b55947fb30b43faefcdec15dfa6bfb3206e8fd7a51c9c4b699617bAaron ("AJ") Steersaj@airbyte.io2024-01-24T13:44:35-08:00AirbyteLib: Formalized Exception Handling (#34488)
+
+
+aefcdec15dfa6bfb3206e8fd7a51c9c4b699617b23534fc9ecbbed2f4b3e58048e94b18e34159b5bAaron ("AJ") Steersaj@airbyte.io2024-01-23T11:45:26-08:00AirbyteLib: Add full iterator support for Dataset, Cache, and ReadResult classes (#34429)
+
+
+23534fc9ecbbed2f4b3e58048e94b18e34159b5b58d02f7f8224004dba65a0b60918b8d9403cc123Joe Reuterjoe@airbyte.io2024-01-23T10:04:45Zairbyte-lib: Enable tests (#34381)
+
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+Co-authored-by: alafanechere <augustin.lafanechere@gmail.com>
+58d02f7f8224004dba65a0b60918b8d9403cc1238d8be9462b0180e664a7e5b7fc9d11cdd56f5868Joe Reuterjoe@airbyte.io2024-01-19T18:03:32+01:00airbyte-lib snowflake integration (#34356)
+
+
+8d8be9462b0180e664a7e5b7fc9d11cdd56f5868449e59ca1e46a625b8dd2e40ad20262834fa20f5Aaron ("AJ") Steersaj@airbyte.io2024-01-16T16:46:51-08:00AirbyteLib: Python lint cleanup (#34223)
+
+
+449e59ca1e46a625b8dd2e40ad20262834fa20f59ac98bc415a1faccbe695b275b91547706b87a37Joe Reuterjoe@airbyte.io2024-01-16T10:25:24+01:00airbyte-lib: Add telemetry (#33679)
+
+Co-authored-by: alafanechere <augustin.lafanechere@gmail.com>
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>
+9ac98bc415a1faccbe695b275b91547706b87a378eb3300bdd3e5f7e57ba02dd520db8e7661d4e95Aaron ("AJ") Steersaj@airbyte.io2024-01-12T17:43:55ZAirbyteLib: add SQLCaches for DuckDB and Postgres (includes Ruff+Mypy cleanup) (#33607)
+
+
+8eb3300bdd3e5f7e57ba02dd520db8e7661d4e95dfc3abd86bf4c65650be4ad4a1bdf5f51e595150Joe Reuterjoe@airbyte.io2024-01-11T11:10:14+01:00airbyte-lib: Add uninstall (#34105)
+
+
+dfc3abd86bf4c65650be4ad4a1bdf5f51e595150fa2f0998a7f6d2a4090549404702adf7b541b440Joe Reuterjoe@airbyte.io2024-01-09T15:29:40+01:00airbyte-lib: Generate docs (#33997)
+
+
+fa2f0998a7f6d2a4090549404702adf7b541b440fc4be6d1d851db0d7b259d95ce13f598d6141c82Joe Reuterjoe@airbyte.io2024-01-09T13:43:28+01:00airbyte-lib: Validation helper command (#34002)
+
+
+fc4be6d1d851db0d7b259d95ce13f598d6141c8296c26e6d98583a6fd0f03340e9ec10e016260833Joe Reuterjoe@airbyte.io2024-01-09T11:29:42+01:00airbyte-lib: Add pip_url option and enforce source versions in a more consistent manner (#33967)
+
+
+96c26e6d98583a6fd0f03340e9ec10e0162608334331f67b5fd97d499de8abb1e738e760bb2ecceaJoe Reuterjoe@airbyte.io2024-01-09T11:16:02+01:00airbyte-lib: Improve error message on missing config (#33968)
+
+
+4331f67b5fd97d499de8abb1e738e760bb2ecceaJoe Reuterjoe@airbyte.io2024-01-03T10:28:31+01:00airbyte-lib base implementation (#33409)
+
+Co-authored-by: alafanechere <augustin.lafanechere@gmail.com>
+Co-authored-by: Aaron ("AJ") Steers <aj@airbyte.io>

@@ -1,0 +1,11 @@
+repo,autor,avisos,removidos,removidos_por_agente,% removidos
+DDNS,agente,122,39,19,32.0
+DDNS,humano,149,21,14,14.0
+PyAirbyte,agente,162,24,24,15.0
+PyAirbyte,humano,11,2,0,18.0
+HARK,agente,2,0,0,0.0
+HARK,humano,41,11,0,27.0
+diffyscan,agente,4,2,0,50.0
+diffyscan,humano,21,11,0,52.0
+numbagg,agente,34,18,10,53.0
+numbagg,humano,13,0,0,0.0

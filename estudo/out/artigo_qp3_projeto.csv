@@ -1,0 +1,11 @@
+repo,autor,alteracoes,commits,avisos_novos,kloc_adicionada,avisos novos por KLOC
+DDNS,agente,275,38,122.0,8.397,14.5
+DDNS,humano,220,32,149.0,11.296,13.2
+PyAirbyte,agente,776,178,162.0,34.892,4.6
+PyAirbyte,humano,95,39,11.0,3.577,3.1
+HARK,agente,25,14,2.0,0.651,3.1
+HARK,humano,48,14,41.0,1.072,38.2
+diffyscan,agente,9,4,4.0,0.083,48.2
+diffyscan,humano,36,10,21.0,1.369,15.3
+numbagg,agente,81,25,34.0,2.329,14.6
+numbagg,humano,44,25,13.0,0.456,28.5

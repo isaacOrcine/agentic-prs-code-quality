@@ -1,0 +1,3 @@
+grupo,avisos,projetos,removidos,ainda presentes,S(90 dias),S(365 dias),mediana de dias (removidos),% corrigidos (resto: arquivo apagado),% removidos por agente
+Introduzidos por agentes,324,5,83,74%,0.78,0.74,7.0,90%,64%
+Introduzidos por humanos,235,5,45,81%,0.81,0.77,12.0,100%,31%

@@ -1,0 +1,272 @@
+repo,sha,data,autor_agente,agente,caminho,regra,data_remocao,como,removido_por_agente
+NewFuture/DDNS,0653b687507587f90f91cbcefed1debafd5f6193,2025-07-01 16:29:37+00:00,True,Copilot,ddns/__main__.py,C901,2025-07-12 03:04:25+00:00,aviso corrigido,False
+NewFuture/DDNS,0653b687507587f90f91cbcefed1debafd5f6193,2025-07-01 16:29:37+00:00,True,Copilot,ddns/__main__.py,PLR0912,2025-07-12 03:04:25+00:00,aviso corrigido,False
+NewFuture/DDNS,0653b687507587f90f91cbcefed1debafd5f6193,2025-07-01 16:29:37+00:00,True,Copilot,ddns/util/cache.py,SIM118,,,
+NewFuture/DDNS,0653b687507587f90f91cbcefed1debafd5f6193,2025-07-01 16:29:37+00:00,True,Copilot,ddns/util/cache.py,SIM118,,,
+NewFuture/DDNS,0653b687507587f90f91cbcefed1debafd5f6193,2025-07-01 16:29:37+00:00,True,Copilot,tests/test_util_cache.py,ERA001,,,
+NewFuture/DDNS,0653b687507587f90f91cbcefed1debafd5f6193,2025-07-01 16:29:37+00:00,True,Copilot,tests/test_util_cache.py,ERA001,,,
+NewFuture/DDNS,0653b687507587f90f91cbcefed1debafd5f6193,2025-07-01 16:29:37+00:00,True,Copilot,tests/test_util_cache.py,ERA001,,,
+NewFuture/DDNS,0653b687507587f90f91cbcefed1debafd5f6193,2025-07-01 16:29:37+00:00,True,Copilot,tests/test_util_cache.py,SIM117,2025-07-12 03:04:25+00:00,aviso corrigido,False
+NewFuture/DDNS,43fe2792c607f276f15cf6b15083f3581f33aa1b,2025-07-02 11:24:31+00:00,True,Copilot,tests/test_config_ssl.py,SIM117,2025-07-12 03:04:25+00:00,arquivo removido,False
+NewFuture/DDNS,43fe2792c607f276f15cf6b15083f3581f33aa1b,2025-07-02 11:24:31+00:00,True,Copilot,tests/test_config_ssl.py,SIM117,2025-07-12 03:04:25+00:00,arquivo removido,False
+NewFuture/DDNS,43fe2792c607f276f15cf6b15083f3581f33aa1b,2025-07-02 11:24:31+00:00,True,Copilot,tests/test_config_ssl.py,SIM117,2025-07-12 03:04:25+00:00,arquivo removido,False
+NewFuture/DDNS,43fe2792c607f276f15cf6b15083f3581f33aa1b,2025-07-02 11:24:31+00:00,True,Copilot,tests/test_config_ssl.py,SIM117,2025-07-12 03:04:25+00:00,arquivo removido,False
+NewFuture/DDNS,43fe2792c607f276f15cf6b15083f3581f33aa1b,2025-07-02 11:24:31+00:00,True,Copilot,tests/test_config_ssl.py,SIM117,2025-07-12 03:04:25+00:00,arquivo removido,False
+NewFuture/DDNS,33a0c295c10d5d45e6196465e3638189cf32441f,2025-07-02 12:38:01+00:00,True,Copilot,ddns/__main__.py,PLR5501,2025-07-12 03:04:25+00:00,aviso corrigido,False
+NewFuture/DDNS,1e351642d58fc8bed29060a48666984e9316f4b7,2025-07-02 14:56:56+00:00,True,Copilot,ddns/__main__.py,PLR0913,2025-07-12 03:04:25+00:00,aviso corrigido,False
+NewFuture/DDNS,1e351642d58fc8bed29060a48666984e9316f4b7,2025-07-02 14:56:56+00:00,True,Copilot,ddns/__main__.py,PLR0917,2025-07-12 03:04:25+00:00,aviso corrigido,False
+NewFuture/DDNS,78b0e953daf0739020719f8b44043b9cdae5c550,2025-07-09 10:33:23+00:00,True,Copilot,ddns/provider/aliesa.py,PLR0913,,,
+NewFuture/DDNS,78b0e953daf0739020719f8b44043b9cdae5c550,2025-07-09 10:33:23+00:00,True,Copilot,ddns/provider/aliesa.py,PLR0917,,,
+NewFuture/DDNS,78b0e953daf0739020719f8b44043b9cdae5c550,2025-07-09 10:33:23+00:00,True,Copilot,ddns/provider/aliesa.py,PLR0913,,,
+NewFuture/DDNS,78b0e953daf0739020719f8b44043b9cdae5c550,2025-07-09 10:33:23+00:00,True,Copilot,ddns/provider/aliesa.py,PLR0917,,,
+NewFuture/DDNS,78b0e953daf0739020719f8b44043b9cdae5c550,2025-07-09 10:33:23+00:00,True,Copilot,ddns/provider/aliesa.py,PLR0913,,,
+NewFuture/DDNS,78b0e953daf0739020719f8b44043b9cdae5c550,2025-07-09 10:33:23+00:00,True,Copilot,ddns/provider/aliesa.py,PLR0917,,,
+NewFuture/DDNS,d9b0b825d1495989a0bbf55fb47749d97a9ac875,2025-07-13 02:58:38+00:00,True,Copilot,ddns/util/comment.py,SIM114,,,
+NewFuture/DDNS,22c9cf8d543c2cfcc8da429d7e0a37d99418aabd,2025-07-13 06:10:55+00:00,True,Copilot,ddns/provider/namesilo.py,PLR0913,,,
+NewFuture/DDNS,22c9cf8d543c2cfcc8da429d7e0a37d99418aabd,2025-07-13 06:10:55+00:00,True,Copilot,ddns/provider/namesilo.py,PLR0917,,,
+NewFuture/DDNS,22c9cf8d543c2cfcc8da429d7e0a37d99418aabd,2025-07-13 06:10:55+00:00,True,Copilot,ddns/provider/namesilo.py,PLR0913,,,
+NewFuture/DDNS,22c9cf8d543c2cfcc8da429d7e0a37d99418aabd,2025-07-13 06:10:55+00:00,True,Copilot,ddns/provider/namesilo.py,PLR0917,,,
+NewFuture/DDNS,22c9cf8d543c2cfcc8da429d7e0a37d99418aabd,2025-07-13 06:10:55+00:00,True,Copilot,ddns/provider/namesilo.py,PLR0913,,,
+NewFuture/DDNS,22c9cf8d543c2cfcc8da429d7e0a37d99418aabd,2025-07-13 06:10:55+00:00,True,Copilot,ddns/provider/namesilo.py,PLR0917,,,
+NewFuture/DDNS,5e1a8d5aaf53158d83ffe6f0dd44a9441a176609,2025-07-14 17:44:30+00:00,True,Copilot,ddns/provider/edgeone.py,PLR0913,,,
+NewFuture/DDNS,5e1a8d5aaf53158d83ffe6f0dd44a9441a176609,2025-07-14 17:44:30+00:00,True,Copilot,ddns/provider/edgeone.py,PLR0917,,,
+NewFuture/DDNS,5e1a8d5aaf53158d83ffe6f0dd44a9441a176609,2025-07-14 17:44:30+00:00,True,Copilot,ddns/provider/edgeone.py,PLR0913,,,
+NewFuture/DDNS,5e1a8d5aaf53158d83ffe6f0dd44a9441a176609,2025-07-14 17:44:30+00:00,True,Copilot,ddns/provider/edgeone.py,PLR0917,,,
+NewFuture/DDNS,5e1a8d5aaf53158d83ffe6f0dd44a9441a176609,2025-07-14 17:44:30+00:00,True,Copilot,ddns/provider/edgeone.py,PLR0913,,,
+NewFuture/DDNS,5e1a8d5aaf53158d83ffe6f0dd44a9441a176609,2025-07-14 17:44:30+00:00,True,Copilot,ddns/provider/edgeone.py,PLR0917,,,
+NewFuture/DDNS,876889ed841e532a0db587c9211289ef777f2c05,2025-07-16 17:10:15+00:00,True,Copilot,ddns/util/http.py,PLR0913,2025-07-19 04:31:15+00:00,aviso corrigido,True
+NewFuture/DDNS,876889ed841e532a0db587c9211289ef777f2c05,2025-07-16 17:10:15+00:00,True,Copilot,ddns/util/http.py,PLR0917,2025-07-19 04:31:15+00:00,aviso corrigido,True
+NewFuture/DDNS,876889ed841e532a0db587c9211289ef777f2c05,2025-07-16 17:10:15+00:00,True,Copilot,tests/test_util_http.py,B904,2025-07-19 04:31:15+00:00,aviso corrigido,True
+NewFuture/DDNS,96b4ca2e0c55a21eb88a7ec2bbdf1dd75be10baf,2025-07-17 18:54:09+00:00,True,Copilot,.github/patch.py,PLR0912,,,
+NewFuture/DDNS,96b4ca2e0c55a21eb88a7ec2bbdf1dd75be10baf,2025-07-17 18:54:09+00:00,True,Copilot,.github/patch.py,PLR0915,,,
+NewFuture/DDNS,96b4ca2e0c55a21eb88a7ec2bbdf1dd75be10baf,2025-07-17 18:54:09+00:00,True,Copilot,.github/patch.py,PLR5501,,,
+NewFuture/DDNS,96b4ca2e0c55a21eb88a7ec2bbdf1dd75be10baf,2025-07-17 18:54:09+00:00,True,Copilot,ddns/config/cli.py,SIM201,,,
+NewFuture/DDNS,254335f407d4b1a5de28a764af03920d5e869341,2025-07-19 04:31:15+00:00,True,Copilot,ddns/util/http.py,PLR0913,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,254335f407d4b1a5de28a764af03920d5e869341,2025-07-19 04:31:15+00:00,True,Copilot,ddns/util/http.py,PLR0917,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,254335f407d4b1a5de28a764af03920d5e869341,2025-07-19 04:31:15+00:00,True,Copilot,ddns/util/http.py,PLW0108,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,254335f407d4b1a5de28a764af03920d5e869341,2025-07-19 04:31:15+00:00,True,Copilot,tests/test_util_http.py,ERA001,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,254335f407d4b1a5de28a764af03920d5e869341,2025-07-19 04:31:15+00:00,True,Copilot,tests/test_util_http_retry.py,ERA001,,,
+NewFuture/DDNS,254335f407d4b1a5de28a764af03920d5e869341,2025-07-19 04:31:15+00:00,True,Copilot,tests/test_util_http_retry.py,ERA001,,,
+NewFuture/DDNS,254335f407d4b1a5de28a764af03920d5e869341,2025-07-19 04:31:15+00:00,True,Copilot,tests/test_util_http_retry.py,ERA001,,,
+NewFuture/DDNS,c2cad12380081d2f6fbcbc02230dc8bc7793664f,2025-07-20 18:51:40+00:00,True,Copilot,ddns/provider/_base.py,PLR0913,,,
+NewFuture/DDNS,c2cad12380081d2f6fbcbc02230dc8bc7793664f,2025-07-20 18:51:40+00:00,True,Copilot,ddns/provider/_base.py,PLR0917,,,
+NewFuture/DDNS,c2cad12380081d2f6fbcbc02230dc8bc7793664f,2025-07-20 18:51:40+00:00,True,Copilot,ddns/util/http.py,PLR0913,2026-08-15 14:23:27+00:00,aviso corrigido,False
+NewFuture/DDNS,c2cad12380081d2f6fbcbc02230dc8bc7793664f,2025-07-20 18:51:40+00:00,True,Copilot,ddns/util/http.py,PLR0917,2026-08-15 14:23:27+00:00,aviso corrigido,False
+NewFuture/DDNS,c2cad12380081d2f6fbcbc02230dc8bc7793664f,2025-07-20 18:51:40+00:00,True,Copilot,ddns/util/http.py,PLW0108,,,
+NewFuture/DDNS,c2cad12380081d2f6fbcbc02230dc8bc7793664f,2025-07-20 18:51:40+00:00,True,Copilot,tests/test_config_env.py,SIM112,,,
+NewFuture/DDNS,c2cad12380081d2f6fbcbc02230dc8bc7793664f,2025-07-20 18:51:40+00:00,True,Copilot,tests/test_config_env.py,SIM112,,,
+NewFuture/DDNS,c2cad12380081d2f6fbcbc02230dc8bc7793664f,2025-07-20 18:51:40+00:00,True,Copilot,tests/test_util_http_retry.py,ERA001,,,
+NewFuture/DDNS,c2cad12380081d2f6fbcbc02230dc8bc7793664f,2025-07-20 18:51:40+00:00,True,Copilot,tests/test_util_http_retry.py,ERA001,,,
+NewFuture/DDNS,c2cad12380081d2f6fbcbc02230dc8bc7793664f,2025-07-20 18:51:40+00:00,True,Copilot,tests/test_util_http_retry.py,ERA001,,,
+NewFuture/DDNS,e66dcf024059173deb9b02ba801b1ed5f9279401,2025-07-22 01:46:01+00:00,True,Copilot,ddns/util/http.py,SIM118,,,
+NewFuture/DDNS,e66dcf024059173deb9b02ba801b1ed5f9279401,2025-07-22 01:46:01+00:00,True,Copilot,tests/test_config_file_remote.py,B017,,,
+NewFuture/DDNS,e66dcf024059173deb9b02ba801b1ed5f9279401,2025-07-22 01:46:01+00:00,True,Copilot,tests/test_config_file_remote.py,SIM105,,,
+NewFuture/DDNS,e66dcf024059173deb9b02ba801b1ed5f9279401,2025-07-22 01:46:01+00:00,True,Copilot,tests/test_config_init_multi.py,SIM117,,,
+NewFuture/DDNS,e66dcf024059173deb9b02ba801b1ed5f9279401,2025-07-22 01:46:01+00:00,True,Copilot,tests/test_config_init_multi.py,SIM117,,,
+NewFuture/DDNS,e66dcf024059173deb9b02ba801b1ed5f9279401,2025-07-22 01:46:01+00:00,True,Copilot,tests/test_util_http.py,SIM401,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,.github/patch.py,PLR1722,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,.github/patch.py,PLR1722,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,ddns/scheduler/__init__.py,PLR0911,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,ddns/scheduler/__init__.py,PLR1714,2025-08-09 03:29:35+00:00,aviso corrigido,True
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,ddns/scheduler/__init__.py,PLR1714,2025-08-09 03:29:35+00:00,aviso corrigido,True
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,ddns/scheduler/launchd.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,ddns/scheduler/systemd.py,B018,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,SIM105,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_config_cli_task.py,B023,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_cron.py,SIM117,2025-08-09 03:29:35+00:00,aviso corrigido,True
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_cron.py,SIM117,2025-08-09 03:29:35+00:00,aviso corrigido,True
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_cron.py,SIM117,2025-08-09 03:29:35+00:00,aviso corrigido,True
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_cron.py,SIM117,2025-08-09 03:29:35+00:00,aviso corrigido,True
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_cron.py,SIM117,2025-08-09 03:29:35+00:00,aviso corrigido,True
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_cron.py,PLR0915,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_launchd.py,SIM117,2025-08-09 03:29:35+00:00,aviso corrigido,True
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_launchd.py,PLR0915,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_systemd.py,C901,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_systemd.py,PLR0912,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_systemd.py,PLR0915,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_scheduler_systemd.py,PLR5501,,,
+NewFuture/DDNS,6c24557505ff3377fdf7d8b47441fc3154a72d55,2025-08-07 17:58:43+00:00,True,Copilot,tests/test_util_fileio.py,PLR0402,,,
+NewFuture/DDNS,f7a92b390378437e1f8be366a4e93a68f5f8ce60,2025-08-09 03:29:35+00:00,True,Copilot,ddns/scheduler/__init__.py,PLR1714,,,
+NewFuture/DDNS,f7a92b390378437e1f8be366a4e93a68f5f8ce60,2025-08-09 03:29:35+00:00,True,Copilot,ddns/scheduler/__init__.py,PLR1714,,,
+NewFuture/DDNS,f7a92b390378437e1f8be366a4e93a68f5f8ce60,2025-08-09 03:29:35+00:00,True,Copilot,tests/test_scheduler_cron.py,SIM117,2025-08-16 01:20:09+00:00,aviso corrigido,False
+NewFuture/DDNS,f7a92b390378437e1f8be366a4e93a68f5f8ce60,2025-08-09 03:29:35+00:00,True,Copilot,tests/test_scheduler_cron.py,SIM117,2025-08-16 01:20:09+00:00,aviso corrigido,False
+NewFuture/DDNS,f7a92b390378437e1f8be366a4e93a68f5f8ce60,2025-08-09 03:29:35+00:00,True,Copilot,tests/test_scheduler_cron.py,SIM117,2025-08-16 01:20:09+00:00,aviso corrigido,False
+NewFuture/DDNS,f7a92b390378437e1f8be366a4e93a68f5f8ce60,2025-08-09 03:29:35+00:00,True,Copilot,tests/test_scheduler_cron.py,SIM117,2025-08-16 01:20:09+00:00,aviso corrigido,False
+NewFuture/DDNS,f7a92b390378437e1f8be366a4e93a68f5f8ce60,2025-08-09 03:29:35+00:00,True,Copilot,tests/test_scheduler_cron.py,SIM117,2025-08-16 01:20:09+00:00,aviso corrigido,False
+NewFuture/DDNS,f7a92b390378437e1f8be366a4e93a68f5f8ce60,2025-08-09 03:29:35+00:00,True,Copilot,tests/test_scheduler_launchd.py,SIM117,2025-08-16 01:20:09+00:00,aviso corrigido,False
+NewFuture/DDNS,1e0f066684d0995b6c5574bfa360d6a83d0d6164,2025-08-14 15:50:12+00:00,True,Copilot,tests/test_ip.py,F401,2026-09-06 04:45:46+00:00,aviso corrigido,False
+NewFuture/DDNS,1600e57aff994e751c31305bcebf0580348ce248,2025-10-13 09:06:56+00:00,True,Copilot,ddns/config/config.py,C901,2025-11-15 16:44:59+00:00,aviso corrigido,True
+NewFuture/DDNS,1600e57aff994e751c31305bcebf0580348ce248,2025-10-13 09:06:56+00:00,True,Copilot,tests/test_config_cli_extra.py,SIM118,,,
+NewFuture/DDNS,1600e57aff994e751c31305bcebf0580348ce248,2025-10-13 09:06:56+00:00,True,Copilot,tests/test_config_env_extra.py,SIM118,,,
+NewFuture/DDNS,1600e57aff994e751c31305bcebf0580348ce248,2025-10-13 09:06:56+00:00,True,Copilot,tests/test_config_env_extra.py,SIM112,,,
+NewFuture/DDNS,1600e57aff994e751c31305bcebf0580348ce248,2025-10-13 09:06:56+00:00,True,Copilot,tests/test_config_env_extra.py,SIM112,,,
+NewFuture/DDNS,1600e57aff994e751c31305bcebf0580348ce248,2025-10-13 09:06:56+00:00,True,Copilot,tests/test_config_env_extra.py,SIM118,,,
+NewFuture/DDNS,f99fd8f0b3a81f193ed7285b879c6e4025124d91,2025-11-15 16:44:59+00:00,True,Copilot,ddns/provider/edgeone.py,ERA001,,,
+NewFuture/DDNS,f99fd8f0b3a81f193ed7285b879c6e4025124d91,2025-11-15 16:44:59+00:00,True,Copilot,ddns/provider/edgeone.py,ERA001,,,
+NewFuture/DDNS,f99fd8f0b3a81f193ed7285b879c6e4025124d91,2025-11-15 16:44:59+00:00,True,Copilot,ddns/provider/edgeone.py,ERA001,,,
+NewFuture/DDNS,f99fd8f0b3a81f193ed7285b879c6e4025124d91,2025-11-15 16:44:59+00:00,True,Copilot,ddns/provider/edgeone_dns.py,PLR0913,,,
+NewFuture/DDNS,f99fd8f0b3a81f193ed7285b879c6e4025124d91,2025-11-15 16:44:59+00:00,True,Copilot,ddns/provider/edgeone_dns.py,PLR0917,,,
+NewFuture/DDNS,3176b02925a055a2f04fe535172332f7ae7e5a99,2025-11-29 11:24:51+00:00,True,Copilot,.github/scripts/update_agents_structure.py,PLR0912,2025-11-30 03:47:07+00:00,aviso corrigido,True
+NewFuture/DDNS,3176b02925a055a2f04fe535172332f7ae7e5a99,2025-11-29 11:24:51+00:00,True,Copilot,.github/scripts/update_agents_structure.py,PLR0915,2025-11-30 03:47:07+00:00,aviso corrigido,True
+NewFuture/DDNS,3176b02925a055a2f04fe535172332f7ae7e5a99,2025-11-29 11:24:51+00:00,True,Copilot,.github/scripts/update_agents_structure.py,PLR5501,2025-11-30 03:47:07+00:00,aviso corrigido,True
+NewFuture/DDNS,f26d50678f8940ec18989e4ec9eb07430ba9cbaa,2026-01-28 05:55:57+00:00,True,Copilot,ddns/provider/cloudns.py,SIM102,,,
+NewFuture/DDNS,b3a5ff9817c7a3b141fd8425cc55ce027aa9a17a,2025-07-01 18:57:16+00:00,False,,ddns/provider/_base.py,PLR0913,2025-07-12 03:04:25+00:00,aviso corrigido,False
+NewFuture/DDNS,b3a5ff9817c7a3b141fd8425cc55ce027aa9a17a,2025-07-01 18:57:16+00:00,False,,ddns/provider/_base.py,PLR0917,2025-07-12 03:04:25+00:00,aviso corrigido,False
+NewFuture/DDNS,b3a5ff9817c7a3b141fd8425cc55ce027aa9a17a,2025-07-01 18:57:16+00:00,False,,tests/test_hmac_sha256_authorization.py,ERA001,,,
+NewFuture/DDNS,b3a5ff9817c7a3b141fd8425cc55ce027aa9a17a,2025-07-01 18:57:16+00:00,False,,tests/test_hmac_sha256_authorization.py,ERA001,,,
+NewFuture/DDNS,3d155b671e089971b2c5123c031702f6fdb7ac82,2025-07-03 11:14:03+00:00,False,,tests/test_provider_callback.py,PLR5501,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/__main__.py,PLR0911,2026-08-05 07:42:02+00:00,aviso corrigido,False
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/__main__.py,PLR0913,2026-08-13 09:25:47+00:00,aviso corrigido,False
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/__main__.py,PLR0917,2026-08-13 09:25:47+00:00,aviso corrigido,False
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/config/config.py,PLW2901,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/config/env.py,ERA001,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/config/env.py,ERA001,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/config/env.py,ERA001,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/config/env.py,ERA001,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/config/file.py,B904,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/provider/_base.py,PLR0913,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/provider/_base.py,PLR0917,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/provider/_base.py,PLR0915,2025-07-22 01:46:01+00:00,aviso corrigido,True
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/provider/_signature.py,PLR0913,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/provider/_signature.py,PLR0917,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,ddns/provider/cloudflare.py,SIM102,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_cache.py,SIM117,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_env.py,SIM112,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_env.py,SIM112,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_env.py,B007,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_env.py,SIM112,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_env.py,SIM112,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_env.py,B007,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_env.py,B007,2025-07-20 18:51:40+00:00,aviso corrigido,True
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_file.py,B017,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_file.py,B017,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_file.py,B017,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_file.py,B017,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_file.py,SIM105,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_file.py,SIM105,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_init.py,SIM117,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_init.py,B023,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_init.py,SIM117,,,
+NewFuture/DDNS,485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,2025-07-12 03:04:25+00:00,False,,tests/test_config_init.py,SIM117,,,
+NewFuture/DDNS,458f354067f7f4aeecb3ead93d119bf3bee0a8d4,2025-07-13 17:36:35+00:00,False,,ddns/util/http.py,PLR0913,2025-07-16 17:10:15+00:00,aviso corrigido,True
+NewFuture/DDNS,458f354067f7f4aeecb3ead93d119bf3bee0a8d4,2025-07-13 17:36:35+00:00,False,,ddns/util/http.py,PLR0917,2025-07-16 17:10:15+00:00,aviso corrigido,True
+NewFuture/DDNS,6f5984c5889038d9a08e673f8262625c449ea999,2025-08-16 01:20:09+00:00,False,,ddns/util/try_run.py,SIM105,,,
+NewFuture/DDNS,6f5984c5889038d9a08e673f8262625c449ea999,2025-08-16 01:20:09+00:00,False,,tests/test_scheduler_cron.py,SIM117,,,
+NewFuture/DDNS,6f5984c5889038d9a08e673f8262625c449ea999,2025-08-16 01:20:09+00:00,False,,tests/test_scheduler_cron.py,SIM117,,,
+NewFuture/DDNS,6f5984c5889038d9a08e673f8262625c449ea999,2025-08-16 01:20:09+00:00,False,,tests/test_scheduler_cron.py,SIM117,,,
+NewFuture/DDNS,6f5984c5889038d9a08e673f8262625c449ea999,2025-08-16 01:20:09+00:00,False,,tests/test_scheduler_cron.py,SIM117,,,
+NewFuture/DDNS,6f5984c5889038d9a08e673f8262625c449ea999,2025-08-16 01:20:09+00:00,False,,tests/test_scheduler_cron.py,SIM117,,,
+NewFuture/DDNS,6f5984c5889038d9a08e673f8262625c449ea999,2025-08-16 01:20:09+00:00,False,,tests/test_scheduler_launchd.py,SIM117,,,
+NewFuture/DDNS,81840212e066393df4025c7e7acc123744ea79cd,2026-01-27 05:58:29+00:00,False,,ddns/provider/cloudns.py,PLR0913,,,
+NewFuture/DDNS,81840212e066393df4025c7e7acc123744ea79cd,2026-01-27 05:58:29+00:00,False,,ddns/provider/cloudns.py,PLR0917,,,
+NewFuture/DDNS,81840212e066393df4025c7e7acc123744ea79cd,2026-01-27 05:58:29+00:00,False,,ddns/provider/cloudns.py,ERA001,2026-01-28 05:55:57+00:00,aviso corrigido,True
+NewFuture/DDNS,81840212e066393df4025c7e7acc123744ea79cd,2026-01-27 05:58:29+00:00,False,,ddns/provider/cloudns.py,SIM102,2026-01-28 05:55:57+00:00,aviso corrigido,True
+NewFuture/DDNS,81840212e066393df4025c7e7acc123744ea79cd,2026-01-27 05:58:29+00:00,False,,ddns/provider/cloudns.py,PLR0913,,,
+NewFuture/DDNS,81840212e066393df4025c7e7acc123744ea79cd,2026-01-27 05:58:29+00:00,False,,ddns/provider/cloudns.py,PLR0917,,,
+NewFuture/DDNS,81840212e066393df4025c7e7acc123744ea79cd,2026-01-27 05:58:29+00:00,False,,ddns/provider/cloudns.py,PLR0913,,,
+NewFuture/DDNS,81840212e066393df4025c7e7acc123744ea79cd,2026-01-27 05:58:29+00:00,False,,ddns/provider/cloudns.py,PLR0917,,,
+NewFuture/DDNS,06fceed0f7413546d3575022a19f319a796f79ef,2026-08-06 09:59:40+00:00,False,,ddns/config/cli.py,B904,,,
+NewFuture/DDNS,06fceed0f7413546d3575022a19f319a796f79ef,2026-08-06 09:59:40+00:00,False,,ddns/config/config.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/config/__init__.py,PLW2901,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/config/cli.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/config/cli.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/config/cli.py,PLW2901,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/scheduler.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/scheduler.py,C901,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/server.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/server.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/server.py,PLR0911,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/server.py,PLR0913,2026-08-23 13:36:26+00:00,aviso corrigido,False
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/server.py,PLR0917,2026-08-23 13:36:26+00:00,aviso corrigido,False
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,C901,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,PLW2901,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,C901,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,PLW2901,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,SIM114,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,PLR0912,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,SIM115,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,SIM105,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,SIM105,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,C901,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,PLR0912,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,PLR0915,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B905,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,C901,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,ddns/web/service.py,PLW2901,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,tests/test_config_cli_web.py,SIM117,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,tests/test_config_cli_web.py,SIM117,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,tests/test_config_cli_web.py,SIM117,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,tests/test_config_cli_web.py,SIM117,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,tests/test_config_cli_web.py,SIM117,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,tests/test_config_cli_web.py,SIM117,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,tests/test_config_cli_web.py,SIM117,,,
+NewFuture/DDNS,d14594f14d68eecc69c09e1796cc1bffd8779ed9,2026-08-11 18:23:17+00:00,False,,tests/test_web.py,SIM117,,,
+NewFuture/DDNS,c30822bd33ebf42031b3458bacf2b947ad0ad8c7,2026-08-12 07:39:51+00:00,False,,tests/e2e.py,PLR0913,,,
+NewFuture/DDNS,c30822bd33ebf42031b3458bacf2b947ad0ad8c7,2026-08-12 07:39:51+00:00,False,,tests/e2e.py,PLR0917,,,
+NewFuture/DDNS,c30822bd33ebf42031b3458bacf2b947ad0ad8c7,2026-08-12 07:39:51+00:00,False,,tests/e2e.py,PLR0915,,,
+NewFuture/DDNS,c919f2c6afd9f75f2c239642d6ea7f24a631df75,2026-08-13 09:25:47+00:00,False,,ddns/__main__.py,PLR0913,,,
+NewFuture/DDNS,c919f2c6afd9f75f2c239642d6ea7f24a631df75,2026-08-13 09:25:47+00:00,False,,ddns/__main__.py,PLR0917,,,
+NewFuture/DDNS,c919f2c6afd9f75f2c239642d6ea7f24a631df75,2026-08-13 09:25:47+00:00,False,,ddns/mcp.py,PLR0911,,,
+NewFuture/DDNS,c919f2c6afd9f75f2c239642d6ea7f24a631df75,2026-08-13 09:25:47+00:00,False,,ddns/mcp.py,PLW2901,,,
+NewFuture/DDNS,c919f2c6afd9f75f2c239642d6ea7f24a631df75,2026-08-13 09:25:47+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,c919f2c6afd9f75f2c239642d6ea7f24a631df75,2026-08-13 09:25:47+00:00,False,,tests/test_main.py,SIM117,,,
+NewFuture/DDNS,c919f2c6afd9f75f2c239642d6ea7f24a631df75,2026-08-13 09:25:47+00:00,False,,tests/test_mcp.py,SIM117,,,
+NewFuture/DDNS,6e3d3560c725177ecab74f4880981a6dc7bc190d,2026-08-15 14:23:27+00:00,False,,ddns/provider/_base.py,PLR0913,,,
+NewFuture/DDNS,6e3d3560c725177ecab74f4880981a6dc7bc190d,2026-08-15 14:23:27+00:00,False,,ddns/provider/_base.py,PLR0917,,,
+NewFuture/DDNS,6e3d3560c725177ecab74f4880981a6dc7bc190d,2026-08-15 14:23:27+00:00,False,,ddns/provider/_base.py,PLR0912,,,
+NewFuture/DDNS,6e3d3560c725177ecab74f4880981a6dc7bc190d,2026-08-15 14:23:27+00:00,False,,ddns/util/http.py,PLR0913,,,
+NewFuture/DDNS,6e3d3560c725177ecab74f4880981a6dc7bc190d,2026-08-15 14:23:27+00:00,False,,ddns/util/http.py,PLR0917,,,
+NewFuture/DDNS,90e04b70bd8955f156515e88171b678946688ba3,2026-08-20 17:05:32+00:00,False,,tests/__init__.py,PLR0911,,,
+NewFuture/DDNS,2501c4a1d8bbc4a7cc4504a5a6fcb97f7043d247,2026-08-21 08:58:28+00:00,False,,tools/check.py,B905,,,
+NewFuture/DDNS,2501c4a1d8bbc4a7cc4504a5a6fcb97f7043d247,2026-08-21 08:58:28+00:00,False,,tools/check.py,C901,,,
+NewFuture/DDNS,2501c4a1d8bbc4a7cc4504a5a6fcb97f7043d247,2026-08-21 08:58:28+00:00,False,,tools/check.py,C901,,,
+NewFuture/DDNS,2501c4a1d8bbc4a7cc4504a5a6fcb97f7043d247,2026-08-21 08:58:28+00:00,False,,tools/check.py,PLR0912,,,
+NewFuture/DDNS,2501c4a1d8bbc4a7cc4504a5a6fcb97f7043d247,2026-08-21 08:58:28+00:00,False,,tools/tests/test_check.py,SIM117,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/http_config.py,B904,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/http_config.py,B904,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/http_config.py,B904,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/http_config.py,SIM401,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/mcp_http.py,B018,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/mcp_http.py,PLR0911,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/mcp_http.py,B904,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/mcp_http.py,B904,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/mcp_http.py,SIM105,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/web/server.py,B018,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/web/server.py,PLR0913,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/web/server.py,PLR0917,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/web/server.py,PLR0913,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/web/server.py,PLR0917,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/web/service.py,PLR0912,,,
+NewFuture/DDNS,3c8578e9f4a50778ebe0d63500e59b475b0ba777,2026-08-23 13:36:26+00:00,False,,ddns/web/service.py,B904,,,
+NewFuture/DDNS,27f0f1c0ac79dc5ae1067c864b233ccaa9a4befe,2026-09-06 04:45:46+00:00,False,,ddns/provider/_base.py,PLR0915,,,
+NewFuture/DDNS,27f0f1c0ac79dc5ae1067c864b233ccaa9a4befe,2026-09-06 04:45:46+00:00,False,,tests/test_main.py,B905,,,
+NewFuture/DDNS,27f0f1c0ac79dc5ae1067c864b233ccaa9a4befe,2026-09-06 04:45:46+00:00,False,,tests/test_main.py,SIM117,,,
+NewFuture/DDNS,27f0f1c0ac79dc5ae1067c864b233ccaa9a4befe,2026-09-06 04:45:46+00:00,False,,tests/test_provider_cloudflare.py,SIM117,,,
+NewFuture/DDNS,2e21ecabfd386f62b711f66a10628346a5ee9087,2026-09-10 14:06:56+00:00,False,,tools/tests/test_check.py,B023,,,
+NewFuture/DDNS,2e21ecabfd386f62b711f66a10628346a5ee9087,2026-09-10 14:06:56+00:00,False,,tools/tests/test_check.py,B023,,,
+NewFuture/DDNS,2e21ecabfd386f62b711f66a10628346a5ee9087,2026-09-10 14:06:56+00:00,False,,tools/tests/test_check.py,B023,,,
+NewFuture/DDNS,2e21ecabfd386f62b711f66a10628346a5ee9087,2026-09-10 14:06:56+00:00,False,,tools/tests/test_check.py,B023,,,

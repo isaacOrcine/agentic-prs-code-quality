@@ -1,0 +1,1064 @@
+sha,autor,email,data,agente,fonte,assinatura,is_agente,titulo
+4539e86f003c7fafd36e7a1bb8c0f7a2767dbc01,dclow,david.low@nyu.edu,2016-01-26 18:04:38+00:00,,,,False,Initial commit
+6dddb6ec42d4162ed3fd105d3c61c73a19195404,dclow,david.low@nyu.edu,2016-01-26 18:48:02+00:00,,,,False,added testfile
+3593eafd197f8c7a623fa0f2b045c100ddb2684a,Matthew N. White,mnwhite@gmail.com,2016-01-27 19:37:52+00:00,,,,False,tiny change to testfile
+e794efd4b2b922569d75d33d7b24b18408be4272,Matthew N. White,mnwhite@gmail.com,2016-01-27 19:41:14+00:00,,,,False,Added HARK
+3b7437819c84db2045b511495c27dd19e625b7ac,Matthew White,mnwhite@gmail.com,2016-02-01 19:40:46+00:00,,,,False,HARK alpha 1.1
+f46e2b90965b7bc94a7c6303820e6f5a54ece73f,dclow,david.low@nyu.edu,2016-02-02 15:35:34+00:00,,,,False,Merge pull request #5 from dclow/folders
+b20b0b576691b6ee65e35c94f823368cd976f3ec,dclow,david.low@nyu.edu,2016-02-02 16:06:21+00:00,,,,False,Merge pull request #6 from dclow/folders
+35d86436036f27fb4a4e9a03c731554e27a882fe,Matthew N. White,mnwhite@gmail.com,2016-02-04 15:44:44+00:00,,,,False,Merge pull request #7 from dclow/UpdateReadme
+1bd4bf050cef88430f50586749c5d6a618a8722b,dclow,david.low@nyu.edu,2016-02-04 16:08:23+00:00,,,,False,Merge pull request #8 from dclow/MildRearrangement
+8a958f0d530279d3506408602b9e2f2dd67ce97f,Christopher Carroll,github@llorracc.org,2016-02-04 22:15:41+00:00,,,,False,Added tractable buffer stock notes & buffer stock theory notes
+2aa472a21d6d6478b941179ecc25cac07e8ecb3e,Christopher Carroll,github@llorracc.org,2016-02-04 22:18:34+00:00,,,,False,Removed Web folder from being tracked
+ce07e06401b144f770efa2da98bef1a7817a6f9a,gerottoluca,luca.gerotto@unive.it,2016-02-04 22:39:07+00:00,,,,False,Merge pull request #24 from dclow/RemoveWrongGothicV
+d69317062a691f40653ef02831e878fc7431e181,dclow,david.low@nyu.edu,2016-02-05 20:03:17+00:00,,,,False,Merge pull request #26 from dclow/RevertBufferStockCommit
+32dd56b94d5247e7f067ebfb10fff86a7ab05a6d,dclow,low.david.chester@gmail.com,2016-03-14 17:43:40+00:00,,,,False,Merge pull request #29 from dclow/MNW-dev-1
+1161a87d9585e9022820d87aa2cb6b0629c369b0,dclow,david.low@nyu.edu,2016-03-14 18:27:33+00:00,,,,False,Merge branch 'pr/25'
+b1ef0265fe1042a688a0ee16b7ee1d29bd8869ec,dclow,low.david.chester@gmail.com,2016-04-26 20:37:19+00:00,,,,False,Merge pull request #34 from dclow/DCL-dev-1
+d8418c2ed8fed169e93fe9e31eff779c40d41bab,dclow,david.low@nyu.edu,2016-04-27 14:51:32+00:00,,,,False,"Finally got a version of the Markov solver working with cubic splines.  Still need to do a lot of cleanup, commenting, and checking"
+000e1235a84a43beca9d30f92e0f7cb1a1d4937a,dclow,david.low@nyu.edu,2016-04-27 17:33:34+00:00,,,,False,Minor changes
+0c9379f8a26aeadff8c2ff5264a971c3536aa68a,dclow,david.low@nyu.edu,2016-04-27 17:46:49+00:00,,,,False,Made small changes as requested by Matt
+d27df6cf7524c393790a9c031cc7db4eac97a7da,Matthew N. White,mnwhite@gmail.com,2016-04-27 18:33:56+00:00,,,,False,MNW-dev-2 (#35)
+4e199bb1fd6e0741080e108b8c6ee599823cdc60,Matthew N. White,mnwhite@gmail.com,2016-04-27 20:06:03+00:00,,,,False,Small fixes to make everything work
+f1964a2c5a47cc43cc6b036575721acf8aac331a,Matthew N. White,mnwhite@gmail.com,2016-05-11 21:34:53+00:00,,,,False,MNW-dev-3 (#37)
+87d9183bfafcd10e61c4e7d143c7dd2e6503d10b,Matthew N. White,mnwhite@gmail.com,2016-05-12 21:01:07+00:00,,,,False,Multithread demo works again
+7b0d773189079676c07299c2276899344a00381f,Matthew N. White,mnwhite@gmail.com,2016-05-19 12:53:21+00:00,,,,False,gitignore has TeX stuff
+1993c5a1df30c3cf6266342acf0965c6a655c5be,nmpalmer,nathan.m.palmer@gmail.com,2016-05-21 22:20:08+00:00,,,,False,Commit test.
+eee0a8f428e631a7488d89374c60b09540783297,nmpalmer,nathan.m.palmer@gmail.com,2016-05-21 22:21:12+00:00,,,,False,Commit test success; test.md removed.
+432c70ff89bf2156faf33447e2d38ed393c9deb8,Christopher Carroll,github@llorracc.org,2016-05-26 20:18:12+00:00,,,,False,Delete last undeleted thing from BufferStockTheory
+d1d861b9fdb46ac223b2c7f2fd242a14be2ff514,Matthew N. White,mnwhite@gmail.com,2016-05-30 21:06:22+00:00,,,,False,GenEq-dev (#38)
+2a343fbd64402e227c4f61752866bdae5d0a331a,Matthew N. White,mnwhite@gmail.com,2016-05-31 19:51:56+00:00,,,,False,Fixed cstwMPC lifecycle and FashionVictim
+3563cd8f8519d1ba3040cd7b14fafd25015c61e1,dclow,low.david.chester@gmail.com,2016-06-02 20:37:06+00:00,,,,False,Merge pull request #47 from econ-ark/DCL-dev-2
+d6453ecf08ac9d129f2ae5485cc696055eff3fc5,Matthew N. White,mnwhite@gmail.com,2016-06-22 12:19:07+00:00,,,,False,User manual dev (#59)
+71658517ebab2b3cc9328b41cb4d6dc24bc723c3,Matthew N. White,mnwhite@gmail.com,2016-06-22 13:28:51+00:00,,,,False,Merge branch 'comments-and-cleanup'
+fa9324c9fcd5398d843cc9c425b615a8bd40ddf3,Matthew N. White,mnwhite@gmail.com,2016-06-22 13:49:53+00:00,,,,False,Removed replicated HARKdoc
+6548ca4cbd0f63aef471916c05fcfe80acc8d91b,Matthew N. White,mnwhite@gmail.com,2016-06-22 13:56:13+00:00,,,,False,Moved files into Testing
+48651487096e04768d601ea97819f4948d149b91,Matthew N. White,mnwhite@gmail.com,2016-06-22 16:14:17+00:00,,,,False,Kinky preference consumer type added
+80e4bc9db1efd88704a36df5c6ede9df7d902a27,Matthew N. White,mnwhite@gmail.com,2016-06-22 17:58:45+00:00,,,,False,Fixed Testing files
+482958547ef092602c59cad6de69e94040ae80e5,Matthew N. White,mnwhite@gmail.com,2016-06-22 18:40:10+00:00,,,,False,"README file additions, fixed docstring"
+235bac5839955fbcaa0bd9599d90cfc7b182f147,Matthew N. White,mnwhite@gmail.com,2016-06-22 20:39:34+00:00,,,,False,Tiny changes to manual
+0b871a7ee56624ef72233491ff61361c96569f0b,econ-ark,ccarroll@jhu.edu,2016-06-22 20:44:08+00:00,,,,False,Update README.md
+0139e1e551fd0be0ac7fca6c38027f21a0379990,econ-ark,ccarroll@jhu.edu,2016-06-22 20:45:24+00:00,,,,False,Update README.md
+16a20aae2029c9b2d10de392c3f4b83d137741ed,npalmer,nathan.m.palmer@gmail.com,2016-06-22 23:40:29+00:00,,,,False,Set vFuncBool = False
+048009a09beb00199d484e649ffebbf88d1b2d98,Matthew N. White,mnwhite@gmail.com,2016-06-23 21:00:19+00:00,,,,False,"Fixed cstwMPC-Tractable, began model writeup"
+b51046dee5531570d3efaf2bc27fbfc35b951eb4,Matthew N. White,mnwhite@gmail.com,2016-06-23 21:09:37+00:00,,,,False,Changed ConsumptionSaving folder name
+5ba07d32fe55387e7cf4b3e70e9c9e1f2d6ce760,Matthew N. White,mnwhite@gmail.com,2016-06-23 21:51:47+00:00,,,,False,Began TBS writeup
+33be15f87f6471d396a2f56f166fd45367e05729,Matthew N. White,mnwhite@gmail.com,2016-06-24 22:38:43+00:00,,,,False,Finished model writeup document
+35a88ff4ddc21026983bb81d722488ad456b5c4e,Matthew N. White,mnwhite@gmail.com,2016-06-25 01:52:52+00:00,,,,False,Edits to user manual
+732465291beaa7bfe8d1e4dcf20c7871a84504bb,Matthew N. White,mnwhite@gmail.com,2016-06-25 02:01:50+00:00,,,,False,README markdown style test
+d667cd9e2032286e91a2ebf32136473d838f5b23,Matthew N. White,mnwhite@gmail.com,2016-06-25 02:12:57+00:00,,,,False,"Added NARK, finished style edits for README"
+348bdb4e39f37b97e472b6a75a1f775ad4f70670,Matthew N. White,mnwhite@gmail.com,2016-06-25 02:17:48+00:00,,,,False,Linked to online docs from user manual
+e2ddd965d6a6ffe91221c7713bfc9a55ca121227,Christopher Carroll,github@llorracc.org,2016-06-25 11:15:20+00:00,,,,False,Added NARK.tex to Documentation directory
+e03531217cb5dbf21d70a5cfb18fe9615ad37302,Matthew N. White,mnwhite@gmail.com,2016-06-29 18:37:56+00:00,,,,False,Documentation fix
+becb42c8f5a2251c1e46011ac9cbcac31f5ebe35,Matthew N. White,mnwhite@gmail.com,2016-06-29 22:43:50+00:00,,,,False,Begin persistent shocks module
+a02dec49f66cb6ad63c3ea6fa1815ecdd4bf8348,Matthew N. White,mnwhite@gmail.com,2016-06-30 21:54:16+00:00,,,,False,"Mostly finished ""explicit PermInc"" solver"
+fd188e6fb03b0b8103caba75d2205163eb0c65a4,Matthew N. White,mnwhite@gmail.com,2016-07-04 19:07:12+00:00,,,,False,Explicit PermInc solver working
+0b32054d73dcdd0ffbb0148c5e9a992172d3ad81,Matthew N. White,mnwhite@gmail.com,2016-07-06 22:12:24+00:00,,,,False,Persistent shock solver mostly working
+087cf8deccaa9a5a4d67db5cabc2f1910280d86e,Matthew N. White,mnwhite@gmail.com,2016-07-07 15:08:49+00:00,,,,False,Simulation for persistent shocks works
+e701c57e3b35ab5c98b8cb6da881e71ec52861d5,Matthew N. White,mnwhite@gmail.com,2016-07-07 21:37:05+00:00,,,,False,Progress on med shocks model
+483fdb3604d2a5df1729ca73e0387d7db2b9f7e5,Matthew N. White,mnwhite@gmail.com,2016-07-08 21:41:47+00:00,,,,False,Medical shock solver working
+1de65df9133e5b493a4b96823d5352546f651682,Matthew N. White,mnwhite@gmail.com,2016-07-11 17:48:44+00:00,,,,False,"Fixed med terminal, added med simulation"
+f1f2e398a7f62a34450593ae6d8cda318946e684,Matthew N. White,mnwhite@gmail.com,2016-07-12 16:23:54+00:00,,,,False,"Accelerated ConsPersistentShock, began value function"
+f66536564af09a27c4e248e3670c83d0240cd53c,Matthew N. White,mnwhite@gmail.com,2016-07-12 20:13:19+00:00,,,,False,Persistent shock value function working
+939cf55bdf9100f43d7166bd1cd67a7718d0c293,Matthew N. White,mnwhite@gmail.com,2016-07-12 22:02:24+00:00,,,,False,Cubic spline consumption function for persistent shocks
+41d3f1353f7075a53be662854d620795520ba53a,Matthew N. White,mnwhite@gmail.com,2016-07-13 18:55:40+00:00,,,,False,MedShock terminal solution: expenditure revision
+8d6d324666b63bab71dfa4c899f0f38929d09122,Matthew N. White,mnwhite@gmail.com,2016-07-13 19:49:19+00:00,,,,False,Fixed docstrings and comments in ConsPersistentShockModel
+50379788dc835eb7e5a2f17b00eb265a5c0658b7,Matthew N. White,mnwhite@gmail.com,2016-07-13 19:53:36+00:00,,,,False,Removed ConsMedModel and BicubicInterp
+bbf60bd33fa443c502ca99ce6aace48361ea302b,Matthew N. White,mnwhite@gmail.com,2016-07-14 17:08:27+00:00,,,,False,User guide changes from Shujaat (pr/62)
+cac2c8145fe5ac408003e6642040689347bb6110,Matthew N. White,mnwhite@gmail.com,2016-07-14 17:25:31+00:00,,,,False,Small edits to Shujaat's edits
+a2f9b577074b497d29707c2f47bda355fcab5f8e,Matthew N. White,mnwhite@gmail.com,2016-07-18 20:04:23+00:00,,,,False,Tiny cstwMPC and SolvingMicroDSOP fixes
+9edfc3e35103f5495de152bb345c81092056fc7f,Yeabin Moon,jym.econ@gmail.com,2016-07-19 18:55:47+00:00,,,,False,Update HARKmanual.tex (#64)
+79a989e8998671c551d2dfb4cc053c356591648d,dclow,low.david.chester@gmail.com,2016-07-20 20:17:41+00:00,,,,False,Merge pull request #65 from mnwhite/Medical-shocks-model
+1c65492317a731c81f3c3c01518bab370f2ebd7c,Yeabin Moon,jym.econ@gmail.com,2016-07-21 13:01:06+00:00,,,,False,Update HARKmanual.tex (#66)
+61f2331f65d0cb4800cd5696600f5383ad1efce6,dclow,low.david.chester@gmail.com,2016-07-21 18:34:52+00:00,,,,False,Merge pull request #67 from JohnYeabinMoon/patch-3
+351c72addaea42c5d1e47d2467bb3bed257c7b19,Yeabin Moon,jym.econ@gmail.com,2016-07-26 12:50:00+00:00,,,,False,Update ConsumptionSavingModels.tex (#68)
+9853593a9c290b005e6f77b3b152aa6c05b0d62c,Matthew N. White,mnwhite@gmail.com,2016-07-26 13:00:28+00:00,,,,False,Re-compiled manual and models doc
+cd78538a52787115a6f9b5845265e54a9d21fbe2,dclow,low.david.chester@gmail.com,2016-07-30 17:24:49+00:00,,,,False,Dcl testing (#69)
+0bd2fcc01477aabef02398e747bb339b28540178,dclow,low.david.chester@gmail.com,2016-07-30 17:33:26+00:00,,,,False,Hark Demo (#70)
+4f0fbf9d3468d062309495dbc06587777353c5f2,Matthew N. White,mnwhite@gmail.com,2016-07-30 17:36:44+00:00,,,,False,Tiny changes
+20d63eb8d568a65622c8faab7c46ebff48d33d68,Yeabin Moon,jym.econ@gmail.com,2016-08-02 14:07:51+00:00,,,,False,Fix typo in ConsumerParameters.py (#73)
+96e5d23caae79062fbac9f8dd6aa9453519ddbda,dclow,low.david.chester@gmail.com,2016-08-11 13:08:44+00:00,,,,False,Incorporated Johns comments about income_change (#76)
+f57334e9e1ace8e8218085c1127744b3f393f57e,Yeabin Moon,jym.econ@gmail.com,2016-08-11 19:19:16+00:00,,,,False,Update EstimationParameters.py (#74)
+6ff5fa19b9efacd341055e16a356ab63e60b0ba7,dclow,low.david.chester@gmail.com,2016-08-15 16:33:10+00:00,,,,False,Merge pull request #71 from econ-ark/solve_verbose
+9407915c79b8b9c496ddbe82609866817561b828,dclow,low.david.chester@gmail.com,2016-09-01 22:35:46+00:00,,,,False,Legend in figures produced by plotFuncs
+1801f5ba77aef40657dbf049e83e500bc8ea55ed,Matthew N. White,mnwhite@gmail.com,2016-09-05 20:11:12+00:00,,,,False,Fixed missing input in plotFuncsDer
+312c12326b0f5e73873e342dd2e05b3ac26f8326,dclow,low.david.chester@gmail.com,2016-09-06 15:21:42+00:00,,,,False,Merge pull request #79 from econ-ark/LivPrb-in-Markov
+01353516b07448bcccdf120577c5fd4576c0b41b,Matthew N. White,mnwhite@gmail.com,2016-09-06 18:57:27+00:00,,,,False,Tiny fix to ConsAggShockModel
+c6a499c4330a3da3a0217cb012d318efdd010cb1,dclow,low.david.chester@gmail.com,2016-09-23 13:51:29+00:00,,,,False,Merge pull request #78 from econ-ark/ConstantFunction
+ad6f95b8b7ad5cfe7173380507bc072d497c4866,Matthew N. White,mnwhite@gmail.com,2016-09-25 14:13:58+00:00,,,,False,Added getAvg method to HARKobject
+7b5c9741e8f247ff9dfba9ac7c361465c1095b5f,Matthew N. White,mnwhite@gmail.com,2016-09-25 14:13:58+00:00,,,,False,Irrelevant cstwMPC changes
+673c9ecf76e69bd525f489ee1928440aca219dca,dclow,low.david.chester@gmail.com,2016-09-28 13:35:47+00:00,,,,False,Merge pull request #84 from econ-ark/DemosForFed
+1d43d4a00b5b388b944242f1ad351388d244e366,compumetrika,npalmer4@gmu.edu,2016-09-28 13:55:31+00:00,,,,False,Add files via upload
+336d9726b396d623411b58ec34bc09d8f3573b83,compumetrika,npalmer4@gmu.edu,2016-09-28 13:59:19+00:00,,,,False,Delete draft_Software_Architecture_of_ARK.pdf
+36951943ba8ce2f9783e437f4c14a2b9b3cc6b3a,compumetrika,npalmer4@gmu.edu,2016-09-28 14:16:20+00:00,,,,False,Related link
+4d15a2768ed947e8e299e8a63111f61be76af2b1,dclow,low.david.chester@gmail.com,2016-10-15 18:52:53+00:00,,,,False,Merged PR #86
+8dfaa7e03789bd380d7d314f760949c6daf4041c,dclow,low.david.chester@gmail.com,2016-10-15 19:11:16+00:00,,,,False,Added an input check to preSolve in HARKcore (#87)
+ef22675d1c8eb1a740df5358ad9daef8f7fd76de,dclow,low.david.chester@gmail.com,2016-12-09 14:25:15+00:00,,,,False,Merge pull request #89 from econ-ark/SimulationOverhaul
+0b17ba26435e23bddaa56cb6c3f278788d40d267,Matthew N. White,mnwhite@gmail.com,2017-01-03 14:05:19+00:00,,,,False,Pr/91 : Change aggregate state in ConsAggShockModel (#92)
+90c026e3705bf6173004b4cd5b7de310e57ec9d1,Matthew N. White,mnwhite@gmail.com,2017-01-03 21:02:32+00:00,,,,False,C and c with Sticky Expectations (#93)
+1ba21d3b9e1cf584e40ed9ae058f772a81b1d72c,Matthew N. White,mnwhite@gmail.com,2017-01-13 14:28:13+00:00,,,,False,Fix issue #100
+cf5650689a26b9c36d0a60404ebf143887078423,Matthew N. White,mnwhite@gmail.com,2017-04-11 22:39:12+00:00,,,,False,Fix to approxLognormal (#108)
+91697d33ab2e2641cb921fb458279e80a2a32db7,Matthew N. White,mnwhite@gmail.com,2017-04-12 21:04:21+00:00,,,,False,Rewrote LinearInterp from scratch (#107)
+df72f65797fb663e18638c6855cf711fad54e1dc,dclow,low.david.chester@gmail.com,2017-04-19 16:37:49+00:00,,,,False,Tiny fix to decay interpolation in linear interpolation in HARKinterpolation.py (#110)
+9d12771ddb7ea37f964629df9984fcbbf7f27a3e,Matthew N. White,mnwhite@gmail.com,2017-05-01 21:51:31+00:00,,,,False,"Swapped old/new cstwMPC, deleted LinearInterpOLD"
+a01a90b824c6f8b1d7bb634f8862150b019d70b3,edmundcrawley,edmundcrawley@users.noreply.github.com,2017-05-10 20:09:51+00:00,,,,False,Fix typo in last commit (edmundcrawley)
+0cc213777e169d3c5bae38e694b1dea8dc442fe0,Matthew N. White,mnwhite@gmail.com,2017-07-10 18:27:31+00:00,,,,False,"Added Fagereng, Holm, & Natvik demo"
+d40da4ea5b78902c2a8917f505c45b87a1167248,Matthew N. White,mnwhite@gmail.com,2017-07-15 18:30:02+00:00,,,,False,Fixed filenames in demos; adjusted plotFuncs
+c8a605e2815c10eba166f7df6e35fe1b74fe948f,Matthew N. White,mnwhite@gmail.com,2017-07-16 16:46:42+00:00,,,,False,"Cleaned NonDurables demo, fixed init issue"
+c79fcc74effcd26ed2c5225de5ff395510fb397b,Matthew N. White,mnwhite@gmail.com,2017-07-16 16:55:12+00:00,,,,False,Remove mistakenly comitted temp changes
+602a31aac72205972873f20a3c460008af34b790,derinaksit,aksit@jhu.edu,2017-08-07 16:30:38+00:00,,,,False,Checking the conditions for nondegenerate solutions  (#115)
+4c3348d2818814b02c75a9558d379f2a08c6ff57,dclow,low.david.chester@gmail.com,2017-08-08 15:06:01+00:00,,,,False,Fixed a bug in makeMarkovApproxToNormal in HARKutilities.py (#126)
+3ca788c991057ee3f669b2c9d4daf3de13bc8abc,llorracc,llorracc@users.noreply.github.com,2017-08-29 23:17:39+00:00,,,,False,Start ignoring files created by htlatex
+88b278c4b94b7e513522c9a2230f7c5aef795547,llorracc,llorracc@users.noreply.github.com,2017-08-30 02:54:53+00:00,,,,False,Create html version of HARKmanual
+1d9fd69ff29eb2763ce9fd4f82676ee3fd0b3461,Christopher Llorracc Carroll,llorracc@users.noreply.github.com,2017-09-03 15:15:18+00:00,,,,False,Make html and markdown versions of HARKmanual and its subsection Contributing To HARK (#129)
+42f7d9fa3b972988a59a33828e906007317c1c11,akaufman10,akaufman10@gmail.com,2017-09-18 19:20:00+00:00,,,,False,add numpy import
+33128eebe9f237f1b7a8e451eee526054ce0add6,econ-ark,ccarroll@jhu.edu,2017-10-03 03:09:59+00:00,,,,False,add citation and new release info 
+0384710dfe61aa980e221e88b93204762c6266c4,econ-ark,ccarroll@jhu.edu,2017-10-03 03:13:06+00:00,,,,False,added release and citation info
+160284fe999aadfa309ea0f411694e7e1484596e,econ-ark,ccarroll@jhu.edu,2017-10-03 03:13:23+00:00,,,,False,Update HARKmanual.md
+978181b246cbc1a17ccb83ca44363cd9cd99c94b,edmundcrawley,edmundcrawley@users.noreply.github.com,2018-01-29 14:33:31+00:00,,,,False,Adds new function makeTauchenAR1 (#132)
+edb78c8154bad1874a65dca121346cc3e445464f,econ-ark,ccarroll@jhu.edu,2018-03-07 19:14:22+00:00,,,,False,Merge pull request #138 from econ-ark/DeleteOldStickyE
+5c3d917966e6b4418f6bedb3b1cca676198adffb,econ-ark,ccarroll@jhu.edu,2018-03-07 19:15:07+00:00,,,,False,Merge pull request #140 from jackiekazil/master
+d01f4e117fc03bfbc7124c241e3893f28d799f01,llorracc,git@llorracc.org,2018-03-07 23:11:05+00:00,,,,False,Demo to try alternative parameter values in cstwMPC
+6619996bba55df37bf7d580c4f50e9b8f689279c,llorracc,git@llorracc.org,2018-03-07 23:14:31+00:00,,,,False,"Revert ""Demo to try alternative parameter values in cstwMPC"""
+a886ea6221e6cb64c782a27379749320f4f2a6d7,llorracc,git@llorracc.org,2018-03-07 23:16:12+00:00,,,,False,"Revert ""Revert ""Demo to try alternative parameter values in cstwMPC"""""
+a88ba0429f9d4692be29937e49efb799e610cd64,llorracc,git@llorracc.org,2018-03-07 23:18:05+00:00,,,,False,Link to the demo
+a18e846f7c988ee1d6f90628098f69dbd183f991,llorracc,git@llorracc.org,2018-03-07 23:18:30+00:00,,,,False,Store some cstwMPC results
+f4ecc52b2a6627b1db487202d074cdbd1f3f62c2,Christopher Llorracc Carroll,git@llorracc.org,2018-03-08 14:07:05+00:00,,,,False,Merge pull request #137 from econ-ark/RepAgentModel
+a522e3dbf263f54d97a7c82d0c958a42ed7e5d82,Econ-ARK Team,ccarroll@jhu.edu,2018-03-20 20:36:50+00:00,,,,False,Merge pull request #143 from econ-ark/zenodo-metadata
+4f702ce82207ec7da44a2ea01e15baaef03e8026,Matthew N. White,mnwhite@gmail.com,2018-03-21 19:20:17+00:00,,,,False,Merge pull request #144 from edmundcrawley/StickyE_prepareMerge
+4c349f4d7e399e399db28d19f79aac0ba2c5bb17,Matthew N. White,mnwhite@gmail.com,2018-03-28 20:52:29+00:00,,,,False,Merge pull request #147 from econ-ark/zenodo-metadata
+e079a95639f840ca5c7ef41cb937695bbe841439,llorracc,git@llorracc.org,2018-03-28 22:24:20+00:00,,,,False,Ignore _region_ files
+e2bd270c3c48daf5699c6c1c2634ac3e831d3f80,Christopher Llorracc Carroll,git@llorracc.org,2018-04-06 02:20:40+00:00,,,,False,Merge pull request #128 from econ-ark/GeneralIncomeProcess
+5cb8f70b3a08045ac05f6fae8f3038b0a3c4dae2,Matthew N. White,mnwhite@gmail.com,2018-05-17 22:15:03+00:00,,,,False,Three tiny fixes
+cf0d7a3e49bf7e61d04be8c061e58f4031dbbcfd,Matthew N. White,mnwhite@gmail.com,2018-05-17 22:15:08+00:00,,,,False,Merge branch 'master' of https://github.com/econ-ark/HARK
+d8f316a7c6d48a3c52069b68f65c012cfbb80451,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2018-05-21 14:28:22+00:00,,,,False,Has email addresses that seem to be causing problems
+27e6baa27a6bfc3f4a5352a64e51b72aea151bf2,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2018-05-21 14:30:02+00:00,,,,False,Delete to fix email error
+26a6d65822c6fd01b1702fe011817cc07578f412,llorracc,git@llorracc.org,2018-05-21 15:26:37+00:00,,,,False,Updated HARKmanual with new dotnames
+297dad187bad2bf85c1c33bd86f9aed08f0bc08f,llorracc,git@llorracc.org,2018-05-21 15:43:08+00:00,,,,False,Update files derived from HARKmanual
+3ad528e09c8867279f5fa916a7412ab485aa4935,llorracc,git@llorracc.org,2018-05-21 15:54:27+00:00,,,,False,Update generated HARKmanual files again
+a822f0039e95f871366ac310573cf349d7bf5a03,llorracc,git@llorracc.org,2018-05-21 15:57:48+00:00,,,,False,Updated ConsumptionSavingModels.pdf
+6e410e97a771b9ad9bf1e1825a6de3ad2cb6105d,Matthew N. White,mnwhite@gmail.com,2018-06-01 20:22:09+00:00,,,,False,Small fix to ConstantFunction
+37ff5adef6e9a5baf543cb4e0671485f2096101c,Matthew N. White,mnwhite@gmail.com,2018-06-08 03:16:28+00:00,,,,False,Merge pull request #158 from brainwane/import-cleanup-linkfix
+73206266aaf502c6992ca455c47ff672c1b1b3bd,Matthew N. White,mnwhite@gmail.com,2018-06-08 03:18:36+00:00,,,,False,Fixed pyplot import in HARKutilities
+d53cb06dc57a9fa98172a7e5c392be915d7793ab,Matthew N. White,mnwhite@gmail.com,2018-06-14 19:42:10+00:00,,,,False,Merge pull request #159 from econ-ark/whitespace
+58cfbe5dc8ffe39c7076269cc2bc813878d03944,Matthew N. White,mnwhite@gmail.com,2018-06-14 21:40:15+00:00,,,,False,Merge pull request #160 from econ-ark/unused-imports
+cd3ed9b89ad195099202e60fa3ef2d62b96a89f2,Jason Owen,jason.a.owen@gmail.com,2018-06-21 20:33:10+00:00,,,,False,Merge pull request #161 from econ-ark/installability
+a85ff0ab3a8c122f930488c74b926d4807338868,Jason Owen,jason.a.owen@gmail.com,2018-06-29 20:30:10+00:00,,,,False,Merge pull request #167 from mgerring/master
+2d4bf086537eefd7b002c2744e8934f0e3c52560,Matthew N. White,mnwhite@gmail.com,2018-07-06 23:29:53+00:00,,,,False,Merge pull request #169 from edmundcrawley/MarkovSOERemoval_2
+5c2b3e607f9e5cf16eed3627e837056d86148e57,npalmer-professional,npalmer.professional@gmail.com,2018-07-12 23:56:13+00:00,,,,False,Merge pull request #168 from npalmer-professional/master
+4b340003d36c48d33c4e2e6adc7b25437a8cb7ee,Matthew N. White,mnwhite@gmail.com,2018-07-15 00:53:13+00:00,,,,False,Merge pull request #172 from mgerring/master
+902008460fbb1d4c2986b10234645727f2629199,llorracc,git@llorracc.org,2018-07-15 20:11:21+00:00,,,,False,Improve checkConditions method
+43952d127a432d473e2509582393af5119f9d363,llorracc,git@llorracc.org,2018-07-15 21:38:29+00:00,,,,False,Improve checkConditions
+ace5143349c6ac402c82f6c0dcf88b19589614f9,llorracc,git@llorracc.org,2018-07-15 22:21:07+00:00,,,,False,"Revert ""Improve checkConditions"""
+1c779aa3767534c526539b419566bb288fc5d8b6,llorracc,git@llorracc.org,2018-07-15 22:21:29+00:00,,,,False,"Revert ""Improve checkConditions method"""
+d00b1e4f52cc033986a7445a5d4ba27e7b3cf209,DrDrij,dr.drij@gmail.com,2018-08-04 10:36:24+00:00,,,,False,Add Alexander Kaufman as author to Zenodo metadata
+d2655650a9fa65fe0b3d4e1829f48ce98f39b1b6,npalmer-professional,npalmer.professional@gmail.com,2018-08-05 18:17:37+00:00,,,,False,Turned SolvingMicroDSOPs into the ReplicateMake example (#176)
+c07720ca607e9bf2bbad0c6985c5fec2888441d5,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2018-08-07 11:55:02+00:00,,,,False,Improve documentation for TBS per issues #36 and #183 (#184)
+6543432fe4105b28881d0fcf9e8c48c88caaac1d,Matthew N. White,mnwhite@gmail.com,2018-09-10 12:51:27+00:00,,,,False,Merge pull request #194 from TimMunday/BilinearInterp
+b870cda0843212836a12255dad4993e88d04a3c2,Matthew N. White,mnwhite@gmail.com,2018-11-05 14:01:54+00:00,,,,False,Merge pull request #207 from pkofod/patch-1
+5a8e6ad0c24ea94fa1b446e424f62194b8268cae,Matthew N. White,mnwhite@gmail.com,2018-12-04 19:54:17+00:00,,,,False,Merge pull request #208 from pkofod/travis
+a68d4c8e6bb36834e5887aec0ad1d73188904888,Matthew N. White,mnwhite@gmail.com,2018-12-12 01:01:24+00:00,,,,False,Merge pull request #212 from econ-ark/Fix-FashionVictim-Bug
+5ba9d8273089ff6668c83682ce0917022f3be29a,Matthew N. White,mnwhite@gmail.com,2019-01-18 15:08:16+00:00,,,,False,Merge pull request #217 from econ-ark/pr/209
+0759843323ddbede0410ec90cfc58c6d33211296,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-01-28 02:57:24+00:00,,,,False,Restore fixes from discarded master (#219)
+73791b0a0e2ca248f35b226f3ecaae52152df0b7,Patrick Kofod Mogensen,patrick.mogensen@gmail.com,2019-02-01 17:25:12+00:00,,,,False,"Improvements to checkConditions that were reverted, ref #175. (#205)"
+3c3b064c6e43f13d6d112f3f577f9a9ab4fddfed,Matthew N. White,mnwhite@gmail.com,2019-02-15 13:20:26+00:00,,,,False,Fixed imports in model files (#224)
+7afa2c18f67c7e534fa51abbb4a2f74540086296,Econ-ARK Team,ccarroll@jhu.edu,2019-02-16 16:40:35+00:00,,,,False,Merge #224 did not bring in the final version (#225)
+d3bf1f99d2be7e39605686f4e26c5db10e012c39,Patrick Kofod Mogensen,patrick.mogensen@gmail.com,2019-02-26 12:57:23+00:00,,,,False,Remove Chinese Growth and NonDurables since these now exist as DemARKs. (#229)
+43d4bce666867fc6ec0437b3c7b4585ab1da137f,Patrick Kofod Mogensen,patrick.mogensen@gmail.com,2019-02-26 12:58:15+00:00,,,,False,Add mentions of DemARK and REMARK in README.md (#230)
+bd669a74c54890e056fc437a02fe5aa7580c4891,Matthew N. White,mnwhite@gmail.com,2019-02-28 13:22:23+00:00,,,,False,Merge pull request #231 from pkofod/patch-2
+7e690d92183f3965ca411bceb3919fbc7ce9bfa3,Matthew N. White,mnwhite@gmail.com,2019-02-28 13:37:17+00:00,,,,False,Add MPC to simulation in ConsGenIncProcessModel (#170)
+4d19ea9662618f267749b1c9be8a8edc24b81387,Matthew N. White,mnwhite@gmail.com,2019-02-28 13:43:00+00:00,,,,False,Merge pull request #193 from TimMunday/NanBool
+39cc609ff9532a471d374f0c0b75a048c747b162,Matthew N. White,mnwhite@gmail.com,2019-03-02 03:07:34+00:00,,,,False,Fix one line break
+b84ee59b3c0d34a7a18e776e095ef1408ab67cd4,Shauna,shaunagm@gmail.com,2019-03-02 14:43:51+00:00,,,,False,Merge pull request #233 from shaunagm/master
+6d6b2952038552f14f66cca29380af2be3d3785a,Matthew N. White,mnwhite@gmail.com,2019-03-07 14:07:02+00:00,,,,False,Undo nan_bool merge (#236)
+80ffc32cf07ea790d3a57ff0766cab41e4cf142d,Matthew N. White,mnwhite@gmail.com,2019-03-19 14:09:59+00:00,,,,False,Merge pull request #239 from econ-ark/Remove-Old-Stuff
+10482e7d674e2ad6a21a9cc1a698f89d650eb1e8,Matthew N. White,mnwhite@gmail.com,2019-03-19 14:13:22+00:00,,,,False,Merge pull request #238 from pkofod/numpyfloatingpointerror
+ffb501242b59603bed860d4300d8261232dd7428,Matthew N. White,mnwhite@gmail.com,2019-03-20 08:00:41+00:00,,,,False,Delete old demo files (#243)
+8e453dead4b6303e9fbd0632c8d845bed9adedcc,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-04-09 01:06:15+00:00,,,,False,Changed hardcoded updateAFunc parameters into proper parameters (#244)
+c394d0f779e78ba89081510cde6c0253b4dcfdc1,Matthew N. White,mnwhite@gmail.com,2019-04-10 14:04:46+00:00,,,,False,Merge pull request #242 from pkofod/logsumprobaccuracy
+c51d60e21e3eb0c22f93f0670c176c66f5477641,Patrick Kofod Mogensen,patrick.mogensen@gmail.com,2019-04-11 13:24:40+00:00,,,,False,Remove old Testing-folder file because it's already covered by the tests run on Travis. (#245)
+8c1fa3795cee4f6c641482b5f4f86288cfeaedd8,llorracc,git@llorracc.org,2019-04-13 02:13:40+00:00,,,,False,Suppress annoying impatience check when not needed
+2c856de309d71de0c9083a9ac570b56a705ca1ca,llorracc,git@llorracc.org,2019-04-13 02:15:57+00:00,,,,False,Merge branch 'master' of https://github.com/econ-ark/HARK
+ba3520242aafff7089eb8ec572b5c516e8665216,Matthew N. White,mnwhite@gmail.com,2019-04-18 14:22:27+00:00,,,,False,Merge pull request #250 from econ-ark/Fix-verbose-check-error
+bf35222d3af40cdbd544f443fe071fc896744cc4,Shauna,shaunagm@gmail.com,2019-04-18 17:25:04+00:00,,,,False,Merge pull request #251 from shaunagm/prepare-release-0.10.0.dev2
+a390241b7be8d3db8febc65cbc2106d92f8bb868,Shauna,shaunagm@gmail.com,2019-04-25 15:43:50+00:00,,,,False,Merge pull request #254 from pkofod/patch-5
+9354c65911341c4d641f5b57895f8a777b90ea03,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-04-26 19:58:41+00:00,,,,False,Partial update to README for PyCon (#257)
+3d184153a189e618a87c9540df1cd12044039cc5,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-04-26 23:32:49+00:00,,,,False,Further updates to README.md (#260)
+3289b6765319d7d0cd818abeafb8c9bde5eef1cb,Matthew N. White,mnwhite@gmail.com,2019-05-06 14:38:37+00:00,,,,False,Merge pull request #265 from MridulS/master
+dfe4e3636753b000f4089ece72b2718720f5da4a,Shauna,shaunagm@gmail.com,2019-05-06 14:55:29+00:00,,,,False,Merge pull request #266 from aawalker9/master
+57b2f919d46e97242a2de35b18544a68ad4e8c71,Shauna,shaunagm@gmail.com,2019-05-06 15:15:42+00:00,,,,False,Merge pull request #261 from shaunagm/add-flake8
+a75a9886c13821ab5f4bc4688f1a05646fd9c90d,Matthew N. White,mnwhite@gmail.com,2019-05-06 16:17:07+00:00,,,,False,Merge pull request #270 from tanyaschlusser/PyCon2019/no-issue/modify-readme-contributing-link
+31d3e3dfd49af5d9c4bac27692c93211f907ce30,Matthew N. White,mnwhite@gmail.com,2019-05-06 16:24:40+00:00,,,,False,Merge pull request #269 from keithblaha/gitignore-vim
+4b6855f45a81fe44e3d1e0940b2be641acb0f0eb,Shauna,shaunagm@gmail.com,2019-05-06 18:51:11+00:00,,,,False,Merge pull request #274 from StephenSchroeder/master
+589a3ca1c16cb952c20a3aebbb8117189295ba36,Shauna,shaunagm@gmail.com,2019-05-06 19:50:20+00:00,,,,False,Merge pull request #276 from rsaavy/master
+d7cc063ac963b2038aadbb3b3ea2b0071d1c1d70,Shauna,shaunagm@gmail.com,2019-05-06 21:11:03+00:00,,,,False,Merge pull request #278 from rsaavy/master
+d99393973554b1cf830c6285e6da59d98ff242ff,Shauna,shaunagm@gmail.com,2019-05-06 21:18:24+00:00,,,,False,Merge pull request #277 from StephenSchroeder/master
+b3323511cdf0dab5634d6ce81ecf1f9cd60e7d83,Matthew N. White,mnwhite@gmail.com,2019-05-10 13:18:44+00:00,,,,False,Merge pull request #281 from StephenSchroeder/master
+43ab680feb9a05f0043c81a74849b074df0d6291,Matthew N. White,mnwhite@gmail.com,2019-05-10 13:28:24+00:00,,,,False,Merge pull request #272 from econ-ark/README-Add-Learning-HARK
+11660fd978e1acca4d7e91397bc210ed9d8f1da4,Matthew N. White,mnwhite@gmail.com,2019-05-11 16:38:11+00:00,,,,False,Moved checkConditions out of init (#284)
+b292afd995a17a6b99359859653fd36777d2299e,Matthew N. White,mnwhite@gmail.com,2019-05-14 13:13:00+00:00,,,,False,Fix typo in Market.__init__ (#286)
+85fb9140b96c7b2c8b68d5a026a737fb28bc554f,Matthew N. White,mnwhite@gmail.com,2019-05-14 13:59:27+00:00,,,,False,Merge pull request #256 from pkofod/asimpletest
+06f1a26879fbf482deb98ca3bc1b82b2c062ebe9,Matthew N. White,mnwhite@gmail.com,2019-05-14 14:05:34+00:00,,,,False,Merge pull request #258 from pkofod/gausherm
+3ed97e4fa298c0984211f0f6df2e911e8b53a705,Matthew N. White,mnwhite@gmail.com,2019-05-15 21:50:19+00:00,,,,False,Merge pull request #287 from econ-ark/Multithreading-fix-maybe
+9c20b863dfbe8e0c398a9995315b38cee24d42d9,Matthew N. White,mnwhite@gmail.com,2019-05-16 13:14:10+00:00,,,,False,Merge pull request #282 from keithblaha/validators
+47a71707026c92bfdcffc2fd85770b60b2e5c275,Shauna,shaunagm@gmail.com,2019-05-18 23:17:14+00:00,,,,False,Merge pull request #288 from shaunagm/prepare-release-0.10.0.dev3
+43853bfde59f069f41f54a83ec34928f15d780f4,Shauna,shaunagm@gmail.com,2019-05-18 23:41:35+00:00,,,,False,Merge pull request #289 from econ-ark/hotfix-dev3-release
+038996ce8d695f475b7f861c88f80360a6c53dc1,Patrick Kofod Mogensen,patrick.mogensen@gmail.com,2019-05-20 12:33:25+00:00,,,,False,Move two test files from Testing to HARK/tests. (#255)
+97b1b16a3b062bdfe5bac776f6e2d47a9d550b24,Shauna,shaunagm@gmail.com,2019-05-30 15:25:40+00:00,,,,False,Merge pull request #297 from econ-ark/release-branch-0.10.1
+a184a28491afe70fddeb6cc8fe2efb266b5f672e,Shauna,shaunagm@gmail.com,2019-05-31 15:01:17+00:00,,,,False,Fix minor error in conda install instructions (#298)
+f6807a1a18e45c957da72c7b19b770042043414c,Matthew N. White,mnwhite@gmail.com,2019-06-06 20:49:13+00:00,,,,False,Merge pull request #293 from pkofod/init_tests
+a78df9c724ef60ea1bda3437897478f6b24ce564,Matthew N. White,mnwhite@gmail.com,2019-06-16 19:28:12+00:00,,,,False,Merge pull request #302 from pkofod/patch-5
+c6b6ee6df6dccf6dbe76b2b45276e693c98cd1bf,Matthew N. White,mnwhite@gmail.com,2019-06-16 19:33:11+00:00,,,,False,Merge pull request #314 from pkofod/patch-6
+4f656a15534ec6cce8c5f2ddce00d68a03fafb02,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-06-17 16:19:51+00:00,,,,False,Merge pull request #315 from pkofod/simulateerror
+d873b3749376aa2da159a872624d2ae4d4948dca,Matthew N. White,mnwhite@gmail.com,2019-06-18 14:09:24+00:00,,,,False,Merge pull request #304 from pkofod/removetesting
+6778cfd3f48b9706fe8d8aace7eaa4a04519f603,Matthew N. White,mnwhite@gmail.com,2019-06-19 22:50:03+00:00,,,,False,Merge pull request #321 from pkofod/nomsg
+f910fac66c1b3d3857ad54afb906b510bd8b8f23,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-06-21 16:10:44+00:00,,,,False,Merge pull request #323 from pkofod/updatepresolve
+0651bdfe6633ceaca77925cba37aa03763095091,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-06-24 07:54:29+00:00,,,,False,Merge pull request #328 from econ-ark/iworld1991-BayerLuetticke_iworld1991
+e564fc90a76da3a6c5102add5736034a2642ae97,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-06-24 08:28:37+00:00,,,,False,Merge pull request #329 from econ-ark/Last-Pre-HoR-tweaks
+9f5def85c99f0c089d17c178d9ba4d91baf059fe,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-06-24 09:44:19+00:00,,,,False,Merge pull request #330 from econ-ark/Remove-OneAsset-KS.notebook
+62be33c2c5bc812cc24893f9781ee4e1c2b88165,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-06-24 10:00:16+00:00,,,,False,Merge pull request #331 from econ-ark/More-README-fixes
+4780d25b5f5c248ce01e160eb47e9460da7cd7e0,Shauna,shaunagm@gmail.com,2019-06-26 20:18:43+00:00,,,,False,Merge pull request #332 from econ-ark/txt-file-fix
+e6dcbbef2ddc401e3e47bda41ad2a612fbc715f2,Matthew N. White,mnwhite@gmail.com,2019-06-28 17:34:20+00:00,,,,False,Merge pull request #322 from pkofod/patch-5
+cd25db11e524652b9de97ace4688271c8cbd8016,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-03 13:46:33+00:00,,,,False,Merge pull request #324 from pkofod/checkrestrictions
+f2d0cc9728ab7c9856442512353acc4286b83641,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-08 21:50:41+00:00,,,,False,Merge pull request #344 from iworld1991/BayerLuetticke_iworld1991
+1e0bf868614ee3cb1939a34ff9b1c64d0742dbbe,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-13 04:12:52+00:00,,,,False,Merge pull request #341 from MridulS/multibayer
+cedd414afbd2c2b6f8f5446f4dfc5f2bb46a6329,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-13 14:28:01+00:00,,,,False,Merge pull request #348 from econ-ark/OpenCL-20190710-Start
+784d3b746506c55c24cc610d1c28dcd649fdf7ad,Shauna,shaunagm@gmail.com,2019-07-13 17:21:00+00:00,,,,False,Merge pull request #349 from ingridbgl/master
+3943eb2f500911f219b71cb5050037fdd9586a67,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-16 01:41:16+00:00,,,,False,Merge pull request #352 from econ-ark/RemoveOpenCL
+7209492e2800a8732d9ce39bb9824a0a8e7034ff,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-16 03:39:58+00:00,,,,False,Merge pull request #342 from MridulS/issue340
+009f4a5fa64b2f1b568ea56cc37f1cf4cdf29f4a,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-16 18:59:40+00:00,,,,False,Merge pull request #354 from econ-ark/Mridul-Do-Again
+a2d353dcb88c6c1a34d23fa3289c85f8c5cc5bbd,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-17 14:18:14+00:00,,,,False,Merge pull request #355 from econ-ark/FixOneAssetBug
+832cb10acaf5ad34861a3e1d65ef9c77af5b5871,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-18 12:42:54+00:00,,,,False,Merge pull request #356 from econ-ark/llorracc-patch-1
+dbc168c37d8a42f7d51fbf7d7d1272e1179a623c,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-19 17:58:40+00:00,,,,False,Merge pull request #353 from ericholscher/eh-sphinx-updates
+603b140184078f52b5cc51da44a443415c98fe1f,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-20 02:44:06+00:00,,,,False,Merge pull request #345 from iworld1991/BayerLuetticke_iworld1991
+36e55d368f1d07be506bbbc9124f11a7deb4cb16,Shauna,shaunagm@gmail.com,2019-07-20 15:37:10+00:00,,,,False,Merge pull request #357 from econ-ark/prepare-release-0.10.1.dev1
+634343429a434715658c8553f86e4858cac8fef6,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-20 20:13:19+00:00,,,,False,Merge pull request #358 from econ-ark/minor-readme-fix
+eb4172d6c6733e7b3d8b1e35163f0e0fb0a86edb,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-22 15:22:57+00:00,,,,False,Merge pull request #360 from econ-ark/llorracc-patch-2
+e11ccca62d9763e0b9486424efe4cbe080556a6f,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-22 22:25:51+00:00,,,,False,Merge pull request #363 from econ-ark/Undo-AgentType-preSolve-Problem
+1a75ae661b4720f853f47c679c0ad717a21eeff0,Shauna,shaunagm@gmail.com,2019-07-22 23:03:01+00:00,,,,False,Merge pull request #365 from econ-ark/permanent-link-to-docs
+3c9dcb5b4a66a11c2dda9221e0caecb6a2ea2c9c,Shauna,shaunagm@gmail.com,2019-07-22 23:11:05+00:00,,,,False,Merge pull request #366 from econ-ark/prep-release-0.10.1.dev2
+8e39cd3a39a8aa19fcfaf55b62ce07546a6d540f,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-22 23:33:45+00:00,,,,False,Merge pull request #367 from econ-ark/Undo-AgentType-preSolve-Problem-OneMoreFix
+42b33acb6d85c71b0530ae78279bcfb747b30911,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-23 00:25:19+00:00,,,,False,Merge pull request #364 from ericholscher/patch-1
+df8c14ff13dc7a8b10790744e9e616c63d3ba131,Shauna,shaunagm@gmail.com,2019-07-23 18:24:38+00:00,,,,False,Merge pull request #371 from econ-ark/prep-release-0.10.1.dev3
+f4684aae27bf7e246b396149da57f03e51ce40aa,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-25 19:54:08+00:00,,,,False,Merge pull request #373 from sbrice/master
+17166655f3ae25eeca3252db348dba2671e84219,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-07-27 21:51:30+00:00,,,,False,Merge pull request #377 from MridulS/par_backend
+a1d5c824814eea1e1efef1882d0ea29aa33cb339,Shauna,shaunagm@gmail.com,2019-09-05 15:57:49+00:00,,,,False,Merge pull request #382 from ericholscher/add-submodule
+e34e27c3eb38d7fb5ae567a8391d1678f34f8b23,Shauna,shaunagm@gmail.com,2019-09-05 16:44:51+00:00,,,,False,Merge pull request #381 from ericholscher/add-all-python-classes
+7ef0082da021f97f3a5b00eeac81028ed75ba0f8,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-09-13 13:14:44+00:00,,,,False,Merge pull request #267 from MridulS/master
+26962013de091c17626c06f86b5d33f8af805a8e,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-09-14 18:54:06+00:00,,,,False,Merge pull request #383 from econ-ark/Document-MPCnvrs
+1a61712056ee9d4718d9275fe69d5f243c2c2339,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-09-14 19:11:18+00:00,,,,False,Merge pull request #387 from econ-ark/Post-Bud-Cleanup
+e5fff7af67c41709cc2aa6482fd4d381d3856d98,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-09-19 13:41:33+00:00,,,,False,Merge pull request #386 from JackShiqiLi/master
+dd3547f21ee082269e707c436ef1537ea21b6de4,Shauna,shaunagm@gmail.com,2019-09-19 20:02:14+00:00,,,,False,Merge pull request #390 from econ-ark/prep-release-0.10.1.dev4
+11754e452aab4b91172a925ea7a47e0092381705,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-09-19 20:21:34+00:00,,,,False,Add PortfolioChoiceModel
+49748fdfbc10745de836ab3aabaa67c66ce8cc82,Shauna,shaunagm@gmail.com,2019-09-25 15:42:54+00:00,,,,False,Merge pull request #394 from econ-ark/prepare-release-0.10.1.dev5
+3b2eb3f194956d40d065597c9c4859ace6eac58c,Shauna,shaunagm@gmail.com,2019-09-25 21:00:22+00:00,,,,False,Merge pull request #374 from econ-ark/jdice-master
+eee0633707895c551e9da0ebead61da5f55888cf,Matthew N. White,mnwhite@gmail.com,2019-09-26 17:42:02+00:00,,,,False,Merge pull request #397 from sbenthall/master
+10df92c582222c7fb201ff6dd608d23b56f8f523,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-09-27 13:26:53+00:00,,,,False,Merge pull request #400 from sbrice/master
+cd9f24f52813c2bd429cca475010c130a7f9f8b1,Mridul Seth,seth.mridul+github@gmail.com,2019-09-29 22:41:45+00:00,,,,False,Merge pull request #391 from pkofod/pkm/fixadjustprb
+90989ed85ed2b7bab21811618ea35c0d0af76135,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-10-03 13:17:59+00:00,,,,False,Merge pull request #401 from MridulS/test_core
+2b2f73e30a5fc05666cfd1ab31b1f2f241ba4a33,Shauna,shaunagm@gmail.com,2019-10-03 22:23:35+00:00,,,,False,Merge pull request #403 from econ-ark/prep-release-0.10.2
+d807e7c038a10cc7dd756d78391942a1542ddcb5,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-10-17 12:51:12+00:00,,,,False,Merge pull request #405 from econ-ark/Fix-priont-typo
+629d9f5a043778d63920a42f40d1be59e0273f82,Mridul Seth,seth.mridul+github@gmail.com,2019-10-17 13:04:08+00:00,,,,False,Inherit all attributes from Market Class in cstwMPC (#393)
+17b9129bd377d6a3fef16c743f39242b0d33847d,Matthew N. White,mnwhite@gmail.com,2019-10-17 16:58:57+00:00,,,,False,Merge pull request #337 from janrosa1/New_Manual
+89f24b6c70ea7fd37579195bfa07ee67ac290427,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-10-19 20:43:17+00:00,,,,False,Merge pull request #299 from econ-ark/ConstrainedPerfectForesight
+790741ff507c3f2a16f1fb56dea76e20baf1dfd1,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-10-23 20:10:27+00:00,,,,False,Merge pull request #413 from zhuang13atJHU/master
+f6e9e91c89479ddf71993e44b2c4789aeb6ee2cf,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-10-24 14:07:07+00:00,,,,False,Merge pull request #411 from sbenthall/issue-406-sphinx
+8edcebf067ebd1913f13f79c2b1bbd221f980f1b,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-10-29 02:07:15+00:00,,,,False,Merge pull request #408 from sbenthall/issue-404
+956c4484893140b1427fb7b6522b05d26702f208,Sebastian Benthall,sbenthall@gmail.com,2019-10-29 17:28:41+00:00,,,,False,"remove Examples/ directory, fixes #417 (#419)"
+f1e31e5a05b6ce4f90dbead7aa3a28ba70da1d6c,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-10-30 01:40:40+00:00,,,,False,Merge pull request #421 from sbenthall/issue-409-intro
+eade7112f5bf13c7573733cb7b08b855c1d25c68,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-10-30 12:19:08+00:00,,,,False,Minor edits to Portfolio model (#418)
+98bdacd0ac2b1b5b73f97c1112d0d206b6027658,Matthew N. White,mnwhite@gmail.com,2019-10-31 13:41:41+00:00,,,,False,Merge pull request #320 from pkofod/simul
+f5263b955a3ac6f94a65fa61e8d7a27de50f0b10,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-11-07 12:45:15+00:00,,,,False,Robustify conda installation command (#431)
+8dd97909df15558f21b1b9709a1aa7da13025180,Sebastian Benthall,sbenthall@gmail.com,2019-11-07 14:18:27+00:00,,,,False,Merge pull request #425 from sbenthall/issue-409-intro
+254a77a51f23f21896943114155abf3833d6c1ca,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-11-07 21:06:20+00:00,,,,False,Merge pull request #432 from sbenthall/issue-409-intro
+0b4970b421847ad801a48a0dd84576ad10c755da,Matthew N. White,mnwhite@gmail.com,2019-11-27 01:04:46+00:00,,,,False,Tiny fix to getPercentiles (#438)
+e83090eb755ad2b754d258aae9f7342a6f9fc5fa,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-12-05 14:57:57+00:00,,,,False,Merge pull request #436 from sbenthall/issue-409-intro
+3e06310899d00c3f02d8450c5fbb0bcfc662ae94,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-12-05 15:10:10+00:00,,,,False,Merge pull request #435 from Dr-G/patch-1
+a1df5ec2edf835a3fc5051827e3a52e98e3d5cbe,Sebastian Benthall,sbenthall@gmail.com,2019-12-05 15:14:45+00:00,,,,False,split on non-essential deps into extra_requires() (#429)
+31ae91cfefdbe8c3f4e7d7f042cf7aa15c3cd1fa,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-12-05 15:26:29+00:00,,,,False,Merge pull request #433 from pkofod/pkm/RiskyRNG
+bc0041b7d4493821f580e51b91e85413f3c37b34,Matthew N. White,mnwhite@gmail.com,2019-12-09 14:42:43+00:00,,,,False,Add which_vars to minimizeNelderMead (#443)
+61a9f4144c0b02da8bd54509c68d1849f0d8506b,Shauna,shaunagm@gmail.com,2019-12-09 17:22:00+00:00,,,,False,Merge pull request #448 from econ-ark/move-NARK-to-HARK-documentation
+c5c8d5d507f76cea14ad1c0939756dc473797546,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-12-10 02:29:21+00:00,,,,False,Merge pull request #444 from MridulS/matplotlib_gui_fix
+a3c2122c6ebf2250a066bdbe46717b0a949f1665,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-12-10 15:15:04+00:00,,,,False,Merge pull request #452 from econ-ark/add-solution-metrics-as-agent-attributes
+4d40c588bef39801003923c09f1d13bf8b81fe3f,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2019-12-10 16:14:41+00:00,,,,False,Merge pull request #453 from econ-ark/tiny-NARK-edits
+548603e2b4a18bd063afca82fe497b3fb1a1bbda,Sebastian Benthall,sbenthall@gmail.com,2019-12-10 22:47:44+00:00,,,,False,Merge pull request #454 from MridulS/depend
+cec4c5c98540b059f2723eedba8d3365969a32d8,Shauna,shaunagm@gmail.com,2019-12-12 15:01:09+00:00,,,,False,Merge pull request #458 from econ-ark/prep-release-0.10.3
+da832973cc59492350e8f8734440cf3ceab201b6,Mridul Seth,seth.mridul+github@gmail.com,2019-12-12 15:39:48+00:00,,,,False,fix slicing error in minimizeNelderMead (#460)
+eaa37c4132724a9a18985b12523bf8a8ec294a65,Shauna,shaunagm@gmail.com,2019-12-12 16:15:07+00:00,,,,False,Merge pull request #461 from econ-ark/fix-release-0.10.3
+f877b065d85a982e59dee1fd9427a00b96231818,Mridul Seth,seth.mridul+github@gmail.com,2020-01-01 11:43:13+00:00,,,,False,Linting parallel.py (#465)
+c5d8978e3c99cac62bbbfd178200afe198f08267,Mridul Seth,seth.mridul+github@gmail.com,2020-01-02 09:26:13+00:00,,,,False,Governance doc shouldn't be in source code (#422)
+5663528d02545f69cb238849bf72688751cd1ae8,Matthew N. White,mnwhite@gmail.com,2020-01-02 09:41:31+00:00,,,,False,Improved parallelNelderMead (#300)
+5275031452d98397fae201e6e33ea75627228f33,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-01-05 21:08:30+00:00,,,,False,Merge pull request #442 from sbenthall/i440-examples
+2bee725ec5313db71076a33a32e45f4004ec97e9,Sebastian Benthall,sbenthall@gmail.com,2020-01-06 22:56:29+00:00,,,,False,Fixing path to SetupParamsCSTW (#467)
+ad833152145529dc0f0f47d6c575a95a542967cd,Sebastian Benthall,sbenthall@gmail.com,2020-01-09 10:04:40+00:00,,,,False,Loading default parameters into class during initialization (#466)
+874ed0f6ad03d4aca5356495434b9a8e7a7ab35e,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-01-16 16:21:49+00:00,,,,False,Merge pull request #470 from MridulS/actions
+eb8d1a683522a592ef8f1a29c4b4e4ec6d680b8a,Mridul Seth,seth.mridul+github@gmail.com,2020-01-23 10:13:19+00:00,,,,False,time.clock is removed from py3.8 (#471)
+6392c70736ecda088a6baa39289c8d57a8088309,Sebastian Benthall,sbenthall@gmail.com,2020-01-23 15:12:21+00:00,,,,False,Merge pull request #477 from econ-ark/workflow3.8
+46d747a3aeb8f50ac477c00e3b1fd94a3c41b1ca,Sebastian Benthall,sbenthall@gmail.com,2020-01-30 14:03:51+00:00,,,,False,Remove numpydoc dependency (#476)
+c22ce404c145228b58ec3e071c6478a7e71d144a,Sebastian Benthall,sbenthall@gmail.com,2020-02-01 09:30:16+00:00,,,,False,adding ConsumptionSaving to the docs (#469)
+340a81789bcc9eb2b010ac5e36d6cfb361f0686a,Matthew N. White,mnwhite@gmail.com,2020-02-03 16:53:38+00:00,,,,False,Merge pull request #486 from econ-ark/RemoveCommentedMaxKinks
+7c65235afea1f6dd522c895be59cad20940aac46,Sebastian Benthall,sbenthall@gmail.com,2020-02-04 15:44:52+00:00,,,,False,Merge pull request #487 from MridulS/fork_guide
+ecb8867d370a7a37033b26f039c224bcf79c33e1,Sebastian Benthall,sbenthall@gmail.com,2020-02-05 10:16:07+00:00,,,,False,DemARKs to Examples (#472)
+b64e4451394449832dc22895405a7b984a2ff0d8,Mridul Seth,seth.mridul+github@gmail.com,2020-02-05 10:42:45+00:00,,,,False,run notebook to get output plots in documentation (#490)
+93f0ed1c7606773811c288a566042aa15a98da5d,Sebastian Benthall,sbenthall@gmail.com,2020-02-08 15:40:54+00:00,,,,False,Merge pull request #478 from econ-ark/update-travis-py3
+ede363ceb83b2b1ec6abfd62e1125131cf0d5ef7,Sebastian Benthall,sbenthall@gmail.com,2020-02-09 10:32:54+00:00,,,,False,changing version and author in sphinx (#489)
+17ada0805060286a6c30e725886ff6f40c8ef4bc,Mridul Seth,seth.mridul+github@gmail.com,2020-02-09 16:33:28+00:00,,,,False,fix setup.cfg order (#501)
+5952bc575d23c68b66e06dbd50bda86aac791241,Mridul Seth,seth.mridul+github@gmail.com,2020-02-09 17:46:58+00:00,,,,False,add packages = find: (#502)
+b2a89c134bd2b1ff53d9d1cdaf341bb1933b9dcf,Mridul Seth,seth.mridul+github@gmail.com,2020-02-09 18:21:58+00:00,,,,False,fix include package_data (#503)
+87d9885a0cd5913ac0735e58a94275dca0692c1a,Mridul Seth,seth.mridul+github@gmail.com,2020-02-09 21:33:03+00:00,,,,False,move data files to manifest.in (#505)
+bd3f68e5d8a47d7a9f6543184acdfcc6afbb4ad7,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-02-10 12:55:36+00:00,,,,False,Merge pull request #507 from econ-ark/UpdateInstallToIncludeREMARKs
+61a3e766c3553b126d4ae31cad826aa97b6d6086,Mridul Seth,seth.mridul+github@gmail.com,2020-02-11 14:46:34+00:00,,,,False,add util functions for notebooks (#512)
+3a96c0ee8d9c28fcaeb1591999081861b8ddab83,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-02-11 23:16:17+00:00,,,,False,Merge pull request #515 from econ-ark/HARKmanual_Minor_Edits
+dc8178647f26ccefc8dbdacab791b74db2774c70,Mridul Seth,seth.mridul+github@gmail.com,2020-02-12 05:23:01+00:00,,,,False,force travis to build and test HARK (#517)
+31ba7cbec67dfd54e73555a60185233179aeb6a2,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-02-13 22:45:05+00:00,,,,False,Merge pull request #521 from econ-ark/RemoveHARKmanualFromMaster
+a95afc5e1aee0caf81a7391b6aa4ecede6372e4c,Sebastian Benthall,sbenthall@gmail.com,2020-02-15 11:58:43+00:00,,,,False,RTD point to gh manual (#523)
+8f870e5b07b1b6f93993078556a3f07267ba824b,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-02-19 07:53:01+00:00,,,,False,Merge pull request #530 from econ-ark/Update_checkConditions
+9844237b981eff909e68d94943b30b2b69680248,Sebastian Benthall,sbenthall@gmail.com,2020-02-20 13:24:03+00:00,,,,False,Merge pull request #533 from econ-ark/Update_checkConditions
+d1a8eb90ebe34a93801ead8655b5e29ef9d1e3eb,Sebastian Benthall,sbenthall@gmail.com,2020-02-20 14:26:41+00:00,,,,False,Merge pull request #455 from MridulS/consav_refactor
+1fce464ca7792186444e95165a3b7bfd782bc2e2,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-02-20 17:13:06+00:00,,,,False,Merge pull request #535 from econ-ark/FinalUpdatesToCheckConditions
+181e3b49be6c80ffbb8d26897b33a915ef7bac6c,Sebastian Benthall,sbenthall@gmail.com,2020-02-21 15:03:31+00:00,,,,False,Merge pull request #526 from sbenthall/i510
+9f08b7e1034f261aadebeae72182eb8c54dd44de,Sebastian Benthall,sbenthall@gmail.com,2020-02-21 16:38:55+00:00,,,,False,Merge pull request #536 from sbenthall/i534
+18fddd7269a862a7c65d664694f9186af6d47787,Sebastian Benthall,sbenthall@gmail.com,2020-02-21 16:54:55+00:00,,,,False,Merge pull request #508 from sbenthall/i494-test
+5f19fb706869c29bead0e5f677830a686d76e16c,Mridul Seth,seth.mridul+github@gmail.com,2020-02-21 19:50:36+00:00,,,,False,fix up notebook utilities (#537)
+8e948537d6ac54a3f29db8cb6948fe47c514a392,Sebastian Benthall,sbenthall@gmail.com,2020-02-24 12:10:24+00:00,,,,False,url -> self.url in checkConditions print logic. fixed #539 (#540)
+e1b52e5d42927d1d18f2ceb3ceff2deae6b4d5bf,Mridul Seth,seth.mridul+github@gmail.com,2020-02-24 12:45:53+00:00,,,,False,fix checkConditions refactor in ConsIndShockModel (#541)
+78210a5d4c667eb7847b6114113e680bcafe5708,Mridul Seth,seth.mridul+github@gmail.com,2020-02-26 08:56:34+00:00,,,,False,add jpg to make_figs (#544)
+1c81bff40ab5a322e3bf4d34e8fd1f8f1018f43f,Sebastian Benthall,sbenthall@gmail.com,2020-02-26 18:33:50+00:00,,,,False,Merge pull request #506 from sbenthall/i504-unittests
+c4d1494b0ddf0790eff22845473fef65f664e653,Sebastian Benthall,sbenthall@gmail.com,2020-02-26 21:14:07+00:00,,,,False,Merge pull request #546 from sbenthall/i543-demark-tests
+3d3dbfea9f2192213ece38ca6912ed249336e392,Sebastian Benthall,sbenthall@gmail.com,2020-02-26 21:22:29+00:00,,,,False,Merge pull request #509 from econ-ark/LaborIntMarg
+b1b14ad1539495e11d483f54bedf5f569d3885ce,Sebastian Benthall,sbenthall@gmail.com,2020-03-05 16:25:23+00:00,,,,False,Merge pull request #498 from sbenthall/i496b
+614a5519ba04de247e545f88a1fecde183ac6848,Mridul Seth,seth.mridul+github@gmail.com,2020-03-05 17:21:56+00:00,,,,False,remove the quick fix from estimation parameters (#552)
+08c7ec52291373c6660da24c7d874f70e99a1867,Mridul Seth,seth.mridul+github@gmail.com,2020-03-05 17:40:47+00:00,,,,False,Release 0.10.4 (#553)
+1fc098700503f58b94b56cf3852c1aeeac210226,Sebastian Benthall,sbenthall@gmail.com,2020-03-05 22:10:15+00:00,,,,False,Merge pull request #554 from sbenthall/janrosa1-master
+2fa72e0cacaa48347e168446a4267068f46b9b5b,Sebastian Benthall,sbenthall@gmail.com,2020-03-11 15:36:07+00:00,,,,False,Merge pull request #556 from econ-ark/RemoveSpacesThatMessUpSphinx
+17cc5eb1214870830f3f70d5be7bc116c4b2612c,Sebastian Benthall,sbenthall@gmail.com,2020-03-11 17:09:02+00:00,,,,False,removing 2.7 from travis (#564)
+6e3168fb65a5e04eab2382b086b76ae2435d1119,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-03-11 20:02:19+00:00,,,,False,Merge pull request #560 from sbenthall/i558-examples
+76e7aee5a3c149b6abadb87a6ff86523034599a1,Sebastian Benthall,sbenthall@gmail.com,2020-03-12 14:06:28+00:00,,,,False,Merge pull request #547 from sbenthall/i543-demark-tests
+6631c0d3252e470f8ed2e12479792c0755ba0c6b,Matthew N. White,mnwhite@gmail.com,2020-03-17 17:00:45+00:00,,,,False,Merge pull request #527 from sbenthall/i446
+03cc4ff72460aba056b4774319c8c338ebd5f4d4,Mridul Seth,seth.mridul+github@gmail.com,2020-03-17 19:06:31+00:00,,,,False,add info for v0.10.5 (#579)
+de2aab467de19da2ce76de1b58fb420f421bc85b,Matthew N. White,mnwhite@gmail.com,2020-03-18 20:40:13+00:00,,,,False,Merge pull request #587 from sbenthall/i527b
+f46b97ba854d9a2618ae8c24be0f73d566ef58c9,Mridul Seth,seth.mridul+github@gmail.com,2020-03-20 19:43:01+00:00,,,,False,fix the breakage of auto-installation of dependencies (#591)
+aa92b8ea1fcf50ccfbd0b2b64242a32d31ed55b2,Matthew N. White,mnwhite@gmail.com,2020-03-21 23:58:28+00:00,,,,False,Improve ConsPortfolioModel (#577)
+d41f1b5934d90c5145dd6f58bf8804cb0d144663,Sebastian Benthall,sbenthall@gmail.com,2020-03-22 19:22:23+00:00,,,,False,Remove ConsumerParameters from examples/ (#585)
+28cd0fda266d3e99ad7be9411724cdf9e49255a5,Sebastian Benthall,sbenthall@gmail.com,2020-03-22 21:05:41+00:00,,,,False,"Add parameter movement to major changes for 0.10.5, see #527 (#581)"
+87ae56f1cd736f311a3d5ba9d58f83f733cf604e,Mridul Seth,seth.mridul+github@gmail.com,2020-03-23 00:46:51+00:00,,,,False,"prep work for 0.10.5 release, bump up min_required version to py3.6 (#593)"
+897ffd231454c70c6b73232a2c031db025708757,Matthew N. White,mnwhite@gmail.com,2020-03-23 21:10:59+00:00,,,,False,Swap portfolio models (#594)
+65bc76c93c88be03f490392363d0478a216cdfb7,Mridul Seth,seth.mridul+github@gmail.com,2020-03-23 23:47:25+00:00,,,,False,update changelog with CPM (#595)
+5b93bf6e2f61c731868b124a9ea049e69b83164b,Sebastian Benthall,sbenthall@gmail.com,2020-03-25 21:43:38+00:00,,,,False,replacing 'exec' statements with getattr/setattr (#597)
+32119d8c6b0c41bc7ee34123a63fd246693cc7ab,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-03-27 16:13:20+00:00,,,,False,Merge pull request #601 from sbenthall/i588
+9cef11f690210267bed9433ddb8b3c4f1aea190e,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-03-30 16:21:27+00:00,,,,False,Merge pull request #604 from sbenthall/i602-ex-cleanup
+4cf085d758c85542829a00103ef90f4eec2ec5d2,Sebastian Benthall,sbenthall@gmail.com,2020-04-03 13:50:17+00:00,,,,False,Merge pull request #600 from econ-ark/ConsIndShockModelDocUpdate
+bc2318e6c39a447543a1831d945db60c870a0a2d,Sebastian Benthall,sbenthall@gmail.com,2020-04-04 15:27:54+00:00,,,,False,Merge pull request #598 from econ-ark/add-latexdefs
+70a5b2c14aae837a2c8b28c0dce9efb5585980f9,Sebastian Benthall,sbenthall@gmail.com,2020-04-07 16:59:20+00:00,,,,False,Merge pull request #613 from econ-ark/ReadMortality
+5d2d732a58e812876622da636ba3ea203b0b9afa,Matthew N. White,mnwhite@gmail.com,2020-04-08 14:03:27+00:00,,,,False,Merge pull request #616 from sbenthall/i615
+f5784d5efc9762712fb2595e762803eddeca0984,Sebastian Benthall,sbenthall@gmail.com,2020-04-08 22:01:55+00:00,,,,False,Merge pull request #610 from sbenthall/i519-distributions
+db332b9e3708c207ca04b9e8ff7f7df75196c094,Sebastian Benthall,sbenthall@gmail.com,2020-04-16 20:55:42+00:00,,,,False,fixing ConsMarkovModel use of DiscreteDistribution (#628)
+160000576b665abcec7c1495d059c02085a9a7c3,Mridul Seth,seth.mridul+github@gmail.com,2020-04-17 04:36:12+00:00,,,,False,update changelog for 0.10.6 (#629)
+8073a17e7766617946df0a2a7a91050ac03789b8,Mridul Seth,seth.mridul+github@gmail.com,2020-04-17 21:14:14+00:00,,,,False,bump version number 0.10.6 (#630)
+bc872eb015185e4c42168d1270e437535ac11456,Matthew N. White,mnwhite@gmail.com,2020-04-23 14:25:03+00:00,,,,False,Merge pull request #624 from sbenthall/i519-distributions
+78d1981233a6cda398d4e3007be03f558a7bc910,Matthew N. White,mnwhite@gmail.com,2020-04-23 14:36:17+00:00,,,,False,Merge pull request #570 from sbenthall/i569-timing
+fc75df42d81eaa91106dfcaf8c451e216a906707,Matthew N. White,mnwhite@gmail.com,2020-04-23 15:08:13+00:00,,,,False,Merge pull request #633 from sbenthall/i632-markov
+23ebdfbd6ddbfd925edbf4df53995c0ac8d5fe6a,Sebastian Benthall,sbenthall@gmail.com,2020-04-23 15:57:25+00:00,,,,False,Merge pull request #603 from sbenthall/i583-bl
+ba6ac6cb74ae9bd7301c34f150f39db8c0cd88bc,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-04-23 20:29:31+00:00,,,,False,Merge pull request #651 from MridulS/byebyeDSOPs
+588dea379cae698e6f3f08a66a602c6e175efd02,Matthew N. White,mnwhite@gmail.com,2020-04-28 01:00:20+00:00,,,,False,Merge pull request #662 from sbenthall/sb-helpers
+ac9d265d32480737b346042cba6668df2dcdca7a,Matthew N. White,mnwhite@gmail.com,2020-04-28 12:52:08+00:00,,,,False,Merge pull request #663 from sbenthall/sb-helpers
+11efefa5a85fa160d5b826dadae787ebdfd5158d,Sebastian Benthall,sbenthall@gmail.com,2020-04-28 15:09:15+00:00,,,,False,Merge pull request #622 from MridulS/datasets
+0bb26c5c88a836873f5bc044985ada3d140651ac,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-04-30 15:49:21+00:00,,,,False,Merge pull request #657 from sbenthall/i647
+4d173713dbe3a7bf09b28503eeac1759988cb937,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-04-30 16:19:28+00:00,,,,False,Merge pull request #661 from sbenthall/i538
+7dd38fc6d932f4c534392c50c460d4bcf498316a,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-04-30 16:58:32+00:00,,,,False,Merge pull request #568 from sbenthall/i542
+9d19960e4dbd0d9f9291e0c9f28f62e24021c8d1,Sebastian Benthall,sbenthall@gmail.com,2020-04-30 18:23:23+00:00,,,,False,Merge pull request #666 from MridulS/byebyecstwMPC
+e532b7851077c507ae83d6e337e8d5ee596e7ee7,Sebastian Benthall,sbenthall@gmail.com,2020-05-01 13:51:08+00:00,,,,False,Merge pull request #646 from econ-ark/FixDiscreteDstn
+5e63841121a704804f796e2a39b16c52c167db03,Sebastian Benthall,sbenthall@gmail.com,2020-05-06 15:17:11+00:00,,,,False,Merge pull request #672 from econ-ark/CDC-Edit-CheckConditions
+89cd5c0d3099063ce725b2bdb0eb93df24414a88,Sebastian Benthall,sbenthall@gmail.com,2020-05-06 18:52:47+00:00,,,,False,"Updates to examples, library, and tests following recent updates (#654)"
+b2ec1e8bcef78a5f1c5c4fc1ff39d02c790d5cc7,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-05-07 15:28:57+00:00,,,,False,Merge pull request #561 from econ-ark/Fix-Sphinx-problems-for-Gentle
+66caefb91ed401c43da57bcbdff0e1791ed2636b,Matthew N. White,mnwhite@gmail.com,2020-05-11 01:29:14+00:00,,,,False,Fix typo in parallel.py (#682)
+5605fe008d0254ed7a77ec73ce030b2bce285057,Sebastian Benthall,sbenthall@gmail.com,2020-05-14 12:06:34+00:00,,,,False,Merge pull request #686 from MridulS/deepsource_happy
+445e3d17612ea41adc44a3d3f4b02b373956c269,Matthew N. White,mnwhite@gmail.com,2020-05-14 14:08:42+00:00,,,,False,Merge pull request #688 from sbenthall/i685
+7baa869317f0a8f74afdeccd899a0c05abc46d79,Matthew N. White,mnwhite@gmail.com,2020-05-15 13:43:10+00:00,,,,False,Merge pull request #680 from sbenthall/i658b
+6b9a72b1b6ce11c81e2313762db06045c0b7985d,Matthew N. White,mnwhite@gmail.com,2020-05-21 14:12:26+00:00,,,,False,Merge pull request #693 from MridulS/parallel_break_up
+9f1c19fcc8fa89680c9478811f9b92a62479d853,Matthew N. White,mnwhite@gmail.com,2020-05-21 14:50:35+00:00,,,,False,Merge pull request #692 from sbenthall/i669
+d244cfd9fe371a3f66b336235c5b8ad3632a70ab,Matthew N. White,mnwhite@gmail.com,2020-05-28 14:17:03+00:00,,,,False,Merge pull request #674 from sbenthall/i495-history
+a3fc6dfe651f657df6e1ffa6c070ac4aaa291e98,Sebastian Benthall,sbenthall@gmail.com,2020-05-28 14:50:05+00:00,,,,False,Merge pull request #704 from econ-ark/MridulS-patch-2
+2ca45b7c6b0cdac006d8de5a871de4e28a3c5989,Sebastian Benthall,sbenthall@gmail.com,2020-05-28 15:28:33+00:00,,,,False,Merge pull request #698 from econ-ark/MNWcleanupMay2020
+c756c9a214b523aeafb5123657a1adac40c953d6,Mridul Seth,seth.mridul+github@gmail.com,2020-06-03 18:02:31+00:00,,,,False,update requirements and remove py2 ones (#695)
+a55d06f4e47e9564b3bcc2250c8d8012cc758761,Mridul Seth,seth.mridul+github@gmail.com,2020-06-03 18:46:27+00:00,,,,False,fix links in README (#694)
+d93e80cbf77c2073da219364aa16f45485ebee1c,Sebastian Benthall,sbenthall@gmail.com,2020-06-17 18:33:33+00:00,,,,False,Merge pull request #715 from edmundcrawley/master
+0c5a3151129b183a75065982bebc45fff130c772,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-06-18 19:41:40+00:00,,,,False,Merge pull request #702 from econ-ark/SimPerformance
+ac579819ec17ee113e21a29b3a42d4b6929610e6,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-06-18 23:39:21+00:00,,,,False,Merge pull request #714 from MridulS/log_consindshock
+552603033940352f3ec02aab7473310cd424fcf9,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-06-24 14:15:11+00:00,,,,False,Merge pull request #727 from sbenthall/sb-example_ConsPortfolioModel
+458d104bce7518670bfd75f40f20e14a77f928d3,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-06-24 22:12:26+00:00,,,,False,Merge pull request #728 from econ-ark/MridulS-patch-3
+354bb12f569afaf7ec786b4206d1ff92ec0c7447,Sebastian Benthall,sbenthall@gmail.com,2020-06-25 16:10:32+00:00,,,,False,Merge pull request #729 from MridulS/fixup_ConsLabor
+8405178d1a6736193f9e7e2c6dd10942aae5e193,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-06-30 02:24:39+00:00,,,,False,Merge pull request #731 from econ-ark/Minor-NARK-Updates
+0089f5d737c04f653763f12ba953a962cd5d345e,Sebastian Benthall,sbenthall@gmail.com,2020-06-30 18:16:21+00:00,,,,False,Merge pull request #713 from econ-ark/fix-governance-ref
+f68466795f2cb986e6943c9e147568a0866f6c33,Mridul Seth,seth.mridul+github@gmail.com,2020-06-30 19:12:52+00:00,,,,False,"rebase -- bad, remove it from introductory contributing guide (#734)"
+a30fa2b4ce60b17c244a5a26e7b26d1babf4b537,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-01 17:53:04+00:00,,,,False,Merge pull request #739 from econ-ark/NARK-Update
+a33178d54c468b2245b35b5d6625d82f66913fbb,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-01 18:57:27+00:00,,,,False,Merge pull request #740 from econ-ark/NARK-Update
+84296a3f6b06c94b684df59dc8f70142a5ce5b7c,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-02 12:06:17+00:00,,,,False,Add link to gh-pages NARK to ConsIndShockModel.py (#737)
+23aee8a7a6276aa7d69c0132c8fbea3f585cca56,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-02 14:04:35+00:00,,,,False,Merge pull request #744 from econ-ark/NARK-Update
+3bdfb09c3fa4da0773359c191c194263afa88a10,Matthew N. White,mnwhite@gmail.com,2020-07-02 14:36:00+00:00,,,,False,Merge pull request #691 from sbenthall/i619
+a9631b928708e99d2e304adbaa9ad8242382a3d7,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-02 15:20:51+00:00,,,,False,Merge pull request #743 from econ-ark/PerfForesightMathFix
+5eefddd2619f693b4cd1a75e9de2ca52d145c261,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-02 16:24:35+00:00,,,,False,Merge pull request #747 from econ-ark/Add-NARK-link-to-ConsIndShockModel.py
+0bd05951e6f1c578a632d2a3c9fb41da12e75aea,Matthew N. White,mnwhite@gmail.com,2020-07-02 19:58:53+00:00,,,,False,Merge pull request #749 from Mv77/PortfolioWithBadAsset
+d302243aed5af1e747ffa9d5559bd11c70f5cbd0,Matthew N. White,mnwhite@gmail.com,2020-07-03 15:05:02+00:00,,,,False,Merge pull request #750 from Mv77/fixRandomDraws
+ff1b5a8d0aad741f2f8023fe5f955f7dd9aefb1f,Mridul Seth,seth.mridul+github@gmail.com,2020-07-09 08:27:48+00:00,,,,False,add black pre commit hook (#703)
+6b12655ec0f6a100477b579ce893546f734b0634,Matthew N. White,mnwhite@gmail.com,2020-07-09 14:05:04+00:00,,,,False,Merge pull request #751 from sbenthall/sb-docs
+7da779048177cbce7f6801c04e33f21c6d3bf2ab,Matthew N. White,mnwhite@gmail.com,2020-07-09 14:26:18+00:00,,,,False,Merge pull request #748 from econ-ark/NARK-Update
+d3ee934bb6c2b333296f7b7571fcc1a748f9cd2d,Mridul Seth,seth.mridul+github@gmail.com,2020-07-10 16:39:53+00:00,,,,False,stop creating new directories for figures (#755)
+c175eadb74310b33e5b4f021f7fbeffea6e244da,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-14 20:07:24+00:00,,,,False,Merge pull request #756 from sbenthall/sb-docs
+12b82a5481cc0015439c1c3d5b901dac49a27b0d,Sebastian Benthall,sbenthall@gmail.com,2020-07-16 14:06:46+00:00,,,,False,Merge pull request #757 from econ-ark/MoreRNGfixes
+455d09e44306e3bc24edf028c0daad3f6968b364,Sebastian Benthall,sbenthall@gmail.com,2020-07-16 14:40:28+00:00,,,,False,Merge pull request #759 from Mv77/example_CPM-tweaks
+028f34c64c6ecbf439ce94113662b6d636fe8f54,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-21 15:13:21+00:00,,,,False,Merge pull request #758 from Mv77/evelope-xings
+112a01a891619234dde73604c0ac8ec03ecb96ac,Sebastian Benthall,sbenthall@gmail.com,2020-07-21 20:24:51+00:00,,,,False,Merge pull request #762 from econ-ark/AggShockMicroMarkov
+275640ce7053a4fc518295b484e0b865f3757098,Sebastian Benthall,sbenthall@gmail.com,2020-07-22 19:13:49+00:00,,,,False,Merge pull request #767 from sbenthall/sb-small-open
+dc435f9fe2335f71b71a2ee4a2148d2b52a5a8c5,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-23 14:10:16+00:00,,,,False,Merge pull request #768 from MridulS/geninc_clean_example
+6d520981f773884d0a54fdfa5c28c38ea3973dd3,Mridul Seth,seth.mridul+github@gmail.com,2020-07-23 14:50:09+00:00,,,,False,Create PULL_REQUEST_TEMPLATE.md (#771)
+8bf603279b63ecc4551b6f943e1fee386d5f5f97,Mridul Seth,seth.mridul+github@gmail.com,2020-07-23 15:07:35+00:00,,,,False,Update issue templates (#770)
+01e2d6edcfcc936e6cf74af61d3690611b88f702,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-23 15:51:33+00:00,,,,False,Merge pull request #769 from econ-ark/MridulS-patch-4
+8fd213e0d6da75823c5d2e1bee98c126ecfb2737,Mridul Seth,seth.mridul+github@gmail.com,2020-07-23 16:02:00+00:00,,,,False,Revamp documentation on RTD (#752)
+cdde56edfb54c5eaa6dbace8013c28d5addfb179,Mridul Seth,seth.mridul+github@gmail.com,2020-07-28 18:53:09+00:00,,,,False,tqdm isn't required in the Gentle Intro notebook (#777)
+a2f86a684735f2af607cee9c3d612bf1f7fa6568,Sebastian Benthall,sbenthall@gmail.com,2020-07-28 19:45:47+00:00,,,,False,Merge pull request #780 from econ-ark/MridulS-patch-3
+7a23d9b4c6e0315bedef7dc3719e576786bc2344,Mridul Seth,seth.mridul+github@gmail.com,2020-07-28 23:26:02+00:00,,,,False,fix up links in README (#781)
+94de2a334b32f93a05f1e3041d7c3a8056eede42,Sebastian Benthall,sbenthall@gmail.com,2020-07-30 12:59:45+00:00,,,,False,Merge pull request #783 from MridulS/fix_247
+89acca807d9b70e320910bbe6a4c42536ed044f6,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-07-30 14:11:01+00:00,,,,False,Merge pull request #785 from econ-ark/MridulS-patch-3
+20e1024cbe31a358baeeaac405bebed148ea5327,Sebastian Benthall,sbenthall@gmail.com,2020-07-30 19:35:58+00:00,,,,False,Merge pull request #776 from sbenthall/sb-fix
+16bc09ba7ecc4cdcde02359d04a86e9f555face4,Sebastian Benthall,sbenthall@gmail.com,2020-07-30 19:52:57+00:00,,,,False,Merge pull request #773 from sbenthall/sb-market-tests
+29e801ca1722e03f38dc3cf5a5accc4a57fc9f05,Sebastian Benthall,sbenthall@gmail.com,2020-07-30 20:38:55+00:00,,,,False,Merge pull request #690 from econ-ark/NanBoolRedux
+85caf814d88927d6c26f3bcfe999f335ec1db5f1,Sebastian Benthall,sbenthall@gmail.com,2020-07-30 20:53:46+00:00,,,,False,Merge pull request #775 from sbenthall/sb-tmagne-examples
+36cb7aba7da94bd364e7695619720b4e5f0a0c24,Mridul Seth,seth.mridul+github@gmail.com,2020-08-05 17:29:38+00:00,,,,False,fix distribution seed in tractablebufferstock (#779)
+c1069be8d08645adb77a4fa8a611389bd2c22d10,Mridul Seth,seth.mridul+github@gmail.com,2020-08-05 21:47:42+00:00,,,,False,add platform linux option (#788)
+e5c336340b4ade49c1ab8025c89968df164c9fe6,Matthew N. White,mnwhite@gmail.com,2020-08-06 14:54:15+00:00,,,,False,Merge pull request #789 from Mv77/fixCheckRIC
+591b7f5bbc4c51dfaa24a1edf93b1fd3b629be38,Matthew N. White,mnwhite@gmail.com,2020-08-06 15:20:08+00:00,,,,False,Merge pull request #790 from econ-ark/MridulS-patch-5
+e05dae9e07455f2eb35cc193d998f4929aa4c3b9,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-08-06 17:08:09+00:00,,,,False,Impatience-to-Patience (#791)
+f5109efc0e45e00d13ecd826bb4a6aa0bf40adce,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2020-08-06 21:36:00+00:00,,,,False,RIF -> RPF in PrefForesight checkRIC (#793)
+f79568cd4ba1e95c97348f233dc4aacc01f269f1,Mridul Seth,seth.mridul+github@gmail.com,2020-08-07 18:42:03+00:00,,,,False,"remove deprecated Solution code, use HARKobject in the codebase (#772)"
+5a3ab2aeac9d7ff94e665a99988d68936ee89c9d,Mridul Seth,seth.mridul+github@gmail.com,2020-08-07 19:18:48+00:00,,,,False,generalised unpack function after a model is solved (#784)
+c9138af45fd0a0d97c718c8558f3ea8d9f2ae820,Mridul Seth,seth.mridul+github@gmail.com,2020-08-07 19:38:10+00:00,,,,False,bump up version to 0.10.7 (#794)
+66a6643a857441734eda146ed76ebab4d5f267b8,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-08-13 14:38:39+00:00,,,,False,Merge pull request #795 from alanlujan91/AddLiqConstrToPF
+1d15c4d34130715d207ff47a2dac7824c8d8162d,Sebastian Benthall,sbenthall@gmail.com,2020-08-13 16:55:39+00:00,,,,False,Merge pull request #765 from sbenthall/sb-market
+35ad3e873e8568db1d77f65596abd078ac7b547f,Sebastian Benthall,sbenthall@gmail.com,2020-08-14 18:23:26+00:00,,,,False,update CHANGELOG with #765 change (#796)
+fe8ebdbe0c9fcc069b0daa5dcee8bb1283f920b9,alanlujan91,alanlujan91@gmail.com,2020-08-14 18:54:11+00:00,,,,False,adding PerfForesightConsumerTypeFast  (#774)
+64a2b04271a6b02780e65fc1dbb3599cb032b3c1,Sebastian Benthall,sbenthall@gmail.com,2020-08-19 17:48:52+00:00,,,,False,Merge pull request #802 from sbenthall/sb-pref-tests
+41762759ccfdffc6dab119f3c2b67b0d2de831d1,Matthew N. White,mnwhite@gmail.com,2020-08-19 20:02:33+00:00,,,,False,Merge pull request #806 from sbenthall/sb-pref-tests
+20df1344f81a8a5af6d25397d414d64bd1efa48f,Sebastian Benthall,sbenthall@gmail.com,2020-08-20 21:51:48+00:00,,,,False,Merge pull request #799 from sbenthall/sb-distribution
+0f906bfed5582f047ce774ec8ee9cd5df41f10b0,Mridul Seth,seth.mridul+github@gmail.com,2020-08-27 14:34:41+00:00,,,,False,fix links in journey 2 (#814)
+44f37481c1477015855c90939fe54855256c548e,Sebastian Benthall,sbenthall@gmail.com,2020-08-27 16:46:08+00:00,,,,False,Merge pull request #812 from sbenthall/i808
+9bff0b1bce6d771ac79887175417d4a182d603b2,Sebastian Benthall,sbenthall@gmail.com,2020-08-27 17:57:24+00:00,,,,False,Merge pull request #803 from sbenthall/i760
+8ef760968b2516e0d7e5dad747c5099f01add99b,Matthew N. White,mnwhite@gmail.com,2020-08-27 18:32:22+00:00,,,,False,Merge pull request #824 from econ-ark/assign_parameters
+f2ec8253b986875233c0474adca45aa8eff91d27,Sebastian Benthall,sbenthall@gmail.com,2020-08-27 21:55:06+00:00,,,,False,Merge pull request #797 from sbenthall/i262
+7bd332c6feed1dc1ec1456100a19aa7b4754f267,Mridul Seth,seth.mridul+github@gmail.com,2020-08-28 10:09:13+00:00,,,,False,exclude examples from black formatter (#828)
+6173651096fa0e8cc44d55882db8206f5692863c,Mridul Seth,seth.mridul+github@gmail.com,2020-08-28 10:43:17+00:00,,,,False,Blackify new PR changes and remove junk files (#829)
+1618e3090bc048bef98deade233e3898d7ee36f6,Mridul Seth,seth.mridul+github@gmail.com,2020-09-03 13:31:01+00:00,,,,False,Create binder-badge.yaml (#834)
+88369a1d28db910a2e0eba5c54d5c24d180e27df,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-09-10 14:31:03+00:00,,,,False,Merge pull request #831 from econ-ark/Fix-Lecturenote-Links
+a90ab76178e51014597a386377ae5783acef1560,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-09-10 14:37:58+00:00,,,,False,Merge pull request #801 from frankovici/master
+56d4468ea33f6f73113d29b107881f03781e273e,alanlujan91,alanlujan91@gmail.com,2020-09-10 16:15:02+00:00,,,,False,adding IndShockConsumerTypeFast (#787)
+b50cb762c500cafd386287bd0128ade23072973a,Mridul Seth,seth.mridul+github@gmail.com,2020-09-22 18:14:56+00:00,,,,False,Update setup.cfg
+5eea86bd940c02ecd7cea03130a913b49e1a4395,Mridul Seth,seth.mridul+github@gmail.com,2020-09-29 01:47:25+00:00,,,,False,manual symlinks for notebooks as directory symlinks don't work (#840)
+74af20e06270716ee181c2bcc3357614a888c9be,Matthew N. White,mnwhite@gmail.com,2020-09-30 17:35:18+00:00,,,,False,Merge pull request #835 from Mv77/timeVarySolver
+27cf36de993ba908c30e6eb87608694e7150bf0c,Sebastian Benthall,sbenthall@gmail.com,2020-10-01 14:25:08+00:00,,,,False,Merge pull request #846 from sbenthall/i843
+4ce427dbf3c8f717a40b8d72cf1b3283e9ee804a,Sebastian Benthall,sbenthall@gmail.com,2020-10-01 14:28:32+00:00,,,,False,Merge pull request #841 from econ-ark/MridulS-patch-3
+835d0e753d9b6aa78873776faf904d72b6ae002b,Sebastian Benthall,sbenthall@gmail.com,2020-10-01 16:13:17+00:00,,,,False,Merge pull request #848 from econ-ark/tract
+5e2ee0fa5d5a0a8ab985fa4efecc3a3d59ab0714,llorracc,git@llorracc.org,2020-10-08 23:10:34+00:00,,,,False,correct checkConditions for special case in PF model when FHWC and RIC both fail but constraints exist
+12f4f9274f1e56165eb7f6071aa2fdcd5003caa6,llorracc,Christopher.Carroll@jhu.edu,2020-10-16 06:16:29+00:00,,,,False,master of econ-ark/HARK into local master
+a05e2ea7e9a2d6a1fa17ab17aad9b9c38499f65f,Matthew N. White,mnwhite@gmail.com,2020-10-22 16:04:39+00:00,,,,False,Merge pull request #836 from sbenthall/i761b
+6fd5eeefe424775a0849b41d1480aef1190063a7,Sebastian Benthall,sbenthall@gmail.com,2020-10-26 14:43:37+00:00,,,,False,Merge pull request #859 from sbenthall/sb-docs
+6d1d6041d9c3fbdb109e1b4655ec8e1cf272cb67,Sebastian Benthall,sbenthall@gmail.com,2020-10-26 17:35:45+00:00,,,,False,Merge pull request #860 from sbenthall/sb-docs
+866f78ea0101483dad49abbd0bf08ba363eb0f72,Matthew N. White,mnwhite@gmail.com,2020-10-29 15:19:37+00:00,,,,False,Merge pull request #855 from sbenthall/i838
+0714bf4b31a3c430ab7f984a44bfc5fdc61cb682,Sebastian Benthall,sbenthall@gmail.com,2020-11-05 16:47:12+00:00,,,,False,Sb 0.10.8 release (#861)
+56347be0c7aac6b98baf5c0a04cadc63bfaad182,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-11-09 22:36:04+00:00,,,,False,Merge pull request #867 from econ-ark/Rename-Impatience-To-Patience
+9ebda17bc501bb56d2dd10653b6c72ff6ff9e7e1,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-11-09 22:42:00+00:00,,,,False,Merge pull request #868 from econ-ark/Update-URL-to-ccarroll-JHU-website
+b45cabdd5b3f4d079f1d11660e08167311dc9036,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-11-09 22:47:52+00:00,,,,False,Merge pull request #869 from econ-ark/Update-BST-URL-To-Econ-ARK
+979cfa2851751421669870e3a7841759fce8991b,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-11-20 23:39:55+00:00,,,,False,Merge pull request #875 from econ-ark/master-Update-NARK-Again
+73e553db011b91122e41404d1e94fae28d44a04b,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-11-20 23:58:55+00:00,,,,False,Merge pull request #876 from econ-ark/master-Update-NARK-Again
+57591f1bb6b1c993111dda53e660add9c54ea054,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-11-21 00:00:59+00:00,,,,False,Delete NARK.md
+3334fe89c9e7771f51958f9b981ee5263ddb2d9c,Sebastian Benthall,sbenthall@gmail.com,2020-12-10 16:41:33+00:00,,,,False,Merge pull request #881 from sbenthall/i555-mathdocs
+9dd4166721a5bb7c4c6c319b20e62c1b70c67649,Sebastian Benthall,sbenthall@gmail.com,2020-12-10 16:42:02+00:00,,,,False,Merge pull request #882 from sbenthall/i879-journey
+a08ad1838d283cdcb79b96865fa39593531a5d30,Sebastian Benthall,sbenthall@gmail.com,2020-12-10 16:43:47+00:00,,,,False,Merge pull request #883 from sbenthall/i864
+caeb8e1eac522024ab3be5c2415979d8b70e7b89,Sebastian Benthall,sbenthall@gmail.com,2020-12-17 16:44:32+00:00,,,,False,Merge pull request #887 from sbenthall/i886
+498e6afe7a196b88399fea76fa5109319fd473db,Sebastian Benthall,sbenthall@gmail.com,2020-12-22 20:01:08+00:00,,,,False,Merge pull request #720 from econ-ark/calcExpectation
+435937c3cd034ec21a905ba739faa615268a2636,Sebastian Benthall,sbenthall@gmail.com,2020-12-22 23:42:28+00:00,,,,False,Merge pull request #891 from sbenthall/i637
+a1e16c06c2fa9e25d616acc70e238dc4aeaddf66,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2020-12-30 18:11:24+00:00,,,,False,Merge pull request #792 from Mv77/texSetupFix
+8eb6f41e67afe3b59adebe497cee793289340ff2,Sebastian Benthall,sbenthall@gmail.com,2021-01-07 17:30:07+00:00,,,,False,Merge pull request #901 from sbenthall/i493
+dd86aaca6cde43e6d9f3fd7d1abab7dbda91feb9,Sebastian Benthall,sbenthall@gmail.com,2021-01-07 17:33:39+00:00,,,,False,Merge pull request #902 from sbenthall/i639
+28512795614bd37470bb665ab2775110db2dae6e,Sebastian Benthall,sbenthall@gmail.com,2021-01-07 17:44:45+00:00,,,,False,Merge pull request #888 from Mv77/TransformedFuncs
+82c30305650b0baa33da426803710dcb4d412b0a,Sebastian Benthall,sbenthall@gmail.com,2021-01-07 22:24:36+00:00,,,,False,Merge pull request #895 from sbenthall/i625b
+79cb2dfe9bcd3b89db1f4c244182df900c375529,Sebastian Benthall,sbenthall@gmail.com,2021-01-07 22:25:38+00:00,,,,False,Merge pull request #873 from Mv77/DistanceDict
+98da4de4cd31a0de2241e382ea0d5656023ce0a3,Sebastian Benthall,sbenthall@gmail.com,2021-01-08 14:52:28+00:00,,,,False,Merge pull request #897 from sbenthall/i625d
+decc2814e06d8cba72f0421baa857989df788a46,Sebastian Benthall,sbenthall@gmail.com,2021-01-14 16:25:18+00:00,,,,False,Merge pull request #908 from sbenthall/i842
+3c8b069b4e483a530e87ae49d00c2df821d14b60,Sebastian Benthall,sbenthall@gmail.com,2021-01-14 17:02:22+00:00,,,,False,Merge pull request #909 from Mv77/DCEGM/Fix-xIngs
+7baf0d189e17008acacafe0dc54dc1f200b412bd,Sebastian Benthall,sbenthall@gmail.com,2021-01-14 17:04:50+00:00,,,,False,Merge pull request #906 from Mv77/Calibration/SSA-merge
+2d7b8ab732236cd71ed0de18f2147dc1b31d3a7d,Sebastian Benthall,sbenthall@gmail.com,2021-01-14 17:05:51+00:00,,,,False,Merge pull request #896 from sbenthall/i625c
+ce3785aef2a53dfd7987bae82d800a53f58d89e3,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-01-20 04:29:48+00:00,,,,False,Merge pull request #922 from Mv77/Calibration/InitDist
+ed36679d74b63a03b249b189054ad854e9680995,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-01-20 18:13:16+00:00,,,,False,Merge pull request #927 from Mv77/revert-922-Calibration/InitDist
+e02225e3b32084b178a387fbdd557e0a1514c6f8,Sebastian Benthall,sbenthall@gmail.com,2021-01-20 21:20:51+00:00,,,,False,Merge pull request #919 from sbenthall/i910
+30828930dafd75aab84be37589cb789b10916e8a,Sebastian Benthall,sbenthall@gmail.com,2021-01-20 22:16:09+00:00,,,,False,Merge pull request #916 from sbenthall/i333
+3fa234a84f96295eb13d73f69d60bcc818523a55,Sebastian Benthall,sbenthall@gmail.com,2021-01-20 22:16:46+00:00,,,,False,Merge pull request #915 from sbenthall/i892
+af562318fd29b088445901239874ded9070f095e,Sebastian Benthall,sbenthall@gmail.com,2021-01-21 16:25:46+00:00,,,,False,Merge pull request #917 from sbenthall/i904
+7a61db0167975e825a36b12e4717065ed773fd6e,Sebastian Benthall,sbenthall@gmail.com,2021-01-21 17:07:07+00:00,,,,False,Merge pull request #918 from sbenthall/i227
+9a02d5c89ccd9f5829cef06d8087bc473e5690ad,Sebastian Benthall,sbenthall@gmail.com,2021-01-21 18:57:49+00:00,,,,False,Merge pull request #926 from sbenthall/i811
+e2fe6cfa8fd81208e5c40961b645331688148254,Sebastian Benthall,sbenthall@gmail.com,2021-01-21 18:58:11+00:00,,,,False,Merge pull request #929 from sbenthall/i639
+8bc11032104e2d2130e80a141bfae6f66c19f6fb,Sebastian Benthall,sbenthall@gmail.com,2021-01-22 10:11:26+00:00,,,,False,replace HARKobject with MetricObject and Model (#903)
+dd2f9cb855e8e403fc49eb97ae573718a33ca30f,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-01-27 18:05:05+00:00,,,,False,Merge pull request #930 from Mv77/Calibration/cpi
+fcf846cb0ef5925d89d7af0e83d80dcfc18b598e,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-01-27 18:13:42+00:00,,,,False,Merge pull request #921 from Mv77/Calibration/Sabelhaus
+92c0c2785618b028b74ef6958d920406fef5f2b3,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-01-29 21:27:13+00:00,,,,False,Merge pull request #932 from Mv77/Calibration/InitDist
+066fbadf74a9cb4ef35e100b37bf730630a98c05,Mridul Seth,seth.mridul+github@gmail.com,2021-02-03 19:09:56+00:00,,,,False,use actions to generate and upload coverage report
+82984618425e3351e54c68b418df5d52be99e0ca,Sebastian Benthall,sbenthall@gmail.com,2021-02-04 17:56:04+00:00,,,,False,Merge pull request #940 from econ-ark/coverage
+0a0daf8097eb88c41abb3e4eb4b8e1414965c558,Sebastian Benthall,sbenthall@gmail.com,2021-02-07 22:54:56+00:00,,,,False,Merge pull request #935 from sbenthall/i933
+f880be6f03a6eab351581438c6ce6a876022fc39,Sebastian Benthall,sbenthall@gmail.com,2021-02-08 00:08:39+00:00,,,,False,Merge pull request #936 from sbenthall/i920
+124cf71778b144d27e8af9fcfa21111bdfafdd42,Sebastian Benthall,sbenthall@gmail.com,2021-02-11 17:50:50+00:00,,,,False,Merge pull request #945 from sbenthall/i943
+a9f10c34d277a8cca8f9b2e696879849013e9547,Sebastian Benthall,sbenthall@gmail.com,2021-02-11 17:51:51+00:00,,,,False,Merge pull request #941 from Mv77/Calibration/Main
+4ff6ea8f252bb4eddb9fc77c005f0d2d1d248caa,Sebastian Benthall,sbenthall@gmail.com,2021-02-14 21:47:12+00:00,,,,False,Merge pull request #951 from Mv77/Calibration/init_lifecycle
+6d7951960c45767f57de9c53e8b7b0e9bba37a15,Sebastian Benthall,sbenthall@gmail.com,2021-02-18 16:59:05+00:00,,,,False,using assignParameters as parameter set method; robust support and use across library. (#947)
+b85afd2738850e102a1926039038b19ca5f2ebca,Sebastian Benthall,sbenthall@gmail.com,2021-02-18 20:13:33+00:00,,,,False,Merge pull request #955 from sbenthall/i952
+c6b3b22c15c332353c059ac60a533f2f12b1c4aa,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2021-02-21 22:52:25+00:00,,,,False,Add csv's to MANIFEST.in (#957)
+1e2013b581e8e8393398f684e73449c6d492902b,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-02-22 16:35:33+00:00,,,,False,Merge pull request #958 from econ-ark/platform-should-return-system
+58930a1f67cc3e146909938395a3cd2552c9d5cd,Mridul Seth,seth.mridul+github@gmail.com,2021-02-24 16:23:55+00:00,,,,False,add pandas to requirements and update GitHub actions testing strategy  (#962)
+cf6001100c15bc870b79990e20b87a594c0949c5,Mridul Seth,seth.mridul+github@gmail.com,2021-02-24 16:33:32+00:00,,,,False,Update setup.cfg
+fc8e03c8562b34aca5d1b82e68a687b5604b9291,Mridul Seth,seth.mridul+github@gmail.com,2021-02-24 16:35:49+00:00,,,,False,Delete runtime.txt
+a3f73101c2ddae4e535d561cc07941ddf123c404,Sebastian Benthall,sbenthall@gmail.com,2021-02-25 16:36:33+00:00,,,,False,Merge pull request #953 from sbenthall/i907-PEP8
+7e5a43dd528457e54482fe47b9598b57c6622851,Sebastian Benthall,sbenthall@gmail.com,2021-02-25 20:00:11+00:00,,,,False,Merge pull request #961 from sbenthall/i907d
+4bf81c5dcc3098e611e638c3ef7fd023ebc1e0a9,Sebastian Benthall,sbenthall@gmail.com,2021-02-27 01:36:26+00:00,,,,False,Merge pull request #966 from MridulS/data_logging
+1babcb9d923698b33a52684d88d93dbc1c8d9e70,Sebastian Benthall,sbenthall@gmail.com,2021-02-27 17:01:16+00:00,,,,False,Merge pull request #969 from sbenthall/v1.0.0-cleanup
+449f40f260df8653d06fb8c8bd31d868f9c7b221,Sebastian Benthall,sbenthall@gmail.com,2021-02-27 22:42:27+00:00,,,,False,Merge pull request #899 from econ-ark/GIC-Balanced-Growth
+05ef324cfc7b0351b68063ce3cbcc70a47f62783,Sebastian Benthall,sbenthall@gmail.com,2021-02-28 01:33:39+00:00,,,,False,Merge pull request #959 from sbenthall/i907b-PEP8-CS
+dc3e37ff21aa061e1766da00fddd665f575334fa,Sebastian Benthall,sbenthall@gmail.com,2021-02-28 03:49:35+00:00,,,,False,Merge pull request #973 from econ-ark/AdjustExampleText
+76051a3c59188d3e68fe495c1885abde9f3f7974,Sebastian Benthall,sbenthall@gmail.com,2021-02-28 03:50:14+00:00,,,,False,Merge pull request #972 from alanlujan91/CubicInterpFix
+799943e4406ef135f805d2bf105506db612376d9,Sebastian Benthall,sbenthall@gmail.com,2021-02-28 15:35:44+00:00,,,,False,Merge pull request #974 from sbenthall/v1.0.0-cleanup
+ff5392cb93483422d58a6a00c32d7783eec950be,sb,sbenthall@gmail.com,2021-03-04 17:11:00+00:00,,,,False,next release is 0.11.0
+0b03cd4824916f3c4ef8de7ff6b024a29e47bbb9,sb,sbenthall@gmail.com,2021-03-04 17:11:19+00:00,,,,False,Merge branch 'master' of github.com:econ-ark/HARK
+50d2ef48435591e95680108bcaa8fa2d03eccd4f,sb,sbenthall@gmail.com,2021-03-04 17:12:42+00:00,,,,False,update setup.py for 0.11.0
+25e011978eda7df19093f2c11c7094480cba1ee6,sb,sbenthall@gmail.com,2021-03-04 17:13:15+00:00,,,,False,update __init__.py for 0.11.0
+0a0909df00b9a7723be6aa7f27de3b7182fc5139,Mridul Seth,seth.mridul+github@gmail.com,2021-03-04 17:19:04+00:00,,,,False,drop support for 3.6
+4a4184ad43b097cda278316f113ecb641c24a22a,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-04-05 15:00:21+00:00,,,,False,Merge pull request #990 from Mv77/BugFix/DCEGM
+6d157ea5164dd8de5e730b0c364588826a728fb4,Sebastian Benthall,sbenthall@gmail.com,2021-04-08 15:00:55+00:00,,,,False,Merge pull request #999 from MridulS/futures
+25cd5d0017d67af34486967e803c29eee56eea91,Mridul Seth,seth.mridul+github@gmail.com,2021-05-01 21:56:20+00:00,,,,False,Add python 3.9 support (#870)
+30bdc1fe32b80bc751a422dc24e1f03cca4f24d8,alanlujan91,alanlujan91@gmail.com,2021-05-05 22:13:38+00:00,,,,False,Update interpolation.py (#1008)
+f05039107ebc46a787d0416184ef33461039fa41,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-05-06 07:48:31+00:00,,,,False,ConsIndShockModelFast post_solve is demo of RST math (#1004)
+7afa3ba6dd99f90cc013f2d5e5ce415c5629e93b,Mridul Seth,seth.mridul+github@gmail.com,2021-05-06 08:00:58+00:00,,,,False,add ConsIndShockModelFast to model index
+3870441f0e8676ec3de08dae7b1355cf79e2d373,Sebastian Benthall,sbenthall@gmail.com,2021-05-06 16:01:13+00:00,,,,False,Merge pull request #1010 from econ-ark/MridulS-patch-1
+365949e129d87b207646528e3b7aff402060c2db,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-05-26 15:55:19+00:00,,,,False,Merge pull request #948 from Mv77/Dist/MVNormal
+e1ea78170d43f13553a5256fcfea33f92d318231,llorracc,github@jhuecon.org,2021-05-28 12:04:45+00:00,,,,False,Ignore spyproject
+00ce66abd6be8b83c8bb51c562e0d34a7cfe6e93,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-06-03 22:17:34+00:00,,,,False,Merge pull request #1012 from Mv77/ContribMod/RiskyAssetClass
+db6d20636433a291a91ea83ec8197ced83b5f0ce,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-06-05 02:43:25+00:00,,,,False,Merge pull request #1016 from Mv77/Chris/aGrid_in_consPort
+d5ca85009c88e6fded02c684b30682288370bfe9,Sebastian Benthall,sbenthall@gmail.com,2021-06-14 15:36:55+00:00,,,,False,Merge pull request #981 from Mv77/BugFix/Newborns
+27b4567b97911b2e87b4bbf8370941a88381855a,Sebastian Benthall,sbenthall@gmail.com,2021-06-17 15:11:25+00:00,,,,False,Merge pull request #832 from Mv77/NewContrib
+085ea3ae43bcc1a25485fb7563b84eb3005793ee,Sebastian Benthall,sbenthall@gmail.com,2021-06-17 16:40:34+00:00,,,,False,Merge pull request #1018 from sbenthall/i1017
+b1e8c29dc90d06e64bad2a3f4e44f3e732b51e8c,Sebastian Benthall,sbenthall@gmail.com,2021-06-21 15:26:16+00:00,,,,False,Merge pull request #1019 from sbenthall/i1003
+879ec7f79bbb3dc2c3ed6e2488d7b52a227050be,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-06-23 18:08:48+00:00,,,,False,Merge pull request #1023 from alanlujan91/clean_portfolio
+18c410d534599cb24cb022099b5a018fd85acf38,Sebastian Benthall,sbenthall@gmail.com,2021-06-25 16:51:17+00:00,,,,False,Merge pull request #1029 from sbenthall/numpy-freeze
+321e704a19ab926839350eadbf763ecfbfbc94a3,Matthew N. White,mnwhite@gmail.com,2021-07-01 15:49:45+00:00,,,,False,Merge pull request #1031 from sbenthall/i1030
+4f2ef4da3d56a442e0c0bc2f79744759a5187e0a,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-07-07 18:28:20+00:00,,,,False,Merge pull request #1033 from alanlujan91/calcExpPortfolio
+83f1b8b53d91129a52c07199912ae5e371b75c60,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-07-13 23:42:17+00:00,,,,False,Merge pull request #1013 from wdu9/WDU
+1dd9ec226255f9453e7340977e958d7fead70491,Sebastian Benthall,sbenthall@gmail.com,2021-07-23 16:00:20+00:00,,,,False,Merge pull request #1044 from nicksawhney/dist-params
+f7608a96c3b491f9cf605472768dd996eb624f76,Sebastian Benthall,sbenthall@gmail.com,2021-07-23 16:40:11+00:00,,,,False,Merge pull request #1046 from Mv77/NewContrib
+1b755012cc810877bb92fe63ee8b92630db7d66a,Sebastian Benthall,sbenthall@gmail.com,2021-08-03 21:47:15+00:00,,,,False,Merge pull request #1048 from econ-ark/Post-HARK-11-Small-Changes
+3ffa512f9af9c60bf32a4121addc2ef225657325,Sebastian Benthall,sbenthall@gmail.com,2021-08-09 13:35:24+00:00,,,,False,Merge pull request #1057 from Mv77/NewContrib
+10fe1efba5d6f558fc47433325ac987acfc09077,Sebastian Benthall,sbenthall@gmail.com,2021-08-09 20:11:32+00:00,,,,False,Merge pull request #1039 from sbenthall/i1022c
+7592b716b12ddb09277fcbc5ac74545e57db58ca,Sebastian Benthall,sbenthall@gmail.com,2021-08-19 16:11:05+00:00,,,,False,Cutting obsolete personnel section from README
+f59ffddcc204b254a72c39c2c408fe0a3ec9b564,Sebastian Benthall,sbenthall@gmail.com,2021-09-02 23:05:55+00:00,,,,False,Merge pull request #865 from sbenthall/i862
+910bff34d6e1d59e686029076ca82a6cf81553c2,Sebastian Benthall,sbenthall@gmail.com,2021-10-07 17:14:35+00:00,,,,False,Merge pull request #1068 from Mv77/bugs/nan_history
+95494d87c41540fd505a3576717addd70a8cefd9,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-10-08 19:54:20+00:00,,,,False,Merge pull request #1069 from wdu9/WDU-Harmenberg-latest
+d59269d4ca41afd5e2c3bf8c50ebf99b2073b998,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-10-14 15:29:15+00:00,,,,False,Merge pull request #1058 from Mv77/ContribMod/iter-exp-public
+eb611e67a85a48b9455b3e63bc1862da6f42be09,Sebastian Benthall,sbenthall@gmail.com,2021-10-19 15:56:14+00:00,,,,False,Merge pull request #1072 from alanlujan91/update_geninc
+478397747a10f4ae9c6ccf126bbe1f14bf870ca4,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-10-21 22:36:30+00:00,,,,False,Merge pull request #1047 from alanlujan91/portfolio_overhaul
+b36b8f8175568a2bac6afa58cb06198f6cb66c74,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-10-21 22:41:44+00:00,,,,False,Merge pull request #1011 from alanlujan91/scipyCubic
+dc2766ed87c0a7e6b11ab816822321d094e27d00,Sebastian Benthall,sbenthall@gmail.com,2021-11-04 18:01:57+00:00,,,,False,Merge pull request #1077 from alanlujan91/fix_risky
+f6a6b52235fc23a79820e76e84079170acdb9241,Sebastian Benthall,sbenthall@gmail.com,2021-11-04 18:02:08+00:00,,,,False,Merge pull request #1076 from alanlujan91/calc_lognorm_fix
+3c17c2767cf0539ff4c2048d96ede6b2922fd608,Sebastian Benthall,sbenthall@gmail.com,2021-11-08 16:32:50+00:00,,,,False,Merge pull request #1078 from alanlujan91/sequential_portfolio
+a5634abb233297d7503039dfa2a6d9d34dec42a8,Sebastian Benthall,sbenthall@gmail.com,2021-11-15 14:02:51+00:00,,,,False,Merge pull request #1064 from sbenthall/i1063
+64a6b23dcdbaf446572d01065f6de96602d6853f,alanlujan91,alanlujan91@gmail.com,2021-11-15 16:51:45+00:00,,,,False,Merge pull request #1082 from alanlujan91/save_FOCs
+760df611a6ec2ff147d00b7d866dbab6fc4e18a1,Sebastian Benthall,sbenthall@gmail.com,2021-11-18 16:12:28+00:00,,,,False,Merge pull request #1071 from sbenthall/frame
+91aaf4abf95b2a0c6b31312ac0b7039942358180,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2021-12-07 14:59:19+00:00,,,,False,Merge pull request #1086 from alanlujan91/cism_fast_updates
+d0dfd910a4a6418f3503a7f71937873700742333,Sebastian Benthall,sbenthall@gmail.com,2021-12-13 22:04:17+00:00,,,,False,Merge pull request #1089 from sbenthall/SFi27
+a2b6917d99f93a682f5d3e518279b084db62cc7b,Sebastian Benthall,sbenthall@gmail.com,2021-12-14 16:43:48+00:00,,,,False,Merge pull request #1090 from sbenthall/master
+6c3ee76efafed8e5af66eee29b7614dcd4cf8493,Sebastian Benthall,sb@udacha.home,2021-12-14 16:55:17+00:00,,,,False,Fixing release date in CHANGELOG
+4c002f156cf4b7259db56e399d4e77a4676a6b19,Sebastian Benthall,sb@udacha.home,2021-12-14 16:57:42+00:00,,,,False,Creating space in CHANGELOG for 0.13.0 release
+1d379083cdba3ff9bbca494fb8664eb9ae4f29da,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-01-07 18:36:40+00:00,,,,False,Merge pull request #1095 from wdu9/WDU
+a11325ddfc1c403fd91a4120487a955ca30cded0,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-01-09 02:39:12+00:00,,,,False,Merge pull request #1096 from wdu9/WDU
+9562cafef854d9c3d6b4aba2540e3e442ba6ec6c,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-01-09 20:05:22+00:00,,,,False,Merge pull request #1099 from Mv77/plumbing/aLvl
+f338c976c813991a095a0d3fea9967232ea59e07,alanlujan91,alanlujan91@gmail.com,2022-01-12 22:30:57+00:00,,,,False,Merge pull request #1100 from Mv77/plumbing/dcegm
+84ee03e1df3f007a32f49d1d6df8df299ae399fd,Sebastian Benthall,sbenthall@gmail.com,2022-01-20 15:28:18+00:00,,,,False,Merge pull request #1104 from Mv77/plumbing/index_dstn_rework
+4bc59842cda28aef6f3382cd6ebca7aa7a5c7df3,Sebastian Benthall,sbenthall@gmail.com,2022-01-31 15:28:51+00:00,,,,False,Merge pull request #1024 from Mv77/income_process
+36b5d1cada4905cf460a89e3061d0057a309bb79,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-02-04 19:36:55+00:00,,,,False,Merge pull request #1067 from wdu9/MITShk_fix
+ef8d8fd62bb8a06763eeeb459e2a7711b82c923c,Sebastian Benthall,sbenthall@gmail.com,2022-02-09 21:17:13+00:00,,,,False,Merge pull request #1101 from Mv77/plumbing/newborn_shocks
+53966bbadb8e5e2b71ee863949ee690d7ea1fb8e,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-02-14 17:06:18+00:00,,,,False,Merge pull request #1113 from econ-ark/Fix-tiny-typo
+ea737956aac7bfdc820ebfedfa2924d17ba7ca4f,Sebastian Benthall,sbenthall@gmail.com,2022-02-16 14:33:44+00:00,,,,False,Merge pull request #1112 from Mv77/income_process
+413e6d64505060eeb849bcbe06ce564154e63363,Sebastian Benthall,sbenthall@gmail.com,2022-02-23 16:28:50+00:00,,,,False,Merge pull request #1115 from Mv77/income_process
+38880fa7f41bb6cfa91db585362c747e246a16bd,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-02-24 04:25:55+00:00,,,,False,Merge pull request #1119 from Mv77/income_process
+17fd582be0d8bc2b62d03f4ce5379e21f0b6b1e3,Sebastian Benthall,sbenthall@gmail.com,2022-03-09 22:10:27+00:00,,,,False,Merge pull request #1117 from sbenthall/i938
+e90dcbb18cdaa6eca07ede30b382d34f91209007,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-03-12 17:17:43+00:00,,,,False,Anchors for links to Documentation and Notebooks
+69302d244ec21ccba9ec5d7f5727f121e33bf3f1,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-03-12 18:04:00+00:00,,,,False,Merge pull request #1123 from econ-ark/Fix-ConsPortfolio-Model-Link
+600372f49203a37b3211f5fca19b424d19ea3144,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-03-12 18:21:44+00:00,,,,False,Undo attempt to add anchors for external reference 
+d1a4809b26470d14b1a2aaf4a33aeaa85d4f4ec4,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-03-23 16:11:22+00:00,,,,False,Merge pull request #1126 from AMonninger/master
+e70155855f85ec2ac2cc7ca7bd1b19d6f0a17a8b,Sebastian Benthall,sbenthall@gmail.com,2022-03-30 16:09:21+00:00,,,,False,remove :ref: Documentation
+13bcaa577ff0f65afa2e78398c0ce989059a960e,Sebastian Benthall,sbenthall@gmail.com,2022-04-13 15:19:13+00:00,,,,False,Merge pull request #1131 from alanlujan91/benchmark
+2a204e652b1da7f21f0ae3bbfdc62f50f0c99ec6,llorracc,git@llorracc.org,2022-04-13 21:56:50+00:00,,,,False,Fix minor typos and lacunae in Kinked
+fd99758c4846ec56d7fea1eca8ca8935b30315e7,llorracc,git@llorracc.org,2022-04-20 15:27:23+00:00,,,,False,"Revert ""Fix minor typos and lacunae in Kinked"""
+9f5b1157bc4c3be8d24a9f85390afc44b9986365,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-04-27 02:02:05+00:00,,,,False,Merge pull request #1139 from Mv77/plumbing/grid_fix
+ba643bd2f01426408d5b3f4d6f1988114335d764,Mridul Seth,seth.mridul+github@gmail.com,2022-04-27 15:20:17+00:00,,,,False,Update to use https to fetch master branch
+0bec58ff6c94ecf44fad60bb655e1c693d8628ef,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2022-04-27 17:01:15+00:00,,,,False,Bump numpy from 1.19.4 to 1.21.0 (#1140)
+e865ae647d9c59f64ed186ac20a378437123fd7a,Sebastian Benthall,sbenthall@gmail.com,2022-05-13 14:51:29+00:00,,,,False,Merge pull request #1144 from Mv77/plumbing/dist_of_func
+7484ebb21b3680017d9bd3332a5b302c10476eae,Sebastian Benthall,sbenthall@gmail.com,2022-05-13 17:31:56+00:00,,,,False,Merge pull request #1141 from econ-ark/Gitter
+2155175df60eaff1ee230a55e359bdd8d9ddd008,Sebastian Benthall,sbenthall@gmail.com,2022-05-13 18:23:43+00:00,,,,False,adding gitter link to contribution page
+704bf8eddb303796e628131a9a56ab5ffaa36ef1,Sebastian Benthall,sbenthall@gmail.com,2022-06-01 15:50:43+00:00,,,,False,Merge pull request #1146 from Mv77/plumbing/matrix-val-dist
+0171e0d0142eab672398a03b42257e962f266562,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2022-06-23 17:23:09+00:00,,,,False,Merge pull request #1149 from Mv77/plumbing/matrix-val-dist
+c4333661e5e72e9b5cbc51d02f066390f36b3aaf,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-07-01 17:13:34+00:00,,,,False,Merge pull request #1150 from alanlujan91/cism_Rfree
+d1cccc9c2cb41ded39d03fa245f44fe3510ea267,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-07-03 22:56:50+00:00,,,,False,Merge pull request #1108 from alanlujan91/risky_cism
+caaf9cc629e9908b03803389c628dfa7caf491f8,alanlujan91,alanlujan91@gmail.com,2022-07-08 16:29:49+00:00,,,,False,Merge pull request #1151 from Mv77/plumbing/econforgeinterp
+c2e75e05033ef0850ffe0e3cd3acd7ccf8eec177,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-07-14 20:16:36+00:00,,,,False,Merge pull request #1152 from aniecon/fix-HARK-typo
+a462169fef6c047a070239da749a4f449ecf6c89,alanlujan91,alanlujan91@gmail.com,2022-07-15 19:00:58+00:00,,,,False,Merge pull request #1153 from alanlujan91/master
+d66bd1dec964b3d6d7414649c7b266528dd4bfa5,alanlujan91,alanlujan91@gmail.com,2022-08-08 13:04:00+00:00,,,,False,Merge pull request #1161 from Mv77/plumbing/interp_patch
+b3448501da0500218f0eb9b9e954f8964c195498,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-08-08 14:11:43+00:00,,,,False,Merge pull request #1156 from alanlujan91/cal_exp
+4f950f0cf26b387c80c11b636c457f1da8a607d0,alanlujan91,alanlujan91@gmail.com,2022-08-15 01:35:15+00:00,,,,False,rename expected_value to expected
+a56c58c79ea4ef7a9ed1dad30593c105cb30bc80,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2022-08-19 15:14:42+00:00,,,,False,Merge pull request #1157 from Mv77/plumbing/econforgeinterp
+ea04d1ae489288e1468060a8dcf595856c541b8f,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-08-22 20:57:00+00:00,,,,False,Merge pull request #1164 from alanlujan91/remake_pmf_X
+70a82a4e8e0582f55c7aff81b4981af4cb25ddf6,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-08-24 18:43:20+00:00,,,,False,Merge pull request #1166 from alanlujan91/update_reqs
+69c5f9c570fc28f6a5487312e8b55fed15537e2d,alanlujan91,alanlujan91@gmail.com,2022-08-24 18:48:34+00:00,,,,False,Merge pull request #1154 from AMonninger/Documentation_Fix_AMonninger
+ec3a7bf13280d62585ffe2c77e91639192aaeaad,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2022-09-07 18:36:38+00:00,,,,False,Merge pull request #1165 from Mv77/plumbing/econforgeinterp
+b6a3907bbe4f1015761866ccbf9150562b45fc4b,Sebastian Benthall,sbenthall@gmail.com,2022-09-21 15:09:13+00:00,,,,False,Merge pull request #1172 from alanlujan91/linear_a_grid
+e6c936bae45c936adc8dcf9568ec31ab7568a2e8,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2022-09-28 15:52:11+00:00,,,,False,Merge pull request #1148 from sbenthall/i1105
+dc6cbc64bf896a17a216961870e2a287e486b317,alanlujan91,alanlujan91@gmail.com,2022-10-04 23:47:49+00:00,,,,False,Merge pull request #1155 from wdu9/Transition_Matrix
+ae96a0066563cf1f6020127232d31306be1dd425,alanlujan91,alanlujan91@gmail.com,2022-10-12 00:16:04+00:00,,,,False,Merge pull request #1170 from alanlujan91/DiscDistLabeled
+73f65213fac14441ac2aaf1e7ab64e24eba06456,alanlujan91,alanlujan91@gmail.com,2022-10-19 18:28:00+00:00,,,,False,Merge pull request #1174 from AMonninger/Documentation_Fix_AMonninger
+76d0e48a3091e5332b93c3ac3a83ddf7e9f327ab,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2022-10-19 22:44:58+00:00,,,,False,Merge pull request #1181 from Mv77/plumbing/mkshks_bugfix
+153985023de64ec79b3f04385d6308eaabddd599,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2022-10-21 09:14:40+00:00,,,,False,Change the name of HARK.numba (#1183)
+8577e31f425ebfe839fd980273219b143df37827,alanlujan91,alanlujan91@gmail.com,2022-10-26 13:28:47+00:00,,,,False,Merge pull request #1184 from Mv77/plumbing/ddl-seed
+e1c241e431766d63b7500f0ddcf129e78babc5e4,alanlujan91,alanlujan91@gmail.com,2022-10-26 16:20:17+00:00,,,,False,Merge pull request #1142 from econ-ark/py3.10
+20645e2bae21e3af8bd06d3dcde99ea4b00dc8fe,alanlujan91,alanlujan91@gmail.com,2022-11-10 18:47:25+00:00,,,,False,Merge pull request #1180 from alanlujan91/uniform_endpoints
+cfaaf25ff4e23721473dbd0bee3bc2b78d3782a1,alanlujan91,alanlujan91@gmail.com,2022-12-02 19:42:16+00:00,,,,False,Merge pull request #1185 from wdu9/add-jacobian
+86d5c628edd477fe6b14af0cffd13b3d1b007daf,alanlujan91,alanlujan91@gmail.com,2022-12-07 19:08:18+00:00,,,,False,Merge pull request #1191 from Mv77/plumbing/combine-labeled
+2c6bd2a8a917ac0d6377446639a24949cdfe96e5,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-12-15 20:27:35+00:00,,,,False,Update quick-start.md
+cdc632e0f312a3485f1c31382dcfc88f4d7a732a,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-12-15 20:28:35+00:00,,,,False,Update quick-start.md
+45166d192fb0083dcbae1453d73023ddc908123e,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-12-15 20:32:53+00:00,,,,False,Update quick-start.md
+c60cb60bf1ca77008a4ece4caea2530fa9970840,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-12-15 20:34:56+00:00,,,,False,Update quick-start.md
+423e8db697aa930d8b5b3f469015589e4db6e934,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-12-15 20:37:40+00:00,,,,False,Update quick-start.md
+183687def3e7126010927aa5e67a3ac65eedc195,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-12-15 20:40:10+00:00,,,,False,Update ARKitecture.md
+1a3e53fd746dd760ebb985388141b889c5002e0d,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-12-15 20:40:36+00:00,,,,False,Update ARKitecture.md
+9a5df4d964b4f19d88f3ad0398de2cdd2aad7e8b,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-12-21 03:24:40+00:00,,,,False,Merge pull request #1194 from llorracc/edit-phd-journey
+23ed315f39f2fad1ec644d564d9a65700ecf25f7,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-12-28 16:39:02+00:00,,,,False,Merge pull request #1193 from alanlujan91/scipy_generator
+634af3f5a5c3c62ae8724d38dee0bc1782ef4933,alanlujan91,alanlujan91@gmail.com,2022-12-28 16:40:24+00:00,,,,False,Merge pull request #1187 from econ-ark/Omit-Metadata-From-savefig
+65c76c875974b8a3964fcc40740134bf6d2eac1d,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2022-12-30 20:47:38+00:00,,,,False,Merge pull request #1196 from alanlujan91/lifecycle
+a07e35560e56b7a26c127795b280d0cae5c6d1ed,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2023-01-04 16:44:43+00:00,,,,False,Merge pull request #1189 from Mv77/plumbing/label-income
+ac76f68a76dcff52ce3a68ac49e9302fb9b07099,alanlujan91,alanlujan91@gmail.com,2023-01-04 17:14:36+00:00,,,,False,Merge pull request #1199 from alanlujan91/bug_fix_discrete_dist
+881aa068a3215d5c6a84d400e872ff81565e206b,Sebastian Benthall,sbenthall@gmail.com,2023-01-09 20:28:32+00:00,,,,False,Merge pull request #1168 from alanlujan91/utility_CRRA
+079839aa81f75d87069229eff7c9317efaa2d303,Sebastian Benthall,sbenthall@gmail.com,2023-01-11 13:03:44+00:00,,,,False,Merge pull request #1197 from alanlujan91/scipy_dist
+8313ec5d6711d0b31fde1e40fdffb83cf80e47f2,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2023-01-12 00:24:52+00:00,,,,False,Merge pull request #1209 from dedwar65/master
+2fbfbc6a5ca3d3fce118723ecdd2532d66ca4baf,Sebastian Benthall,sbenthall@gmail.com,2023-01-13 16:42:31+00:00,,,,False,Merge pull request #1212 from sbenthall/i596
+af14685fbee605f771ebf993bd65b74ca6e70b1f,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2023-01-13 23:43:26+00:00,,,,False,Merge pull request #1195 from AMonninger/ECB
+c0e5847368d16f627a2291662b1933e486b2fd2a,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2023-01-15 19:26:50+00:00,,,,False,Merge pull request #1214 from AMonninger/ECB
+4e5a2c79f9d8b877db8ab1e94cde224a36089e8c,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2023-01-16 00:00:30+00:00,,,,False,Merge pull request #1215 from dedwar65/master
+69e0aa3c0aa2f785057d0b500b86a380f78f061c,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2023-01-29 04:36:30+00:00,,,,False,Merge pull request #1220 from wdu9/Update-TranMat-Methods
+f92231305ae210164f63f0ac70f6f56074665882,alanlujan91,alanlujan91@gmail.com,2023-02-06 14:57:50+00:00,,,,False,Merge pull request #1222 from dedwar65/edits-contributing-docu
+389c34fc08847b520d74642621667f0e13e32027,alanlujan91,alanlujan91@gmail.com,2023-02-06 15:02:07+00:00,,,,False,Merge pull request #1219 from dedwar65/master
+9f854cd5b4e4d3df8b09c3da34e7a8ca4e62dea0,alanlujan91,alanlujan91@gmail.com,2023-02-06 17:28:08+00:00,,,,False,Merge pull request #1221 from alanlujan91/time/age/Rfree
+247a1f3cd6f97bbbb5b1cf244a12b90205331644,alanlujan91,alanlujan91@gmail.com,2023-02-06 17:28:51+00:00,,,,False,Merge pull request #1217 from sbenthall/i1200
+78d8e18e13ecc92db60afdb6fbde37eef4e5b514,Sebastian Benthall,sbenthall@gmail.com,2023-02-07 10:07:00+00:00,,,,False,Merge pull request #1177 from alanlujan91/labeled_models
+5a873f5538cbed1aa37ce88b1c92390a435e999d,Sebastian Benthall,sbenthall@gmail.com,2023-02-08 15:41:20+00:00,,,,False,Merge pull request #1225 from alanlujan91/pre-commit-v2
+3c8294c9f0b1f94594d711cfdc6e639d4857f5c3,sb,sbenthall@gmail.com,2023-02-08 15:44:41+00:00,,,,False,build readthedocs with Python version 3.10
+75369a61ce94262fb1bc3c185af9fcac3a2ec473,sb,sbenthall@gmail.com,2023-02-08 15:47:04+00:00,,,,False,"use build.tools.python option for RTD, not python.version, which breaks for 3.10"
+6d72803ff017c93b60a1a0745a74495ecc076485,sb,sbenthall@gmail.com,2023-02-08 15:50:01+00:00,,,,False,"try building RTD in Python 3.10, since 3.11 doesn't work..."
+0fc0f73845da43b5ee17ebdeb807af247aae5775,sb,sbenthall@gmail.com,2023-02-08 15:57:48+00:00,,,,False,trying RTD on 3.9 ...
+ebc9cb4cc077dde688393cef33262eac64f89734,sb,sbenthall@gmail.com,2023-02-08 16:11:20+00:00,,,,False,changing version number to 0.13.0; dropping 3.7 from supported Pythons
+876ede3a8de0ba2606a27f6b9b6d2ae42076f580,sb,sbenthall@gmail.com,2023-02-08 16:25:42+00:00,,,,False,adding classifier for Python 3.10 to setup.cfg
+b3abcc338bb17b52b5d3bede0ce72e8ad49aa58e,Alan Lujan,alanlujan91@gmail.com,2023-02-15 16:36:32+00:00,,,,False,Merge pull request #1229 from alanlujan91/rewards_docs
+fe0005f3b2b12cab70f3f7e09c5f4ebf27d870cb,Alan Lujan,alanlujan91@gmail.com,2023-02-15 16:52:00+00:00,,,,False,Update index.rst
+34df8cab3d64463dff7cf96fbf97cecf3f3e1a8c,Sebastian Benthall,sbenthall@gmail.com,2023-02-16 14:38:39+00:00,,,,False,Merge pull request #1226 from alanlujan91/requirements
+b32bca9f8c0b7d5cfcafeec3190ca53aaeefcaf2,Christopher Llorracc Carroll,git@llorracc.org,2023-03-15 01:12:57+00:00,,,,False,tiny edits to LifecycleModel
+a479a8d55355fd75a8bd5b1146e967b5df31ae8c,Christopher Llorracc Carroll,git@llorracc.org,2023-03-15 01:13:22+00:00,,,,False,Merge branch 'master' of https://github.com/econ-ark/HARK
+acb75515498f552ce2f600fa3343ad57c899e79a,Alan Lujan,alanlujan91@gmail.com,2023-03-23 18:18:53+00:00,,,,False,Merge pull request #1234 from alanlujan91/fast_pytest
+c6b7780a78dc827d8110daa9154a9e7f733f49c4,Alan Lujan,alanlujan91@gmail.com,2023-03-29 14:06:02+00:00,,,,False,reorganize dependencies (#1243)
+3f6ce46b7ef7554c2be5096d3b06506561e26f20,Alan Lujan,alanlujan91@gmail.com,2023-04-03 19:26:23+00:00,,,,False,Merge pull request #1246 from dedwar65/edits-life-cyc-model
+88eb36cee389fdaaa3c874dcfe66e13f8b73e9c4,Alan Lujan,alanlujan91@gmail.com,2023-04-03 19:27:13+00:00,,,,False,Merge pull request #1239 from alanlujan91/distance_metric
+a306caf3a5bc0d58f10e71424a0b8516505428ff,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2023-04-04 17:53:35+00:00,,,,False,Merge pull request #1250 from Mv77/plumbing/idio-Rrisky
+80d027d2451ebda7e0f5e9d5ef74bf94f7f8c478,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2023-04-05 00:40:14+00:00,,,,False,Merge pull request #1253 from Mv77/plumbing/idio-Rrisky
+57a7af2d3ea9c45afa21ab9e0b16e860f17794cc,Sebastian Benthall,sbenthall@gmail.com,2023-04-05 16:35:04+00:00,,,,False,Trying to disable NUMBA JIT in code coverage report
+14a768b551721de9c9af56cf9691cfa30aaea9fb,Alan Lujan,alanlujan91@gmail.com,2023-04-13 15:21:14+00:00,,,,False,Update coverage.yml
+9167a760b312f35991a4c48e81417709ea839b12,Alan Lujan,alanlujan91@gmail.com,2023-04-17 22:08:09+00:00,,,,False,Merge pull request #1257 from alanlujan91/market_bug
+bc8f8b1418416f196f717bdb2704a46a8055d27d,Alan Lujan,alanlujan91@gmail.com,2023-04-19 17:55:28+00:00,,,,False,Merge pull request #1252 from Mv77/plumbing/mat_methods_public
+39b52bb35fc49ae24e300a42f25ed0c080393a29,Alan Lujan,alanlujan91@gmail.com,2023-04-26 14:32:04+00:00,,,,False,Merge pull request #1237 from alanlujan91/agent_population
+36960e529b6ba3d178b6b40f165b831f1551b9ee,Alan Lujan,alanlujan91@gmail.com,2023-04-30 15:34:37+00:00,,,,False,Merge pull request #1260 from Mv77/plumbing/metric-fix
+4669d1b705a25bdc3f93b41274152505ad331174,Alan Lujan,alanlujan91@gmail.com,2023-05-03 14:09:07+00:00,,,,False,Merge pull request #1263 from MridulS/numpy_depre
+99e1986001f5ee79a41f92892bd15c7a411caad0,Alan Lujan,alanlujan91@gmail.com,2023-05-03 17:20:27+00:00,,,,False,Merge pull request #1249 from MridulS/clean_up_deps
+0b108f5c331c2f8168d8d8e0dc333ce4c5b3b487,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2023-05-03 18:05:48+00:00,,,,False,Merge pull request #1262 from Mv77/plumbing/risky-dstn
+26aa2b7415d3f2447d4682c15bdcdf87b0e8d23d,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-05-13 12:07:46+00:00,,,,False,Add documentation workflow (#1265)
+0ce3408047b5252995709eff9f469012bc169a16,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-05-22 22:35:13+00:00,,,,False,Deploy to GitHub Pages (#1266)
+e395f4fb1fea58c7ddb9b653695537a89bcd3f55,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-05-23 00:00:12+00:00,,,,False,Reorganise and clean up ``Documentation/conf.py`` (#1267)
+e67577ef30cb2563c97a1a14ca907fb652a65a45,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-05-23 00:07:02+00:00,,,,False,Skip CI for documentation-only PRs (#1268)
+e8265a16c184c92a02ea417aacd3cae197ebf1ae,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-05-23 00:53:14+00:00,,,,False,Properly document ``HARK.numba_tools`` (#1269)
+987d6183a4d99024f236cb134fb26c8d2e54a3cb,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-05-23 00:53:33+00:00,,,,False,Cache PyPI packages in the documentation workflow (#1270)
+00f2b54ecf4393076b64c934fbf5ecc4df348552,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-05-23 00:54:00+00:00,,,,False,Remove transition from the end of ``Installation_instruction.md`` (#1271)
+6b55aa29c05da1cd2e52600f859de58fdca3d167,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-05-23 00:55:17+00:00,,,,False,Switch to ``pydata-sphinx-theme`` (#1272)
+8eb4bb3ffe26806a128cb6a08a1a3ae0e61e13f3,Mridul Seth,seth.mridul+github@gmail.com,2023-05-31 15:54:29+00:00,,,,False,Add CNAME to host website under econ-ark.org (#1277)
+849338492931e11aeabff4544700ed4d612e557e,Alan Lujan,alanlujan91@gmail.com,2023-06-03 17:23:37+00:00,,,,False,Merge pull request #1241 from alanlujan91/bequest
+90178dbcc2014dd25bda8d58e17a11dbfb119a54,Alan Lujan,alanlujan91@gmail.com,2023-06-03 23:21:30+00:00,,,,False,Merge pull request #1278 from alanlujan91/master
+af8c1d90da42963d05aff0ad88405ed1ee39162b,Mridul Seth,seth.mridul+github@gmail.com,2023-06-06 22:50:49+00:00,,,,False,Use setuptools_scm to track data files (#1279)
+37134b9c9eea4591659b7cc398cf5894e44ba0e7,Alan Lujan,alanlujan91@gmail.com,2023-06-07 15:58:08+00:00,,,,False,Merge pull request #1079 from alanlujan91/optShare
+aff3114949ca58f5ca2aacdd4798616d97c0db51,Mridul Seth,seth.mridul+github@gmail.com,2023-07-08 20:57:12+00:00,,,,False,Fix links in learning section (#1300)
+09f184384ed20a75817aab7617747ae35f5f697f,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-13 20:22:28+00:00,,,,False,Resolve all outstanding warnings on rendering documentation (#1301)
+fdab7e7ac59a8b3e6569c263429dc8468643e763,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-14 16:19:58+00:00,,,,False,Adopt favicon (#1304)
+2209109593014795597aa7ed80b4e184abea2b0f,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-14 23:03:23+00:00,,,,False,Restructure navigation (#1302)
+b123b0efbef934fe7a473e815c9333af3e59b964,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-21 17:07:23+00:00,,,,False,Point links at ``docs.econ-ark.org`` (#1310)
+e552e7e31ea1b82ad6898212c9ad605ed36f7fc4,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-21 20:49:53+00:00,,,,False,Remove ``.readthedocs.yml`` (#1312)
+3b590b319d4ea18923b891419537239517afd1f9,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-24 10:16:34+00:00,,,,False,Add logo to online documentation (#1315)
+4b8754c5d5045fa93defe098997099c89106ba89,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-24 10:16:52+00:00,,,,False,Add icons to documentation (#1316)
+001db3ea7198607b287e27ada8f3a82738af9fd5,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-24 10:17:41+00:00,,,,False,Preparatory configuration updates (#1313)
+aae9548711cd3ba89aec84b536ddfa364533de28,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-24 10:37:28+00:00,,,,False,Add a grid of links to the landing page (#1314)
+af2054ab64b3e0ef47303ecd05b26e34eacbe21e,Mridul Seth,seth.mridul+github@gmail.com,2023-07-24 10:47:44+00:00,,,,False,auto fix copyright bit (#1317)
+5e97dada992e206023273e9d253aef21092d5f3f,Mridul Seth,seth.mridul+github@gmail.com,2023-07-24 11:07:45+00:00,,,,False,add edit buttons (#1318)
+fc891e463f92d540925fb9a805dc738485b2b3b4,DominicWC,135868541+DominicWC@users.noreply.github.com,2023-07-25 10:51:37+00:00,,,,False,Update README.md (#1319)
+023e8cdd9ac341f059dadeccc4349d38d53e9287,Alan Lujan,alanlujan91@gmail.com,2023-07-26 16:49:58+00:00,,,,False,Merge pull request #1306 from Mv77/plumbing/labeled-dist-of-fun
+b50d02832c56fe7c8f5197db4dd0f1120a62932c,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-28 22:36:30+00:00,,,,False,Parallel builds (#1325)
+188823c68792517a2215c35a5b783142c087107b,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-28 22:37:01+00:00,,,,False,Add ``sphinx-lint`` checks to CI (#1327)
+c4285ee6a43f2a38f243284490888226dacd9c85,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-28 22:38:32+00:00,,,,False,3.10 (#1320)
+a547d089b1f702cb521b6174d4d191ae63f6012d,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-07-31 14:46:49+00:00,,,,False,Add process to automatically update example notebooks (#1328)
+5e206089e8e15d1c1cfcfbc3e5f02ec9907bc7df,Mridul Seth,mail@mriduls.com,2023-07-31 15:14:41+00:00,,,,False,"workflows can't create PR's with workflows running with on: push, try with workflow_dispatch (#1329)"
+c37434828679ff1d13b51331850ec15006f86967,Mridul Seth,mail@mriduls.com,2023-07-31 15:21:32+00:00,,,,False,Add notebook exec token
+bd6ef4baa9b87b88cf3ea58ec0c3e67646bb513a,Mridul Seth,mail@mriduls.com,2023-07-31 15:28:14+00:00,,,,False,use github actions token instead
+09b0f5318c40dad03ceb5653d524d3e747243b44,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-08-05 12:03:46+00:00,,,,False,Fix ``nb_exec.py`` (#1332)
+be362fbb40d1906d6b21ac57311e797fcc5476c9,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-08-05 12:06:06+00:00,,,,False,Use a gallery for the example notebooks (#1321)
+f7e08e3c3972dd4875909fddf5a216835ec4352d,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2023-08-05 12:07:23+00:00,,,,False,Fix external links in documentation (#1311)
+e6a37c5c623a0f59bbacc989308bcb081ed2839b,github-actions[bot],41898282+github-actions[bot]@users.noreply.github.com,2023-08-05 12:41:18+00:00,,,,False,[bot] updated notebooks (#1333)
+7c019cd6ecb762317549acb93af0ead4ae21bca6,Mridul Seth,mail@mriduls.com,2023-08-05 13:01:40+00:00,,,,False,Sync example_ConsRiskyContribModel notebook with the .py script (#1336)
+4f644bf1a22362ae5fd1b20570ecad4074456edb,Mridul Seth,mail@mriduls.com,2023-08-05 13:09:33+00:00,,,,False,Remove jupytext sync .py files from examples (#1335)
+b18c71f5ec55537018a34d99cd30e7d1190de508,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2023-08-17 18:40:50+00:00,,,,False,Merge pull request #1342 from wdu9/master
+7ce7138b6d9617a28fd4448936be3d61acad21d8,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2023-08-21 21:10:39+00:00,,,,False,Merge pull request #1343 from Mv77/plumbing/time-varying-rfree
+dce990164d49f689bed2aeda3f33f2500e5fb9cc,Alan Lujan,alanlujan91@gmail.com,2023-09-14 20:44:32+00:00,,,,False,Merge pull request #1294 from econ-ark/UpdateCheckConditions
+da30b24c21bd6657f5e23e0c5609fa03c13b3af1,Sebastian Benthall,sbenthall@gmail.com,2023-09-25 14:22:07+00:00,,,,False,Merge pull request #1240 from alanlujan91/parameters
+3ec34042dd270e2cfe6fc3f64c6e4ec1b4972976,Sebastian Benthall,sbenthall@gmail.com,2023-09-27 16:34:20+00:00,,,,False,Merge pull request #1347 from sbenthall/i1346
+ab14825e63cfc206c35213e5d2ea407a6f1299d9,Alan Lujan,alanlujan91@gmail.com,2023-11-07 17:57:00+00:00,,,,False,Merge pull request #1357 from MridulS/pre_commit_clean_up
+2ad4e89565bd79f7a540a58a0569d949953bf356,Alan Lujan,alanlujan91@gmail.com,2023-11-15 18:09:34+00:00,,,,False,Merge pull request #1358 from sidd3888/PerfForesight
+6aed7ccb59b5858fb14334f6de0b8b196bc08e69,Alan Lujan,alanlujan91@gmail.com,2023-11-15 18:11:38+00:00,,,,False,Merge pull request #1360 from sidd3888/IndShockCons
+960a7f7c7340ed3570779254110e8918ed612d97,Alan Lujan,alanlujan91@gmail.com,2023-11-23 16:16:47+00:00,,,,False,Merge pull request #1361 from sidd3888/ChangeCodeLabels
+1ad4731d00f2931e9fd5ec6a086a1e2469a9d765,Sebastian Benthall,sbenthall@gmail.com,2023-11-29 17:25:06+00:00,,,,False,Merge pull request #1296 from sbenthall/i1295
+b6bc7980b04f478a97ad2ceb12c5593b3fef785e,Alan Lujan,alanlujan91@gmail.com,2023-12-09 01:02:07+00:00,,,,False,Merge pull request #1355 from sidd3888/GentleIntro
+d47c7ffd839b7cfb8ed2f86d42e0df3116d5b477,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2024-01-02 12:58:21+00:00,,,,False,Remove unused .gitmodules file (#1368)
+0d16951f76092486d83540533767dc56994ab9e1,Adam Turner,9087854+AA-Turner@users.noreply.github.com,2024-01-02 13:15:18+00:00,,,,False,Improve ARKitecture (#1369)
+638c5ca42c28f412134b9c551d36159998717b40,Alan Lujan,alanlujan91@gmail.com,2024-01-04 20:01:33+00:00,,,,False,Merge pull request #1365 from alanlujan91/wealth_in_utility
+497de7249829ff06fbf5d4d20e6fd870a8a6e474,Sebastian Benthall,sbenthall@gmail.com,2024-02-07 14:06:40+00:00,,,,False,Merge pull request #1380 from sbenthall/i1379
+85b81ffd6c16ab20981f4e9d25a6a02dd3dedab1,Matthew N. White,mnwhite@gmail.com,2024-02-12 16:06:41+00:00,,,,False,Merge pull request #1377 from econ-ark/PrepForV14
+6c89ee9d445bacdb3ce4aae970fe22e27786fb68,Matthew N. White,mnwhite@gmail.com,2024-02-12 17:06:12+00:00,,,,False,Adjust release date on CHANGELOG
+6a73c4f32a52ff9404f731761c3b754c1f85d650,Matthew N. White,mnwhite@gmail.com,2024-02-20 20:51:56+00:00,,,,False,Merge pull request #1386 from econ-ark/SaveFigMetadataBug
+c3d6225426a1738e1237b86ab2df74d1c9ccee2f,Matthew N. White,mnwhite@gmail.com,2024-02-28 16:34:33+00:00,,,,False,Merge pull request #1390 from econ-ark/AdjustRepr
+649d8c6ebeb7d7e07ec1848bed0bdc72cccf1f0e,Matthew N. White,mnwhite@gmail.com,2024-02-28 16:51:22+00:00,,,,False,Merge pull request #1391 from econ-ark/v014p1prep
+0980a769fdb299a7e3ef3606a1e195b399872fdf,Alan Lujan,alanlujan91@gmail.com,2024-03-02 00:22:43+00:00,,,,False,Merge pull request #1388 from Mv77/plumbing/pre_built_grids
+b2dccab1f3993eadaa41ffdc82d026ab2168d87d,Alan Lujan,alanlujan91@gmail.com,2024-03-02 00:26:12+00:00,,,,False,Merge pull request #1362 from sidd3888/ConsIndwSpread
+df9b60cd87fabfdbe0700f634b41d7de7a00ecd6,Sebastian Benthall,sbenthall@gmail.com,2024-03-05 20:50:27+00:00,,,,False,Merge pull request #1349 from econ-ark/MoveAddStablePointsRedo
+de61ed1adc430937225797a328c2f37694dfb202,Matthew N. White,mnwhite@gmail.com,2024-03-11 17:05:00+00:00,,,,False,Merge pull request #1392 from alanlujan91/fix_cons_bequest
+bbb07a5489daaa6356ebaa6ef3268d7f539cec68,Matthew N. White,mnwhite@gmail.com,2024-03-11 17:07:31+00:00,,,,False,Merge pull request #1396 from MridulS/upgrade_ruff
+0ea895f422d329b04c0a394f0929e0b35dd830a6,Alan Lujan,alanlujan91@gmail.com,2024-03-25 14:03:20+00:00,,,,False,Merge pull request #1400 from econ-ark/AddMoreCStests
+3ee397993a1db76bbc9ae24d3196dc31ccfe4874,Alan Lujan,alanlujan91@gmail.com,2024-03-27 16:57:30+00:00,,,,False,Merge pull request #1394 from econ-ark/SimplifySolvers
+ee6e7f4c3a952288a75e3aad92dd6918cfed7515,Alan Lujan,alanlujan91@gmail.com,2024-04-07 14:42:08+00:00,,,,False,Merge pull request #1398 from dedwar65/examples-beq
+e237921756773f0e2c6d73da723510417a1b071d,Alan Lujan,alanlujan91@gmail.com,2024-04-12 17:19:28+00:00,,,,False,Merge pull request #1403 from econ-ark/FixRiskyAssetLimingCfunc
+53df38c25157184313348be162bedc2a7dd6f9fe,Matthew N. White,mnwhite@gmail.com,2024-04-15 17:22:30+00:00,,,,False,Merge pull request #1407 from alanlujan91/add_super
+c6508c2cfe991790eb15500758e0a9dacb029915,Alan Lujan,alanlujan91@gmail.com,2024-04-18 18:49:34+00:00,,,,False,Merge pull request #1366 from sidd3888/InstallGuides
+bf9ab5bf3fb145d466f1a93b36e27c49f5b6fe8b,Alan Lujan,alanlujan91@gmail.com,2024-04-18 18:49:59+00:00,,,,False,Merge pull request #1401 from sidd3888/contributing_guide
+5762cad5695e70b8122909db2f501ec8507e98d1,Matthew N. White,mnwhite@gmail.com,2024-04-22 14:29:39+00:00,,,,False,Merge pull request #1411 from sbenthall/i1371a
+87177abfc3a28cd11899506baa66ae1e6d1011ee,Sebastian Benthall,sbenthall@gmail.com,2024-04-24 16:48:19+00:00,,,,False,Merge pull request #1414 from sbenthall/i1371b
+8e7082520a4e5560eebed96fa73246c9c8614018,Matthew N. White,mnwhite@gmail.com,2024-04-29 14:07:24+00:00,,,,False,Merge pull request #1415 from econ-ark/MridulS-patch-2
+228ff344c2e344c907defdd476dc13ab7a23f1ab,Alan Lujan,alanlujan91@gmail.com,2024-05-02 19:41:31+00:00,,,,False,Merge pull request #1395 from alanlujan91/Alan/SimplifySolvers
+5eba7e25b2cddcf0b4e35ce627a9e5d4770474d3,Alan Lujan,alanlujan91@gmail.com,2024-05-03 12:56:51+00:00,,,,False,Update CHANGELOG.md
+77bcf9051f3943583186171883dd36a825e29748,Alan Lujan,alanlujan91@gmail.com,2024-05-16 18:54:38+00:00,,,,False,Merge pull request #1404 from alanlujan91/wealth_portfolio_solver
+c318576d8e474cb238a8613050b9e594055739d6,Sebastian Benthall,sbenthall@gmail.com,2024-05-21 17:37:53+00:00,,,,False,Merge pull request #1410 from econ-ark/AddConstructorArchitecture
+3eb9a09337fbbb2fabf0dcab08931e03dc9e827c,Sebastian Benthall,sbenthall@gmail.com,2024-05-21 20:01:50+00:00,,,,False,Merge pull request #1425 from econ-ark/FlattenInitDictionaries
+9dd033ef84da4798b63f3fc7ac69ba34a7862a91,Sebastian Benthall,sbenthall@gmail.com,2024-05-22 16:15:35+00:00,,,,False,Merge pull request #1432 from alanlujan91/bernoulli_bug
+a20853b90a5ce50535ff6c466372a5b4e9d1d5ad,Alan Lujan,alanlujan91@gmail.com,2024-05-22 16:24:55+00:00,,,,False,Merge pull request #1430 from alanlujan91/calibration
+37e49669964613ee49979969f6bee323925fd5cb,Alan Lujan,alanlujan91@gmail.com,2024-05-22 17:38:47+00:00,,,,False,Update CHANGELOG.md
+0b513d45e331e89ce7a2b7fffe33098a1ba29d03,Matthew N. White,mnwhite@gmail.com,2024-05-31 16:24:46+00:00,,,,False,Merge pull request #1417 from sbenthall/1371c
+491140711403bd89ca902ac01319dd90472e9c37,llorracc,git@llorracc.org,2024-06-04 06:14:09+00:00,,,,False,Sync: Added NARK
+da02b8e8b8d1b14114878b3a48af1e4e9b8f89a2,llorracc,git@llorracc.org,2024-06-04 06:14:34+00:00,,,,False,20240604-Sync: Added NARK
+9084ecb0601d77dd85a19c2ffa86c6e500a9ef97,Matthew N. White,mnwhite@gmail.com,2024-06-04 12:28:13+00:00,,,,False,Update CHANGELOG before release
+5341c82dac3ed59f7b8cf02ee8b08b67880cac15,Matthew N. White,mnwhite@gmail.com,2024-06-04 13:20:23+00:00,,,,False,Merge pull request #1449 from econ-ark/ReleasePrep0.15.0
+7b63d362bdd3cefb2bd438bfb86e9f35b0137cd0,llorracc,git@llorracc.org,2024-06-05 21:57:22+00:00,,,,False,tweaks
+de2ef457a9b25d20d11b80d0d1e3d6ad10bf52f3,llorracc,git@llorracc.org,2024-06-10 03:09:25+00:00,,,,False,add *private* to gitignore to prevent accidents
+ef670407142d49ed18dc43bcf8b9542bc73b52dd,llorracc,git@llorracc.org,2024-06-11 14:21:32+00:00,,,,False,After moreverb fix
+33a039a1067431770e7f5c923c6093a45362c5bd,Matthew N. White,mnwhite@gmail.com,2024-06-11 17:13:48+00:00,,,,False,Run pre-commit
+6806706bfdb5e7bb707a4a5d1c419ed6dbbfdc65,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2024-06-12 20:49:00+00:00,,,,False,Merge pull request #1447 from econ-ark/MNW-SSJ-attempt
+1eed24ef0185b6f06570a7dbd6ce941093e9e2c3,Matthew N. White,mnwhite@gmail.com,2024-06-14 17:33:02+00:00,,,,False,Merge pull request #1457 from econ-ark/FixEconforgeTests
+2b345ca8663eb915b9b936c56bf3fda4379b6448,Matthew N. White,mnwhite@gmail.com,2024-06-14 21:57:22+00:00,,,,False,Merge pull request #1456 from econ-ark/Expand-SSJ-exposition
+386a049fd0b1cebe1aa1e47649b006100aff05dd,Matthew N. White,mnwhite@gmail.com,2024-06-15 16:40:57+00:00,,,,False,Merge pull request #1459 from econ-ark/Prep-for-v0.15.1
+13d94c86a2a2c79873f8517774b5aceda85c3fdb,Matthew N. White,mnwhite@gmail.com,2024-06-19 15:30:05+00:00,,,,False,Merge pull request #1275 from alanlujan91/approx_population
+d86eb935e005debb032875a89d5402bd170c9781,Matthew N. White,mnwhite@gmail.com,2024-06-19 16:15:38+00:00,,,,False,Merge pull request #1436 from DominicWC/master
+801e3df494abcc263da9316198c158c917add998,Matthew N. White,mnwhite@gmail.com,2024-06-28 17:43:02+00:00,,,,False,Merge pull request #1427 from sbenthall/i1373
+3faa570fa135667601aafd58ab92856b2430d2ee,Matthew N. White,mnwhite@gmail.com,2024-06-28 18:24:33+00:00,,,,False,Merge pull request #1460 from sbenthall/i660
+7f5091fa086e3e85c26e7f17dbac921ca2d3a1d8,Matthew N. White,mnwhite@gmail.com,2024-06-28 20:17:29+00:00,,,,False,Merge pull request #1387 from Mv77/plumbing/more_param_types
+537101f86ef6e3c871930e83c99ac5af578d3906,Matthew N. White,mnwhite@gmail.com,2024-06-28 20:31:16+00:00,,,,False,Merge pull request #1389 from Mv77/plumbing/Parameters_solver
+d5c1e205a132ce4256be514237d9b0be71dc5f3b,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2024-07-13 17:31:23+00:00,,,,False,Merge pull request #1473 from Mv77/plumbing/rm-EmpNow
+0245012a6c47368530ae78e375eb71dd16243fbd,Matthew N. White,mnwhite@gmail.com,2024-07-17 14:49:02+00:00,,,,False,Merge pull request #1464 from sbenthall/shockexpr
+d883e25ce68d5505a02cef281e26bf0861b61fde,Matthew N. White,mnwhite@gmail.com,2024-07-17 14:49:24+00:00,,,,False,Merge pull request #1462 from econ-ark/UpdateARKitecture
+da9e5b4536f4d2ee9a16fb74e8fedd00a02b889e,Matthew N. White,mnwhite@gmail.com,2024-07-17 17:45:50+00:00,,,,False,Merge pull request #1475 from DominicWC/new-notebooks
+79f0b16339e5281e7d94a21874b978fc0983f60d,Matthew N. White,mnwhite@gmail.com,2024-07-24 19:23:27+00:00,,,,False,Merge pull request #1477 from DominicWC/Link-fixes
+35c53618d42393a2666f49c9a548ddc410a4367b,Matthew N. White,mnwhite@gmail.com,2024-07-31 17:53:42+00:00,,,,False,Merge pull request #1465 from sbenthall/i1373
+9b83115237837662e85205ae52a0e66d87dd314b,Matthew N. White,mnwhite@gmail.com,2024-08-14 01:11:03+00:00,,,,False,Merge pull request #1482 from DominicWC/Quick-8-fix
+3e7f4ad80b10c8686e78d09c9ca3d91a3806e27a,Alan Lujan,alanlujan91@gmail.com,2024-08-14 16:44:30+00:00,,,,False,Merge pull request #1412 from sidd3888/bivariate_lognormal
+16fa837e5ed57c4dd9b9d93123d08dadb857f326,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2024-08-21 16:53:56+00:00,,,,False,Merge pull request #1490 from DominicWC/SSJ_example_update
+440302de2973e574f7290ccb4a251de5beb8cb56,Sebastian Benthall,sbenthall@gmail.com,2024-08-22 13:57:29+00:00,,,,False,Merge pull request #1489 from econ-ark/PermGroFacAlternateNotation
+1a34e73899f4e93f79c858f5f4704b75105b84d1,Matthew N. White,mnwhite@gmail.com,2024-08-28 17:13:11+00:00,,,,False,Merge pull request #1470 from DominicWC/master
+8c2951a9874f7a607eb82272ac2498cf4b6486ef,Matthew N. White,mnwhite@gmail.com,2024-09-19 19:43:14+00:00,,,,False,Merge pull request #1497 from DominicWC/master
+2879095843c4bf1ac680e76e3a06a89bb84f8e14,Alan Lujan,alanlujan91@gmail.com,2024-09-20 12:54:49+00:00,,,,False,Merge pull request #1498 from econ-ark:WealthPortfolioConstructors
+68fc6ebcb33393b7ca604fae9c3ec39fa10b4ee5,Alan Lujan,alanlujan91@gmail.com,2024-10-16 12:47:54+00:00,,,,False,Merge pull request #1501 from akshayshanker/SSJDocsAS
+f22a3ca2a086f3fa793a8b36ece989bf5d5fcbe2,Mridul Seth,mail@mriduls.com,2024-10-16 14:55:12+00:00,,,,False,"MAINT: Clean up binder folder, (#1502)"
+73db66b66195d8f74886bb1fba325ecbbbbf521b,Mridul Seth,mail@mriduls.com,2024-10-16 15:10:00+00:00,,,,False,Add sequence_jacobian to requirements for binder  (#1503)
+ecb720f6da1e9476129b4307fb1be88e385c8fbc,Matthew N. White,mnwhite@gmail.com,2024-10-31 18:22:08+00:00,,,,False,Merge pull request #1507 from sidd3888/bivariate_lognormal
+894d53e9c7e425d3fad0828903bb551e42f4026e,Emmanuel Ferdman,emmanuelferdman@gmail.com,2024-10-31 20:03:14+00:00,,,,False,update transition matrices notebook reference (#1508)
+2a3bff2449b636c1cc9178759dc8e0081cc18930,Sebastian Benthall,sbenthall@gmail.com,2024-11-14 16:03:47+00:00,,,,False,Merge pull request #1494 from alanlujan91/rev/params
+80eed313812bd740772481db8cbcac80e7c96f94,Sebastian Benthall,sbenthall@gmail.com,2024-11-14 22:29:56+00:00,,,,False,Merge pull request #1511 from sbenthall/i1428b
+4e73f0890c39c55e9dc506ac888936420a4dacd0,Alan Lujan,alanlujan91@gmail.com,2024-11-15 20:22:59+00:00,,,,False,Merge pull request #1433 from alanlujan91/estimagic
+50384f5ffe25c76f4e90c14f8877398a83366a49,Alan Lujan,alanlujan91@gmail.com,2024-11-19 14:28:45+00:00,,,,False,Merge pull request #1496 from alanlujan91/distribution/updates
+736ad466da45524761fb4f9973543d7c9045d1f4,Alan Lujan,alanlujan91@gmail.com,2024-11-21 21:40:03+00:00,,,,False,Delete Documentation/NARK directory
+d1255eeb094ba92ad029140b3f411870823784bf,Alan Lujan,alanlujan91@gmail.com,2024-11-21 21:41:30+00:00,,,,False,Delete Documentation/texmf-local directory
+ce599657e81c400df93a422a89188cd4fa164fb3,Alan Lujan,alanlujan91@gmail.com,2024-11-21 21:45:20+00:00,,,,False,Delete Documentation/Style.tex.txt
+df35ea558b912616accfe27dedb279bf8ef51cdf,Matthew N. White,mnwhite@gmail.com,2024-12-10 15:16:03+00:00,,,,False,Merge pull request #1506 from econ-ark/alanlujan91/improve-documentation
+4c2d53106683ebf662abb479f4ec5c9098d8c00b,Sebastian Benthall,sbenthall@gmail.com,2025-01-02 16:19:53+00:00,,,,False,Merge pull request #1492 from econ-ark/FixIdentityFuncDerivatives
+fee37caac739aeefc09b52ead3d8cb87dcccd9a4,akshay_shanker,andy.mathur@icloud.com,2025-01-04 01:29:38+00:00,,,,False,Merge pull request #1484 from econ-ark/ImproveConsMarkovConstructors
+f0ace18985529879882eb514226efd728f8e6b41,akshay_shanker,andy.mathur@icloud.com,2025-01-04 12:07:53+00:00,,,,False,Merge pull request #1495 from econ-ark/FixCalcEulerErrorFunc
+7cfd046982c98d2d25103ea245dd97338226bc9b,akshay_shanker,andy.mathur@icloud.com,2025-01-06 02:37:16+00:00,,,,False,Merge pull request #1493 from econ-ark/TurnOffCalcStablePointsWarning
+da3442eaf88f042b0b3679ffe3f26e67f7f120d1,Matthew N. White,mnwhite@gmail.com,2025-01-08 21:48:39+00:00,,,,False,Merge pull request #1509 from akshayshanker/master
+189b452a192a44265ba62625cb074a366fc63ece,Matthew N. White,mnwhite@gmail.com,2025-01-22 19:56:27+00:00,,,,False,Merge pull request #1363 from alanlujan91/rewards
+ea4931f731988330c146ce1d083739134509e017,Matthew N. White,mnwhite@gmail.com,2025-01-23 18:23:35+00:00,,,,False,Merge pull request #1499 from sbenthall/i1471-a
+45b405fa800ca9db5a752b84974480655dd611a1,Matthew N. White,mnwhite@gmail.com,2025-02-09 19:54:48+00:00,,,,False,Merge pull request #1521 from QingyuanFang/master
+ed2eeff63e8e201c57f5e3a2c39fd5ff9f650a5a,Matthew N. White,mnwhite@gmail.com,2025-02-09 20:24:39+00:00,,,,False,Update CHANGELOG.md
+2d7624399c2d2923c51c58ca6797842b1d92c51c,Matthew N. White,mnwhite@gmail.com,2025-02-10 18:39:35+00:00,,,,False,Merge pull request #1020 from alanlujan91/CHI_new_feats
+f9396dc0ac50c5682f3d61cccfb19e76bec6ee88,Matthew N. White,mnwhite@gmail.com,2025-02-10 18:59:14+00:00,,,,False,Merge pull request #1014 from alanlujan91/updatePortfolio
+d69fb642d29267fabc9fc58aa54ac4e23a251473,Matthew N. White,mnwhite@gmail.com,2025-02-12 18:11:00+00:00,,,,False,Merge pull request #1527 from econ-ark/Recreate1507
+1dbb1fb689a0c4f18cdacba7ca914781185ce62f,Mateo Velásquez-Giraldo,mateovegi@gmail.com,2025-04-02 01:17:12+00:00,,,,False,Merge pull request #1543 from Mv77/solve_from
+ffd1ca1bedea112b8eebbee0f5e11aa67fea5ed6,akshay_shanker,andy.mathur@icloud.com,2025-04-19 02:24:16+00:00,,,,False,Merge pull request #1546 from econ-ark/SmallSimFixes
+a853771e5c31f8d64ea3f3665d51e765d50f61f1,Matthew N. White,mnwhite@gmail.com,2025-04-19 02:42:02+00:00,,,,False,Merge pull request #1544 from Mv77/solve_from
+3c2f40590266a486880d16b667702fad84e64d53,Matthew N. White,mnwhite@gmail.com,2025-05-05 14:57:19+00:00,,,,False,Merge pull request #1549 from MridulS/py313_support
+b0e772ae37bf16636dbff6f81d9e791cacaff16c,Matthew N. White,mnwhite@gmail.com,2025-05-05 14:57:58+00:00,,,,False,Merge pull request #1550 from MridulS/pre_commit_bumps
+11f1ea61868153af75325b290d0a14e14c71ebe6,Alan Lujan,alanlujan91@gmail.com,2025-05-07 21:09:20+00:00,,,,False,Merge pull request #1529 from econ-ark/UnwindInitDependencies
+838bc703798990077d6f36c75e2c03c672ce1f85,Matthew N. White,mnwhite@gmail.com,2025-05-14 13:47:45+00:00,,,,False,Merge pull request #1530 from econ-ark/UndoUpdateRfree
+dac9b415dba549cdb8e4c80a44bc37c22b836927,Matthew N. White,mnwhite@gmail.com,2025-05-14 13:48:07+00:00,,,,False,Merge pull request #1524 from econ-ark/Recreate1479
+fc815b59080de7620ffb0e289f19c318555d1274,Matthew N. White,mnwhite@gmail.com,2025-05-14 14:08:08+00:00,,,,False,Update CHANGELOG.md
+e90dcd5d1ca6fa0fbf17fa1d9ef188e933666dc7,Matthew N. White,mnwhite@gmail.com,2025-05-20 00:59:13+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #1555 from econ-ark/codex/find-and-fix-a-bug-in-codebase
+5e4d77cbef357b4e2379796474bdb241a1f1b6ef,Matthew N. White,mnwhite@gmail.com,2025-05-20 00:59:30+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #1556 from econ-ark/codex/update-error-string-in-hark-core-py
+062fd8bec25d9dd6ccda1abff624b3fff9144cfa,Matthew N. White,mnwhite@gmail.com,2025-05-20 01:00:10+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #1557 from econ-ark/codex/fix-spelling-of-parameters-in-readme-md
+b445bef8638a87487d652f96863efee5515a28f7,Matthew N. White,mnwhite@gmail.com,2025-05-20 01:00:26+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #1558 from econ-ark/codex/replace-equality-checks-with-assert-allclose
+e72e5749b9ab9aa5eb43d91d5b6cbf6892e33dba,Matthew N. White,mnwhite@gmail.com,2025-05-20 01:02:27+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #1560 from econ-ark/codex/improve-documentation-on-timing-and-cycles
+1a8132b226a5e7e2965ade69c458b180b13449de,Matthew N. White,mnwhite@gmail.com,2025-05-20 01:03:16+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #1561 from econ-ark/codex/parallelize-simulations-for-speed
+b472c8eea3fee5481c46536915f3e5485b8c45a0,Matthew N. White,mnwhite@gmail.com,2025-05-20 13:44:38+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #1559 from econ-ark/codex/change-self-calibration-to-copy-in-sim-one-period
+f2fd9cdc690b6ce1f7241b86cb30d75d139fdee2,Matthew N. White,mnwhite@gmail.com,2025-05-20 19:57:49+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #1562 from econ-ark/codex/improve-simulation-efficiency-with-pandas-and-numpy
+ae21aed7c4ebcc8260703e65ddc1b7f93af624c6,Matthew N. White,mnwhite@gmail.com,2025-05-21 14:48:46+00:00,,,,False,Merge pull request #1564 from econ-ark/SSJ-Edits-CDC_freshAAS
+f824ce9cd149f0befddab0a16e2670c6bb95656b,Matthew N. White,mnwhite@gmail.com,2025-05-28 13:09:13+00:00,,,,False,Merge pull request #1568 from econ-ark/SSJ_minor_edits
+4ae6f5e13ff91f00a7b21ea947f33ba587411ba1,Matthew N. White,mnwhite@gmail.com,2025-05-29 14:15:18+00:00,,,,False,Merge pull request #1570 from emmanuel-ferdman/master
+2a3e582080e3b3313a6ec38cc36591143d3672ed,Matthew N. White,mnwhite@gmail.com,2025-05-29 14:36:04+00:00,,,,False,Merge pull request #1563 from econ-ark/FixIrksomeThings
+e7b185a8cc5bff4d593cc6c998a1a49948982da9,Alan Lujan,alanlujan91@gmail.com,2025-06-04 17:53:56+00:00,,,,False,Merge pull request #1571 from econ-ark/FixCyclesTutorial
+a8f435fa37985f0e327da74400a4525de202a280,Alan Lujan,alanlujan91@gmail.com,2025-06-04 18:45:05+00:00,,,,False,Merge pull request #1553 from econ-ark/UpdateNewbornDstns
+6dc96d048059e940d305fc571abd11ed1cc358c7,Matthew N. White,mnwhite@gmail.com,2025-06-09 13:55:59+00:00,,,,False,Add missing PRs to CHANGELOG
+1accf75c7f4a650723aadf12748cfd9e65190878,Matthew N. White,mnwhite@gmail.com,2025-06-09 14:31:13+00:00,,,,False,Bump version number to 0.16.0
+82a761a1722914ab2c82b25c31f63ec1a43e5738,Matthew N. White,mnwhite@gmail.com,2025-06-18 18:53:12+00:00,,,,False,Add start of v0.16.1 changelog
+ca06776bad252235a442a7e696c04d6fa69c1fa2,llorracc,git@llorracc.org,2025-07-12 20:14:56+00:00,,,,False,bottom_up-vs-top_down history
+0b6d08dd21167ee95dfa040900599d45a941e568,llorracc,git@llorracc.org,2025-07-12 20:28:50+00:00,,,,False,Restore bad commit
+79432525ea8aed6741000abf39b924336fdd28b3,llorracc,git@llorracc.org,2025-07-21 15:06:34+00:00,,,,False,Add AI-friendly repository documentation
+74b9b766081808e4f8d7c6bab4d15eed1209ae57,llorracc,git@llorracc.org,2025-07-21 16:02:41+00:00,,,,False,docs: Add or update AI-friendly repository documentation
+a6f932a1b62c26fa1b0c554b0d56cdf1ce37bbc8,llorracc,git@llorracc.org,2025-07-21 16:15:12+00:00,,,,False,docs: Add or update AI-friendly repository documentation
+cc38521e22dd63090eeb763d18fdcf22c82e7b29,Matthew N. White,mnwhite@gmail.com,2025-07-24 01:44:56+00:00,,,,False,Merge pull request #1545 from econ-ark/MonteCarloAttempt
+1ee637c936b22c6d2c4871c8791d2170025d21b8,Matthew N. White,mnwhite@gmail.com,2025-07-24 13:12:28+00:00,,,,False,Merge pull request #1578 from alanlujan91/move_tests
+6a461ceecb06c8a0f98581e5abb81506528beb02,Matthew N. White,mnwhite@gmail.com,2025-07-24 13:13:27+00:00,,,,False,Merge pull request #1577 from econ-ark/ai-ignore-update
+11cd8520bb46a9ff6146580e2d03c2071e96a781,Matthew N. White,mnwhite@gmail.com,2025-07-24 14:00:16+00:00,,,,False,Merge pull request #1579 from alanlujan91/move_docs
+6bd3e80557a0e6ade3324f94ecdb55c6b83af529,Matthew N. White,mnwhite@gmail.com,2025-07-24 14:41:40+00:00,,,,False,Add constructor errors as attribute
+4e71eb39378fb2d0fc5b87b2733ba2196fca51b2,Matthew N. White,mnwhite@gmail.com,2025-07-24 14:45:54+00:00,,,,False,"Revert ""Add constructor errors as attribute"""
+845fdb56f7e7b88b3df4e12fd378daf23992a681,Alan Lujan,alanlujan91@gmail.com,2025-07-24 18:38:38+00:00,,,,False,Merge pull request #1583 from econ-ark/AdjustProbDstnFix
+3ce1fa1cec5dae2c7413204f3b15432e72ed9799,Alan Lujan,alanlujan91@gmail.com,2025-07-24 21:15:18+00:00,,,,False,Merge pull request #1575 from econ-ark/FixComplexConstructorBug
+cd382add24da132e40405c5fca406e4df93ee7d8,Matthew N. White,mnwhite@gmail.com,2025-07-25 01:50:54+00:00,,,,False,Merge pull request #1585 from econ-ark/v0.16.1prep
+a98e751a2c3b1b4891a4ba0f660192db0733cebc,Matthew N. White,mnwhite@gmail.com,2025-07-29 15:06:48+00:00,,,,False,Merge pull request #1586 from econ-ark/update-TOC-with-new-sim-notebooks
+307cafe98f1dd05648432c23fac32158cce70cf1,Alan Lujan,alanlujan91@gmail.com,2025-08-09 19:12:18+00:00,,,,False,Merge pull request #1589 from econ-ark/TurnOffUseInfimum
+d0737fd4a0bf084424681b31547a6671cae52dbf,Alan Lujan,alanlujan91@gmail.com,2025-08-18 17:50:31+00:00,,,,False,Merge pull request #1567 from econ-ark/BasicHealthInvModel
+e2dde1ab9c7296bec61f08396c7826f172d66aca,Matthew N. White,mnwhite@gmail.com,2025-08-20 14:45:53+00:00,,,,False,Start changelog for next version
+f615c9356195d1923ff48b8a0752c816881a590c,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2025-10-07 16:43:54+00:00,,,,False,Merge pull request #1594 from alanlujan91/krusellsmith
+01f13f42ff1306fdb054e7857fcb7d5b41754584,Matthew N. White,mnwhite@gmail.com,2025-10-10 13:04:02+00:00,,,,False,Merge pull request #1591 from econ-ark/EasierConstructorInit
+75239561613900ca158362684c53d8d7f5a80ca8,Matthew N. White,mnwhite@gmail.com,2025-10-10 13:04:26+00:00,,,,False,Merge pull request #1593 from econ-ark/LinearInterpOptions
+c5ed51b0db2c228fa6207e8d4e904108850f2a83,Matthew N. White,mnwhite@gmail.com,2025-10-10 14:25:29+00:00,Cursor,assinatura,Cursor,True,Merge pull request #1592 from econ-ark/cursor/consolidate-distribution-classes-6f97
+f2d0eca62883295bfe57229e3e79d0b46afbfb7e,Matthew N. White,mnwhite@gmail.com,2025-10-10 14:25:44+00:00,Copilot,assinatura,Copilot,True,Merge pull request #1581 from econ-ark/copilot/fix-1572
+a8e76f0642a4082a6b5d4e0f46bb3a2720282f46,Matthew N. White,mnwhite@gmail.com,2025-10-10 14:54:10+00:00,,,,False,Update CHANGELOG
+a05e5d1f34fdfc7724942eb2c730e93140adc6b2,Matthew N. White,mnwhite@gmail.com,2025-10-10 15:43:33+00:00,,,,False,Merge pull request #1596 from econ-ark/DeleteOldConsSavingNotebooks
+35bfdffc9dff7452d3cb5116a5d72788b6e8103e,Matthew N. White,mnwhite@gmail.com,2025-10-10 16:53:53+00:00,,,,False,Merge pull request #1595 from econ-ark/ExtMargMedCareModel
+1cc2db9279d770d8eaf2f7aa757d4d26cb63afd8,Matthew N. White,mnwhite@gmail.com,2025-10-10 16:55:46+00:00,,,,False,Update CHANGELOG.md
+6caf7aae006fc238eddcd45863520938eaeba3d4,Matthew N. White,mnwhite@gmail.com,2025-10-18 13:31:07+00:00,,,,False,"Add codecov YAML, just ignore old solvers"
+7247732ca19b6fbeec7e288d2ce22d143b62e7da,Matthew N. White,mnwhite@gmail.com,2025-10-18 18:19:45+00:00,,,,False,Merge pull request #1603 from MridulS/is_this_the_problem
+88c500b35ee5fd1f5717bdab8fae7b15d728c39b,Matthew N. White,mnwhite@gmail.com,2025-10-18 18:52:55+00:00,,,,False,Merge pull request #1602 from econ-ark/code_cov_cron
+82c5b5dee9270e74975ce86f05df88e616e5421b,Matthew N. White,mnwhite@gmail.com,2025-10-18 18:53:11+00:00,,,,False,Merge pull request #1598 from econ-ark/ImproveLognormalDiscretization
+66555f7c74742c87d98d11d2eea86d60d2dd1ec9,Matthew N. White,mnwhite@gmail.com,2025-10-18 20:04:27+00:00,,,,False,Swap codecov.yml for .coveragerc
+966559139623b90ac89b5049abe339c8ca822b19,Matthew N. White,mnwhite@gmail.com,2025-10-22 18:52:24+00:00,,,,False,Merge pull request #1606 from econ-ark/TestCoverageBigPush
+5e626dd795c2e16c9c96da082f8e156158be7f24,Matthew N. White,mnwhite@gmail.com,2025-10-23 21:23:05+00:00,,,,False,Merge pull request #1597 from econ-ark/ExpandIntroNBs
+e6eb4d62e7314b3d4360ad0ea31ab0f0cab8ccb3,Matthew N. White,mnwhite@gmail.com,2025-10-28 15:16:48+00:00,,,,False,Merge pull request #1607 from econ-ark/SquashRiskyAssetModel
+7213c815a1c5e3d00ebb92444a16e2bf3442950a,Mridul Seth,mail@mriduls.com,2025-10-28 15:37:36+00:00,,,,False,Rename coverage report artifact to docs_html
+e4b0bcccce972041761a0ae75e1d0d159d908a7d,Mridul Seth,mail@mriduls.com,2025-10-28 15:45:13+00:00,,,,False,Update code coverage badge in README.md
+4dd5fc00a99372de4404094933783886ada7f7ad,Matthew N. White,mnwhite@gmail.com,2025-10-29 19:21:48+00:00,,,,False,Delete apply_flat_income_tax (#1612)
+a613c5e283c722132ca24a3e5089ffdddb8c3d21,Matthew N. White,mnwhite@gmail.com,2025-10-30 17:12:40+00:00,,,,False,Merge pull request #1610 from econ-ark/EvenMoreTestCoverage
+2820bab7cf9e4fb83fbc79be6d29b4242968bce5,Matthew N. White,mnwhite@gmail.com,2025-10-30 17:53:16+00:00,,,,False,Merge pull request #1614 from econ-ark/MoveParallelContentIntoCore
+29c8e35d34d4a2ebcf14bcc482c60dde39341c7e,Matthew N. White,mnwhite@gmail.com,2025-10-30 18:40:10+00:00,,,,False,Add verbose option to SSJ tests
+dd367b8c3013decfaf8adb8ecab94bc6108ac421,Matthew N. White,mnwhite@gmail.com,2025-10-30 19:27:53+00:00,,,,False,Update coverage badge?
+7fae4ae9fc220a9123152accfd017feeebcff001,Matthew N. White,mnwhite@gmail.com,2025-10-30 19:28:38+00:00,,,,False,Fix bracket
+9653f0f3dc16463820401a2a5018635657319489,Matthew N. White,mnwhite@gmail.com,2025-10-30 19:32:16+00:00,,,,False,Add period to path
+8fecf644f11ff69fabe9b579b3759a192ed67ad4,Matthew N. White,mnwhite@gmail.com,2025-10-30 19:34:35+00:00,,,,False,Another missing bracket
+5e41b23effaff3401bfc95d969cd827cc6420189,Mridul Seth,mail@mriduls.com,2025-10-30 19:43:13+00:00,,,,False,Support PyPI Trusted Publisher for making releases (#1551)
+537aeecbaec095b9ae2d5ca2da999b76058a95f3,Matthew N. White,mnwhite@gmail.com,2025-10-30 20:26:37+00:00,,,,False,Exempt more numba functions from coverage
+8cec4c2b93456ef667c110fc0f298934b56b1695,Matthew N. White,mnwhite@gmail.com,2025-10-31 16:15:50+00:00,,,,False,Merge pull request #1616 from econ-ark/TurnOnMarkovSSJtest
+fc5a66bc9cc42f93e9f84998dd45a976ade7990f,Matthew N. White,mnwhite@gmail.com,2025-10-31 21:34:17+00:00,,,,False,Merge pull request #1617 from econ-ark/CoverageExpansionPartThree
+b3c50d179f1703c5ca63c3d59676174e69c80ae2,Matthew N. White,mnwhite@gmail.com,2025-11-02 15:13:46+00:00,,,,False,Update coverage badge
+bc516fc5510065bd9229a7dd63283d227cce7c9a,Matthew N. White,mnwhite@gmail.com,2025-11-03 16:07:12+00:00,,,,False,Merge pull request #1618 from econ-ark/FixMultivariateDstns
+3a6d28a3e0c10078503b4e1f2d4d323ca5c24431,Matthew N. White,mnwhite@gmail.com,2025-11-04 17:05:40+00:00,,,,False,Merge pull request #1620 from econ-ark/CleanUpDeadMethods
+c9927f87eac70898ff8c8308285504f81195cf28,Matthew N. White,mnwhite@gmail.com,2025-11-04 20:07:04+00:00,,,,False,Merge pull request #1619 from econ-ark/TheTestening
+4ec25caaf1a14ac1ddf26c4cb7a49f788a56ff7a,Matthew N. White,mnwhite@gmail.com,2025-11-04 21:08:34+00:00,,,,False,Fix a few test coverage typos
+919995927d89c5206f25299aab0e6843b39fe123,Matthew N. White,mnwhite@gmail.com,2025-11-04 22:04:58+00:00,,,,False,Test cleanup
+db90c479db91e1f047898b5b1e23055e2eeff44b,Matthew N. White,mnwhite@gmail.com,2025-11-04 23:25:37+00:00,Claude_Code,assinatura,Claude_Code,True,Merge pull request #1623 from econ-ark/claude/add-parameters-tests-011CUoSa4XYTDAUBLEYxTSLA
+5706d8a43be10b51aaa23aaf0d6d056211789781,Matthew N. White,mnwhite@gmail.com,2025-11-05 17:47:14+00:00,,,,False,Merge pull request #1625 from econ-ark/MopUpTestCoverage
+6d1ae43db48a2dd9e0bab9b11aa0d742a87c8e7b,Matthew N. White,mnwhite@gmail.com,2025-11-05 18:01:38+00:00,Claude_Code,assinatura,Claude_Code,True,Merge pull request #1624 from econ-ark/claude/add-agent-population-tests-011CUoXiC8zhVL7vsfwnLwkj
+58df7425cbe2ec580cc2ad4a968e82e7ea1cc24f,Matthew N. White,mnwhite@gmail.com,2025-11-05 19:02:28+00:00,Claude_Code,assinatura,Claude_Code,True,Merge pull request #1626 from econ-ark/claude/test-agent-parameters-011CUonGN54J9kk17gdyqG92
+ab5d8860c764399428a893566c017bd3da11d12b,Matthew N. White,mnwhite@gmail.com,2025-11-10 18:10:26+00:00,,,,False,Update coverage badge
+d1ce416d7c9c6801cfaf14fb3bb2fbe2f3479310,Matthew N. White,mnwhite@gmail.com,2025-11-12 15:45:27+00:00,,,,False,Merge pull request #1628 from econ-ark/GoForTheTestingGold
+9b404e4dda59a1083566ad6625a472ba9779838e,Matthew N. White,mnwhite@gmail.com,2025-11-12 18:08:58+00:00,,,,False,Fix cond expectation mistake in MedExtMarg
+914ec6a26f078844fd399bf496e10f43d987a5ed,Matthew N. White,mnwhite@gmail.com,2025-11-13 16:44:13+00:00,,,,False,Missing square on variances
+7ed1ea6530460f9d8d7fe6a0f4e30ce7880cb711,Matthew N. White,mnwhite@gmail.com,2025-11-14 17:19:44+00:00,,,,False,Light style fixes to intro notebooks
+9ddc3d470314db71f7210f581fecb741c1146d88,Matthew N. White,mnwhite@gmail.com,2025-11-14 19:43:27+00:00,,,,False,Renovations to example labeling
+aba0bd6c5359282cff9f4c16c50030d58df582ff,Matthew N. White,mnwhite@gmail.com,2025-11-14 19:53:34+00:00,,,,False,Fix internal link
+fbb571b69bf6117d1e489a58202972753a9f1b18,Matthew N. White,mnwhite@gmail.com,2025-11-14 20:18:26+00:00,,,,False,Additional notebook heading changes
+81db536c15787c6b0be58e536e2bab57bac95ced,Matthew N. White,mnwhite@gmail.com,2025-11-14 21:51:59+00:00,,,,False,Set better thumbnails for notebooks
+be40567f46ef704b74b062d2fa6876b73d60aecb,Matthew N. White,mnwhite@gmail.com,2025-11-14 22:53:55+00:00,,,,False,Fix tag for thumbnails
+c32cefce0311e81d30cb3307962ab61c1203c617,Matthew N. White,mnwhite@gmail.com,2025-11-15 00:48:41+00:00,,,,False,Update AggShock notebook
+191c42e89a7568320cea8a7f874f7efc75f233bf,Matthew N. White,mnwhite@gmail.com,2025-11-16 17:24:05+00:00,,,,False,Try again to fix image on ConsAggShock NB
+bf8024f69a7a217d5cc9a3b7e8ae1078b8b431c0,Matthew N. White,mnwhite@gmail.com,2025-11-16 19:34:06+00:00,,,,False,Fix thumbnails for PF and Labor
+a0e08132ae1581019f5bc8b8a39bc6574b5e42ee,Matthew N. White,mnwhite@gmail.com,2025-11-16 19:35:05+00:00,,,,False,Update coverage badge
+4fd57fa03d26b54dd19901412f23a4b54c87b5cd,Matthew N. White,mnwhite@gmail.com,2025-11-17 02:16:46+00:00,,,,False,Add thumbnails for intros that are missing one
+3be7f6d01aaa6f85b0fe977ba72375291386de1f,Matthew N. White,mnwhite@gmail.com,2025-11-17 22:59:38+00:00,,,,False,Merge pull request #1631 from econ-ark/Fix1600and1601
+4586850869fed9fd916df9eaac71583af7da0b0b,Matthew N. White,mnwhite@gmail.com,2025-11-17 22:59:53+00:00,,,,False,Merge pull request #1632 from econ-ark/StopCheckConditions
+197ff2846042361ed156c6351acbdbe231365f47,Matthew N. White,mnwhite@gmail.com,2025-11-18 15:14:58+00:00,,,,False,Fix #970
+0183379b6d8f3f71b16c6370ec413ef6f52a9087,Matthew N. White,mnwhite@gmail.com,2025-11-18 15:32:18+00:00,,,,False,Why were those lines turned into tuples?
+8ec27f01ce929daf185dabcd01f0908630ca1317,Matthew N. White,mnwhite@gmail.com,2025-11-21 15:47:14+00:00,,,,False,"Add links to images, fix filenames"
+b41fb84c2ba41367512d2b33294212391e678168,Matthew N. White,mnwhite@gmail.com,2025-11-21 16:01:26+00:00,,,,False,Change relative directory for thumbnails?
+f6c80493925447f486c955b77b7fc28affea7f5d,Matthew N. White,mnwhite@gmail.com,2025-11-21 16:07:13+00:00,,,,False,Try another relative directory change
+f5d2df4a999e9512f6f6199393024f7f4b9cd5a7,Matthew N. White,mnwhite@gmail.com,2025-11-21 16:22:27+00:00,,,,False,"Screw it, clipart in notebooks"
+0469d454a9429be303879492b9681064efbeea10,Matthew N. White,mnwhite@gmail.com,2025-11-24 14:34:43+00:00,,,,False,Merge pull request #1635 from MridulS/fix_thumbnails_path
+559ad6337c4677f37ac7e6865f0cda1ddcda1fab,Matthew N. White,mnwhite@gmail.com,2025-11-25 18:29:04+00:00,,,,False,Swap master to main in conf.py
+ac4776ba94f38550cff341c50f0f05f0cd2dbf6e,Matthew N. White,mnwhite@gmail.com,2025-11-25 18:41:08+00:00,,,,False,Change master to main in workflows
+05526ef8568a5d78f37145d6a3168bdda1c28521,Alan Lujan,alanlujan91@gmail.com,2025-11-26 17:40:20+00:00,,,,False,Merge pull request #1637 from econ-ark/FixHealthTypo
+c199bd631f15dc88b3353a8df351b58f7acfa87a,Matthew N. White,mnwhite@gmail.com,2025-11-27 16:36:58+00:00,,,,False,Merge pull request #1630 from econ-ark/InstallExamples
+7712b530537b13e13b20baf878f8f2cbd3375a9c,Matthew N. White,mnwhite@gmail.com,2025-11-27 16:37:52+00:00,Claude_Code,assinatura,Claude_Code,True,Merge pull request #1627 from econ-ark/claude/review-parameters-class-011CUqLHVXHRaHi7DCWy4tSa
+ef0bd787408fcf3a858dfdafc7dbce4725577aa0,Matthew N. White,mnwhite@gmail.com,2025-11-27 18:04:22+00:00,,,,False,Merge pull request #1629 from econ-ark/ExposeAtHigherLevel
+4b99a371db1aa8dc86b4974d8db445b79fd5d9c7,Matthew N. White,mnwhite@gmail.com,2025-11-27 18:32:16+00:00,,,,False,Update CHANGELOG.md
+50561ae926ea01b144cf0462ebd28e2147e6b15a,Matthew N. White,mnwhite@gmail.com,2025-11-28 20:02:13+00:00,,,,False,Merge pull request #1638 from econ-ark/Fix1541
+139a1286c59f6463a30d8a95ceff3311aab79a2d,Matthew N. White,mnwhite@gmail.com,2025-11-28 21:06:33+00:00,,,,False,Merge pull request #1639 from econ-ark/Fix1539
+f3e64550f597003f228717fe858977f85ee08dbe,Matthew N. White,mnwhite@gmail.com,2025-11-28 23:40:31+00:00,,,,False,Revisions for GenIncProcess example notebook
+bc8310865fe88ae0402d4bfc7e10268424bff3c8,Matthew N. White,mnwhite@gmail.com,2025-11-28 23:42:18+00:00,,,,False,Missed one line
+a865985396838c7ffb8adfdbd30ab3c59a6d9bfb,Matthew N. White,mnwhite@gmail.com,2025-12-01 20:18:02+00:00,,,,False,Fix main branch name in README
+95df87a14479a798bff01aeb73a15b1deb4567f5,Matthew N. White,mnwhite@gmail.com,2025-12-01 20:34:01+00:00,,,,False,Merge pull request #1640 from econ-ark/Dec1IssueFixes
+a513b79d69d06ebe2ec40f1bb26f1351ee901f30,Matthew N. White,mnwhite@gmail.com,2025-12-01 20:43:22+00:00,Copilot,assinatura,Copilot,True,Merge pull request #1613 from econ-ark/copilot/identify-code-improvements
+bda2c47850cb1281f921b45ff3f994333b471b30,Matthew N. White,mnwhite@gmail.com,2025-12-02 14:49:59+00:00,,,,False,Update DemARK branch name in README
+a34656d4476195e4e7d4fa214befe981622ef18a,Matthew N. White,mnwhite@gmail.com,2025-12-02 17:20:49+00:00,,,,False,Merge pull request #1642 from econ-ark/Fix1426
+29759ba2ba58c21b592560d8675ad71e02def801,Matthew N. White,mnwhite@gmail.com,2025-12-02 20:32:27+00:00,,,,False,Merge pull request #1644 from econ-ark/Fix1643
+c10bb2b8158f070882fed9c375355f75f65e4eb5,Matthew N. White,mnwhite@gmail.com,2025-12-02 23:38:22+00:00,,,,False,Merge pull request #1647 from econ-ark/Fix1299
+e7bf3b45cbd2465de2b061109822a9f887d4406a,Matthew N. White,mnwhite@gmail.com,2025-12-17 15:07:33+00:00,,,,False,Merge pull request #1646 from econ-ark/Fix1158
+e65884210b9811c6337d043e98cf5139858dd4ce,Matthew N. White,mnwhite@gmail.com,2025-12-29 19:41:24+00:00,,,,False,Merge pull request #1648 from econ-ark/Fix1331
+edc087725a7193e77db95089b9ba457c68a2c2a5,Matthew N. White,mnwhite@gmail.com,2025-12-30 14:53:14+00:00,,,,False,Merge pull request #1634 from econ-ark/WealthInUtilityModels
+dd49c053f7ac0fe09143bcf28fb34d2fb19040db,Matthew N. White,mnwhite@gmail.com,2025-12-30 15:27:13+00:00,,,,False,Update CHANGELOG.md
+e59a62805d96acbc786a26620e343227d1831c10,Matthew N. White,mnwhite@gmail.com,2025-12-30 18:09:51+00:00,,,,False,Merge pull request #1641 from econ-ark/Reproduce1323
+c87b0efb44a01f47ccf7c1f280a74695be29be89,Matthew N. White,mnwhite@gmail.com,2025-12-30 18:24:57+00:00,,,,False,Merge pull request #1649 from alanlujan91/indshkfast
+ed2713549fb94d04b51640d954056c55bacced1a,Matthew N. White,mnwhite@gmail.com,2026-01-02 16:51:07+00:00,,,,False,Adjust test coverage for ConsAggShock
+c5f9c0f560d3c13a096a5ecde920e56b1c2bc773,Matthew N. White,mnwhite@gmail.com,2026-01-02 17:27:59+00:00,,,,False,Ignore test coverage for more trivial lines
+3e718026a5de00913e81d5997dcd2dcd1ba7116e,Matthew N. White,mnwhite@gmail.com,2026-01-02 23:10:23+00:00,,,,False,Merge pull request #1650 from alanlujan91/conslabeled
+8b74808872eb521cacaaacc6142a868fc7740ecd,Matthew N. White,mnwhite@gmail.com,2026-01-03 14:00:20+00:00,,,,False,Merge pull request #1684 from alanlujan91/agentpop
+3ed263c720da94e2db4818f0678db16541d43d23,Matthew N. White,mnwhite@gmail.com,2026-01-03 14:22:16+00:00,,,,False,Finalize changelog for v0.16.2
+4b4c46f112f41597b217764df299f09929221241,Matthew N. White,mnwhite@gmail.com,2026-01-03 14:27:11+00:00,,,,False,Bump version to 0.16.2
+2cd651b98eea33e03d5a87b3e70f0f1fb182d0f9,Matthew N. White,mnwhite@gmail.com,2026-01-03 14:35:15+00:00,,,,False,Add release notes
+b2f1e1d12509e4b9f86bb9a91153fff1f9d7387d,Matthew N. White,mnwhite@gmail.com,2026-01-04 15:25:58+00:00,,,,False,Change version to 0.17.0
+74bb412163676de13bbabb869070c0df112c09d3,Matthew N. White,mnwhite@gmail.com,2026-01-04 21:23:54+00:00,,,,False,Merge pull request #1685 from MridulS/fix_wheels
+a7e6d46d8717a7316e6f4d99a412fb3df2f4e9a9,Matthew N. White,mnwhite@gmail.com,2026-01-04 22:12:36+00:00,,,,False,Add labeled models to models.init
+e6c3ae0dccd00a3021ba770fef07f532b9508d06,Matthew N. White,mnwhite@gmail.com,2026-01-04 22:38:24+00:00,,,,False,Merge pull request #1686 from econ-ark/v17dummy
+0a41ce7d606298348385569cfce27f3ff7a201bc,Matthew N. White,mnwhite@gmail.com,2026-01-04 23:44:53+00:00,,,,False,Merge pull request #1687 from econ-ark/fix_imports
+327f6ecbe612cd98154379a5aabc62d13dd73ede,Mridul Seth,mail@mriduls.com,2026-01-05 18:06:41+00:00,,,,False,Update GitHub Actions to use newer versions (#1688)
+b5c02a121cf441c08ac9e3f89d844481338f8d0b,Mridul Seth,mail@mriduls.com,2026-01-05 18:40:59+00:00,,,,False,Update GitHub Actions workflow for release process
+62336dfd5ae0200af2c3e77c7b6be23be6437f8e,Matthew N. White,mnwhite@gmail.com,2026-01-12 16:29:59+00:00,,,,False,Add blank entry in CHANGELOG for 0.17.1
+f198ccb54317060fd87e42159cf955130b06c091,Matthew N. White,mnwhite@gmail.com,2026-01-12 17:52:19+00:00,,,,False,Add repr method for DiscreteDstn
+b6086650a63b2985e13ab6cc5a63d5dd7f031ff0,Matthew N. White,mnwhite@gmail.com,2026-01-12 18:53:32+00:00,,,,False,Merge pull request #1691 from econ-ark/AddShuffling
+775fc4df5a4436676912d4ece0b87d9547122cb7,Matthew N. White,mnwhite@gmail.com,2026-01-12 19:19:38+00:00,,,,False,Add tests for T1EV choice probs
+17ded1a79a5a9805271bdb2336904c9c6578baa3,Matthew N. White,mnwhite@gmail.com,2026-01-12 20:35:38+00:00,,,,False,Merge pull request #1692 from econ-ark/FixMultiThreadCommandsQuirk
+3fbfad601d0124f3cc240863faa15a1ccb0fcd33,Matthew N. White,mnwhite@gmail.com,2026-01-12 22:04:02+00:00,,,,False,Merge pull request #1693 from econ-ark/DefaultTrackVars
+2beef5bb9f3e7199c036c816c3dab06087aa2036,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2026-01-13 19:28:49+00:00,,,,False,Add .venv*/ to .gitignore (#1694)
+2ca278253cea5d018855f3b6dd93c56a642896e0,Matthew N. White,mnwhite@gmail.com,2026-01-13 20:46:20+00:00,,,,False,Merge pull request #1695 from econ-ark/ExpandPlotting
+af31ef1a77afe78455fb8b0018e7d4752d2505ea,Matthew N. White,mnwhite@gmail.com,2026-01-16 13:54:17+00:00,,,,False,Merge pull request #1697 from econ-ark/gitignore-specstory-and-cursorignore
+40a363895ffd17dc5d71c1bd1bbdc305194b2e35,Matthew N. White,mnwhite@gmail.com,2026-01-16 19:02:11+00:00,,,,False,Merge pull request #1700 from econ-ark/ModelNBrevs
+002c091f07dd1c800fb74076e66116eb62548e03,Matthew N. White,mnwhite@gmail.com,2026-01-17 16:30:11+00:00,,,,False,Merge pull request #1699 from nathanrobino/update-journey-images
+6914f8cd399077d426bf6160edf3a26a916d94f4,Matthew N. White,mnwhite@gmail.com,2026-01-18 14:26:42+00:00,,,,False,Merge pull request #1701 from econ-ark/fix/2d-interpolation-array-scalar-broadcasting
+2c51b5057baa3a49dc74914ad90ca40d2ab7cbca,Matthew N. White,mnwhite@gmail.com,2026-01-24 16:16:44+00:00,,,,False,Merge pull request #1704 from econ-ark/FixWebDocsJan19
+1779eff6900ced6127764f1bc486b50e1e46a914,Matthew N. White,mnwhite@gmail.com,2026-01-24 16:17:44+00:00,,,,False,Merge pull request #1709 from econ-ark/HandleDictionarySolutions
+014eac0b0c568e433eb0a05cc1bd2b67828202ec,Matthew N. White,mnwhite@gmail.com,2026-01-24 16:20:23+00:00,,,,False,Merge pull request #1706 from econ-ark/RevampMedShockModel
+cd7da902eb2aabf7660f5d6008bada5ec2c6d88f,Matthew N. White,mnwhite@gmail.com,2026-01-24 16:24:37+00:00,,,,False,Merge pull request #1708 from econ-ark/RevisePrefShockModel
+1edfde538b55ccd8be6805493427cbe7fd20bdd8,Matthew N. White,mnwhite@gmail.com,2026-01-28 20:05:42+00:00,,,,False,Merge pull request #1711 from econ-ark/Fix1251
+cf96790b2aadb011738adc0dca2ae97bacab4510,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2026-01-29 02:14:50+00:00,,,,False,Merge pull request #1703 from econ-ark/docs/hafiscal-migration-case-study
+96af83a5f7c65e77c9b5c515215386e1bdaccdca,Matthew N. White,mnwhite@gmail.com,2026-01-29 17:48:29+00:00,,,,False,Merge pull request #1696 from econ-ark/version-upgrades-via-AI
+f0e953c72b23d00a20b4f5ded9d358ed24678188,Matthew N. White,mnwhite@gmail.com,2026-02-02 17:11:21+00:00,,,,False,Merge pull request #1698 from econ-ark/GeneralTargetSearch
+280aa49b2fe5fac53d3e73db6e78cf2a815f2499,Matthew N. White,mnwhite@gmail.com,2026-02-02 17:11:44+00:00,,,,False,Merge pull request #1710 from econ-ark/DocsImprovement
+24674238cb383cebd074738cded7752329a1a8de,Matthew N. White,mnwhite@gmail.com,2026-02-02 17:13:02+00:00,,,,False,Merge pull request #1712 from econ-ark/Fix837
+8cf4e165faa68800879a0723718213589eff9436,Matthew N. White,mnwhite@gmail.com,2026-02-02 17:36:55+00:00,,,,False,Merge pull request #1715 from econ-ark/AddQJE97calibration
+58046b4a9beda9fad25a58c5b18a65714d4a80d9,Matthew N. White,mnwhite@gmail.com,2026-02-02 17:37:23+00:00,,,,False,Merge pull request #1714 from econ-ark/AdjustCIworkflow
+f887b1b0b9607e6b23ae7a5c02cc8208a233dc48,Matthew N. White,mnwhite@gmail.com,2026-02-02 17:37:57+00:00,,,,False,Merge pull request #1713 from econ-ark/Fix1486
+7839bd870853ce7fcaf9fad333b573fcef74a638,Matthew N. White,mnwhite@gmail.com,2026-02-02 19:53:30+00:00,,,,False,Merge pull request #1716 from econ-ark/v0p17p1-prep
+9a0fcd6a0ea2f3fa39fa16fbf2c975eb232288de,Alan Lujan,alanlujan91@gmail.com,2026-02-10 20:44:16+00:00,,,,False,Merge pull request #1720 from econ-ark/StartNewChangelog
+d1b338e813ffff6ea943fc770ad570be436a1024,Matthew N. White,mnwhite@gmail.com,2026-02-19 20:37:31+00:00,,,,False,Merge pull request #1725 from econ-ark/DummyTest
+1723da401e7fe7e11b91d49ff5d89517486ed628,Matthew N. White,mnwhite@gmail.com,2026-02-25 21:03:17+00:00,,,,False,Merge pull request #1728 from alanlujan91/agents
+66d20212f0027de06df2f7865e6ef16a258864d3,Alan Lujan,alanlujan91@gmail.com,2026-02-26 01:46:58+00:00,,,,False,Merge pull request #1727 from alanlujan91/refactor1
+d2efa46630a122a7a77ae8e50d4669788e88f175,Matthew N. White,mnwhite@gmail.com,2026-02-26 14:52:12+00:00,,,,False,Merge pull request #1723 from econ-ark/FiniteDiffDerivatives
+791b3fa8c25a775b77dd4f34053757e4a3c75a45,Matthew N. White,mnwhite@gmail.com,2026-02-26 16:15:40+00:00,,,,False,Merge pull request #1719 from econ-ark/MarketRefresh
+7de35971c31bb0b1720ba337b4264342e63e213e,Matthew N. White,mnwhite@gmail.com,2026-02-26 16:16:58+00:00,,,,False,Merge pull request #1724 from econ-ark/AddExpenseShockCalibrations
+bff9e2d3e7030d0de6244a7ce3bbe14131916736,Matthew N. White,mnwhite@gmail.com,2026-03-12 18:17:18+00:00,,,,False,Merge pull request #1729 from econ-ark/EqnFormatting
+3aca29fe81a24613f4e5c0f5403585adc9245746,Matthew N. White,mnwhite@gmail.com,2026-03-12 18:17:50+00:00,,,,False,Merge pull request #1738 from econ-ark/AggShockNBs
+56bb29669bbb9c282f90b049a800deebc9751cc8,Matthew N. White,mnwhite@gmail.com,2026-03-12 19:21:46+00:00,,,,False,Merge pull request #1739 from econ-ark/HabitFormation
+7c9edff51ceb1e799f4a925aa2046d631301c4aa,Matthew N. White,mnwhite@gmail.com,2026-03-12 19:22:06+00:00,,,,False,Merge pull request #1740 from econ-ark/AddWealthPortfolioNB
+c829c3cf1aa1a7f265795a66836f5f661bf8829d,Matthew N. White,mnwhite@gmail.com,2026-03-12 19:57:18+00:00,,,,False,Merge pull request #1741 from econ-ark/AdjustThumbnails
+394d70087a089bfd4575fa2b3126a9a19eefa6b2,Matthew N. White,mnwhite@gmail.com,2026-03-24 22:44:57+00:00,,,,False,Merge pull request #1753 from econ-ark/MinorFixesToHabits
+595df00cd3d5a920704e070b8af4f94bfcf3b0f8,Matthew N. White,mnwhite@gmail.com,2026-03-26 13:13:22+00:00,,,,False,Merge pull request #1752 from econ-ark/RemovePortBool
+3f968fda4c07a3842c5491210b7d037b7f57e3c7,Matthew N. White,mnwhite@gmail.com,2026-03-26 13:17:15+00:00,,,,False,Merge pull request #1742 from alanlujan91/Fix1487
+3b8865e596da6109770c4d62ab9dfb619d13d58d,Matthew N. White,mnwhite@gmail.com,2026-03-30 16:30:11+00:00,,,,False,Merge pull request #1754 from econ-ark/ImpulseResponse
+9a2d14a0fa4165063f52d27c82a0d0ba2a12b87b,Matthew N. White,mnwhite@gmail.com,2026-04-06 15:44:26+00:00,,,,False,Merge pull request #1747 from econ-ark/ConsAggIndMarkovModel-make
+d43503230bcb8f75d8bed3672d04fad9b65547bb,Matthew N. White,mnwhite@gmail.com,2026-04-08 19:39:04+00:00,,,,False,Merge pull request #1757 from econ-ark/Reproduce1755
+2ffc5c83ec84924d84b7bb639ff7c9733aaa1412,Matthew N. White,mnwhite@gmail.com,2026-04-09 18:08:38+00:00,,,,False,Merge pull request #1744 from econ-ark/fix-transition-matrix-example
+207a0aeb2b14a5e36ce9336b412b2043aa5c42c4,Matthew N. White,mnwhite@gmail.com,2026-04-09 21:40:51+00:00,,,,False,Merge pull request #1748 from econ-ark/HabitPortfolioConsumerType
+48c05e75d45a89d1e74934977908b0863b83db46,Matthew N. White,mnwhite@gmail.com,2026-04-14 21:00:38+00:00,,,,False,Merge pull request #1743 from econ-ark/ExampleNBrevisions
+6a668c86e77d15759ac54151c0157586c06e3fe1,Matthew N. White,mnwhite@gmail.com,2026-04-14 21:02:22+00:00,,,,False,Merge pull request #1761 from econ-ark/SmallTestExpansion
+0f7667a12cb37a0a8d2e57fee4f910ef5d355a8d,Matthew N. White,mnwhite@gmail.com,2026-04-14 21:46:27+00:00,,,,False,Merge pull request #1758 from econ-ark/ReviseBequestModels
+2646e915e7b7b982153a67f1627e4f84d4a4ce3c,Matthew N. White,mnwhite@gmail.com,2026-04-14 23:01:01+00:00,,,,False,Merge pull request #1760 from econ-ark/FixShockTiming
+f43f5e930b9090f3d63e1be959e049edf3aa91db,Matthew N. White,mnwhite@gmail.com,2026-04-28 12:56:48+00:00,,,,False,Merge pull request #1762 from econ-ark/AddGridSpecOptions
+3d04bcc44e9390860d5e9cff17abf0b03a415803,Matthew N. White,mnwhite@gmail.com,2026-04-28 12:57:52+00:00,,,,False,Merge pull request #1763 from econ-ark/UnifyExpected
+bd9794294087b741687317dee1e20b5367d08981,Matthew N. White,mnwhite@gmail.com,2026-04-28 13:18:35+00:00,,,,False,Merge pull request #1765 from alanlujan91/refactor-interpolation
+a15b5fd07952da9b334b3c89504ebd34ccf44037,Matthew N. White,mnwhite@gmail.com,2026-05-01 15:32:34+00:00,,,,False,Merge pull request #1718 from econ-ark/LifeCycleSSJ
+f6688278bb91183e793532ca3b6d8293788e400a,Matthew N. White,mnwhite@gmail.com,2026-05-01 16:49:57+00:00,,,,False,Merge pull request #1766 from alanlujan91/refactor-simulator
+01181a4680c24ff5a296de85d84af6d37d97a562,Matthew N. White,mnwhite@gmail.com,2026-05-01 17:31:45+00:00,,,,False,Merge pull request #1767 from alanlujan91/refactor-distributions
+2b891851f01e157b0724f733f85cbf2aeab5a6a1,Matthew N. White,mnwhite@gmail.com,2026-05-01 21:43:24+00:00,,,,False,Merge pull request #1769 from alanlujan91/refactor-misc
+269085077b84cb50feb49d0cd54bbf4da5fa3199,Matthew N. White,mnwhite@gmail.com,2026-05-01 21:43:43+00:00,,,,False,Merge pull request #1770 from econ-ark/Prepare0p17p2
+a25d3ae0ead7078c856c891081f03ca0bf94b1d2,Matthew N. White,mnwhite@gmail.com,2026-05-22 12:37:28+00:00,,,,False,Merge pull request #1773 from econ-ark/Fix-LC-SSJ-notebook
+dbb239e8b4f27298f2745f4d4edea3c223d7a76c,Alan Lujan,alanlujan91@gmail.com,2026-08-11 13:52:02+00:00,,,,False,Merge pull request #1788 from econ-ark/baseline-fix-scipy118-ci
+6591b37532840f58de958b7e7228758a871753c1,Alan Lujan,alanlujan91@gmail.com,2026-08-11 14:40:44+00:00,,,,False,Merge pull request #1768 from alanlujan91/refactor-agent-and-models
+e99b6885281bf959a1ba81b836c12acb1c51d63b,Alan Lujan,alanlujan91@gmail.com,2026-08-11 15:18:18+00:00,,,,False,Move check_conditions gate tests out of test_IndShockConsumerType.py
+e7909203bb77a9fd46f7800ea7265db7c2856ce9,Alan Lujan,alanlujan91@gmail.com,2026-08-11 15:49:36+00:00,,,,False,Move AgentType helper tests out of test_core.py
+612600a141390dd4a44946290b0d51240f6471f4,Alan Lujan,alanlujan91@gmail.com,2026-08-11 17:34:05+00:00,,,,False,Merge pull request #1785 from econ-ark/baseline-s4-docs-aggindmarkov
+86a3efce724bb7397b7bfa0dd5940bc069b4ab7b,Alan Lujan,alanlujan91@gmail.com,2026-08-11 18:35:55+00:00,,,,False,Merge pull request #1787 from econ-ark/baseline-q2a-post-state-hook
+84348b52340498428331bbc68a240dea6a7f7651,Alan Lujan,alanlujan91@gmail.com,2026-08-11 18:37:15+00:00,,,,False,Merge pull request #1795 from econ-ark/q5a-ks-all-and-notebook
+c1c6d262580bd83a9abad8cb43d25ff33ec9c0c7,Alan Lujan,alanlujan91@gmail.com,2026-08-11 18:41:47+00:00,,,,False,Merge pull request #1800 from econ-ark/compat-calc-expectation-alias
+cd2b7ea61b71099fc3197428367b5cc9e04f1db7,Alan Lujan,alanlujan91@gmail.com,2026-08-11 19:37:34+00:00,,,,False,Remove a stray blank line that broke the pre-commit job on main
+8efb8625dfe0b7378240cc68c7700b3e6cffe3c1,Alan Lujan,alanlujan91@gmail.com,2026-08-11 19:52:14+00:00,,,,False,Remove diff3 conflict markers committed to the changelog
+83e22d9819d5d5cee1f7020783bc54998e9e1586,Alan Lujan,alanlujan91@gmail.com,2026-08-11 19:53:15+00:00,,,,False,Fix biased remainder allocation in DiscreteDistribution.draw(shuffle=True)
+7c957d8d428e3bb298ca9a4963d9c1c7c8ec2e4d,Alan Lujan,alanlujan91@gmail.com,2026-08-11 20:26:19+00:00,,,,False,Revert the shuffle remainder fix; it moves a Krusell-Smith golden
+0fc0422153fed77de0909c7ef9f4e0cda06216f0,Alan Lujan,alanlujan91@gmail.com,2026-08-11 20:27:00+00:00,,,,False,Align supported Python with SPEC 0 and stop cancelling main's build
+24f32cb168934f2d0786717727032c87cf3dc6c7,Alan Lujan,alanlujan91@gmail.com,2026-08-11 20:44:32+00:00,,,,False,Resolve changelog merges with the union driver
+aa44bac0a23eb789b80cc05bd35056af97cfa683,Alan Lujan,alanlujan91@gmail.com,2026-08-11 21:04:44+00:00,,,,False,Merge pull request #1802 from econ-ark/interp-serialization-hardening
+230aaf494e00ff767ba60a3c9c68d22a896c709d,Alan Lujan,alanlujan91@gmail.com,2026-08-11 21:04:47+00:00,,,,False,Merge pull request #1808 from econ-ark/fix-shuffle-remainder
+2e038c542877ceca565189a79aa56256154efc98,Alan Lujan,alanlujan91@gmail.com,2026-08-11 21:07:17+00:00,,,,False,Merge pull request #1790 from econ-ark/shuffle-a2-death
+828680ad593707e699f528aa3500f9180ced17c1,Alan Lujan,alanlujan91@gmail.com,2026-08-11 21:13:13+00:00,,,,False,Merge pull request #1791 from econ-ark/shuffle-a3-init
+25eb03c390c76d463001dbc41fd2566b884bda9a,Alan Lujan,alanlujan91@gmail.com,2026-08-11 21:23:41+00:00,,,,False,Merge pull request #1796 from econ-ark/q5b-hierarchical-mrkv-helpers
+f4b154ed40010acc35e0dd2f97cadefc46d78e58,Alan Lujan,alanlujan91@gmail.com,2026-08-11 21:38:04+00:00,,,,False,Merge pull request #1784 from econ-ark/baseline-s2-simulation-normalization
+4cdd9ad38e9ed6e1b62caf5756e278247d592807,Alan Lujan,alanlujan91@gmail.com,2026-08-11 22:01:46+00:00,,,,False,Give each commit on main its own CI concurrency group
+c42f2fdbd23e11b236d1681fbd314a17e7a81bab,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2026-08-12 12:48:30+00:00,,,,False,Merge pull request #1793 from econ-ark/shuffle-b2-markov-transitions
+568cd673631f95c28aabe51b62997b4ebe3da24f,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2026-08-12 12:52:40+00:00,,,,False,Merge pull request #1799 from econ-ark/dual-measure-wiring
+3ee7ac0c08285313f99bc5ee544e91f15561aac1,Christopher Llorracc Carroll,1320319+llorracc@users.noreply.github.com,2026-08-12 12:57:09+00:00,,,,False,Merge pull request #1801 from econ-ark/hierarchical-markov-shuffle
+ed04e4dbd4547867759f57c4d7990959cf4f72dc,Alan Lujan,alanlujan91@gmail.com,2026-08-12 13:01:57+00:00,,,,False,Merge pull request #1794 from econ-ark/shuffle-q2b-make-shock-history
+45dd74480ba65812da2ebdd56d82e6aea3680b15,Alan Lujan,alanlujan91@gmail.com,2026-08-12 13:04:22+00:00,,,,False,Merge pull request #1811 from econ-ark/docs-all-polish-new-modules
+554afdfc8df66bc680fb47bcaa58c29bcdb3dfe0,Alan Lujan,alanlujan91@gmail.com,2026-08-12 13:49:54+00:00,,,,False,Merge pull request #1783 from econ-ark/baseline-s1-dual-measure
+900bdad4f4fe4f37071b7c00faf2b8ebb042249c,Alan Lujan,alanlujan91@gmail.com,2026-08-12 19:33:52+00:00,,,,False,Merge pull request #1814 from econ-ark/review-fixes
+13648b4ac9380bb088466952198e28025afcca6f,Alan Lujan,alanlujan91@gmail.com,2026-08-12 19:44:45+00:00,,,,False,Run every workflow on Python 3.13 except the version sweep
+22ff5598fdf928850f3ee444d1242eea88378085,Matthew N. White,mnwhite@gmail.com,2026-09-11 13:11:35+00:00,,,,False,Merge pull request #1821 from econ-ark/fix-markov-sim-period-offset
+1d10b97a6b1d58d2b0ffcbd2ba0fc1efa8aa974e,Matthew N. White,mnwhite@gmail.com,2026-09-11 13:32:57+00:00,,,,False,Merge pull request #1819 from econ-ark/jupyterlite-wasm-spike
+990cc8ecdab880e4e17929583ae6f5805197fe4e,Matthew N. White,mnwhite@gmail.com,2026-09-11 14:19:06+00:00,,,,False,Merge pull request #1817 from econ-ark/perf-unique-pairs
+160c3b6572aca61e2d66cc33f193687b6e62a5f4,Alan Lujan,alanlujan91@gmail.com,2026-09-11 16:09:49+00:00,,,,False,Merge pull request #1830 from econ-ark/fix-markov-initial-state
+251b48077f41f71e7a2d6bb3c97e090312caac3b,Alan Lujan,alanlujan91@gmail.com,2026-09-11 19:28:12+00:00,,,,False,Merge pull request #1832 from econ-ark/fix-markov-value-livprb
+b5b4826a3f74d209a276245eec873d0a7c6d6bcf,Alan Lujan,alanlujan91@gmail.com,2026-09-14 21:25:59+00:00,,,,False,Merge pull request #1831 from econ-ark/refactor-dual-normalization-aggind
+d741d378135d5a5bd097a9f55a8ffd3ea3f142c3,Alan Lujan,alanlujan91@gmail.com,2026-09-15 00:57:08+00:00,,,,False,Merge pull request #1822 from llorracc/fix-neutral-measure-mortality-growth
+4c285e863cd1a60eb2a9c4ab335c7f86ea5aa767,Alan Lujan,alanlujan91@gmail.com,2026-10-07 20:26:37+00:00,,,,False,Merge pull request #1846 from llorracc/fix-kinkedr-cubic-kink-segment

@@ -1,0 +1,44 @@
+repo,sha,data,autor_agente,agente,caminho,regra,data_remocao,como,removido_por_agente
+econ-ark/HARK,b472c8eea3fee5481c46536915f3e5485b8c45a0,2025-05-20 13:44:38+00:00,True,OpenAI_Codex,HARK/simulation/test_monte_carlo.py,F405,,,
+econ-ark/HARK,7712b530537b13e13b20baf878f8f2cbd3375a9c,2025-11-27 16:37:52+00:00,True,Claude_Code,HARK/core.py,C901,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/SSJutils.py,PLR0913,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/SSJutils.py,PLR0917,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/interpolation.py,PLR5501,2026-04-28 13:18:35+00:00,aviso corrigido,False
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/numba_tools.py,PLR0913,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/numba_tools.py,PLR0917,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/numba_tools.py,PLR0913,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/numba_tools.py,PLR0917,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/simulator.py,PLR0913,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/simulator.py,PLR0917,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/simulator.py,PLR0913,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/simulator.py,PLR0917,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/simulator.py,PLR0913,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,HARK/simulator.py,PLR0917,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,tests/test_interpolation.py,E731,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,tests/test_interpolation.py,E731,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,tests/test_interpolation.py,E731,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,tests/test_interpolation.py,E731,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,tests/test_interpolation.py,E731,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,tests/test_interpolation.py,E731,,,
+econ-ark/HARK,966559139623b90ac89b5049abe339c8ca822b19,2025-10-22 18:52:24+00:00,False,,tests/test_interpolation.py,E731,,,
+econ-ark/HARK,95df87a14479a798bff01aeb73a15b1deb4567f5,2025-12-01 20:34:01+00:00,False,,HARK/rewards.py,E722,2026-05-01 21:43:24+00:00,aviso corrigido,False
+econ-ark/HARK,95df87a14479a798bff01aeb73a15b1deb4567f5,2025-12-01 20:34:01+00:00,False,,HARK/rewards.py,E722,2026-05-01 21:43:24+00:00,aviso corrigido,False
+econ-ark/HARK,95df87a14479a798bff01aeb73a15b1deb4567f5,2025-12-01 20:34:01+00:00,False,,HARK/rewards.py,E722,2026-05-01 21:43:24+00:00,aviso corrigido,False
+econ-ark/HARK,2ca278253cea5d018855f3b6dd93c56a642896e0,2026-01-13 20:46:20+00:00,False,,HARK/utilities.py,PLR0913,,,
+econ-ark/HARK,2ca278253cea5d018855f3b6dd93c56a642896e0,2026-01-13 20:46:20+00:00,False,,HARK/utilities.py,PLR0917,,,
+econ-ark/HARK,2ca278253cea5d018855f3b6dd93c56a642896e0,2026-01-13 20:46:20+00:00,False,,HARK/utilities.py,PLR0913,,,
+econ-ark/HARK,2ca278253cea5d018855f3b6dd93c56a642896e0,2026-01-13 20:46:20+00:00,False,,HARK/utilities.py,PLR0917,,,
+econ-ark/HARK,2ca278253cea5d018855f3b6dd93c56a642896e0,2026-01-13 20:46:20+00:00,False,,HARK/utilities.py,C901,,,
+econ-ark/HARK,2ca278253cea5d018855f3b6dd93c56a642896e0,2026-01-13 20:46:20+00:00,False,,HARK/utilities.py,PLR0913,,,
+econ-ark/HARK,2ca278253cea5d018855f3b6dd93c56a642896e0,2026-01-13 20:46:20+00:00,False,,HARK/utilities.py,PLR0917,,,
+econ-ark/HARK,2ca278253cea5d018855f3b6dd93c56a642896e0,2026-01-13 20:46:20+00:00,False,,HARK/utilities.py,PLR0912,,,
+econ-ark/HARK,2ca278253cea5d018855f3b6dd93c56a642896e0,2026-01-13 20:46:20+00:00,False,,HARK/utilities.py,SIM108,,,
+econ-ark/HARK,f0e953c72b23d00a20b4f5ded9d358ed24678188,2026-02-02 17:11:21+00:00,False,,HARK/simulator.py,SIM118,,,
+econ-ark/HARK,f0e953c72b23d00a20b4f5ded9d358ed24678188,2026-02-02 17:11:21+00:00,False,,HARK/simulator.py,C901,2026-05-01 16:49:57+00:00,aviso corrigido,False
+econ-ark/HARK,f0e953c72b23d00a20b4f5ded9d358ed24678188,2026-02-02 17:11:21+00:00,False,,HARK/simulator.py,PLR0912,2026-05-01 16:49:57+00:00,aviso corrigido,False
+econ-ark/HARK,f0e953c72b23d00a20b4f5ded9d358ed24678188,2026-02-02 17:11:21+00:00,False,,HARK/simulator.py,PLR0915,2026-05-01 16:49:57+00:00,aviso corrigido,False
+econ-ark/HARK,f0e953c72b23d00a20b4f5ded9d358ed24678188,2026-02-02 17:11:21+00:00,False,,HARK/simulator.py,PLC0206,2026-05-01 16:49:57+00:00,aviso corrigido,False
+econ-ark/HARK,f0e953c72b23d00a20b4f5ded9d358ed24678188,2026-02-02 17:11:21+00:00,False,,HARK/simulator.py,SIM118,2026-05-01 16:49:57+00:00,aviso corrigido,False
+econ-ark/HARK,f0e953c72b23d00a20b4f5ded9d358ed24678188,2026-02-02 17:11:21+00:00,False,,HARK/simulator.py,SIM118,,,
+econ-ark/HARK,f0e953c72b23d00a20b4f5ded9d358ed24678188,2026-02-02 17:11:21+00:00,False,,HARK/simulator.py,PLC0206,2026-05-01 16:49:57+00:00,aviso corrigido,False
+econ-ark/HARK,f0e953c72b23d00a20b4f5ded9d358ed24678188,2026-02-02 17:11:21+00:00,False,,HARK/simulator.py,PLC0206,2026-05-01 16:49:57+00:00,aviso corrigido,False

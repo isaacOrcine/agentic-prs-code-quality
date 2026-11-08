@@ -1,0 +1,194 @@
+sha,autor,email,data,agente,fonte,assinatura,is_agente,titulo
+51f429fb07ff060e7e6828633cca01a8276afa2a,Azat Serikov,azatsdev@gmail.com,2023-03-25 09:41:10+00:00,,,,False,feat: PoC with bugs
+460529417cc54386b6ae964d0efc486addc8dcc8,Azat Serikov,azatsdev@gmail.com,2023-03-25 09:46:41+00:00,,,,False,docs: basic README
+b804a978514d548abcf363b6ee7864aae4c3001b,Azat Serikov,azatsdev@gmail.com,2023-03-25 09:47:09+00:00,,,,False,docs: fix readme
+8891f2c83dab50d2d6aba06c951f512e361be8f5,Azat Serikov,azatsdev@gmail.com,2023-03-25 10:16:09+00:00,,,,False,refactor: outputs
+194039ab3c88b42361d10170a354018769c04ecc,Azat Serikov,azatsdev@gmail.com,2023-03-25 10:21:20+00:00,,,,False,chore: add comments
+94923f2f57a902356db2e95ac6a7d2450c18f349,Azat Serikov,azatsdev@gmail.com,2023-03-25 10:35:15+00:00,,,,False,feat: support testnet etherscan
+e1b2ce150a4f067244840ac3303e627fd62c60f3,Azat Serikov,azatsdev@gmail.com,2023-03-25 11:13:15+00:00,,,,False,chore: replace emoji
+83b94b3458fc4bafedcd110e413d832cfa31214d,Azat Serikov,azatsdev@gmail.com,2023-03-25 11:16:37+00:00,,,,False,docs: add screenshot
+52c53d2031b4189f1fe7289df06f7b803c0ff4b8,Azat Serikov,azatsdev@gmail.com,2023-03-27 04:41:49+00:00,,,,False,refactor: resolve deps interactively
+a080b13ea2323a9d23491871983d15ffde15660b,Azat Serikov,azatsdev@gmail.com,2023-03-27 07:53:26+00:00,,,,False,feat: update divider
+374da7fa72ce241c0b5beba4005f2c469bf478e4,Azat Serikov,azatsdev@gmail.com,2023-03-27 08:09:14+00:00,,,,False,refactor: logging and formating
+756c609bd69484022aff94fa855491c1334eb2cc,Azat Serikov,azatsdev@gmail.com,2023-03-27 08:11:53+00:00,,,,False,docs: add todos
+9df367740e4867d6a57b78c67b587ee44da46b8b,Azat Serikov,azatsdev@gmail.com,2023-04-12 16:34:59+00:00,,,,False,fix: mainnet network
+f1aeddc23ffbc97e329a84cbc0072789a0008a92,Azat Serikov,azatsdev@gmail.com,2023-04-21 09:59:52+00:00,,,,False,feat: log to file
+b3978e864827b6590f74bb619ebf1f40864f2ee8,Azat Serikov,azatsdev@gmail.com,2023-04-22 08:57:46+00:00,,,,False,feat: complete overhaul
+ea41012698cde3615c4ad1d129f25732f64328e4,Azat Serikov,azatsdev@gmail.com,2023-04-22 09:03:50+00:00,,,,False,docs: update readme
+0d5f2ddb127a0fee19373f5ef6c4c58c6cb5e7e2,Azat Serikov,azatsdev@gmail.com,2023-04-23 11:47:57+00:00,,,,False,feat: update full line
+ab9a9a53cb0c622a95cbbef61df363768e930b13,Azat Serikov,azatsdev@gmail.com,2023-04-24 08:34:59+00:00,,,,False,feat: add missing dep to config
+53d191151b22f4f39dfda1b32439ed9c06efc849,Azat Serikov,azatsdev@gmail.com,2023-04-25 11:31:28+00:00,,,,False,feat: optionally pass contract as param
+14f3c3cf7dba65c5d72dab812929d1f7ef008780,azat,39704351+mymphe@users.noreply.github.com,2023-04-25 13:24:49+00:00,,,,False,Merge pull request #1 from folkyatina/more_logs
+13b252b829f9459443bccb332d61e7b5ff618328,azat,39704351+mymphe@users.noreply.github.com,2023-04-25 14:03:36+00:00,,,,False,Merge pull request #2 from folkyatina/better_config
+a8bb5a4ebd5794240b65f6ec3eb408f63f8ff858,azat,39704351+mymphe@users.noreply.github.com,2023-04-26 08:42:36+00:00,,,,False,Merge pull request #3 from folkyatina/batch_check
+5bc3b4a28e2a4b1d060e156ef8fcb92d0b71bc00,Eugene Mamin,TheDZhon@gmail.com,2023-04-26 11:05:44+00:00,,,,False,Merge pull request #4 from lidofinance/fix/setup-improvements
+47551165cac73e5c4a4728dc62395762d7ea7bdd,azat,39704351+mymphe@users.noreply.github.com,2023-05-02 08:01:17+00:00,,,,False,Merge pull request #5 from lidofinance/feature/resolve-dep-mappings
+b57d12ab27ee8913562f7ab6f8d527b169ca62fb,Azat Serikov,azatsdev@gmail.com,2023-05-02 10:52:51+00:00,,,,False,fix: correct error wording
+abd4bf1d6e0c6e7f58ff18bc455db7929a50599a,azat,39704351+mymphe@users.noreply.github.com,2023-05-03 07:56:28+00:00,,,,False,Merge pull request #9 from folkyatina/better_logs
+ae5ecc360aa9adf0c6c17710e0ab0a46b0ed0aa0,Anton,koval400k@gmail.com,2023-10-06 08:12:36+00:00,,,,False,Merge pull request #17 from lidofinance/replace-network-with-indexer-host
+a01f8412b7eca38a399ca7119955d6310b933e60,Eugene Mamin,TheDZhon@gmail.com,2023-10-10 10:28:45+00:00,,,,False,Merge pull request #18 from lidofinance/feat/crosschain-diffyscan
+53d1e912bb5d5f732ea787e7ca57c299142d6907,Eugene Mamin,TheDZhon@gmail.com,2023-10-10 10:37:28+00:00,,,,False,Merge pull request #14 from lidofinance/dependabot/pip/certifi-2023.7.22
+287320adbf71190cfe52e5f7fe0938ebdf4de988,Eugene Mamin,TheDZhon@gmail.com,2023-10-10 10:38:52+00:00,,,,False,Merge pull request #19 from lidofinance/chore/readme
+71ae14a4816f495b7d24429b35ebe663e6aaef40,Eugene Mamin,TheDZhon@gmail.com,2023-10-10 10:39:43+00:00,,,,False,Merge pull request #20 from lidofinance/dependabot/pip/urllib3-1.26.17
+d81e754675cea8a52ab5f26485526b92dd9a2fe0,Eugene Mamin,TheDZhon@gmail.com,2023-10-10 12:29:20+00:00,,,,False,Merge pull request #21 from lidofinance/dependencies/bump
+150a8f49bc792622164bde37532208ae5b74120a,Eugene Mamin,TheDZhon@gmail.com,2023-10-24 16:47:44+00:00,,,,False,Merge pull request #23 from lidofinance/config/wstETH-on-zksync-testnet-2
+2885a372df335ecedf40eb4b717d0692696f5b6a,Eugene Mamin,TheDZhon@gmail.com,2023-10-24 16:48:11+00:00,,,,False,Merge pull request #22 from lidofinance/dependabot/pip/urllib3-2.0.7
+8c15f78ef1052452335b65a47bf2de50c02af8f5,Eugene Mamin,TheDZhon@gmail.com,2023-11-11 10:34:17+00:00,,,,False,Merge pull request #28 from lidofinance/feat/mantle-testnet
+b986c574e6370a3deb2cd2aff427a14652f1b7e8,Eugene Mamin,TheDZhon@gmail.com,2023-11-29 08:50:46+00:00,,,,False,Merge pull request #30 from lidofinance/feat/mantle-mainnet
+12e23d662d78019840364bc83c1db24915daa5a7,Eugene Mamin,TheDZhon@gmail.com,2023-12-14 09:52:53+00:00,,,,False,Merge pull request #29 from lidofinance/feat/linea-testnet
+5de7c7c5e6b3f79c48dd4edb47f9c72cb8cf6f77,Eugene Mamin,TheDZhon@gmail.com,2024-01-24 09:11:20+00:00,,,,False,Merge pull request #33 from lidofinance/feat/l2-target-lidofinance
+e64a006dc34b448ad3c80172ce5b6cff45c399d7,Eugene Mamin,TheDZhon@gmail.com,2024-01-24 13:24:17+00:00,,,,False,Merge pull request #25 from rkolpakov/feature/recursive-dependency-resolving
+37335007b3acd86bdfe0d693720970d57dd5efde,Eugene Mamin,TheDZhon@gmail.com,2024-02-05 15:33:14+00:00,,,,False,Merge pull request #34 from lidofinance/conf/sepolia
+4871d8ea0989aa05871e6dff44bdb3ff475c0688,Eugene Mamin,TheDZhon@gmail.com,2024-02-14 19:45:41+00:00,,,,False,Merge pull request #36 from lidofinance/cfg/optimism-testnet
+6258a470b30e694fa5670d5538bd5fdd3e02af90,Eugene Mamin,TheDZhon@gmail.com,2024-03-10 10:07:42+00:00,,,,False,Merge pull request #35 from lidofinance/cfg/scroll-testnet
+6141452542d5b63c924f8c76991299fc419b16e3,Eugene Mamin,TheDZhon@gmail.com,2024-03-21 06:41:03+00:00,,,,False,Merge pull request #37 from lidofinance/dependabot/pip/black-24.3.0
+e80bc05a19e07afe9b54e3b4ff6d23dc410fb29e,Eugene Mamin,TheDZhon@gmail.com,2024-05-16 07:41:24+00:00,,,,False,Merge pull request #38 from lidofinance/dependabot/pip/idna-3.7
+c85735b409d233017dbc32ba174df25a07e7fe18,Eugene Mamin,TheDZhon@gmail.com,2024-05-21 06:47:33+00:00,,,,False,Merge pull request #43 from lidofinance/dependabot/pip/requests-2.32.0
+8665138d6a54fa1be3b13762813b78d612abfd64,Eugene Mamin,TheDZhon@gmail.com,2024-05-29 07:23:39+00:00,,,,False,Merge pull request #42 from lidofinance/bump/versions
+c4bfedd4d3dce1e45fdeb1253d956cac699036c2,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2024-05-29 07:50:10+00:00,,,,False,Merge pull request #45 from lidofinance/doc/readme
+c368badfea56aa03a619cfed37bf2f37974cc3ac,Eugene Mamin,TheDZhon@gmail.com,2024-05-29 08:02:12+00:00,,,,False,Merge pull request #46 from lidofinance/chore/lock-poetry
+da194e4984f4ee8c8ebcf16ba544ac6477892952,Eugene Mamin,TheDZhon@gmail.com,2024-06-05 05:47:19+00:00,,,,False,Merge pull request #47 from madlabman/main
+7674c9acad478514ba8d2556b05cc7fac009d049,Eugene Mamin,TheDZhon@gmail.com,2024-06-17 12:48:47+00:00,,,,False,Merge pull request #48 from lidofinance/feat/mellow
+64246196957a7de84490ee58fa69a1b95af3c112,Eugene Mamin,TheDZhon@gmail.com,2024-06-24 19:59:16+00:00,,,,False,Merge pull request #50 from lidofinance/dependabot/pip/urllib3-2.2.2
+525cc6319515791a1f32906b33f710471ff34506,Eugene Mamin,TheDZhon@gmail.com,2024-07-03 17:30:46+00:00,,,,False,Merge pull request #44 from lidofinance/cfg/adi
+773829a4f5d7c47a760aa03f58ad256f3d5b9590,Eugene Mamin,TheDZhon@gmail.com,2024-07-30 17:46:52+00:00,,,,False,Merge pull request #41 from lidofinance/cfg/mode-testnet
+6b7a4d2d81801ba38708e5fa7a97521e51349a18,Eugene Mamin,TheDZhon@gmail.com,2024-07-30 17:47:42+00:00,,,,False,Merge pull request #51 from lidofinance/dependabot/pip/certifi-2024.7.4
+bf26c79a6719cb3a347e9261ec9f0d7106e530a3,Eugene Mamin,TheDZhon@gmail.com,2024-07-31 19:08:26+00:00,,,,False,Merge pull request #55 from lidofinance/cfg/wsteth-on-bsc
+8146040e95d040aa9ccf36ce6197d6a3f7b9237f,Veremeenko Artyom,arwer13@gmail.com,2024-08-02 07:48:02+00:00,,,,False,Merge pull request #53 from lidofinance/cfg/rebasable-optimism-sepolia
+8d801598a4bbb9344fd03067b79a6939a9837b7a,Eugene Mamin,TheDZhon@gmail.com,2024-08-06 07:58:00+00:00,,,,False,Merge pull request #58 from armoking32/main
+5486929791f441010618f35ab6cc9e1572e68212,Aleksei Potapkin,folkyatina@gmail.com,2024-08-06 08:53:46+00:00,,,,False,Merge pull request #59 from lidofinance/fix/dvsteth_oz_contracts
+843f33d26f9914e2d7cfc17533b11212321f1f23,Eugene Mamin,TheDZhon@gmail.com,2024-10-15 06:35:20+00:00,,,,False,Merge pull request #60 from lidofinance/cfg/rebasable-optimism-mainnet
+7d1a27fa06684ff8b8098c772fbee4b044db592f,Eugene Mamin,TheDZhon@gmail.com,2024-10-15 19:04:55+00:00,,,,False,Merge pull request #63 from lidofinance/develop
+95ccc104ca877a98a1464069e1cdf7d0a41e6b85,Eugene Mamin,TheDZhon@gmail.com,2024-10-15 19:43:02+00:00,,,,False,Merge pull request #65 from lidofinance/fix/readme
+dab237a660124844d8ce90f04db4b55fcdbb8619,Eugene Mamin,TheDZhon@gmail.com,2024-10-22 06:13:06+00:00,,,,False,Merge pull request #66 from lidofinance/dependabot/npm_and_yarn/secp256k1-4.0.4
+147fc248efa0e0a859b34d587e0f2f666484f708,Eugene Mamin,TheDZhon@gmail.com,2024-12-17 10:41:50+00:00,,,,False,Merge pull request #69 from lidofinance/feat/swell
+af800f8808b7fae8a8636c5f6d949a0a54a55917,Veremeenko Artyom,arwer13@gmail.com,2025-01-16 13:11:06+00:00,,,,False,Merge pull request #68 from lidofinance/cfg/optimism_testnet_fix
+2c1fba68bc112f51a24d274371f7e43f2c5886bf,Anton,koval400k@gmail.com,2025-01-17 10:56:39+00:00,,,,False,Merge pull request #71 from lidofinance/cfg/soneium-minato
+b53c5386ec5b5cceeb68a2435ae65d8af69a8f1d,Veremeenko Artyom,arwer13@gmail.com,2025-01-22 11:20:45+00:00,,,,False,Merge pull request #72 from lidofinance/cfg/soneium-mainnet
+187cc7d591a4376a943fa0a1d0f221529f1f4774,Eugene Mamin,TheDZhon@gmail.com,2025-02-05 12:59:17+00:00,,,,False,Merge pull request #73 from lidofinance/dependabot/npm_and_yarn/undici-5.28.5
+5d9fe86a3381908da9e0536499df1884ebfe94bd,Eugene Mamin,TheDZhon@gmail.com,2025-02-07 08:46:00+00:00,,,,False,Merge pull request #75 from lidofinance/fix/codeowners
+337fd8d2a1a55a7ada2c1efbf36e2811ddecde7c,Eugene Mamin,TheDZhon@gmail.com,2025-03-10 21:20:04+00:00,,,,False,Merge pull request #74 from LiskHQ/main
+439c56aec380410482f61eb044d59ff92c1e8fde,Eugene Mamin,TheDZhon@gmail.com,2025-03-10 21:20:18+00:00,,,,False,Merge pull request #76 from lidofinance/cfg/unichain-mainnet
+e198baad0c3cd1ecda70a8a17f6ec6bc94641d0c,Eugene Mamin,TheDZhon@gmail.com,2025-03-11 14:52:30+00:00,,,,False,Merge pull request #77 from lidofinance/fix/abi-encode
+623bd3968dbab93cdabe4a8a3c46789c082549d7,Eugene Mamin,TheDZhon@gmail.com,2025-05-04 19:31:57+00:00,,,,False,Merge pull request #79 from lidofinance/dependabot/npm_and_yarn/base-x-3.0.11
+82967475f082cc2f581d5af8f0898dfdaa40e905,Eugene Mamin,TheDZhon@gmail.com,2025-05-05 15:13:23+00:00,,,,False,Merge pull request #80 from lidofinance/dependabot/npm_and_yarn/multi-e4393eefec
+7ca4a32acd3caad5f7d66af399283f14aed36311,Eugene Mamin,TheDZhon@gmail.com,2025-05-06 17:57:14+00:00,,,,False,Merge pull request #81 from lidofinance/fix/abi-without-constructor
+e2235f81913ccddb3e3889646386ba23cce4471f,Eugene Mamin,TheDZhon@gmail.com,2025-05-08 07:28:07+00:00,,,,False,Merge pull request #84 from Alexvozhak/fix/readme
+0850cc7a37d5c1f935bb720babdc556cb880cded,Eugene Mamin,TheDZhon@gmail.com,2025-05-08 07:28:38+00:00,,,,False,Merge pull request #83 from Alexvozhak/fix/linter-errors
+3a92cb0efd319b862d54aa909215249fc80f837d,Eugene Mamin,TheDZhon@gmail.com,2025-05-13 20:53:08+00:00,,,,False,Merge pull request #85 from Alexvozhak/security/etherscan-key-disclosure
+e6f29667e56267ce6813710dbee10e3df6887110,Eugene Mamin,TheDZhon@gmail.com,2025-05-13 20:55:16+00:00,,,,False,Merge pull request #78 from Alexvozhak/hoodi
+dc396edcc6d6de358fd31b0028cc923b84ccc223,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-05-13 21:56:46+00:00,,,,False,Merge pull request #86 from lidofinance/chore/bump-hardhat
+2eb79307b36fc1e5522c417c9cac1148f3bede17,Eugene Mamin,TheDZhon@gmail.com,2025-05-15 19:39:26+00:00,,,,False,Merge pull request #88 from lidofinance/dependabot/npm_and_yarn/undici-5.29.0
+545554c1f104e18565f0fee8950de24b161694c6,Eugene Mamin,TheDZhon@gmail.com,2025-05-19 19:52:33+00:00,,,,False,Merge pull request #87 from Alexvozhak/feat/easy_track
+8d762d791183f83aa11be282429c9638d1d42034,Eugene Mamin,TheDZhon@gmail.com,2025-05-22 17:47:45+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #90 from lidofinance/codex/fix-bug-in-important-code-part
+441b3c1acd9b1da926b107d745866275403b6f17,Eugene Mamin,TheDZhon@gmail.com,2025-05-22 17:56:57+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #92 from lidofinance/codex/fix-readme-spelling-of-prettier-plugin
+9d98db7eead4c162da8ea74e8758df49eafc348d,Eugene Mamin,TheDZhon@gmail.com,2025-05-22 17:57:07+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #93 from lidofinance/codex/fix-typo-in-deploy_contract-error-message
+6d3c085e227471292f36e934c16259f23803790b,Eugene Mamin,TheDZhon@gmail.com,2025-05-22 19:55:26+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #94 from lidofinance/codex/add-basic-test-for-is_standard_json_contract
+b38799735e1df9c3d6b7fec25699c921acc02196,Eugene Mamin,TheDZhon@gmail.com,2025-05-24 07:04:46+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #91 from lidofinance/codex/create-ci-workflow-for-regression-tests
+e412b0b74a8e5296efda87391076bc79029bfbba,Eugene Mamin,TheDZhon@gmail.com,2025-05-24 07:14:21+00:00,OpenAI_Codex,aidev,OpenAI_Codex,True,Merge pull request #95 from lidofinance/codex/migrate-to-etherscan-api-v2
+a63c04372af6180892859f762708fa3e33ce5eab,Eugene Mamin,TheDZhon@gmail.com,2025-07-05 16:11:39+00:00,,,,False,Merge pull request #100 from lidofinance/feature/orc-419-add-tw-contracts-on-holesky-to-diffyscan
+e00fbbdd0664af0ce31552fda4219c1d748c08e2,Eugene Mamin,TheDZhon@gmail.com,2025-07-05 16:15:38+00:00,,,,False,Merge pull request #101 from lidofinance/dependabot/pip/urllib3-2.5.0
+c0309e22b60bd72ae6a2e911c6f47e44a7e6054a,Eugene Mamin,TheDZhon@gmail.com,2025-07-05 16:21:25+00:00,,,,False,Merge pull request #99 from lidofinance/dependabot/npm_and_yarn/brace-expansion-2.0.2
+8fd0269b745955a2773d1f71b2d06778cf4c48ed,Eugene Mamin,TheDZhon@gmail.com,2025-07-05 16:21:48+00:00,,,,False,Merge pull request #98 from lidofinance/dependabot/pip/requests-2.32.4
+b20a9b7fa6228eff747ffbf79d1fe7b6fc3798c7,Alexey Komarov,137793272+Alexvozhak@users.noreply.github.com,2025-07-24 07:29:41+00:00,,,,False,Merge pull request #102 from lidofinance/feature/orc-446-hoodi-add-configs-diffyscan
+901223ccd553be07836961087c519ea0a054b16c,Eugene Mamin,TheDZhon@gmail.com,2025-09-17 21:00:50+00:00,,,,False,Merge pull request #103 from lidofinance/feat/update-hoodi-config
+f42948cad135fd14103e38b79efe42f9caf96f85,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-10-05 14:04:58+00:00,,,,False,Merge pull request #104 from lidofinance/feat/tw-mainnet-verification
+6eeccddc471765facaf2ba50a08ec2384fd420a7,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-10-15 10:24:03+00:00,,,,False,Merge pull request #108 from lidofinance/feat/fetching-cache
+95fa8f2e984e893cadc612df8092b7fe9db18c14,Eugene Mamin,TheDZhon@gmail.com,2025-10-15 12:24:07+00:00,,,,False,Merge pull request #110 from lidofinance/feat/hh3-and-deps
+bc2bbaeb746cf16f7f75aa10b649705f82f34e1d,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-10-15 13:43:02+00:00,,,,False,Merge pull request #97 from lidofinance/feat/dual-governance
+14ccbf8bd8d054c553ab17f2026db8bba52d777d,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-10-15 17:06:46+00:00,,,,False,Merge pull request #109 from lidofinance/feat/hoodi-v3
+ee76f487b79a4b05cc93c07992af9ede78e10f51,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-10-20 22:23:48+00:00,,,,False,Merge pull request #111 from lidofinance/feat/summary
+7401bfe6511533ef59a93765d3c59410d1b0eb87,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-10-22 08:38:26+00:00,,,,False,Merge pull request #112 from lidofinance/fix/default-local-rpc
+8a7cb0387607886cbb90a53b248aa3c11bf06f6c,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-11-04 12:54:51+00:00,,,,False,Merge pull request #114 from lidofinance/feat/stvaults-rc.3
+35028cab9a22e6ef2fd9d42dc63e4aa61b923e42,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-11-09 19:39:59+00:00,,,,False,Merge pull request #115 from lidofinance/feat/stvaults-rc.3
+e6bfd00a21f32a009d3706011bdcb2c497584445,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-11-11 21:28:33+00:00,,,,False,Merge pull request #116 from lidofinance/feat/stvaults-rc.4
+42eb359af3eb4fd8949695bc5448368fbd77508d,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-12-04 13:31:34+00:00,,,,False,Merge pull request #117 from lidofinance/feat/mainnet-stvaults
+e8f61223e73ea349f86e96065956f662aed31251,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-12-05 18:04:52+00:00,,,,False,Merge pull request #121 from lidofinance/feat/safe_harbor
+bf4460554319f03cc2a30799390c3e3e1feb007c,Eugene Mamin,TheDZhon@gmail.com,2025-12-05 18:49:10+00:00,,,,False,Merge pull request #122 from lidofinance/feat/safe_harbor
+597fee1d2462c5492b594ee0027417cd6b70f654,Eugene Mamin,TheDZhon@gmail.com,2025-12-08 15:44:50+00:00,,,,False,Merge pull request #124 from lidofinance/fix/v3-vote-script
+dff4a37dceee8cb71768138510dc400bce549ab6,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2025-12-09 19:30:58+00:00,,,,False,Merge pull request #125 from lidofinance/fix/v3-with-pause-pdg-vote
+d8fd1d15ccf21c1123bee3b446129f022a25e586,Eugene Mamin,TheDZhon@gmail.com,2026-01-14 19:13:31+00:00,,,,False,Merge pull request #127 from lidofinance/feat/v3-phase-2
+d68f75eea04de8b5918725ff7e8967cdfcf8d7ec,Eugene Mamin,TheDZhon@gmail.com,2026-01-19 06:11:53+00:00,,,,False,Merge pull request #128 from lidofinance/fix/better-gh-handling
+117deb953ced619931b9db01087a0a5942def3ea,Eugene Mamin,TheDZhon@gmail.com,2026-01-19 06:12:34+00:00,,,,False,Merge pull request #129 from lidofinance/dependabot/npm_and_yarn/undici-6.23.0
+81b3e83f3585621c8120c1e58acdb273abcf1bc1,Eugene Mamin,TheDZhon@gmail.com,2026-01-19 06:12:58+00:00,,,,False,Merge pull request #126 from lidofinance/dependabot/pip/urllib3-2.6.3
+27915cc36cb2172874a1d03220c74f81621f5ad6,Eugene Mamin,TheDZhon@gmail.com,2026-01-19 06:13:19+00:00,,,,False,Merge pull request #118 from lidofinance/dependabot/npm_and_yarn/js-yaml-4.1.1
+e0fbfc2cca00ab9abdb286fb21bac26f4691d0fe,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-02-02 21:33:59+00:00,,,,False,Merge pull request #133 from lidofinance/bytecode-check-fix
+a5b0831dad3f89c06f11f7608f766819aa0ffa37,Eugene Mamin,TheDZhon@gmail.com,2026-02-06 13:23:47+00:00,,,,False,Merge pull request #131 from lidofinance/feature/twyne
+ee183ec570c542d739536aaf623147c7affeb4cf,Eugene Mamin,TheDZhon@gmail.com,2026-02-06 14:58:59+00:00,,,,False,Merge pull request #119 from lidofinance/feat/ink-support
+4f12d55e9cab1d4240094e21ce52f5ad16fe8ceb,Eugene Mamin,TheDZhon@gmail.com,2026-02-06 20:35:24+00:00,,,,False,Merge pull request #132 from lidofinance/defiwrapper
+55287ee75b4d301e8f4d100b424dd515145d7bb7,Eugene Mamin,TheDZhon@gmail.com,2026-03-12 09:29:15+00:00,,,,False,Merge pull request #134 from lidofinance/feat/new-vault
+aa01aae3c6e198e5102f167b8a01c4716e8d320b,Eugene Mamin,TheDZhon@gmail.com,2026-03-13 13:57:19+00:00,,,,False,Merge pull request #138 from lidofinance/feat/remove-hardhat-and-js
+314826953cf9703abcd06b6e8050f3e7cd6e3540,Eugene Mamin,TheDZhon@gmail.com,2026-03-16 12:39:23+00:00,,,,False,Merge pull request #143 from lidofinance/feat/claude-code-setup
+878cba5c7bebfa0e499e26529c850fad78ff0816,Logachev Nikita,logach3@gmail.com,2026-03-19 12:05:49+00:00,,,,False,Merge pull request #139 from lidofinance/feat/lido-earn-strategy-wrapper
+7e562b6c5e87767cacbae45abad76c37077fb944,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-04-04 14:42:19+00:00,,,,False,Merge pull request #145 from lidofinance/dependabot/uv/requests-2.33.0
+c4ac0326859d53f974148468be253b9c883f397f,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-04-04 14:42:47+00:00,,,,False,Merge pull request #142 from lidofinance/dependabot/uv/black-26.3.1
+409eed7ea588d853136a65fb12965ea0c34800fa,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-04-04 14:43:38+00:00,,,,False,Merge pull request #146 from lidofinance/dependabot/uv/pygments-2.20.0
+d1a5d5df95f84eebb98e5b1848c932cc256011d4,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-04-04 16:13:53+00:00,,,,False,Merge pull request #144 from lidofinance/verify/l1erc20bridge-cantina-audit
+54bb8fc4a6c2a4345b0a7f3a6011fb2232a4f4c3,Eugene Mamin,TheDZhon@gmail.com,2026-04-07 08:07:45+00:00,,,,False,Merge pull request #150 from lidofinance/feat/tw-et-fixes
+4285dcbedb8be4d2cff329256f435f1b37467826,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-04-14 13:11:14+00:00,,,,False,Merge pull request #151 from lidofinance/dependabot/uv/pytest-9.0.3
+bead845fb2368ab80b7bc6a3a69fd80e2d4fb2a4,Eugene Mamin,TheDZhon@gmail.com,2026-04-20 20:40:59+00:00,,,,False,Merge pull request #152 from lidofinance/feat/earh-atoken-wsteth-swap
+e6e182ae1343f369327537c638ed10e720cb76e7,Eugene Mamin,TheDZhon@gmail.com,2026-05-02 19:46:48+00:00,,,,False,Merge pull request #154 from lidofinance/feat/circuit-breaker
+b610c4442596453d168c689d0c885064b0627c91,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-05-13 14:55:50+00:00,,,,False,Merge pull request #147 from lidofinance/feat/v3.0.2-configs
+ac96e8680e740459c5cc607d452de9e9821e6e25,Eugene Mamin,TheDZhon@gmail.com,2026-05-21 10:14:02+00:00,,,,False,Merge pull request #160 from lidofinance/fix/compile-error-batch-fragility
+01a5fd11746c669b58668c782ede1b935befa979,Eugene Mamin,TheDZhon@gmail.com,2026-05-27 15:28:47+00:00,,,,False,Merge pull request #161 from lidofinance/feat/ggv-migrator-v2-config
+fde33d8f185029b7c3978ff8138443bc02a4e4ec,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-02 17:33:01+00:00,,,,False,Merge pull request #158 from lidofinance/dependabot/uv/urllib3-2.7.0
+08b4aac3fca6396e91af2dfd0f70975199a483b7,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-02 17:33:35+00:00,,,,False,Merge pull request #159 from lidofinance/dependabot/uv/idna-3.15
+3bc033ff367550b9b51333551c93e5c381120b62,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-02 18:14:44+00:00,,,,False,Merge pull request #135 from lidofinance/feat/cow-twap
+c82de4250a02e9208f26795e9261402e8f357ffb,Eugene Mamin,TheDZhon@gmail.com,2026-06-17 19:07:05+00:00,,,,False,Merge pull request #148 from lidofinance/feat/mantle-meta
+8cbafd7e676ff362a5f63c92fcd390830834c95b,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-17 19:48:31+00:00,,,,False,Merge pull request #165 from lidofinance/chore/dependabot-config
+cf71009b29fb7d23b2ef1f57947bb3845215e686,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-17 21:09:14+00:00,,,,False,Merge pull request #168 from lidofinance/chore/dependabot-docker
+dffe38107d59bad92991b6383e3c030b7b80cc9c,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-17 21:09:28+00:00,,,,False,Merge pull request #166 from lidofinance/dependabot/github_actions/github-actions-fbed54345e
+6a9b6e3c1c3fae2453b37e084b9a201877148eff,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-17 21:12:50+00:00,,,,False,Merge pull request #169 from lidofinance/dependabot/docker/dot-devcontainer/docker-0c1b30b95d
+e7f10f0ed45432227732f9a10b217cc645f0009c,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-17 21:13:23+00:00,,,,False,Merge pull request #167 from lidofinance/dependabot/uv/python-af6ccca53e
+ec76889395dd3b8c5a0530cc133bba8e8b2dfad9,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-24 10:49:36+00:00,,,,False,Merge pull request #171 from lidofinance/dependabot/uv/python-19f1f3e67a
+e42d10dd32863a019dfa786a1aec6de4e0aac308,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-24 10:55:43+00:00,,,,False,Merge pull request #170 from lidofinance/dependabot/docker/dot-devcontainer/docker-88c976803c
+17d6fefd17058c3a8084fa7cc85a56de1f2c3e06,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-24 11:32:08+00:00,,,,False,Merge pull request #141 from lidofinance/feat/granular-allowlist
+dbe54ff993f29bd265c6010a724e8b8bd7ab53a5,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-26 16:49:02+00:00,,,,False,Merge pull request #153 from lidofinance/feat/srv3-hoodi
+78c1b20f3c42f743b3b52eebda1db7e5ab8c99df,Eugene Mamin,TheDZhon@gmail.com,2026-06-26 17:50:12+00:00,,,,False,Merge pull request #174 from lidofinance/chore/remove-deep-match-bytecode
+68fc3609114fde2906b8a8a20dcff94949603773,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-06-29 18:54:45+00:00,,,,False,Merge pull request #177 from lidofinance/dependabot/uv/python-631b0d4410
+b7e4a7d58b541d162b5ad2a32e2234cd464fa8f2,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-07-01 19:08:10+00:00,,,,False,Merge pull request #183 from lidofinance/fix/issue-181-deployment-with-libs
+fa115bfc209039890f1c65e48aa03519db945d03,Yuri Tkachenko,yuri.tam.tkachenko@gmail.com,2026-07-07 15:20:16+00:00,,,,False,Merge pull request #188 from lidofinance/config/hn-guard-10-days-timelock
+bf90ba204b3dc062a0a8166d0c4fb0cf5df56801,Yuri Tkachenko,tamtamchik@lido.fi,2026-07-08 19:08:05+00:00,,,,False,Merge pull request #184 from lidofinance/feat/blockscout-libs
+0537ad794ce9d4db72a31f8582fbc3a8ac13c977,Yuri Tkachenko,tamtamchik@lido.fi,2026-07-08 19:10:48+00:00,,,,False,Merge pull request #186 from lidofinance/dependabot/github_actions/github-actions-ebbb40756a
+6347260383c668423ce8000de3b9a62414cf72ca,Yuri Tkachenko,tamtamchik@lido.fi,2026-07-08 20:49:52+00:00,,,,False,Merge pull request #182 from lidofinance/feat/srv3-mainnet
+e789fe097eaed04dfa67ec35c8d1141be47331c0,Eugene Mamin,TheDZhon@gmail.com,2026-07-14 10:36:45+00:00,,,,False,Merge pull request #191 from lidofinance/sm-sr-et-yaml
+63effc0abf05234a71ebc6ecb023fe81ec801b20,Yuri Tkachenko,tamtamchik@lido.fi,2026-07-14 10:42:41+00:00,,,,False,Merge pull request #190 from lidofinance/feat/srv3-upgrade-contract
+231301eef04c03202dd14dfc6be89ee70f335785,Eugene Mamin,TheDZhon@gmail.com,2026-07-20 12:23:00+00:00,,,,False,Merge pull request #194 from lidofinance/dependabot/uv/python-fdf9e5179a
+9f41672f4fd0918c7687880bcf0fc3ad41b2535b,Eugene Mamin,TheDZhon@gmail.com,2026-07-20 12:44:11+00:00,,,,False,Merge pull request #187 from lidofinance/dependabot/docker/dot-devcontainer/docker-d29d3254f2
+f868bfc1534e2a99d753a7ded9daf40bbf0e9075,Yuri Tkachenko,tamtamchik@lido.fi,2026-08-17 08:28:51+00:00,,,,False,Merge pull request #193 from lidofinance/feat/nest
+7b9a97d6456a2fefc5e9a1728ffc9e24333a89ff,Yuri Tkachenko,tamtamchik@lido.fi,2026-08-17 08:39:22+00:00,,,,False,Merge pull request #202 from lidofinance/ci/dependabot-monthly
+ab16eb3ba26c28911da3c0413924448b3755647a,Yuri Tkachenko,tamtamchik@lido.fi,2026-08-17 08:39:59+00:00,,,,False,Merge pull request #195 from lidofinance/dependabot/github_actions/github-actions-7a5a078ad4
+d6b2f39d53a56a63547ad47bc973191a806c01ff,Yuri Tkachenko,tamtamchik@lido.fi,2026-08-17 08:46:33+00:00,,,,False,Merge pull request #199 from lidofinance/dependabot/uv/python-3ae7e6293b
+3353d9fd08cc4c5ac3c60c532c96af66ee16f21c,Yuri Tkachenko,tamtamchik@lido.fi,2026-08-17 08:47:21+00:00,,,,False,Merge pull request #201 from lidofinance/dependabot/docker/dot-devcontainer/docker-58098adeb9
+0dec06f5ee8ee1aa26686d24f1a4227cfe64c9a1,Yuri Tkachenko,tamtamchik@lido.fi,2026-08-17 08:50:28+00:00,,,,False,Merge pull request #203 from lidofinance/dependabot/uv/sh-2.2.4
+34c20f35252136e3674da692c46bdc2520a1441f,Yuri Tkachenko,tamtamchik@lido.fi,2026-08-17 08:57:43+00:00,,,,False,Merge pull request #204 from lidofinance/chore/replace-gitlint
+12b2899b0a2b172d8697b1620da1f4f72ce4ab31,Eugene Mamin,TheDZhon@gmail.com,2026-08-26 14:47:39+00:00,,,,False,Merge pull request #178 from lidofinance/feat/lido-dao-voting-mainnet
+cba78d09796640cf9a30b034ee36eb6c570d2a8d,Yuri Tkachenko,tamtamchik@lido.fi,2026-08-27 11:51:48+00:00,,,,False,Merge pull request #198 from lidofinance/et-factory-redeploy
+68484c558d722de80fa0b8b268f7f34dde3d0aca,Eugene Mamin,TheDZhon@gmail.com,2026-08-27 17:27:00+00:00,,,,False,Merge pull request #205 from lidofinance/feat/robinhood-earn-usde
+568958fa14792703eb7251fdbee609cdd9423cbf,Eugene Mamin,TheDZhon@gmail.com,2026-08-28 18:08:58+00:00,,,,False,Merge pull request #207 from lidofinance/docs/readme-state-mate
+441d0712f49aeb516d92ba59c5e502eac0060c86,Eugene Mamin,TheDZhon@gmail.com,2026-08-28 18:33:29+00:00,,,,False,Merge pull request #208 from lidofinance/chore/version-1.0.0
+bff9d52454247cd3d6b60b7d495500da537ea44d,Eugene Mamin,TheDZhon@gmail.com,2026-08-29 11:32:53+00:00,,,,False,Merge pull request #209 from lidofinance/fix/blockscout-user-agent
+e03450ac24571bd9d0c80c6332fbc38726943b85,Eugene Mamin,TheDZhon@gmail.com,2026-08-31 18:09:13+00:00,,,,False,Merge pull request #210 from lidofinance/docs/explorer-reference-and-triage
+ad4df9c35a5d60ac0a4ef5ab20f4ef1d784736ad,Eugene Mamin,TheDZhon@gmail.com,2026-08-31 19:17:21+00:00,,,,False,Merge pull request #212 from lidofinance/feature/stc-890-deploy-factory-to-mainnet-and-run-diffyscan-for-hoodi-and
+80deff6177e7f0697492750cc0d803776e4c23b5,Eugene Mamin,TheDZhon@gmail.com,2026-08-31 19:17:55+00:00,,,,False,Merge pull request #206 from lidofinance/feature/stc-889-add-diffyscan-config-for-edf-on-hoodi
+cbbf63b9b9b80d2d5d06c9b624d4eff5c8303d30,Yuri Tkachenko,tamtamchik@lido.fi,2026-09-01 10:05:44+00:00,,,,False,Merge pull request #211 from lidofinance/chore/configs-reorg
+c0803e176574e832cc24c462b0438eac135a062b,Eugene Mamin,TheDZhon@gmail.com,2026-09-07 16:51:25+00:00,,,,False,Merge pull request #215 from lidofinance/feature/json-output
+6eda5783bb00a7beb7ce4a3e556868c1efa66ba2,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-09-07 16:53:58+00:00,,,,False,build(deps): bump the python group with 5 updates (#214)
+0d623e59521ab45131d9eb4a64872b30dfb4a636,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-09-07 16:54:14+00:00,,,,False,build: bump the docker group in /.devcontainer with 2 updates (#213)
+eaef5101fc1df886f4e09e8858eb4c9268a137f2,Yuri Tkachenko,tamtamchik@lido.fi,2026-09-07 17:53:09+00:00,,,,False,docs: refresh verification skills and add allowlist workflow (#216)
+8d935948610e2a4e3c971a6009d6aa31f3ead515,Eugene Mamin,TheDZhon@gmail.com,2026-09-07 18:55:23+00:00,,,,False,Merge pull request #217 from lidofinance/chore/version-1.0.3
+828cf7dfb64f9381924eaf9aa757971748384f53,Eugene Mamin,TheDZhon@gmail.com,2026-09-10 13:59:19+00:00,,,,False,Merge pull request #218 from lidofinance/feat/edf-mainnet
+90d4327229a2709914979daea9e9ad51dd52e3f7,Eugene Mamin,TheDZhon@gmail.com,2026-09-15 05:44:54+00:00,,,,False,Merge pull request #219 from lidofinance/feat/edf-easy-track
+98fbbd39c8c26cc2bd3c01e688c9beed7ffb8dd6,Yuri Tkachenko,tamtamchik@lido.fi,2026-09-30 16:51:46+00:00,,,,False,Merge pull request #222 from lidofinance/fix/explorer-response-handling
+65e3d628e4e38591279254a2d2dd1b39108b256b,Yuri Tkachenko,tamtamchik@lido.fi,2026-09-30 16:55:10+00:00,,,,False,Merge pull request #225 from lidofinance/dependabot/uv/urllib3-2.8.0
+53ac0abe53e094b4eb6807207de92a99cf48ce8c,Eugene Mamin,TheDZhon@gmail.com,2026-10-05 09:10:24+00:00,,,,False,Merge pull request #229 from lidofinance/feat/csm0x02-easy-track
+93d2e19437f65cc5327874cbf209bc5e3b055717,Eugene Mamin,TheDZhon@gmail.com,2026-10-05 11:10:29+00:00,,,,False,Merge pull request #230 from lidofinance/csm-0x02
+ae86ee3589eefaa2c58b6f4b2a7f4bf2cf3acb94,Eugene Mamin,TheDZhon@gmail.com,2026-10-05 11:11:27+00:00,,,,False,Merge pull request #227 from lidofinance/dependabot/uv/python-1bee148f18
+cbfa4c186337350652ee74faaca0222153cdfd58,Eugene Mamin,TheDZhon@gmail.com,2026-10-05 11:12:12+00:00,,,,False,Merge pull request #226 from lidofinance/dependabot/docker/dot-devcontainer/docker-ea6052f35a
+9fd68333c8c21c12cc7fcf5df387364d8980b746,Alex B,alex.b@lido.fi,2026-10-06 14:16:11+00:00,,,,False,Merge pull request #228 from lidofinance/codeowners-defi-tech
+a53860da9f132445765051314de01027dfcbd691,arwer13,artem.v@lido.fi,2026-10-13 11:01:09+00:00,,,,False,Merge pull request #233 from lidofinance/feat/mellow-earnusdc-monad
+fefc43215c7c0b4f399c34dc4c165713903b8b1c,arwer13,artem.v@lido.fi,2026-10-13 13:42:30+00:00,,,,False,Merge pull request #234 from lidofinance/fix/curated-module-constructor-calldata
+a511450663bf313cf8ada192e9d301c73e5c0aa3,Nikita L,nikita.l@lido.fi,2026-10-15 09:03:32+00:00,,,,False,Merge pull request #235 from lidofinance/release/v1.0.5
+50a84d491901bbabe69d1b782ee3474ff65b1929,arwer13,artem.v@lido.fi,2026-10-17 11:06:22+00:00,,,,False,Merge pull request #236 from lidofinance/fix/continue-after-contract-error
+cc145db5211845fda339e5907053e67356bf0692,arwer13,artem.v@lido.fi,2026-10-17 11:18:52+00:00,,,,False,Merge pull request #237 from lidofinance/feat/json-chain-ids
+a162c64fdaac63345f2d2c3c2e85287d0dfe942c,arwer13,artem.v@lido.fi,2026-10-17 11:19:08+00:00,,,,False,Merge pull request #238 from lidofinance/release/v1.1.0

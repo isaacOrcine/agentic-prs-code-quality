@@ -1,0 +1,26 @@
+repo,sha,data,autor_agente,agente,caminho,regra,data_remocao,como,removido_por_agente
+lidofinance/diffyscan,6d3c085e227471292f36e934c16259f23803790b,2025-05-22 19:55:26+00:00,True,OpenAI_Codex,tests/test_configs.py,SIM300,,,
+lidofinance/diffyscan,6d3c085e227471292f36e934c16259f23803790b,2025-05-22 19:55:26+00:00,True,OpenAI_Codex,tests/test_explorer_utils.py,F401,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,6d3c085e227471292f36e934c16259f23803790b,2025-05-22 19:55:26+00:00,True,OpenAI_Codex,tests/test_utils.py,F401,,,
+lidofinance/diffyscan,e412b0b74a8e5296efda87391076bc79029bfbba,2025-05-24 07:14:21+00:00,True,OpenAI_Codex,diffyscan/utils/explorer.py,F401,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,d68f75eea04de8b5918725ff7e8967cdfcf8d7ec,2026-01-19 06:11:53+00:00,False,,diffyscan/utils/common.py,SIM105,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,d68f75eea04de8b5918725ff7e8967cdfcf8d7ec,2026-01-19 06:11:53+00:00,False,,diffyscan/utils/common.py,B904,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,e0fbfc2cca00ab9abdb286fb21bac26f4691d0fe,2026-02-02 21:33:59+00:00,False,,diffyscan/diffyscan.py,F401,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,e0fbfc2cca00ab9abdb286fb21bac26f4691d0fe,2026-02-02 21:33:59+00:00,False,,diffyscan/diffyscan.py,B007,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,e0fbfc2cca00ab9abdb286fb21bac26f4691d0fe,2026-02-02 21:33:59+00:00,False,,diffyscan/diffyscan.py,C901,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,e0fbfc2cca00ab9abdb286fb21bac26f4691d0fe,2026-02-02 21:33:59+00:00,False,,diffyscan/diffyscan.py,PLR0912,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,55287ee75b4d301e8f4d100b424dd515145d7bb7,2026-03-12 09:29:15+00:00,False,,diffyscan/diffyscan.py,PLR0912,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,55287ee75b4d301e8f4d100b424dd515145d7bb7,2026-03-12 09:29:15+00:00,False,,diffyscan/diffyscan.py,PLR0915,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,55287ee75b4d301e8f4d100b424dd515145d7bb7,2026-03-12 09:29:15+00:00,False,,diffyscan/diffyscan.py,PLR0915,2026-06-24 11:32:08+00:00,aviso corrigido,False
+lidofinance/diffyscan,55287ee75b4d301e8f4d100b424dd515145d7bb7,2026-03-12 09:29:15+00:00,False,,diffyscan/utils/common.py,C901,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,55287ee75b4d301e8f4d100b424dd515145d7bb7,2026-03-12 09:29:15+00:00,False,,diffyscan/utils/common.py,PLR0912,2026-03-13 13:57:19+00:00,aviso corrigido,False
+lidofinance/diffyscan,55287ee75b4d301e8f4d100b424dd515145d7bb7,2026-03-12 09:29:15+00:00,False,,tests/test_config_loading.py,SIM300,,,
+lidofinance/diffyscan,55287ee75b4d301e8f4d100b424dd515145d7bb7,2026-03-12 09:29:15+00:00,False,,tests/test_config_loading.py,SIM300,,,
+lidofinance/diffyscan,55287ee75b4d301e8f4d100b424dd515145d7bb7,2026-03-12 09:29:15+00:00,False,,tests/test_config_loading.py,B007,,,
+lidofinance/diffyscan,ac96e8680e740459c5cc607d452de9e9821e6e25,2026-05-21 10:14:02+00:00,False,,diffyscan/utils/compiler.py,B904,,,
+lidofinance/diffyscan,c82de4250a02e9208f26795e9261402e8f357ffb,2026-06-17 19:07:05+00:00,False,,diffyscan/diffyscan.py,C901,,,
+lidofinance/diffyscan,c82de4250a02e9208f26795e9261402e8f357ffb,2026-06-17 19:07:05+00:00,False,,diffyscan/diffyscan.py,PLE1205,,,
+lidofinance/diffyscan,c82de4250a02e9208f26795e9261402e8f357ffb,2026-06-17 19:07:05+00:00,False,,tests/test_contract_filter.py,F401,,,
+lidofinance/diffyscan,98fbbd39c8c26cc2bd3c01e688c9beed7ffb8dd6,2026-09-30 16:51:46+00:00,False,,diffyscan/utils/explorer.py,C901,,,
+lidofinance/diffyscan,98fbbd39c8c26cc2bd3c01e688c9beed7ffb8dd6,2026-09-30 16:51:46+00:00,False,,diffyscan/utils/explorer.py,SIM102,,,
+lidofinance/diffyscan,50a84d491901bbabe69d1b782ee3474ff65b1929,2026-10-17 11:06:22+00:00,False,,diffyscan/diffyscan.py,PLE1205,,,

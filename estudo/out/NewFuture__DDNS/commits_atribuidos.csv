@@ -1,0 +1,597 @@
+sha,autor,email,data,agente,fonte,assinatura,is_agente,titulo
+7efd6712889960ab61336d5b9d27f1d265649c0c,New Future,new_future@msn.cn,2016-06-10 09:07:07+00:00,,,,False,:confetti_ball: Added .gitattributes & .gitignore files
+1ff0f087f7cbe8a21e7873c793bf63894a948444,New Future,new_future@msn.cn,2016-06-10 11:51:22+00:00,,,,False,获取本机IP和更新DNS
+09fc45a33541ac327fc4d7b18faa12954b5dd1c9,New Future,new_future@msn.cn,2016-06-10 15:54:15+00:00,,,,False,获取内网IP
+da0fc0844a007fcda04053a65ce660d46901d25a,New Future,new_future@msn.cn,2016-06-10 16:16:14+00:00,,,,False,ipv4 判断
+b885b8fc3ae42a94fed0fb0006cd39fac76d4372,New Future,new_future@msn.cn,2016-06-12 07:02:09+00:00,,,,False,添加公网IP查询接口
+af1c7f406315ee2b53671ac84661ad3197837857,New Future,new_future@msn.cn,2016-06-21 09:42:10+00:00,,,,False,change config
+1dd42655a81f06e63c327f11a0fb1d12bc6dba23,New Future,NewFuture@users.noreply.github.com,2016-11-04 11:19:55+00:00,,,,False,Merge pull request #1 from yhx5768/patch-1
+6e58939eb443476c0de89f5e8787785ecd744f37,New Future,github@newfuture.cc,2016-11-05 15:25:54+00:00,,,,False,更新IP获取方式
+04dbe771bef5f90116d04a999694c705c3e3fe38,New Future,github@newfuture.cc,2016-11-06 15:50:09+00:00,,,,False,"更新DNSPOD API,保证准确，减少请求，自动验证主域名和创建"
+dff9e8b28377df373eb1c8c4d8b5eb7860015df1,New Future,github@newfuture.cc,2016-11-06 15:50:49+00:00,,,,False,updatereadme
+71246a29bbbd8009348fd3c01d80e5e9462cc563,New Future,github@newfuture.cc,2016-11-07 03:03:02+00:00,,,,False,windows 双击运行
+80059702938f043420366c1ed41228e2eb25ab6c,NewFuture,github@newfuture.cc,2016-11-07 03:56:46+00:00,,,,False,linux run.sh 和定时任务脚本
+542780e3098801fba34ec7f0e80414db22c3f840,NewFuture,github@newfuture.cc,2016-11-07 04:03:31+00:00,,,,False,linux run脚本
+5ce835f84b7321e216330b88a73c0a1d0ccf74b2,New Future,github@newfuture.cc,2016-11-07 04:27:38+00:00,,,,False,windows 批处理和定时任务
+68a58e94cba212764d00a7a8c879c48c28090c76,New Future,github@newfuture.cc,2016-11-07 07:29:00+00:00,,,,False,更新windows定时任务
+ebc114929f30f973c9b3848f0dda735027d0c6d7,New Future,github@newfuture.cc,2016-11-07 07:49:48+00:00,,,,False,add license and update readme
+cd1444ddb0a1644cee5d2f54f0c6330823954511,New Future,github@newfuture.cc,2016-11-07 13:44:26+00:00,,,,False,调整windows显示，调整task user
+4117f7c8af53ebb6188e2e916b25829e4992926f,New Future,github@newfuture.cc,2016-11-07 16:52:29+00:00,,,,False,add debug for dnspod
+06aa647bdc86da6f3b968877bcb0f29f16e58abe,New Future,github@newfuture.cc,2016-11-07 17:51:10+00:00,,,,False,自动提取runuser
+5d5a2e89538d4298f48a1aad95aac4305debb24e,New Future,github@newfuture.cc,2016-11-08 03:53:01+00:00,,,,False,prepare for aliDNS
+4b0dedf3ddf056405f1732876a5ebe763ac028ae,New Future,github@newfuture.cc,2016-11-08 11:04:12+00:00,,,,False,v1.0.0
+21236c35f95fe8d63f12b54dada761af44ae0606,New Future,github@newfuture.cc,2016-12-03 14:31:56+00:00,,,,False,aliDNS可用
+59a989bf9dd70797d0134f66e71c7edfeaece910,NewFuture,github@newfuture.cc,2016-12-03 15:03:37+00:00,,,,False,统一接口
+af4f1b7cd93f1952fc294601ff472d567a653f73,New Future,github@newfuture.cc,2016-12-04 15:04:50+00:00,,,,False,add cache
+58707c907fd89684a97b66ae6afd32968d67eb94,New Future,github@newfuture.cc,2016-12-04 15:53:47+00:00,,,,False,更新缓存读写和dns切换
+05a411f4886c0c228bc6d8d540d051e577b2f7ac,New Future,github@newfuture.cc,2016-12-04 16:05:27+00:00,,,,False,remove debug
+f7c281cd270bee5e797ad4f17909ba6645dc593b,New Future,NewFuture@users.noreply.github.com,2016-12-04 16:16:18+00:00,,,,False,阿里access key 链接
+426d413b3a559a2a4e63fd997c6843069cd2c321,New Future,github@newfuture.cc,2016-12-05 03:02:27+00:00,,,,False,比较配置和缓存时间
+7c96fd7dca3381b8afb22fb4cdc16ab92ca25d61,New Future,NewFuture@users.noreply.github.com,2017-04-21 08:49:48+00:00,,,,False,Update README.md
+6687cd64aa67eb90f580993d0e4b5ed6d3236c65,New Future,NewFuture@users.noreply.github.com,2017-04-21 08:50:42+00:00,,,,False,Update README.md
+30b964e3ca5f97dfc25d3075946959df092a4c98,New Future,NewFuture@users.noreply.github.com,2017-04-21 08:53:11+00:00,,,,False,Update README.md
+3716bf8d9dce7ea7d308fd89a8f997ea8de936d5,New Future,NewFuture@users.noreply.github.com,2017-04-21 08:56:41+00:00,,,,False,Update README.md
+f297a691ddd39ac6e02826feaaf2cd3f0407484a,NewFuture,github@newfuture.cc,2017-04-23 12:42:47+00:00,,,,False,add disabled cache options
+d87e2c86c5abf6ecad6ba252dd757e5ce7877ae2,NewFuture,github@newfuture.cc,2017-04-23 14:53:45+00:00,,,,False,support for python3
+ff1700dfb5c5fce15bda8efbb6ae3214120ef4e5,NewFuture,github@newfuture.cc,2017-04-23 14:57:20+00:00,,,,False,update readme python3
+71af689cdb06179679e10401550418c49ceb8d0f,NewFuture,github@newfuture.cc,2017-06-01 15:09:27+00:00,,,,False,#4 数字参数字符串格式兼容
+2bf1f78267c05181f36946bc2600de4fe934e0c1,NewFuture,github@newfuture.cc,2017-06-02 02:12:45+00:00,,,,False,update readme
+eef989ab1a9250568bed6490818afe2a7a0cae36,New Future,NewFuture@users.noreply.github.com,2017-07-01 15:14:20+00:00,,,,False,Merge pull request #6 from loftor-git/master
+79d74e46e207508be571787bc709607ae54d22b5,NewFuture,github@newfuture.cc,2017-07-01 15:17:18+00:00,,,,False,update DNSCOM for python2
+7daf1facd9efe1da161d6b92bd8674e24aea1798,NewFuture,github@newfuture.cc,2017-07-02 02:28:34+00:00,,,,False,动态加载模块
+d8eea1c6b9b2988d711fa759832b15bf1bba027f,New Future,NewFuture@users.noreply.github.com,2017-07-30 15:02:59+00:00,,,,False,Update README.md
+b3d4884a4acffac1d9a97f7d7bad34cfd174a982,NewFuture,github@newfuture.cc,2017-09-04 04:16:54+00:00,,,,False,fixed python2 encoding #7
+99ffdf020cb4310a94bbcac5a48ead59a9f5539f,NewFuture,github@newfuture.cc,2017-09-04 13:24:36+00:00,,,,False,DNSPOD 根域名自动判断#8
+eec46583ded4658599bb721b19fb1bda9b6729ae,NewFuture,github@newfuture.cc,2017-11-04 15:17:43+00:00,,,,False,support  for dnspod.com国际版 #10
+6e191254906e7f75e9bf2b98c40d119ab08afb57,NewFuture,github@newfuture.cc,2017-11-05 04:32:23+00:00,,,,False,fixed  record_line #10
+b2d3a5fd8f6db5174ddc1e541c788ba38849c318,NewFuture,github@newfuture.cc,2017-11-06 03:10:49+00:00,,,,False,fixed record line #10
+e476b25f1d9c54cff3ea87d31a87a4e9b3803b19,NewFuture,github@newfuture.cc,2017-11-14 14:55:18+00:00,,,,False,auto create configure file
+8ef27cfada8371da1a31c49cc885e54df73ca091,New Future,github@newfuture.cc,2017-12-17 06:32:16+00:00,,,,False,update
+667b72b278e6f7158b62a3408857afe4407e3aef,NewFuture,github@newfuture.cc,2018-04-11 11:56:25+00:00,,,,False,#15 正则表达式和多代理
+b38e0729abf11b53c8940ef422ce084fb5bfe728,NewFuture,github@newfuture.cc,2018-04-13 07:30:55+00:00,,,,False,update readme
+b312d554323899717a8520adf7df813306a4f471,NewFuture,github@newfuture.cc,2018-04-20 09:20:20+00:00,,,,False,update link
+3080188258b8d34af0a537dc0525a4f42f607653,NewFuture,github@newfuture.cc,2018-04-20 09:20:49+00:00,,,,False,Merge branch 'master' of github.com:NewFuture/DNSPOD
+77cac42429b86448042a82926e637edee6c17a0d,New Future,github@newfuture.cc,2018-06-04 12:17:52+00:00,,,,False,fixed #16
+42b614c6e6d732e96bb2557388283e321a5c4e03,New Future,github@newfuture.cc,2018-07-21 18:53:17+00:00,,,,False,Merge branch 'tongyifan-master'
+ae3d5fe6a672bb7008a6e8c33ef7805e8db4e4c9,New Future,github@newfuture.cc,2018-07-22 07:43:26+00:00,,,,False,remove Deprecated nku ip
+de59bdf8f250f0bdda5f5b969cf8372d203b44eb,New Future,github@newfuture.cc,2018-07-22 08:28:28+00:00,,,,False,build include cloudflare
+e6ef2afe26c755d8e2199b4a477fca62eadbf932,New Future,github@newfuture.cc,2018-07-22 08:40:23+00:00,,,,False,github pages
+884af7500a279ba66de1d595008b8224cb538a4d,New Future,NewFuture@users.noreply.github.com,2018-07-22 08:42:58+00:00,,,,False,Create CNAME
+d5f89929b682cbc9ec7f2278984705375b9f0bbe,New Future,github@newfuture.cc,2018-07-22 09:00:36+00:00,,,,False,update document
+6876b5e6a87313d10d7659d2dd138bd134db4f39,New Future,github@newfuture.cc,2018-07-28 18:28:09+00:00,,,,False,update regex
+650ac942910c9a86a9fd354bae479730a4843d4e,New Future,github@newfuture.cc,2018-07-29 04:21:15+00:00,,,,False,fixed ip regex for linux
+339e58b6121ef52cc5134a576b0a680ec2a1142a,New Future,github@newfuture.cc,2018-07-29 05:46:24+00:00,,,,False,简化脚本和定时任务
+7626f6ca7ea84aa11c8dd08f46188e0d994082aa,New Future,github@newfuture.cc,2018-07-29 07:14:55+00:00,,,,False,auto generate configuration file
+84d6f4a9fb643edc0a7e7b40d46a942a53732d5d,New Future,github@newfuture.cc,2018-07-29 08:40:03+00:00,,,,False,update linux task
+96a099f6fb4dee2cd2d7f2239a2fee366ed29394,New Future,github@newfuture.cc,2018-08-06 13:40:46+00:00,,,,False,schema
+c94fe05c699b423843932ccbc5b1aed29c4b1fed,New Future,github@newfuture.cc,2018-08-06 14:43:50+00:00,,,,False,update schema
+d58c59d4c0d79414ac80cd90bd2a2ac548f8bdd9,New Future,NewFuture@users.noreply.github.com,2018-09-17 12:50:16+00:00,,,,False,Merge pull request #23 from cnwangjihe/Fix-cloudflare-zoneid
+7c3d527af5e569ce8adfc049488958cc84540561,New Future,NewFuture@users.noreply.github.com,2018-11-13 12:41:21+00:00,,,,False,Update README.md
+4679a78013886a0f4008170c8ff6cabcd1d1fc53,New Future,NewFuture@users.noreply.github.com,2018-12-11 14:03:44+00:00,,,,False,#27
+28f06853525a947f61abfb8c9cbf850085b10f37,New Future,github@newfuture.cc,2018-12-23 04:43:49+00:00,,,,False,#30 debug
+09b95717a77269639b83b74f8e497637e8c2cd2d,New Future,github@newfuture.cc,2018-12-23 04:59:23+00:00,,,,False, update logger
+0eab0d4c5a86b172ae2c7d7334ecc083e65b57fa,New Future,github@newfuture.cc,2018-12-23 07:42:58+00:00,,,,False,#24 fixed dnspod subdomain
+3318f1bc9fd8020a82cec6554e35e78d810455bc,New Future,NewFuture@users.noreply.github.com,2018-12-24 06:42:16+00:00,,,,False,Update README.md
+3766d94f12484f101978430d40cfeaf8f0272946,New Future,NewFuture@users.noreply.github.com,2018-12-24 06:42:47+00:00,,,,False,Update README.md
+61344de003dddcde89c9dd14c42a47b9e9c43fcc,New Future,NewFuture@users.noreply.github.com,2019-01-08 07:38:22+00:00,,,,False,Merge pull request #38 from qip/cf-fix2
+28723c781882c53469fe22a116b99175c0ef94b7,New Future,github@newfuture.cc,2019-01-19 14:42:48+00:00,,,,False,#35 编码
+54ab93408d7d1c623c4f7dd660ec1de03aa30724,New Future,NewFuture@users.noreply.github.com,2019-03-06 12:08:32+00:00,,,,False,Merge pull request #44 from tongyifan/master
+31676f292459aad3b5e821e6f8792e45be4ab60c,New Future,github@newfuture.cc,2019-03-10 05:43:52+00:00,,,,False,travis CI build
+bdfabc59d5514237d02671ea1ae44a5851f2bf57,New Future,github@newfuture.cc,2019-03-10 05:49:24+00:00,,,,False,python version
+544452c3d91bf361307291cee1900fab47859d77,New Future,github@newfuture.cc,2019-03-10 05:55:12+00:00,,,,False,update CI #45
+9c13f5922f7f1a4329c186e695cf4a6e74fa0a96,New Future,github@newfuture.cc,2019-03-10 06:07:17+00:00,,,,False,#45 mac os
+eff728b7bb3e490f585a3df2a1a6cf75eca6d554,New Future,github@newfuture.cc,2019-03-10 06:11:22+00:00,,,,False,tavis
+3df2ecc2667b398ca53902974cab99a5dcadb040,New Future,github@newfuture.cc,2019-03-10 06:32:40+00:00,,,,False,rm macos
+16fb9678056c5b92e705a0223542bb752c0da3e2,New Future,github@newfuture.cc,2019-03-10 06:57:06+00:00,,,,False,CI Linux deploy
+426e4e9ea1ca28351d856ec0e3b925e57becd6c5,New Future,github@newfuture.cc,2019-03-10 07:01:39+00:00,,,,False,deploy condition
+6c57c3c5b4762027216197a11b50c331bf66feeb,New Future,NewFuture@users.noreply.github.com,2019-03-10 08:31:26+00:00,,,,False,fixed linux deploy #45
+0f0046dcd5d1f2b5be93d2893cf1832daef945cb,New Future,NewFuture@users.noreply.github.com,2019-03-10 08:32:04+00:00,,,,False,Update README.md
+3ac6fd8ce9bfb8ffc18efc0dedc010aaf4623ae3,New Future,NewFuture@users.noreply.github.com,2019-03-22 10:55:25+00:00,,,,False,Update README.md
+cfdf878a5e8865ec9251d18c26f964d310a3b8d7,New Future,NewFuture@users.noreply.github.com,2019-03-23 13:15:05+00:00,,,,False,Set up CI with Azure Pipelines
+80a037ed6827059c131a356830279a15a0b211b8,New Future,NewFuture@users.noreply.github.com,2019-03-23 17:27:57+00:00,,,,False,Update azure-pipelines.yml
+dec10cd368b4c8e89546af17edf8ea42d0c9809c,New Future,NewFuture@users.noreply.github.com,2019-03-23 17:35:32+00:00,,,,False,Update azure-pipelines.yml
+c63201646815fa2a77142a234ad4e7449acb344a,New Future,NewFuture@users.noreply.github.com,2019-03-23 17:42:33+00:00,,,,False,Update azure-pipelines.yml
+ebfeb79371a78af1e322c6e517362219e877d12f,New Future,github@newfuture.cc,2019-03-23 17:54:32+00:00,,,,False,windows 自动编译 #45
+4a7450e3fdb8582803366b1b7479d1970fe1eea8,New Future,github@newfuture.cc,2019-03-23 17:56:02+00:00,,,,False,readme doc
+346609529450deb07e1d600c3b224f6f845e3350,New Future,NewFuture@users.noreply.github.com,2019-03-23 17:58:49+00:00,,,,False,Update README.md
+322f127a89ecfa80a9341284d217022cecc61276,New Future,NewFuture@users.noreply.github.com,2019-03-24 07:13:49+00:00,,,,False,Update azure-pipelines.yml
+3121bd403cae7fe07d7db8a16a66822efc91923d,New Future,NewFuture@users.noreply.github.com,2019-03-24 07:17:16+00:00,,,,False,Update azure-pipelines.yml
+3ed4d0d097a397b5fe27ee598457d74748c86ff3,New Future,NewFuture@users.noreply.github.com,2019-03-24 07:24:59+00:00,,,,False,MacOS 自动编译#45
+acb710ef6130db069b7e02d37ee12dcf38f83a9e,New Future,github@newfuture.cc,2019-03-24 07:56:52+00:00,,,,False,status images
+28ee68529054c36ae65ec95f8f6b1c499bca99eb,New Future,github@newfuture.cc,2019-03-24 08:01:10+00:00,,,,False,test macos
+414478959890210306e2e8e2d7adaffcf34e44d8,New Future,github@newfuture.cc,2019-03-24 08:11:57+00:00,,,,False,images
+3b004caf2df240db0bcea201b39029cfb074ffd8,New Future,github@newfuture.cc,2019-03-24 13:01:05+00:00,,,,False,update readme
+0c216d0ad3faea120a64b11cca771d91a4d2558c,New Future,github@newfuture.cc,2019-03-24 14:21:25+00:00,,,,False,windows test
+5aa638bc7137f07665a1429783ace40e731133ea,New Future,NewFuture@users.noreply.github.com,2019-03-24 14:55:10+00:00,,,,False,Update azure-pipelines.yml
+028bf0002c8cab33082070c77227a4607feae400,New Future,NewFuture@users.noreply.github.com,2019-03-24 15:23:46+00:00,,,,False,Update azure-pipelines.yml
+f4a1766e0a96e93b88f40f3a7d07f656cf58b83e,New Future,NewFuture@users.noreply.github.com,2019-03-24 16:04:58+00:00,,,,False,Update azure-pipelines.yml
+76f33f83219c22df0cba82d8de40d256dab43d07,New Future,NewFuture@users.noreply.github.com,2019-03-29 14:27:57+00:00,,,,False,Merge pull request #49 from tongyifan/master
+9a595bd5b4d67987c6617d00b41e890ffce32071,New Future,NewFuture@users.noreply.github.com,2019-03-29 14:33:12+00:00,,,,False,Update azure-pipelines.yml
+e46ef4f56721e7218bf8bf299d0ae63f982c266d,New Future,github@newfuture.cc,2019-03-29 18:26:01+00:00,,,,False,log details
+6a1aad770296a8d72617a4dc881c6981d482baf8,New Future,github@newfuture.cc,2019-03-30 06:13:05+00:00,,,,False,release #45
+dbfa47a484625c4cb1a6ce69993d6912e0a5c778,New Future,github@newfuture.cc,2019-03-30 06:20:07+00:00,,,,False,bash copy
+c039a8b67777606235702a5ab00abe66bc2d2790,New Future,github@newfuture.cc,2019-03-30 06:50:52+00:00,,,,False,version replace
+0117bb5c60e3df3285900b3d6f97cce879381289,New Future,github@newfuture.cc,2019-03-30 09:22:47+00:00,,,,False,bash
+a20fbabc5499976534a1780882412c4d5e189c53,New Future,github@newfuture.cc,2019-03-30 09:33:03+00:00,,,,False,azure pipelines
+f28243b875777d71ced0fd5c1579d9a3656f5a48,New Future,github@newfuture.cc,2019-03-30 09:39:52+00:00,,,,False,update
+544046e0645ad1ee00390f2012b8de7d0f755c9a,New Future,github@newfuture.cc,2019-03-30 10:10:24+00:00,,,,False,update documents
+8645ac9c14840adf112022d4be7b01814ca87d4b,New Future,github@newfuture.cc,2019-03-30 10:11:51+00:00,,,,False,Travis update
+6a70a6d067a5a244cc958da95487d76beefafe5c,New Future,github@newfuture.cc,2019-03-30 10:18:17+00:00,,,,False,fixed Travis
+80775c3cac07bbe2c0941aeb672ad89d6f34f4a5,New Future,github@newfuture.cc,2019-03-30 12:37:05+00:00,,,,False,docs(release): add windows files links
+3be1a1a7aefb744d222ee92aa1cd0589e5a6437b,New Future,NewFuture@users.noreply.github.com,2019-04-02 14:50:56+00:00,,,,False,fix(DNSPOD_COM):  user_token 作为请求auth参数
+6c656ec0a172639e78c75e28a0e0ac6ec3837f56,New Future,NewFuture@users.noreply.github.com,2019-04-04 05:33:43+00:00,,,,False,Merge pull request #52 from NewFuture/NewFuture-fix-51
+a8ecc6d3c32a2ad092b7c0e50536bb1af6ca3be8,New Future,NewFuture@users.noreply.github.com,2019-04-20 08:51:33+00:00,,,,False,Merge pull request #55 from NewFuture/fix-pyinstall-ssl
+08bf8c90714cdde970397746ef3f08c9d3add9b4,New Future,NewFuture@users.noreply.github.com,2019-04-20 08:52:53+00:00,,,,False,Delete .gitattributes
+d5b9ce94f338726cd7d07f06ee517e64bea8722f,New Future,github@newfuture.cc,2019-04-20 11:05:56+00:00,,,,False,feat(log): log build os info and version
+f957481b6950eca9a266f33e07d04de3514ab483,New Future,github@newfuture.cc,2019-04-20 11:24:17+00:00,,,,False,ci(travis): replace version info
+3a0e81f5d0927985e49a5cdf4b147b903c7a13c8,New Future,github@newfuture.cc,2019-04-20 11:26:54+00:00,,,,False,ci(azure): build version
+705130a0043021c2bd8c25787890d0fa79e3fbc1,New Future,github@newfuture.cc,2019-04-20 13:51:24+00:00,,,,False,ci(azure):  build replace
+bd280480b2783bfb09d0e5436a794684734aca6d,New Future,github@newfuture.cc,2019-04-20 14:37:50+00:00,,,,False,fix(ci): macos sed replace
+7e14cbaf3fe6d831cbec700b498e4701c6d942bc,New,github@newfuture.cc,2019-04-20 15:55:55+00:00,,,,False,ci(all): sed date
+9271824cba11c46ce77d3dd283a103dd2c5ef0bc,New Future,NewFuture@users.noreply.github.com,2019-04-21 13:34:36+00:00,,,,False,Update README.md
+02f150c51bf71da68a7e10c58d7c16636cc7007a,New Future,NewFuture@users.noreply.github.com,2019-04-23 12:00:18+00:00,,,,False,fix(ssl): inject cert for windows nt
+70d57b4ea432f43e613758f657e00632fb4c5f5e,New,github@newfuture.cc,2019-05-01 14:32:23+00:00,,,,False,feat(pypi): support for pip install
+e9b2cf269646176f711f887c4c1c3169312c6346,New,github@newfuture.cc,2019-05-01 14:47:26+00:00,,,,False,feat(pypi): support wheel universal
+e8415fd7f932e8b1fb44aa9c8aff226ca587cb03,New,github@newfuture.cc,2019-05-01 14:55:09+00:00,,,,False,docs(pypi): update documents for pypi
+256b22ec3f90b365775f827c9124c879284bff56,New,github@newfuture.cc,2019-05-01 15:04:44+00:00,,,,False,ci(pypi): auto set pypi version
+a92914109aab5e970e65b4bda394bfa98c175368,New,github@newfuture.cc,2019-05-01 15:34:07+00:00,,,,False,docs(ssl):  faq for #56
+d5bfbaffcc92281aa9af90267d542aef8eeed38d,New,github@newfuture.cc,2019-05-01 15:47:08+00:00,,,,False,docs(summary): format summary
+528a8763307036a0334eaedd95172aa4137d1298,New,github@newfuture.cc,2019-05-01 16:14:07+00:00,,,,False,fix(ci): fix release
+5e8f7bf559959b15db8715017a548975884c20db,New,github@newfuture.cc,2019-05-01 16:53:56+00:00,,,,False,fix(pypi): ci version
+36c463652d49bd773df27e1d987c0ea6b848cf54,New,github@newfuture.cc,2019-05-01 17:05:25+00:00,,,,False,fix(pypi): get ci environment
+ca7ffcc9febff40e6ac4fa636eba9f8b2bee3c0d,New,github@newfuture.cc,2019-05-01 17:26:00+00:00,,,,False,fix(pypi): get ci env
+ce133d36729eff2db434bb30525f1d90bf735c4a,New,github@newfuture.cc,2019-05-01 18:25:00+00:00,,,,False,ci(pypi): add bot
+af7d21e4737daeb9af04afebce4bd6cb2b824508,New,github@newfuture.cc,2019-05-01 19:36:25+00:00,,,,False,feat(cli): version & help info
+cd77e3f94a63ca237b0bf8f2c033f82a7c7d6620,New,github@newfuture.cc,2019-05-01 20:17:14+00:00,,,,False,refactor(import): change import to import from
+b9531826639ae83789efca647239df849f46325a,New,github@newfuture.cc,2019-05-01 20:45:51+00:00,,,,False,docs(pypi): badges for pip
+a26f7ae82e45647360a5a4829a11e3887ba09fac,New,github@newfuture.cc,2019-05-02 04:47:51+00:00,,,,False,docs(release): update pip and platform
+b5db6203f753d3f7a35bf17547ece17c5522c737,New,github@newfuture.cc,2019-05-02 04:58:52+00:00,,,,False,ci(Travis): deploy skip_cleanup
+e0b18e0bbd0ba7fd0513047fd170cf7352422370,New,github@newfuture.cc,2019-05-02 05:47:21+00:00,,,,False,fix(pip): setup celan and version
+a093cdb78548c3fe454959b39299fac123e99c2a,New,github@newfuture.cc,2019-05-02 06:16:26+00:00,,,,False,ci(tavis): date time
+6b781c90ec4c72e941749a08e2189137f1bcd704,New,github@newfuture.cc,2019-05-02 06:38:28+00:00,,,,False,docs(readme): update install
+2cb59be62092ba63444a9362f48a13b859ea5e1b,New,github@newfuture.cc,2019-05-02 07:04:55+00:00,,,,False,docs(readme): update os
+347ee161240074484a5924ebb180085c621b46a2,New,github@newfuture.cc,2019-05-02 07:08:21+00:00,,,,False,ci(azure): update date time format
+656b6fb8a1aa8e092effdb927d8160173b0dfc60,New Future,NewFuture@users.noreply.github.com,2019-05-03 13:50:10+00:00,,,,False,docs(readme): 更新说明文档
+9b6dfa8eb7d528ced1f9298aa4afb45bc871cd11,New Future,NewFuture@users.noreply.github.com,2019-05-03 13:53:36+00:00,,,,False,docs(readme): fix markdown render
+2b8389f4ecab4f4376bf0481dbcf371cea2f7b00,New,github@newfuture.cc,2019-05-03 17:52:46+00:00,,,,False,feat(cli): add short ‘-v’ for version
+62858101ac9241c4b50c099922968581df5dc275,New,github@newfuture.cc,2019-05-03 18:50:18+00:00,,,,False,feat(schema): 添加cache字段是否启用缓存
+9282b00e8ef9118d161ff246afddd4f41fa25672,New,github@newfuture.cc,2019-05-03 19:03:38+00:00,,,,False,refactor(log): warning to warn
+8777b2bb735f240204293f8ba64533fda46ec72e,New,github@newfuture.cc,2019-05-03 19:12:26+00:00,,,,False,docs(readme): update 参数表
+c82eb03feea6903c6b8b29eda6536fc520c9fdc5,New,github@newfuture.cc,2019-05-03 19:19:55+00:00,,,,False,docs(readme): proxy DIRECT
+cf3951ea6ba4424aa588a8a55fc74ccf8cba31f5,New,github@newfuture.cc,2019-05-03 19:23:42+00:00,,,,False,docs(readme): fix typos
+52b61b5cb9818412f1360101187aa93f6140f794,New Future,NewFuture@users.noreply.github.com,2019-05-04 06:18:59+00:00,,,,False,fix(schema): update cache $id
+0d0144c1fbf4a8363240d258f12bb0ebf4a6a626,New Future,NewFuture@users.noreply.github.com,2019-05-04 06:27:06+00:00,,,,False,docs(readme): update example config
+bccb8406bbcd713c847088c85ecabe483052f700,New,github@newfuture.cc,2019-05-04 08:32:54+00:00,,,,False,fix(schema): update all to v2
+5400a41049859e1280406f6c0502fa72eab5bdad,New Future,NewFuture@users.noreply.github.com,2019-06-18 04:14:55+00:00,,,,False,Merge pull request #62 from xufan6/patch-1
+2763d34c73c2cf0ec2ef1a902fc9bc2f5f8d5482,New Future,NewFuture@users.noreply.github.com,2019-07-26 07:11:12+00:00,,,,False,Merge pull request #70 from NewFuture/fix-dnspod-get-domain-id
+ec8d3c83c372b451e6b30535b8805fb079da8f56,New Future,NewFuture@users.noreply.github.com,2019-08-12 03:27:24+00:00,,,,False,Merge pull request #79 from NewFuture/feat-cmd-as-ip
+fbc713a34e2b97806d598b0d13b2749aa54c6b80,New Future,NewFuture@users.noreply.github.com,2019-09-03 14:03:02+00:00,,,,False,Merge pull request #81 from china-shang/master
+39a54ab76ae4a0269e300e7230a7bee49d7d6eb9,New Future,NewFuture@users.noreply.github.com,2019-09-14 08:13:20+00:00,,,,False,Merge pull request #86 from NewFuture/release-draft
+4fc7c14516680975aff4131e419c0a6afe9c685d,New Future,NewFuture@users.noreply.github.com,2019-09-14 10:01:45+00:00,,,,False,Merge pull request #87 from NewFuture/refact-dnspod
+1b6decb3c3de5c50ea27875e3177279503368b54,New Future,NewFuture@users.noreply.github.com,2019-09-14 10:36:00+00:00,,,,False,Merge pull request #88 from NewFuture/fix-dnspod_com
+a7d45cd77f94d9e7633698435089f465ff16eec2,New Future,NewFuture@users.noreply.github.com,2019-09-14 12:48:24+00:00,,,,False,Merge pull request #89 from NewFuture/refact-config-log
+89ae02bae1a5cd2b67abfca550d5f1c79ba4d770,New Future,NewFuture@users.noreply.github.com,2019-09-15 08:45:17+00:00,,,,False,Merge pull request #90 from NewFuture/feat-url-open
+10d5e8aadb896ab5388f8e8ded500dedded1238a,NewFututre,github@newfuture.cc,2019-09-15 15:24:11+00:00,,,,False,style(readme): markdown
+5f86fa5bd0b92a95ca0e9551cbdc339d5b9cb867,NewFututre,github@newfuture.cc,2019-09-15 15:26:26+00:00,,,,False,style(readme): markdown indent
+b94851cce2bbcc56be58b0cec7322b2d60ab7dc5,New Future,NewFuture@users.noreply.github.com,2019-09-28 08:31:46+00:00,,,,False,Merge pull request #98 from NewFuture/NewFuture-patch-1
+373a5a870709505af4608bd105d91333c6d1566a,New Future,NewFuture@users.noreply.github.com,2019-10-24 11:13:02+00:00,,,,False,Merge pull request #102 from tongyifan/master
+007a41a8d99e61861900005508c40834f549eb10,New Future,NewFuture@users.noreply.github.com,2019-11-02 14:01:11+00:00,,,,False,Merge pull request #105 from NewFuture/fix-dnspod_com-104
+bc4982963cabc240a5ff9702ea245684406bcbd0,New Future,NewFuture@users.noreply.github.com,2019-11-06 14:18:20+00:00,,,,False,Merge pull request #107 from NN708/master
+becc3e838e33c23b7f61e0fbb8c79317a5e2c90a,New Future,NewFuture@users.noreply.github.com,2019-11-19 05:52:12+00:00,,,,False,Merge pull request #110 from NewFuture/feat-ttl
+265a1cd327369d354d057fb0ff97d5df6e280676,New Future,NewFuture@users.noreply.github.com,2019-11-19 15:16:02+00:00,,,,False,Merge pull request #113 from KeyPJ/cloudflare-use-api-token
+3c29b08cb7bd7987ce1d066863b2f1fdfd44e098,New Future,NewFuture@users.noreply.github.com,2019-12-26 08:37:51+00:00,,,,False,Merge pull request #121 from NewFuture/fix-ipv6-reg
+451d51bce84dc6a44221b4e6c5428ad609cbc4ec,New Future,NewFuture@users.noreply.github.com,2020-01-17 12:12:21+00:00,,,,False,Update issue templates
+3e34b29e00b49679ef50673131cd35d00ea9bc34,New Future,NewFuture@users.noreply.github.com,2020-01-17 12:15:29+00:00,,,,False,Delete debug-----.md
+0b5f2ad8b07081dd67624c8977fea2d0eeca9543,memorz,chenyanbo@bipt.edu.cn,2020-02-24 12:46:47+00:00,,,,False,Huaweidns (#132)
+c7a3c13945d030c966c9ee5d78f0cb73f1de6e3a,New Future,NewFuture@users.noreply.github.com,2020-03-03 09:37:30+00:00,,,,False,Merge pull request #137 from cybmp3/patch-1
+98898c9e2ccc17147c315f1677bc631f44d84056,New Future,NewFuture@users.noreply.github.com,2020-03-12 09:59:00+00:00,,,,False,Merge pull request #146 from shiyugege/master
+9ec31b2006a4bd7ccf298c755b81bc737d015688,New Future,NewFuture@users.noreply.github.com,2020-03-12 10:23:23+00:00,,,,False,Merge pull request #147 from NewFuture/NewFuture-macos-latest
+8531bcb5a9a4cb5a73e58fa342026e06c4999bb6,New Future,NewFuture@users.noreply.github.com,2020-03-19 10:05:10+00:00,,,,False,Merge pull request #151 from gyf9835/patch-1
+a96e2ef66414f426999d94f624f8a28e22152eb1,New Future,NewFuture@users.noreply.github.com,2020-03-24 10:27:05+00:00,,,,False,Merge pull request #157 from NewFuture/fix-cloudflare-api-token-condition
+f36e31d3534e436d8f5a95f7521e5af024716fdb,New Future,NewFuture@users.noreply.github.com,2020-03-24 12:21:22+00:00,,,,False,Merge pull request #158 from NewFuture/doc-cloudflare
+63f5f303326e8e5fff9417925bfe76d9141dc2ac,New Future,NewFuture@users.noreply.github.com,2020-03-26 13:01:20+00:00,,,,False,Merge pull request #161 from NewFuture/NewFuture-fix-spec-1
+3fa327061017a7c047249771cbd0fad4fdcca2ab,New Future,NewFuture@users.noreply.github.com,2020-03-27 05:04:06+00:00,,,,False,Merge pull request #162 from laozhoubuluo/laozhoubuluo-patch-1
+dd45dfbc9df8c88862181bbab7ace6e47d251294,New Future,NewFuture@users.noreply.github.com,2020-04-03 12:12:29+00:00,,,,False,Merge pull request #169 from laozhoubuluo/fix-task-on-release
+ad15059cbf4bd4dccde2e65f94092020a5dccff8,老周部落,31075951+laozhoubuluo@users.noreply.github.com,2020-04-12 05:27:45+00:00,,,,False,feat(dnsprovider): support custom callback api (#170)
+5490428467024321d8b33c585324a1175cd87f2b,New Future,NewFuture@users.noreply.github.com,2020-04-21 09:07:09+00:00,,,,False,Merge pull request #175 from GoldJohnKing/master
+da55d713f869d74f3eeedc107eea5db8f28a6698,New Future,NewFuture@users.noreply.github.com,2020-04-24 09:48:44+00:00,,,,False,Merge pull request #176 from GoldJohnKing/master
+1bcf03080ef75540f5fee246663c7d1cd542de60,New Future,NewFuture@users.noreply.github.com,2020-07-20 06:24:48+00:00,,,,False,Merge pull request #186 from NN708/master
+ddbdc163e8c096fad9d38ee0c4fada7b09cd3d68,New Future,NewFuture@users.noreply.github.com,2020-07-22 03:43:18+00:00,,,,False,Merge pull request #187 from NN708/docker
+e424df37296c2183853f0261bb9cb22963d23b90,Yifan Tong,tongyfan@gmail.com,2020-07-22 04:05:24+00:00,,,,False,feat(config): index4/6允许使用列表提供多个规则 (#188)
+daaa1de1191afc38fdf0d5a6f1864c1210df725a,New Future,NewFuture@users.noreply.github.com,2020-08-03 04:28:53+00:00,,,,False,Merge pull request #190 from NewFuture/develop
+42b52da44a56dd52734297e72e34d56d8d5c344f,New Future,NewFuture@users.noreply.github.com,2020-08-03 09:55:31+00:00,,,,False,Merge pull request #193 from NewFuture/pr-docker
+ef547aa5a364a587e4791bab24c9e670c4a0dea0,New Future,NewFuture@users.noreply.github.com,2020-08-03 10:12:23+00:00,,,,False,Merge pull request #195 from NewFuture/pr-docker
+67599fb5678a702aac713954bef6bdec92558bda,New Future,NewFuture@users.noreply.github.com,2020-08-03 10:17:50+00:00,,,,False,fix ci docker
+7697757f1fb0f663e6f84f4a05548727be5b96e8,New Future,NewFuture@users.noreply.github.com,2020-08-03 10:21:04+00:00,,,,False,fix ci docker
+9300fde9f8a0cb7aff7478796ff8b2766ec5484e,New Future,NewFuture@users.noreply.github.com,2020-08-03 10:26:21+00:00,,,,False,fix ci docker
+803008b967661b580197b7ee2a64400ebc27b988,New Future,NewFuture@users.noreply.github.com,2020-08-03 10:31:23+00:00,,,,False,fix ci docker github
+f42b3c3e46c21999c77667632fcf620cde77580a,New Future,NewFuture@users.noreply.github.com,2020-08-03 11:30:25+00:00,,,,False,Merge pull request #196 from NewFuture/docker-ci
+6cb78982a563fb9627316aa380576e0b76fb8e0b,New Future,NewFuture@users.noreply.github.com,2020-08-03 11:35:24+00:00,,,,False,Update docker-github.yml
+e4d6a692f9b71ff8157648d975bc4718eb855357,New Future,NewFuture@users.noreply.github.com,2020-08-04 08:29:19+00:00,,,,False,Update dockerhub.yml
+65ebb99169ee33ed6634fade38526559f1812ba6,New Future,NewFuture@users.noreply.github.com,2020-08-04 08:30:34+00:00,,,,False,Update docker-github.yml
+e1ad9a2badf9ff71fb216f9df6bb6834a9650fbd,New Future,NewFuture@users.noreply.github.com,2020-08-04 08:57:14+00:00,,,,False,docker hub edge version
+4e0de3d02b3ec41087e4d87dfbb2f7c375459686,New Future,NewFuture@users.noreply.github.com,2020-09-07 09:52:50+00:00,,,,False,Merge pull request #201 from xufan6/patch-ubuntu-travis
+2cefc75154a1b93d363ba609fdda73cf1afcf8f7,New Future,NewFuture@users.noreply.github.com,2020-09-07 14:33:59+00:00,,,,False,Merge pull request #203 from NewFuture/update-cache
+8759cc8361c1f007762ca15ee39d4bb39fe2072f,New Future,NewFuture@users.noreply.github.com,2020-10-11 05:48:40+00:00,,,,False,Merge pull request #207 from xiongnemo/patch-1
+f74f548e4fd9e486c83ef377c60778f3f63685ee,New Future,NewFuture@users.noreply.github.com,2020-10-14 13:27:09+00:00,,,,False,Merge pull request #208 from jackhhh/patch-1
+2c28b5c5558488a227b752a55441b6df319636ef,New Future,NewFuture@users.noreply.github.com,2020-10-16 12:00:24+00:00,,,,False,Merge pull request #209 from jackhhh/patch-2
+0417d15e307ffeac4dc26f5b0a7527c2121b2ba6,空言,43477078+soragotosann@users.noreply.github.com,2020-11-24 14:27:34+00:00,,,,False,update systemd install script (#216)
+cb5541718ccedfb583e980025acdcddeaac71384,libshikieiki,pmx42@live.cn,2020-12-17 10:59:12+00:00,,,,False,Fix shebang typo (#217)
+4ed12051569eef4175f4f77e2dfb52298d82033f,New Future,NewFuture@users.noreply.github.com,2021-02-18 03:43:25+00:00,,,,False,fix callback #222 (#224)
+982cfb969b2dea538f8938da3033a77e7b40c8b1,New Future,NewFuture@users.noreply.github.com,2021-02-18 09:20:49+00:00,,,,False,update buildx (#226)
+ee79310acc9aa748a16254ca2d1d7356d4262a10,New Future,NewFuture@users.noreply.github.com,2021-02-18 09:26:17+00:00,,,,False,Update dockerhub.yml
+d3b033a0088eb8f1678040fdd86e436cbb6069dd,New Future,NewFuture@users.noreply.github.com,2021-02-18 09:40:37+00:00,,,,False,Update Dockerfile
+4ef3fa764b8ff25592bfb77101a48bd42bf039c0,New Future,NewFuture@users.noreply.github.com,2021-02-18 09:43:20+00:00,,,,False,Update dockerhub.yml
+62eed8bb943a219065a0fff13ab0d81edc16f891,New Future,NewFuture@users.noreply.github.com,2021-02-18 09:49:15+00:00,,,,False,Update dockerhub.yml
+56df5f609087eb86211f49297d921a0447d0028e,狂男风,CrazyBoyFeng@Live.com,2021-03-24 03:58:20+00:00,,,,False,fix #231 change signature() encoding method to quote() to meet docs of alidns (#238)
+e327858d0c851e76269d88df588b88f6cddc9d9f,xufan6,xufan6@gmail.com,2021-03-30 08:37:17+00:00,,,,False,fix regex_v6 string (#239)
+e0a1390ddfcf9405a621fafbf9846a38493132ab,New Future,NewFuture@users.noreply.github.com,2021-04-07 12:11:33+00:00,,,,False,fix #173 domain pattern to match start with * (#245)
+a21a0d8857ff730d34dcc69920776b3803a61a7e,FerricIon,com.github.ferricion@ferric.top,2021-04-13 03:36:26+00:00,,,,False,Update run.py (#253)
+18c738696a6d61b09e2e15327b8213b4401b6f75,New Future,NewFuture@users.noreply.github.com,2021-04-13 03:54:01+00:00,,,,False,update Azure pipelines Status badge
+ccd96dfd99cad6aafcc02692a3b61beb94e1e0e5,狂男风,CrazyBoyFeng@Live.com,2021-04-16 08:29:25+00:00,,,,False,fix quote_via not compatible with Python2 (#255)
+cd4c7dec36653c362a7c1bbb5dd4e505c824c565,New Future,NewFuture@users.noreply.github.com,2021-04-16 09:48:39+00:00,,,,False,ignore venv
+35ee01f9a67e6346a0e70bf38552f6e13cf135c9,New Future,NewFuture@users.noreply.github.com,2021-06-23 02:36:54+00:00,,,,False,Merge pull request #269 from NewFuture/feat-cli-config
+62b30a6b4dfb5de3b8dc8f87f082dd444077e80e,New Future,NewFuture@users.noreply.github.com,2022-03-13 05:26:16+00:00,,,,False,ci(azure): fix macOS python
+4d42a1f8780031aae87c9e1eee14eb8bc4ff4ce8,New Future,NewFuture@users.noreply.github.com,2022-03-13 05:26:19+00:00,,,,False,Merge branch 'master' of https://github.com/NewFuture/DDNS
+83e71acbc0596f7bfdea204295388e238458d3bd,New Future,NewFuture@users.noreply.github.com,2022-03-13 05:46:08+00:00,,,,False,ci(azure): remove python2.7 on MacOS
+95de71dca5f023b78d96ca8b440232258ab823c2,New Future,NewFuture@users.noreply.github.com,2022-03-13 06:00:18+00:00,,,,False,ci(azure): remove python2.7 windows
+8edd11dd3f242fb6115af712a93d90b1bc5d2c23,New Future,NewFuture@users.noreply.github.com,2022-03-13 09:28:07+00:00,,,,False,feat(cf): keep proxied config in cloudflare (#314)
+e495d775a0cfce24b8fbfe715ed7d4f003397cdc,Anankke,anankke@protonmail.com,2022-07-12 11:45:58+00:00,,,,False, Fix CloudFlare list domain #324 (#325)
+167da238f92893fd3a5292bf2e6493cd46430e4f,New Future,NewFuture@users.noreply.github.com,2022-07-12 12:04:55+00:00,,,,False,Create python-build.yml
+b133568a22b9e9a4a0eef73906307d0e8edff604,New Future,NewFuture@users.noreply.github.com,2022-07-12 12:39:05+00:00,,,,False,py2 build
+edc9c8c5118630eefae51fced4366b603e55ac37,New Future,NewFuture@users.noreply.github.com,2022-07-12 13:22:03+00:00,,,,False,fix lint
+9579ae1ec7ca8742d76c4154df154d0fdc77a6f5,New Future,NewFuture@users.noreply.github.com,2022-07-13 11:56:25+00:00,,,,False,(doc):remove interface  (#327)
+d4b397da8a357e421e01bf61cfe903a93e6ae542,New Future,NewFuture@users.noreply.github.com,2022-07-13 12:39:19+00:00,,,,False,fix(dnspod_com): resolve #286 (#329)
+5e82c6834005bbdd9055a4f533b05bfc813b1543,New Future,NewFuture@users.noreply.github.com,2022-07-23 08:11:06+00:00,,,,False,test publish pypi with github actions (#331)
+531130f089eb988280e7ed71f408d4de302a81c6,New Future,NewFuture@users.noreply.github.com,2022-07-23 08:22:01+00:00,,,,False,fix azure pipelines build (#332)
+232c9e03b3ba659f437045c0c9072d4eed3bf79b,New Future,NewFuture@users.noreply.github.com,2022-07-23 08:29:01+00:00,,,,False,move files (#333)
+7b13f24967db56e471be660f36c2823da2337d6c,New Future,NewFuture@users.noreply.github.com,2022-07-23 09:07:47+00:00,,,,False,fix pypi build (#334)
+3d4fd68d32b48654f3cadf9ce51294f790fd431a,New Future,NewFuture@users.noreply.github.com,2022-07-23 09:11:30+00:00,,,,False,fix pypi release actions
+816a2655009dafa5ad66c04c0ce42a2d925c1a2b,New Future,NewFuture@users.noreply.github.com,2022-07-24 03:05:49+00:00,,,,False,doc(README.md): update badge (#335)
+1c6bea688b69882cd1d9bdb6e228eb2c8b1b5dc4,New Future,NewFuture@users.noreply.github.com,2022-07-26 13:41:55+00:00,,,,False,build(matrix): multi-os in github actions (#336)
+6731ca549c8904bbfb0abd19725dfe8e37f37a62,New Future,NewFuture@users.noreply.github.com,2022-07-27 02:14:56+00:00,,,,False,build(build.yml): ref name (#337)
+159a874d280f11d3f55694f68d398a90e3d57238,New Future,NewFuture@users.noreply.github.com,2022-07-27 12:49:56+00:00,,,,False,build(build.yml): ref name (#337) (#338)
+fea8f7424a4421e7471dc72a16afeaaff679118f,New Future,NewFuture@users.noreply.github.com,2022-07-27 13:00:42+00:00,,,,False,build(pypi): fix preview release
+12f0c2e00babc8990daaef688001cb4ce40a1c6a,New Future,NewFuture@users.noreply.github.com,2022-07-27 13:11:40+00:00,,,,False,buildgithub-docker):login
+b0491a197e7667fd0d72bf1acc414d8c0fb402a3,New Future,NewFuture@users.noreply.github.com,2022-07-27 13:19:18+00:00,,,,False,buildgithub-docker):tags
+3a75eee8a9d1e1222de137b1bf0904487b3e49ef,New Future,NewFuture@users.noreply.github.com,2022-07-27 13:25:05+00:00,,,,False,buildgithub-docker):images
+5bdf1a424b1cf61e01bca935d61129d908815edc,New Future,NewFuture@users.noreply.github.com,2022-07-28 02:14:53+00:00,,,,False,change permission
+653aca1e794a35baba437dd966d47a31973533fe,New Future,NewFuture@users.noreply.github.com,2022-07-28 02:20:28+00:00,,,,False,update url
+7a1bf5cc6a39741c15ba41e7fbb887b3ceb2664e,New Future,NewFuture@users.noreply.github.com,2022-07-28 03:46:07+00:00,,,,False,remove azure pipelines (#339)
+586862d0b37912aaf0bc17a55abb5188b1f36fbd,New Future,NewFuture@users.noreply.github.com,2022-07-28 04:24:46+00:00,,,,False,ci(docker): docker preview
+772cc510bb64122a1af5d1954f9680743ceb6a70,New Future,NewFuture@users.noreply.github.com,2022-07-28 04:35:21+00:00,,,,False,merge github actions
+ecca03760f9886788bbd2d5cb16ebe4b64528fa8,New Future,NewFuture@users.noreply.github.com,2022-07-28 10:34:33+00:00,,,,False,Replace version (#340)
+573731d95294ef710acaec7d664c60a4623fa702,New Future,NewFuture@users.noreply.github.com,2022-07-28 12:23:20+00:00,,,,False,ci(publish.yml): release steps
+da649a06129da39527d289581678c5f3abfd7c13,New Future,NewFuture@users.noreply.github.com,2022-07-28 12:39:48+00:00,,,,False,ci(release): upload
+401ef292f337149be0e212d17fe2c1f8b3d55d97,New Future,NewFuture@users.noreply.github.com,2022-07-28 12:58:08+00:00,,,,False,ci(publish): v* for tag
+3b812ef575b8c040eb81790486e1a8a5cbbc90c0,New Future,NewFuture@users.noreply.github.com,2022-07-28 13:08:29+00:00,,,,False,ci(publish): upload files
+838e550cb9f6db525637841a42e160d12f9a2430,New Future,NewFuture@users.noreply.github.com,2022-07-28 13:32:19+00:00,,,,False,ci(publish): fix release
+9d059186ba3a314f7757babf5a093137900920e7,New Future,NewFuture@users.noreply.github.com,2022-07-28 13:47:01+00:00,,,,False,ci(publish): fix upload
+70952ca777059146e0765754bd72e6fa4f9bcf5c,New Future,NewFuture@users.noreply.github.com,2022-07-28 14:19:29+00:00,,,,False,doc(readme):update release badge (#341)
+881d9333fb05a9b77e9cfca449d493274e0edf80,New Future,NewFuture@users.noreply.github.com,2022-07-28 14:45:51+00:00,,,,False,ci(publish.yml): update action-gh-releas (#342)
+93b3e51bfdcb683fa471e162e705e8e3bf3389d3,New Future,NewFuture@users.noreply.github.com,2022-07-30 07:40:02+00:00,,,,False,doc(issue):update templates (#345)
+80ad78e69fe34f74c8e1ec3ae0b45fdac0b9d335,New Future,NewFuture@users.noreply.github.com,2022-08-07 14:23:33+00:00,,,,False,using py2 for bundles (#347)
+3680c2088c9d8a6d6bae97540cb5714ae4a2416a,OOOOOO0OOO000oo,35266436+IIIlllIIllIIIll@users.noreply.github.com,2022-09-09 02:59:38+00:00,,,,False,fix: schema add cache property (#354)
+c3c752d1931eb1f29d683ade5ddad6627993edd3,New Future,NewFuture@users.noreply.github.com,2022-11-28 16:36:19+00:00,,,,False,fix flake3 f401 (#374)
+429b1cfcfd3476d098fc521ce79e64fc3e1d2be9,char46,53117560+char-46@users.noreply.github.com,2022-11-28 16:41:28+00:00,,,,False,修改不稳定的公网IP查询服务api (#368)
+60a3aa266915d0b3f187b79b6ae07ae48e9bb3fa,老周部落,31075951+laozhoubuluo@users.noreply.github.com,2022-12-01 08:01:55+00:00,,,,False,feat(run): support add time when change dns record (#372)
+a1a8f8565c80d9702a49fcb45f18b32dfb4dba26,老周部落,31075951+laozhoubuluo@users.noreply.github.com,2022-12-04 04:04:33+00:00,,,,False,feat(run): support custom cache file (#376)
+b6bf4e40195efbb8a8c648c95a709710a900d342,New Future,NewFuture@users.noreply.github.com,2023-04-19 10:05:16+00:00,,,,False,skip pyinstaller for py 2.7 (#393)
+a9f381e84489bfca05979f90b9351c8e26a7f434,LeadroyaL,LeadroyaL@users.noreply.github.com,2023-04-19 10:34:46+00:00,,,,False,修复cache为False时的崩溃问题 (#389)
+2a6d9af2169f606ac161fb9201bdbaee3323b6f3,New Future,NewFuture@users.noreply.github.com,2023-04-19 11:00:12+00:00,,,,False,fix windows release (#394)
+e18188dab23a86c53a1f4b244a6549edd39d9bfd,New Future,NewFuture@users.noreply.github.com,2023-04-19 11:44:07+00:00,,,,False,fix release (#395)
+4fcd03b4e04bda6230c391366d8969f6958cb80a,rxBit,hazytint@gmail.com,2023-05-16 07:15:09+00:00,,,,False,fix: proxy config (#398)
+63bfc5a5b4c3a0338a035a01f938a1e70f45701c,New Future,NewFuture@users.noreply.github.com,2024-02-14 09:01:18+00:00,,,,False,V3 (#423)
+605d89dc98eafd7bcfd46503a7c520f38e8f1bbc,马特浩倪,smile.used@hotmail.com,2024-02-14 09:07:19+00:00,,,,False,服务商修改了地址 (#420)
+863c8f0d5c1a40c6c51188f3e2075a9b9a81219e,LeadroyaL,LeadroyaL@users.noreply.github.com,2024-02-14 09:17:13+00:00,,,,False,修复windows下定时任务重定向失败的BUG (#414)
+28471a33517cda90ee45acb573e2b1fd7ba14f2c,b1n23,97284148+b1n23@users.noreply.github.com,2024-02-26 03:32:13+00:00,,,,False,华为云支持配置TTL (#424)
+530d14c35fb3c4c717f8ecf3f88250b1e6e053b9,老周部落,31075951+laozhoubuluo@users.noreply.github.com,2024-04-06 15:06:46+00:00,,,,False,fix(run): domain name uniformly lowercase to avoid problems (#433)
+6e012847bdce848837d34bd53aca628a908e7ed7,char46,haosiru@h-sr.cn,2024-04-18 14:06:23+00:00,,,,False,修改UA。 (#435)
+732c5f8c0e5dfd77676d94e47cd55c1653a939cd,char46,haosiru@h-sr.cn,2024-04-19 11:15:49+00:00,,,,False,修改查询IP的API。 (#436)
+77818615c041b00aa8aeecba1bb5b551b15b170f,Elec4d0,56445378+Elec4d0@users.noreply.github.com,2024-06-27 02:58:08+00:00,,,,False,希望能更改linux系统下，index6 正则获取本地ip的命令优先级 (#441)
+a78afc74a373c8fa0f39b109e098157a00c6e8ee,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2024-09-11 03:29:00+00:00,,,,False,build(deps): bump actions/download-artifact from 3 to 4.1.7 in /.github/workflows (#446)
+6eba6b2b0084669ca4efbe92fb31a1c4e0e85379,New Future,NewFuture@users.noreply.github.com,2025-04-09 10:07:58+00:00,,,,False,fix build pipelines
+62093cac360eb7745470de96cb17a2ef2deaf750,New Future,NewFuture@users.noreply.github.com,2025-04-09 10:09:52+00:00,,,,False,remove unused vars
+b7a6aee7d4eaaf519f78aaa3ef7ff14718a38549,ZCTMDC,zctmdc@outlook.com,2025-04-09 11:24:08+00:00,,,,False,get_ip whith try/catch (#453)
+58ceb45d6c8df114ae6791cd0a7c24324207a20b,New Future,NewFuture@users.noreply.github.com,2025-04-09 11:46:34+00:00,,,,False,fix(run): remove legacy regex support and fix lint (#454)
+232f46162de7d2d31b685ebb1d49336302a99160,New Future,NewFuture@users.noreply.github.com,2025-04-09 11:57:06+00:00,,,,False,feat(docker): more architecture platforms (#455)
+c0cf03408358fa2e5f887aa42c15e794aaf3ac3b,New Future,NewFuture@users.noreply.github.com,2025-04-09 12:17:26+00:00,,,,False,test docker
+9a4e8252bd395d34443fb215bead89e69521e7df,New Future,NewFuture@users.noreply.github.com,2025-04-09 12:20:48+00:00,,,,False,back to arm
+d61253b49c3eb1c28e77091ab0492cd2ac27f672,New Future,NewFuture@users.noreply.github.com,2025-04-09 12:26:51+00:00,,,,False,update publish
+b426d2e9e53fe847e8d040eee943a1a52bf9215f,New Future,NewFuture@users.noreply.github.com,2025-04-09 12:50:28+00:00,,,,False,fix release
+01028d7927bbd9103daeb61cafc5dd9acbf3ec4e,New Future,NewFuture@users.noreply.github.com,2025-04-09 12:53:05+00:00,,,,False,set prerelease = false
+05e3669a97b774f2c7c9ab22e6b0345bf8368dc1,New Future,NewFuture@users.noreply.github.com,2025-04-09 18:32:12+00:00,,,,False,Update publish.yml
+c513137adbeac0f36c1dc2003b735a1352186c05,New Future,NewFuture@users.noreply.github.com,2025-04-09 18:40:44+00:00,,,,False,update docker release
+be27971a124975dd6ecb130b6ccd01f17cfae436,New Future,NewFuture@users.noreply.github.com,2025-04-09 18:49:29+00:00,,,,False,Update publish.yml
+39d5d096f05809fdfbb04bbb785e355f73c196bb,New Future,NewFuture@users.noreply.github.com,2025-04-09 18:59:56+00:00,,,,False,Update publish.yml
+defe8148123854a260e0deb5b2233254c34ca47b,New Future,NewFuture@users.noreply.github.com,2025-04-10 06:50:17+00:00,,,,False,Update build.yml
+430380c3366a193ad335d9b234500bc15a673135,New Future,NewFuture@users.noreply.github.com,2025-04-10 06:56:45+00:00,,,,False,Update build.yml
+7cf577e85802239edf39e46afb88c92334a87697,New Future,NewFuture@users.noreply.github.com,2025-05-26 16:21:47+00:00,,,,False,using Nuitka for binary (#456)
+4260629751818164ab458ea1a3cb53e5ea1d06fa,New Future,NewFuture@users.noreply.github.com,2025-05-27 01:14:27+00:00,,,,False,docker build multi-arch (#457)
+6c0dccfbe0c9633d9340e2313f94996b643b63cb,New Future,NewFuture@users.noreply.github.com,2025-05-27 01:37:10+00:00,,,,False,fix docker release job
+e5eab2a5fa62e574e9183a32299d247e159ce292,New Future,NewFuture@users.noreply.github.com,2025-05-27 02:12:15+00:00,,,,False,add libffi-dev
+d5601466f7096d5c967ffc97ddc07454837d4d90,New Future,NewFuture@users.noreply.github.com,2025-05-27 19:11:55+00:00,,,,False,PR 检查docker 架构  (#458)
+ed05d4094678fa814dae25d2fd71773c73a6a499,New Future,NewFuture@users.noreply.github.com,2025-05-27 19:16:49+00:00,,,,False,fix build
+f608515a8246e5aa5f2683c4f76796026cdf78bc,New Future,NewFuture@users.noreply.github.com,2025-05-27 19:19:40+00:00,,,,False,fix build
+4117a2009ea4813d26a360a05c587e88e498bf96,New Future,NewFuture@users.noreply.github.com,2025-05-28 02:26:19+00:00,,,,False,docker standalone
+3621736f77cdd3e3b7f4f45225391c5bcf7afba6,New Future,NewFuture@users.noreply.github.com,2025-05-28 04:42:24+00:00,,,,False,docker onefile
+4f82472c540523c5ff69db83013fdcf503366ce5,New Future,NewFuture@users.noreply.github.com,2025-05-28 17:13:13+00:00,,,,False,优化docker镜像 (#459)
+1b48a6999a3ed6179693b2c5df113d8a76ed8005,New Future,NewFuture@users.noreply.github.com,2025-05-29 15:49:58+00:00,,,,False,Reintroduce Python 2 Compatibility in setup.py (#460) (#462)
+e667f5b3aeb73ab07e69d585e8ef8941e3e0e107,New Future,NewFuture@users.noreply.github.com,2025-05-30 18:36:47+00:00,,,,False,redesign icons (svg logo + favicon) (#461)
+3baf48a21aeb0714ce31d5fce86ac1796739a043,New Future,NewFuture@users.noreply.github.com,2025-06-01 19:12:33+00:00,,,,False,build Linux version in centos docker fix glibc (#464)
+da19b8c0c431cd66385ac8067243ae7d337011ba,New Future,NewFuture@users.noreply.github.com,2025-06-02 08:16:27+00:00,,,,False,"更新配置文件模式至v4.0 重构日志配置,(#465)"
+d0103bb389c860b78562b6f43fb4f0dc52f0bb5d,New Future,NewFuture@users.noreply.github.com,2025-06-02 18:53:52+00:00,,,,False,Update release actions and documentation and config (#466)
+3caaf6eaa5aacfd0886b578592d837c833494a3b,New Future,NewFuture@users.noreply.github.com,2025-06-03 12:48:18+00:00,,,,False,fix GitHub publish
+3b7d291bd513c927c357f3e6bb3a98f42fbf2b30,New Future,NewFuture@users.noreply.github.com,2025-06-03 13:33:05+00:00,,,,False,优化ico (#467)
+ce513c584ea2e982d57692efaf9a29445f4695a3,New Future,NewFuture@users.noreply.github.com,2025-06-04 03:08:22+00:00,,,,False,add edge tag for beta release docker
+f5602d8f4c80e46d60013a9e41ea53c9fbff1b69,New Future,NewFuture@users.noreply.github.com,2025-06-04 03:25:57+00:00,,,,False,update release badge
+618f08ee7cb10d739c23446d63a9d40f364d80e2,New Future,NewFuture@users.noreply.github.com,2025-06-04 14:49:05+00:00,,,,False,"feat(config): 优化配置文件加载逻辑,支持用户目录和系统目录  (#468)"
+88d059b4bc55fa77f666d9a03d1351483a79ed78,New Future,NewFuture@users.noreply.github.com,2025-06-05 13:32:36+00:00,,,,False,update pypi preview
+2cd2bcb4b177163d07e139ec842abde9df7117dd,New Future,NewFuture@users.noreply.github.com,2025-06-05 14:05:40+00:00,,,,False,install deps from apk (#469)
+484b9701a5530577f3353381ff0b9a99f45c4929,New Future,NewFuture@users.noreply.github.com,2025-06-06 04:21:14+00:00,,,,False,build(docker): 优化build检查和push tag (#470)
+521f5e81379ef1cf342f273d025f85c0277ac465,New Future,NewFuture@users.noreply.github.com,2025-06-06 14:17:11+00:00,,,,False,build(docker): lock alpine main version to 3.21 (#471)
+3e155e31b034c7fd842e8032bdf1173ecf703199,New Future,NewFuture@users.noreply.github.com,2025-06-06 14:41:07+00:00,,,,False,test merged publis
+cc534476546ccf6c5c9d74cc58d66d96631ba5fb,New Future,NewFuture@users.noreply.github.com,2025-06-06 15:45:27+00:00,,,,False,fix upload
+c021157e15e655a355ca7a80382c736d2fb55478,New Future,NewFuture@users.noreply.github.com,2025-06-06 17:29:35+00:00,,,,False,create image
+4d964f185031200f5328b614b0bf0bc84d912e6d,New Future,NewFuture@users.noreply.github.com,2025-06-06 18:33:47+00:00,,,,False,Update build.yml
+28e27484f11383e75b9de8a9c827f9d2f401b4c3,New Future,NewFuture@users.noreply.github.com,2025-06-08 15:55:28+00:00,,,,False,buid(bin):binary musl  for 路由嵌入式设备(#472)
+fd183b477d6ddbb2dbf15193fc9e1a3661423263,New Future,NewFuture@users.noreply.github.com,2025-06-08 16:12:31+00:00,,,,False,test push
+436dc347a6f0204ffca0e3705f837da161fc1334,New Future,NewFuture@users.noreply.github.com,2025-06-08 17:02:05+00:00,,,,False,update
+b3e178d2c68406b76548780c6060e60ac6c8dbf5,New Future,NewFuture@users.noreply.github.com,2025-06-08 18:03:39+00:00,,,,False,fix
+1c4306461716c7a905fa0e8aedfa78d90a6c403d,New Future,NewFuture@users.noreply.github.com,2025-06-09 01:30:05+00:00,,,,False,fix image merge
+2e970944066f56e4efaffb9ecd7435a9d0ed853c,New Future,NewFuture@users.noreply.github.com,2025-06-09 01:52:51+00:00,,,,False,fix docker build
+6a400889f3bb56182c77e6da2e01665810de5411,New Future,NewFuture@users.noreply.github.com,2025-06-09 02:10:21+00:00,,,,False,tags
+1e23547938279f231164ed6f6e4dd49121ddaf7d,New Future,NewFuture@users.noreply.github.com,2025-06-09 02:19:21+00:00,,,,False,fix tags
+7598a5c73f9892154ca6346e789fbbad02709a61,New Future,NewFuture@users.noreply.github.com,2025-06-09 02:21:57+00:00,,,,False,fix tags
+66ceb4ee929901e19426082fdc231bb6a0e2fcda,New Future,NewFuture@users.noreply.github.com,2025-06-09 02:28:14+00:00,,,,False,fix test
+c95365fa8bba1bf93ad75402fc8449376b2ee506,New Future,NewFuture@users.noreply.github.com,2025-06-09 03:13:40+00:00,,,,False,fix docker buildx imagetools create
+dedb8f2bccde7b364b7cebe3f974fe24539f5678,New Future,NewFuture@users.noreply.github.com,2025-06-09 13:09:14+00:00,,,,False,fix docker build
+1c3e0ed2d833085585bf11a36d661510ddc87135,New Future,NewFuture@users.noreply.github.com,2025-06-09 13:14:01+00:00,,,,False,fix build
+ca697e55395295b944aeb3cb88076ec4b177e203,New Future,NewFuture@users.noreply.github.com,2025-06-09 13:16:13+00:00,,,,False,fix
+fdf287269cdf02357437040d16038887c11b8b3f,New Future,NewFuture@users.noreply.github.com,2025-06-09 13:20:07+00:00,,,,False,fix eclude
+9bf5a7645894292bf604826614302db97434e06c,New Future,NewFuture@users.noreply.github.com,2025-06-09 13:41:41+00:00,,,,False,fix docker build ci
+ac187a0cc8e295219a08cbd82b17c204213a3638,New Future,NewFuture@users.noreply.github.com,2025-06-09 13:44:06+00:00,,,,False,update matrix name
+3729f13028c959db99e442df0aa8389ad67cc7b9,New Future,NewFuture@users.noreply.github.com,2025-06-09 14:45:17+00:00,,,,False,fix exclude
+306948ce08ec6cd02d0eb960aadc5460a3edb4b4,New Future,NewFuture@users.noreply.github.com,2025-06-09 15:58:10+00:00,,,,False,update merge command
+663c3916f05b2d624749c17626024ab9d32fb28d,New Future,NewFuture@users.noreply.github.com,2025-06-09 16:03:46+00:00,,,,False,fix actions
+e7abe585373ba85d5012e0480de4e33753dafbb9,New Future,NewFuture@users.noreply.github.com,2025-06-09 16:10:34+00:00,,,,False,fast test
+6c1cfcef8302a3faaef9a24320a21f0ae8fb9c1c,New Future,NewFuture@users.noreply.github.com,2025-06-09 16:22:21+00:00,,,,False,fix typos
+aa6f1b136bc9c8e8b37dfc3d485d4f70e8cc41bf,New Future,NewFuture@users.noreply.github.com,2025-06-09 17:18:49+00:00,,,,False,push frist
+1606820cab91e095a2c96786e5bddc850876bc8c,New Future,NewFuture@users.noreply.github.com,2025-06-09 17:30:37+00:00,,,,False,update tag name
+de2792fb2ca8ca6706552994461cebf870c8bc0a,New Future,NewFuture@users.noreply.github.com,2025-06-09 17:45:36+00:00,,,,False,恢复qemu build and tag
+f051cc9d40f33518a738ef1cf4f1f575d0c70617,New Future,NewFuture@users.noreply.github.com,2025-06-10 12:10:32+00:00,,,,False,build(bin):  统一Linux build python 版本，添加Glibc 支持 (#473)
+98e3b0e5f242222543d5ef81ae9e7bee8233c855,New Future,NewFuture@users.noreply.github.com,2025-06-10 13:07:01+00:00,,,,False,build(ci): extend build timeout
+58601073f66a350dc529fdf24d91310928bc1470,New Future,NewFuture@users.noreply.github.com,2025-06-10 16:56:18+00:00,,,,False,doc(release): 更新release文档
+307db763eb732d20c1494a8fc219bfbd8f2986fc,New Future,NewFuture@users.noreply.github.com,2025-06-10 23:00:41+00:00,,,,False,fix typos in release doc
+55f47e195e6dc2d8fd2056fa25a3ad648ce26fc2,New Future,NewFuture@users.noreply.github.com,2025-06-11 12:28:28+00:00,,,,False,fix python2 none unicode issues (#474)
+cdc5d35d9394ce0327b8be44b429c9ff59ee93bd,New Future,NewFuture@users.noreply.github.com,2025-06-11 13:16:51+00:00,,,,False,build buitka builder
+8436e404fec0450feb93001b7b828440e792e103,New Future,NewFuture@users.noreply.github.com,2025-06-11 13:39:10+00:00,,,,False,rename and fix nuitka builder
+932b49a8c657dee3bf832270499d9e32a0a8ecfd,New Future,NewFuture@users.noreply.github.com,2025-06-11 13:53:04+00:00,,,,False,fix permissions
+d67d9f3e93b4da8f14d853621de36da6e232252a,New Future,NewFuture@users.noreply.github.com,2025-06-11 15:23:41+00:00,,,,False,fix
+c6da7c23d2a77e6870a4f172a3f3090770d03d88,New Future,NewFuture@users.noreply.github.com,2025-06-11 15:59:37+00:00,,,,False,rename
+011f87e3f6c20a4af58c523d09aac29863892ba0,New Future,NewFuture@users.noreply.github.com,2025-06-11 16:07:04+00:00,,,,False,fix docker build args
+e5279e2714d56f490989ba23359bb250c6d191f0,New Future,NewFuture@users.noreply.github.com,2025-06-11 16:16:42+00:00,,,,False,fix annotation
+03155759f610765d9a2cb7f695543347dd8ae377,New Future,NewFuture@users.noreply.github.com,2025-06-11 16:21:45+00:00,,,,False,fix
+5986c4eaada41be433da921137f796a4a0e6bcff,New Future,NewFuture@users.noreply.github.com,2025-06-11 16:33:58+00:00,,,,False,fix typo
+cb01cf7f144d1af5e3c72a91349fe1426b688eeb,New Future,NewFuture@users.noreply.github.com,2025-06-11 16:57:46+00:00,,,,False,fix build script
+46918ef98df1257fd1cd4928d08c79910c96a834,New Future,NewFuture@users.noreply.github.com,2025-06-11 17:36:40+00:00,,,,False,feat(config): 支持环境变量传递数组参数 Support array in environment variables and improve logic (#476)
+979cfedc8bbae4242fd5a6f07d7468ac4e158ea3,New Future,NewFuture@users.noreply.github.com,2025-06-12 01:18:42+00:00,,,,False,rename
+5c11c6c6fa052bccf789362b1469a205cc7cbb70,New Future,NewFuture@users.noreply.github.com,2025-06-12 09:59:04+00:00,,,,False,build(docker): improve prebuild container size (#477)
+d673108f77947c752f120759a14b132086710f54,New Future,NewFuture@users.noreply.github.com,2025-06-12 16:37:24+00:00,,,,False,chore(ci):  重构pipeline using prebuilt docker (#478)
+2fe13632033de71d2010a79bab7489dac16c1a76,New Future,NewFuture@users.noreply.github.com,2025-06-12 16:39:49+00:00,,,,False,fix build-nuitka-docker.yml
+1f269c67b4de259b032102e0c20706ac83e3825d,New Future,NewFuture@users.noreply.github.com,2025-06-13 02:19:46+00:00,,,,False,update docker tag
+287b2c39b7751a67c31f39a05a882892003b070c,New Future,NewFuture@users.noreply.github.com,2025-06-13 02:22:44+00:00,,,,False,next also for alpha
+c4dc2a9dc648647aa6410a8f797fa2859c0126c0,New Future,NewFuture@users.noreply.github.com,2025-06-13 03:08:50+00:00,,,,False,[skip ci] update release doc
+bdc9979c10df16dfdd9819aa631d06ab6005ffbd,New Future,NewFuture@users.noreply.github.com,2025-06-13 13:48:15+00:00,,,,False,feat(log+doc): 增加log配置，完善文档 (#480)
+baf1fdc30c10d98ae44e36bec8f03a2eaf669689,New Future,NewFuture@users.noreply.github.com,2025-06-15 17:41:34+00:00,,,,False,refact(py): Refactor structure (#481)
+cf669751050d53f417204e192a322b25df709bb8,New Future,NewFuture@users.noreply.github.com,2025-06-16 10:35:45+00:00,,,,False,fix(ci): fetch-tags in pypi
+83b2bdd47fc293658937e6af4a4a57f71d1dccea,New Future,NewFuture@users.noreply.github.com,2025-06-16 10:39:24+00:00,,,,False,set fetch-depth for pypi
+9e256de792328d6c60a76541ed5741460d8c6012,New Future,NewFuture@users.noreply.github.com,2025-06-16 10:43:02+00:00,,,,False,verbose
+12d6a0fc0addd65e22a3bdc670e6eb646f18f0a6,New Future,NewFuture@users.noreply.github.com,2025-06-16 10:52:50+00:00,,,,False,no-local-version
+364b6fb2f809e28d0f3cd24ba81136315922c6d9,New Future,NewFuture@users.noreply.github.com,2025-06-16 12:56:29+00:00,,,,False,update initial version
+a5cfb36cfe05b16c3278ace6566499ec7b5bb8dc,New Future,NewFuture@users.noreply.github.com,2025-06-16 15:22:06+00:00,,,,False,update deps
+7d5d716016b57cf0e795b13e4444bccf18ff4bb9,New Future,NewFuture@users.noreply.github.com,2025-06-16 15:43:42+00:00,,,,False,test build-system
+f84f56c9437349bb859f289cc6d2653f0b379052,New Future,NewFuture@users.noreply.github.com,2025-06-16 15:47:44+00:00,,,,False,build-system
+860e601be53aab15ba6da3e03954093621142a81,New Future,NewFuture@users.noreply.github.com,2025-06-18 13:33:13+00:00,,,,False,fix(pypi): patch.py version (#482)
+ecee2bf644429d5e7c1e9d47e77a3b55b176f238,New Future,NewFuture@users.noreply.github.com,2025-06-18 16:53:10+00:00,,,,False,Setup.cfg for py2 (#483)
+a1395ac4d2b3c405ed96fe96be0cdd7a8a066a42,New Future,NewFuture@users.noreply.github.com,2025-06-19 02:44:30+00:00,,,,False,ci: replace url for pypi
+ede3883ad4f5e8c9082d37f3509f7504d736c883,New Future,NewFuture@users.noreply.github.com,2025-06-19 14:19:52+00:00,,,,False,fix config
+b8dd46ddfbdfacd36f07cff3b1fa4f484dc1a658,New Future,NewFuture@users.noreply.github.com,2025-06-19 15:48:44+00:00,,,,False,fix(config): logger and array (#485)
+57c357cbfa489d246bc88eb45c02c74de8833ffc,New Future,NewFuture@users.noreply.github.com,2025-06-19 16:13:58+00:00,,,,False,doc(readme): update docker platforms
+b6215fb01c10b53a67cbf7af785bcf8deebef052,New Future,NewFuture@users.noreply.github.com,2025-06-19 16:23:56+00:00,,,,False,doc(release): 调整排版
+ed68bafc08de6837cf0874df9427ef0197886bac,New Future,NewFuture@users.noreply.github.com,2025-06-23 11:10:28+00:00,,,,False,fix(docker): 兼容旧版默认路径 compatibility of old default config path (#487)
+fbcca3b730f8c462bfdadb036e49865652f547b4,New Future,NewFuture@users.noreply.github.com,2025-06-23 14:09:18+00:00,,,,False,feat(log): 根据日志级别调整log详细程度 (#488)
+8e910b46e6f83ba82b2c4ea944ac63c7a31be6d2,New Future,NewFuture@users.noreply.github.com,2025-06-24 01:15:28+00:00,,,,False,Update release.md
+1d2fffaadead71a9654443894818fc50c3cf9aec,New Future,NewFuture@users.noreply.github.com,2025-06-24 17:10:25+00:00,,,,False,fix(log): default log level (#491)
+f1a764d3c2e2c6aade66f85162964e6ce9248fee,New Future,NewFuture@users.noreply.github.com,2025-07-01 11:08:11+00:00,,,,False,refact(provider): 巨大重构 (#484)
+0653b687507587f90f91cbcefed1debafd5f6193,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-01 16:29:37+00:00,Copilot,aidev,Copilot,True,Fix(cache): loading bug and improve cache status logging (#495)
+b3a5ff9817c7a3b141fd8425cc55ce027aa9a17a,New Future,NewFuture@users.noreply.github.com,2025-07-01 18:57:16+00:00,,,,False,Refactor(base): HMAC-SHA256 signature logic (#496)
+43fe2792c607f276f15cf6b15083f3581f33aa1b,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-02 11:24:31+00:00,Copilot,aidev,Copilot,True,[feature] Add SSL certificate validation configuration support (#499)
+33a0c295c10d5d45e6196465e3638189cf32441f,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-02 12:38:01+00:00,Copilot,aidev,Copilot,True,fix(cache): Implement per-record caching to fix partial failure issue (#500)
+1e351642d58fc8bed29060a48666984e9316f4b7,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-02 14:56:56+00:00,Copilot,aidev,Copilot,True,feat(config:line): 支持自定义线路参数 (#501)
+3d155b671e089971b2c5123c031702f6fdb7ac82,New Future,NewFuture@users.noreply.github.com,2025-07-03 11:14:03+00:00,,,,False,"Refact(tests): improve base ,test,  and instructions (#503)"
+492e4fbf91f8f027476c4d8369f980449185dbde,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-04 18:00:43+00:00,Copilot,aidev,Copilot,True,Add No-IP (noip.com) Dynamic DNS Provider Support (#505)
+78b0e953daf0739020719f8b44043b9cdae5c550,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-09 10:33:23+00:00,Copilot,aidev,Copilot,True,feat(AliESA) 阿里云边缘安全加速 DNS provider support (#498)
+fd631c7d59ba7950bf97e6d575aa28d059028270,Charles Chin,eallions@gmail.com,2025-07-09 16:49:00+00:00,,,,False,feat: current time as remark for aliesa (#509)
+485e6a3e26c5aab9c6c9a7287efd24e00c9ee159,New Future,NewFuture@users.noreply.github.com,2025-07-12 03:04:25+00:00,,,,False,Refact(config): 统一配置 (#506)
+3bb6241c5b3588f8b88dc67f227d3b3b6d75b2bc,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-12 08:11:15+00:00,Copilot,aidev,Copilot,True,refact(cache): Convert cache storage from pickle to JSON format (#512)
+f759bc3bd1fa5e753aeada38a5a6256a9bea422a,New Future,NewFuture@users.noreply.github.com,2025-07-13 02:49:18+00:00,,,,False,chore(docker): Update glibc.Dockerfile build and tests (#517)
+d9b0b825d1495989a0bbf55fb47749d97a9ac875,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-13 02:58:38+00:00,Copilot,aidev,Copilot,True,feat(config): 支持当行注释 Add JSON comment support with # and // styles for configuration files (#515)
+22c9cf8d543c2cfcc8da429d7e0a37d99418aabd,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-13 06:10:55+00:00,Copilot,aidev,Copilot,True,feat(provider:NameSilo):添加NameSilo支持(待验证) (#514)
+458f354067f7f4aeecb3ead93d119bf3bee0a8d4,New Future,NewFuture@users.noreply.github.com,2025-07-13 17:36:35+00:00,,,,False,fix(http): fix and refactor http (#520)
+0eea4c6850c904be9d1377390f74ba4f2f7b052c,New Future,NewFuture@users.noreply.github.com,2025-07-14 16:35:13+00:00,,,,False,doc(providers): all providers doc (#522)
+f5f5be13535b1833e63660ef16f58bfdc93e85af,New Future,NewFuture@users.noreply.github.com,2025-07-14 16:43:28+00:00,,,,False,jekyll/minima theme
+505caa31a8f209f1d96cc688eeaf45e63c77b465,New Future,NewFuture@users.noreply.github.com,2025-07-14 16:48:45+00:00,,,,False,revert theme
+2098f7a7c1aff0f70f79227c4a6c949584294e13,New Future,NewFuture@users.noreply.github.com,2025-07-14 16:55:08+00:00,,,,False,fix redirect
+5e1a8d5aaf53158d83ffe6f0dd44a9441a176609,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-14 17:44:30+00:00,Copilot,aidev,Copilot,True,feat(provider:edgeone): 支持腾讯EdgeOne Add Tencent Cloud EdgeOne DNS provider support (#521)
+411764e1b5d769040043ac618308b4b7e5b194c9,New Future,NewFuture@users.noreply.github.com,2025-07-15 11:13:24+00:00,,,,False,"filter out: bz2,csv (#525)"
+876889ed841e532a0db587c9211289ef777f2c05,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-16 17:10:15+00:00,Copilot,aidev,Copilot,True,feature(basicauth): use URL-embedded authentication and remove base64 dependency (#528)
+96b4ca2e0c55a21eb88a7ec2bbdf1dd75be10baf,New Future,NewFuture@users.noreply.github.com,2025-07-17 18:54:09+00:00,Copilot,assinatura,Copilot,True,feat(config): 支持多配置文件和多服务商 优化http support multi config/providers (#531)
+254335f407d4b1a5de28a764af03920d5e869341,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-19 04:31:15+00:00,Copilot,aidev,Copilot,True,feat(http.retry): Add HTTP auto-retry with exponential backoff (#536)
+c2cad12380081d2f6fbcbc02230dc8bc7793664f,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-20 18:51:40+00:00,Copilot,aidev,Copilot,True,"refactor(http.proxy): add ""SYSTEM"" and fix ""DIRECT"" proxy, implement proxy list support with automatic fallback (#537)"
+e66dcf024059173deb9b02ba801b1ed5f9279401,Copilot,198982749+Copilot@users.noreply.github.com,2025-07-22 01:46:01+00:00,Copilot,assinatura,Copilot,True,feat(config): 支持远程配置文件 add remote HTTP(S) config loading support (#539)
+f06f782f28709ac33146343b49b9833e42bd916d,New Future,NewFuture@users.noreply.github.com,2025-07-22 16:41:04+00:00,,,,False,test jekyll
+feb8911f904a6d949c0e350862176fe1c5347ca6,New Future,NewFuture@users.noreply.github.com,2025-07-25 16:51:18+00:00,,,,False,fix(cli): new config default path (#542)
+6c24557505ff3377fdf7d8b47441fc3154a72d55,Copilot,198982749+Copilot@users.noreply.github.com,2025-08-07 17:58:43+00:00,Copilot,assinatura,Copilot,True,feat(cli): add task subcommand for automated scheduled task management (#541)
+f7a92b390378437e1f8be366a4e93a68f5f8ce60,Copilot,198982749+Copilot@users.noreply.github.com,2025-08-09 03:29:35+00:00,Copilot,assinatura,Copilot,True,chore(lint): replace flake8 and black with ruff for unified linting and formatting (#544)
+09af9a094db60e7fee4f25a1f6ba7df024024aca,Copilot,198982749+Copilot@users.noreply.github.com,2025-08-10 18:11:22+00:00,Copilot,assinatura,Copilot,True,feat(install): 一键安装脚本 add POSIX-compatible one-click installation script with multilingual support and comprehensive testing (#546)
+b9bd2ab33362824b13fc572dcd3c4f19357587b5,New Future,NewFuture@users.noreply.github.com,2025-08-11 12:37:31+00:00,,,,False,ci:update patch release
+14630204112c15f1b99e0a3c131b66f884235882,New Future,NewFuture@users.noreply.github.com,2025-08-13 17:02:44+00:00,,,,False,fix(scheduler): 优化 Windows 打包和定时任务 and command executio… (#547)
+1e0f066684d0995b6c5574bfa360d6a83d0d6164,Copilot,198982749+Copilot@users.noreply.github.com,2025-08-14 15:50:12+00:00,Copilot,assinatura,Copilot,True,feat(ip): implement automatic failover for public IP detection APIs with unified interface (#549)
+6f5984c5889038d9a08e673f8262625c449ea999,New Future,NewFuture@users.noreply.github.com,2025-08-16 01:20:09+00:00,,,,False,fix(scheduler ): scheduler path and check (#550)
+f58db1af0a7736e409643eb35e96aa5846dc186d,Copilot,198982749+Copilot@users.noreply.github.com,2025-10-11 03:36:55+00:00,Copilot,assinatura,Copilot,True,fix(ci): extend Windows x86 timeout to 20 minutes in publish workflow (#559)
+1600e57aff994e751c31305bcebf0580348ce248,Copilot,198982749+Copilot@users.noreply.github.com,2025-10-13 09:06:56+00:00,Copilot,assinatura,Copilot,True,feat(config): add support for extra configuration fields (#562)
+80813a07144ed1514a8448330ecdc2459dcfcb05,Copilot,198982749+Copilot@users.noreply.github.com,2025-10-15 14:00:14+00:00,Copilot,assinatura,Copilot,True,fix(config): restore log.file configuration for v4.1 multi-provider format (#564)
+d910a06fb723140f0f0ff4a322638141bccf1545,Copilot,198982749+Copilot@users.noreply.github.com,2025-10-15 16:08:45+00:00,Copilot,assinatura,Copilot,True,fix(provider): ensure extra params take priority over old_record in _update_record (#566)
+aba52bc51760d28d5b48302727a741c16e0d4c3f,Copilot,198982749+Copilot@users.noreply.github.com,2025-10-20 15:51:13+00:00,Copilot,assinatura,Copilot,True,fix(cloudflare): DNS record query conditions - Boolean encoding and extra filter fallback (#571)
+f74438cb82a7a7291a8967bee4c33ad750c0fed9,Copilot,198982749+Copilot@users.noreply.github.com,2025-10-21 16:08:54+00:00,Copilot,assinatura,Copilot,True,fix: add missing packages to pip distribution (config and scheduler) (#572)
+91c9a0b2f58d90aea0313a63b655df9eac54f77d,Copilot,198982749+Copilot@users.noreply.github.com,2025-10-23 09:01:02+00:00,Copilot,assinatura,Copilot,True,feat(docker): add DDNS_CRON environment variable for customizable cron schedule (#574)
+ae5e9d0dc82b9aad72f5e62e540c9c0aca56402f,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-03 08:14:21+00:00,Copilot,assinatura,Copilot,True,fix(config): exclude $schema from extra parameters sent to DNS APIs (#576)
+8eb16b0043d57039ee4249f324c216d02e4110cc,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-09 14:20:28+00:00,Copilot,assinatura,Copilot,True,fix(workflows): pass GITHUB_REF_NAME to workflows for correct version in extraction path (#579)
+7768b8208382f7679e84d506e0030441b6959189,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-10 16:54:30+00:00,Copilot,assinatura,Copilot,True,refactor(docker): remove redundant patch.py call from Dockerfile (#580)
+5fe40ee6404cc6cc8a4b80304b367ff15e8dbde9,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-14 09:36:52+00:00,Copilot,assinatura,Copilot,True,docs: add streamlined AGENTS.md guide for AI contributors (#583)
+f1755218704a18870cf7fc0d5fb72d76f2ad41b3,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-14 10:27:22+00:00,Copilot,assinatura,Copilot,True,refactor(tests): replace authid with id in all tests for consistency (#584)
+8760c2bb054e0719979b705546c61183f2d75989,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-14 15:52:24+00:00,Copilot,assinatura,Copilot,True,feat(workflow): add Azure OpenAI auto-reply with classification and labeling for new issues (#585)
+e489de6d7dbeb5f1252c19c0291829509883d68b,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-14 16:45:04+00:00,Copilot,assinatura,Copilot,True,fix(workflow): use max_completion_tokens for Azure OpenAI API (#589)
+bc272957c4183f27d1c1c665640c59478b9466b7,New Future,NewFuture@users.noreply.github.com,2025-11-14 16:58:06+00:00,,,,False,Increase temperature setting in auto-reply workflow
+d8b497a18fb2f40943ac8cbe13a5ed95c60834b6,New Future,NewFuture@users.noreply.github.com,2025-11-14 17:00:25+00:00,,,,False,Increase max_completion_tokens to 2000
+4ed2caf0fbcfc9e2cb7864aa59172e27f8d6a784,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-15 08:33:22+00:00,Copilot,assinatura,Copilot,True,feat(workflow): integrate github/ai-assessment-comment-labeler for automated issue triage (#593)
+4dc5e9a7c31df55326b81bccea504a209bf4cc18,New Future,NewFuture@users.noreply.github.com,2025-11-15 09:02:50+00:00,,,,False,Refactor labels_to_prompts_mapping format
+24656358c33b8d6eaff3fe81c2851b9c2c1bd3ff,New Future,NewFuture@users.noreply.github.com,2025-11-15 09:05:33+00:00,,,,False,Update AI assessment action to use main branch
+eb5274a9863401658d8b582a59f8513daa66ac59,New Future,NewFuture@users.noreply.github.com,2025-11-15 09:09:46+00:00,,,,False,Modify assessment regex pattern for case insensitivity
+8ccee2bed13969ff1895f58e54e2645a89b0f851,New Future,NewFuture@users.noreply.github.com,2025-11-15 09:17:44+00:00,,,,False,Comment out assessment_regex_pattern in workflow
+28e70e9bf50dac7ac06ec5087095764a1810b695,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-15 10:02:04+00:00,Copilot,assinatura,Copilot,True,feat(workflow): include issue title in AI assessment and use JSON response format (#595)
+6cc1af8ce947100fbea599fc9214158409dde826,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-15 12:33:59+00:00,Copilot,assinatura,Copilot,True,"Remove obsolete redirect docs from /doc/{env,json,cli}.md (#596)"
+f99fd8f0b3a81f193ed7285b879c6e4025124d91,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-15 16:44:59+00:00,Copilot,assinatura,Copilot,True,feat(provider): add EdgeOne DNS provider for non-accelerated domain records (#588)
+468df163282d990032cea40b8b8e39c1d18f224a,New Future,NewFuture@users.noreply.github.com,2025-11-17 04:30:01+00:00,,,,False,Update bug-review.prompt.yml
+8500fe3760849faf465bd4398b3ea629a7868845,New Future,NewFuture@users.noreply.github.com,2025-11-17 07:28:19+00:00,,,,False,Update feature-request.prompt.yml
+5d1694609ecbb04a2a0caf824efa5bbca940aba3,New Future,NewFuture@users.noreply.github.com,2025-11-17 07:28:36+00:00,,,,False,Update question.prompt.yml
+180b6efb7854cda4284933dccfd0cbf86148a3ef,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-18 07:36:19+00:00,Copilot,assinatura,Copilot,True,feat(ci): use JSON format and auto-convert file references to URLs in issue replies (#597)
+af081a5ecfcc99f430a2b76a0e55b612e303d50f,New Future,NewFuture@users.noreply.github.com,2025-11-19 09:26:32+00:00,,,,False,rename agent
+9b53abb6a218f4c68653cd06c44877b697a91d72,New Future,NewFuture@users.noreply.github.com,2025-11-19 10:34:36+00:00,,,,False,Add New Provider Agent documentation
+21539a6cb47fc08bb7ecdb232beb53bf68ed80f0,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-20 16:17:09+00:00,Copilot,assinatura,Copilot,True,fix(config): create parent directories for log file automatically (#600)
+1eab38669de0d40da0b58aa746aac2239ff1d1fa,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-28 09:54:31+00:00,Copilot,assinatura,Copilot,True,ci: implement multi-turn AI conversation for issue analysis (#606)
+3176b02925a055a2f04fe535172332f7ae7e5a99,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-29 11:24:51+00:00,Copilot,assinatura,Copilot,True,ci(agents): add daily workflow to auto-update AGENTS.md directory structure (#607)
+406f82347d49386625d56c6056e0bf895fdb23bd,New Future,NewFuture@users.noreply.github.com,2025-11-29 14:51:16+00:00,,,,False,Refactor Python command references in AGENTS.md
+d749aed3b6b4edd17465a74b9ff6e66fce613a48,github-actions[bot],41898282+github-actions[bot]@users.noreply.github.com,2025-11-29 15:02:33+00:00,,,,False,docs(agents): update directory structure in AGENTS.md (#608)
+69012611c03f5470946ce78983406a4240b2d297,New Future,NewFuture@users.noreply.github.com,2025-11-29 16:12:43+00:00,,,,False,Rename test step for language detection help
+cb8ed219ce919903b8b9690964b0204a7a62af6d,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-29 16:22:21+00:00,Copilot,assinatura,Copilot,True,ci(workflow): extract repo index from AGENTS.md and add API rate limit delay (#610)
+af65eae279f64a6390abb049b01c20f2acdfa43f,New Future,NewFuture@users.noreply.github.com,2025-11-30 02:44:09+00:00,,,,False,Update Python versions and project structure details
+7ea8312aab88f8f7ce5fd58517cc1fde43152e5f,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-30 03:47:07+00:00,Copilot,assinatura,Copilot,True,ci(agents): create issue instead of PR for AGENTS.md structure drift (#613)
+72afae1130595fe76340b04d5ba104e043c4ce87,New Future,NewFuture@users.noreply.github.com,2025-11-30 04:05:34+00:00,,,,False,Fix scan_files function calls in main
+38eab73dd90ce40caaf179b577ef08bdd34a0636,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-30 04:30:40+00:00,Copilot,assinatura,Copilot,True,docs(agents): update AGENTS.md directory structure (#617)
+b431e313f1f9dc51d67f457f38fd329555519807,Copilot,198982749+Copilot@users.noreply.github.com,2025-11-30 06:00:54+00:00,Copilot,assinatura,Copilot,True,feat(workflows): remove ai-assessment workflow and update auto-reply-issue trigger (#618)
+6780eed5c5845b5335d4af0c6b71f5bcb400d0a3,Copilot,198982749+Copilot@users.noreply.github.com,2025-12-01 05:35:14+00:00,Copilot,assinatura,Copilot,True,feat(prompts): restructure auto-reply-issue with two-step classification-based prompts (#619)
+880b6856e5ec44b5ff63e3b55a7e95a48f604bd4,New Future,NewFuture@users.noreply.github.com,2025-12-01 05:46:45+00:00,,,,False,Handle error when reading required files
+39f645a91b913f743aa319b25ed5cfcde1a1e863,New Future,NewFuture@users.noreply.github.com,2025-12-01 09:36:18+00:00,,,,False,Revise issue assistant guidelines for clarity and tone (#621)
+ecf25fb4e768d05801ca2e8bc298478d6a439a7b,Copilot,198982749+Copilot@users.noreply.github.com,2025-12-03 10:35:49+00:00,Copilot,assinatura,Copilot,True,refactor(scripts): implement strict 3-step OpenAI workflow for issue assistance (#622)
+c3699f320a97719d14db4d9f5658f363f9b49996,Copilot,198982749+Copilot@users.noreply.github.com,2025-12-20 19:26:38+00:00,Copilot,assinatura,Copilot,True,ci(macos): Update macOS Intel runners to macos-15-intel (#631)
+3ed820cf3643a07c5962f18c462c4071c198725f,Copilot,198982749+Copilot@users.noreply.github.com,2025-12-21 13:49:35+00:00,Copilot,assinatura,Copilot,True,docs: convert JSON code blocks with comments to JSONC format (#632)
+e32a29b2b54bf32f8f8e1ed135b55b74c7092d9b,Copilot,198982749+Copilot@users.noreply.github.com,2025-12-23 07:08:23+00:00,Copilot,assinatura,Copilot,True,docs(aliesa): add ESA free trial registration link (#633)
+d43d6108eb3a3415b31221ba1093122e209e3d9e,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-05 10:02:36+00:00,Copilot,assinatura,Copilot,True,Convert issue templates to YAML format (#637)
+05c98964735ba43b884f6c051e60353cee8c5bec,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-10 03:41:18+00:00,Copilot,assinatura,Copilot,True,feat(doc): add Alibaba Cloud ESA proxy script for GitHub releases with optimized EdgeKV beta support (#638)
+0e466dc496ba77d3187eecb6e99f41ac2edec014,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-12 15:48:37+00:00,Copilot,assinatura,Copilot,True,feat(docs): add automated documentation website builder using VitePress 2.0 (#634)
+e24b3ed0d3d857408060d69e64bb0fea14df2489,New Future,NewFuture@users.noreply.github.com,2026-01-12 16:00:32+00:00,,,,False,Delete docs/examples/config-with-extra.json
+c9358c688cfe9caaeaaffbbe970acbc3e50802c6,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-13 03:21:18+00:00,Copilot,assinatura,Copilot,True,Add tests/config documentation assets (#640)
+8895431032ae74ab84375341917ba303970c5044,New Future,NewFuture@users.noreply.github.com,2026-01-13 04:18:38+00:00,,,,False,Update RAW_URL to point to public install script
+9a932675e1851331476cc21aa2fd72a4fafeaf6f,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-13 09:35:21+00:00,Copilot,assinatura,Copilot,True,"Move favicon.ico and img to docs/public, update references, and improve edge function 404 handling with ESA Cache (#643)"
+b58ac65b92946c5942c04b060ceb92012dea6ae3,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-13 14:47:48+00:00,Copilot,assinatura,Copilot,True,docs(agents): sync AGENTS.md directory structure with actual repository layout (#644)
+f76bb2cda5ecfb80260034f48065b11da598c5eb,New Future,NewFuture@users.noreply.github.com,2026-01-13 15:33:36+00:00,,,,False,Remove outdated configuration schema links
+9000cccdb4fe719fdb2bacf2aef3921875ca0971,New Future,NewFuture@users.noreply.github.com,2026-01-13 15:42:06+00:00,,,,False,Add redirect option to fetch notFoundUrl
+a64c6000363ffacad79aaee8d77ba14fa7738c56,New Future,NewFuture@users.noreply.github.com,2026-01-13 15:42:37+00:00,,,,False,Simplify 404 error response message
+27f0b1a1db2c7dfed7e686a8fb628d592ef671a2,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-13 16:52:59+00:00,Copilot,assinatura,Copilot,True,Fix VitePress link transform so homepage doc links stay on-site (#645)
+31fdd7298d4051c5a8c0153bea597e64c058ce54,New Future,NewFuture@users.noreply.github.com,2026-01-13 17:11:40+00:00,,,,False,Fix 404 1 (#646)
+22ee68270a9b1c086d45535ace9d29e8d1c103e0,New Future,NewFuture@users.noreply.github.com,2026-01-13 17:29:31+00:00,,,,False,Update references and links in issue-assistant.md
+707866b36d19295bdb701db9052ed9ef0bdac3e9,New Future,NewFuture@users.noreply.github.com,2026-01-14 03:43:34+00:00,,,,False,Update GitHub Actions workflow for documentation build
+805940bd579da5331bf33f426a9185f663a9487d,New Future,NewFuture@users.noreply.github.com,2026-01-14 03:49:07+00:00,,,,False,Update build-docs.yml to include permissions
+0018154e5947e76bc54ad55ffc2cc51d6fe0042f,New Future,NewFuture@users.noreply.github.com,2026-01-14 04:05:34+00:00,,,,False,Update build-docs workflow for Node.js and paths
+aa54605379f1d27101227d90fa729c8e01d92b40,New Future,NewFuture@users.noreply.github.com,2026-01-14 12:49:08+00:00,Copilot,assinatura,Copilot,True,doc(esa): Add esa config (#650)
+fc3e23b5b2f6ee4952ecc8ef894567403ac8d1a4,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-14 14:02:27+00:00,Copilot,assinatura,Copilot,True,Prefer official download first with clearer proxy fallback (#647)
+8afc0920dd0a0420e152453dc829753baf9e90e3,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-14 15:46:15+00:00,Copilot,assinatura,Copilot,True,docs: update schema references from v4.0.json to v4.1.json (#651)
+6521a394d844def03e065e8152b46c6899e07938,New Future,NewFuture@users.noreply.github.com,2026-01-15 15:59:50+00:00,,,,False,Configure Dependabot for GitHub Actions and npm (#652)
+1a4e0a375a2ad601848cc1409901688408396257,New Future,NewFuture@users.noreply.github.com,2026-01-15 16:27:20+00:00,,,,False,Potential fix for code scanning alert no. 2: Workflow does not contain permissions (#653)
+b2ffcd3e07f2ff7fbad5dbc43f71bd8a13593b0c,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-01-16 02:10:39+00:00,,,,False,Bump actions/setup-python from 5 to 6 (#658)
+b6386267bfb8288136b8acb7f4bf8c1f3bc5c74a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-01-16 02:19:19+00:00,,,,False,Bump Nuitka/Nuitka-Action from 1.3 to 1.4 (#655)
+200c91b8533b9862111292be5e0b5fa72575b15a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-01-16 03:18:50+00:00,,,,False,Bump actions/checkout from 4 to 6 (#654)
+8bb8831c587ef98cc968eeb68e997ec25ff64851,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-01-16 05:43:39+00:00,,,,False,Bump actions/download-artifact from 4 to 7 (#657)
+889593a5b0c694c035d330558be5805ccdcc1a6e,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-01-16 06:47:38+00:00,,,,False,Bump actions/upload-artifact from 4 to 6 (#656)
+e18d4bcd961b437fb1b77827dc9286ae6f3419a4,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-18 17:14:27+00:00,Copilot,assinatura,Copilot,True,docs: add ESA Pages and Edge Function deployment guide (#659)
+ee300ad556d763451b63b1900eae43fbc06a6da4,New Future,NewFuture@users.noreply.github.com,2026-01-19 01:56:38+00:00,,,,False,update
+8b74e444d42d102817440919ee63f7bf0bb5ecb6,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-20 10:40:05+00:00,Copilot,assinatura,Copilot,True,ci: skip test-install.yml on release tags (#660)
+59f66bed9d877d7f3b1c077f0ca10e382003b00f,New Future,NewFuture@users.noreply.github.com,2026-01-20 15:31:25+00:00,,,,False,Refactor documentation links to remove '.html' extensions
+b4b75628f8de5788cf678a120a674ecc4457a88e,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-21 02:15:20+00:00,Copilot,assinatura,Copilot,True,fix: dynamically generate test matrix based on file changes (#661)
+fec8a65e69654bf408cfdce3826e539758416e04,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-22 13:24:59+00:00,Copilot,assinatura,Copilot,True,docs: Condense edge-ddns-proxy references to single-line mentions (#662)
+81840212e066393df4025c7e7acc123744ea79cd,iclart,xinyuan@itsumiku.com,2026-01-27 05:58:29+00:00,,,,False,feat(provider.cloudns): add ClouDNS.net DNS provider support (#663)
+f26d50678f8940ec18989e4ec9eb07430ba9cbaa,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-28 05:55:57+00:00,Copilot,assinatura,Copilot,True,refactor(provider): optimize cloudns implementation and add documentation (#664)
+dfbc77d430119eb180cc61022bd1f6b69d66a41e,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-28 09:57:33+00:00,Copilot,assinatura,Copilot,True,docs: sync llms.txt with CloudNS and automate doc changes detection (#666)
+d1d8870a9a46cc4136a9bafcf51e54d5091d564e,New Future,NewFuture@users.noreply.github.com,2026-01-28 13:14:55+00:00,,,,False,Update bug report template configuration section
+a336bf2d9ba4e26b12e2ccd5ab1277918abb6cfd,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-30 07:08:35+00:00,Copilot,assinatura,Copilot,True,Fix release body version substitution: correct docs path typo (#668)
+030c5cb32b611453fd07f422b83d723bb01fb67d,Copilot,198982749+Copilot@users.noreply.github.com,2026-01-30 10:47:11+00:00,Copilot,assinatura,Copilot,True,docs(agents): exclude VitePress and ESA tooling files from structure tracking (#670)
+5aec750efedefc60869eae92d8c2dd378c30877d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-02-03 11:44:27+00:00,,,,False,Bump vitepress from 2.0.0-alpha.15 to 2.0.0-alpha.16 in /docs (#672)
+03946140d9bef3ba5400404134fe72c291092c22,Copilot,198982749+Copilot@users.noreply.github.com,2026-02-22 11:22:55+00:00,Copilot,assinatura,Copilot,True,Pin Nuitka-Action builds to Nuitka 2.8.10 across workflows (#675)
+999e24c4d25636ade57d0f74caa3523ba7e809e2,Copilot,198982749+Copilot@users.noreply.github.com,2026-02-22 11:35:39+00:00,Copilot,assinatura,Copilot,True,Revert markdown copy to simpler single-pass implementation (#674)
+afab29242b3c684ba5a530d0494962417fab5b13,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-03-12 01:03:13+00:00,,,,False,Bump actions/upload-artifact from 6 to 7 (#679)
+a0857238902358759f87fb5a2e860464d3269586,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-03-12 01:50:04+00:00,,,,False,Bump docker/login-action from 3 to 4 (#683)
+163689dab712a0fcb8849fa85596866af2ab7ba5,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-03-13 06:48:25+00:00,,,,False,Bump actions/download-artifact from 7 to 8 (#680)
+ea330d466c03258b451a16114f8ecdfba874d558,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-03-13 07:29:16+00:00,,,,False,Bump docker/build-push-action from 6 to 7 (#682)
+f07a494bded9e35b19c4bdecdd682e8ba2151179,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-03-13 09:11:13+00:00,,,,False,Bump docker/setup-buildx-action from 3 to 4 (#681)
+3824ddc2d80b699389ee37e8c316f7f95497770b,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-03-17 08:11:59+00:00,,,,False,Bump docker/setup-qemu-action from 3 to 4 (#684)
+78a81b9f3b12b4ccac4d3395c376d679a2a0c6cf,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-03-23 07:35:25+00:00,,,,False,Bump docker/metadata-action from 5 to 6 (#685)
+14b2d76fc05e0a10191eced3942b739445c6bd50,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-03-26 11:50:09+00:00,,,,False,Bump vitepress from 2.0.0-alpha.16 to 2.0.0-alpha.17 in /docs (#686)
+bed287da2e08b7914712ba57a192cd3af386b834,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-04-27 11:37:45+00:00,,,,False,Bump actions/github-script from 8 to 9 (#688)
+343a01c521182d1444b1c9bb288ee533a958ac2a,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-05-07 14:44:14+00:00,,,,False,Bump actions/deploy-pages from 4 to 5 (#687)
+9834fdea5efb3561bd658f1016badd19671630b7,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-05-07 14:56:26+00:00,,,,False,Bump actions/upload-pages-artifact from 4 to 5 (#689)
+7490657d822e8b30d80e15c91ee15ebcb882ded9,Copilot,198982749+Copilot@users.noreply.github.com,2026-06-12 11:51:59+00:00,Copilot,assinatura,Copilot,True,Use HTTP ipify URL in documentation examples (#694)
+93d4698ff7000b7c585e248ad9746743f00c7a6c,Copilot,198982749+Copilot@users.noreply.github.com,2026-06-12 12:04:51+00:00,Copilot,assinatura,Copilot,True,feat(provider.west): add West.cn DNS provider support (#628)
+4fec62d95de9eb474210e076489ca70159a0f372,Copilot,198982749+Copilot@users.noreply.github.com,2026-06-14 02:43:37+00:00,Copilot,assinatura,Copilot,True,Remove Alibaba Cloud ESA promotional links (#697)
+25d6075e37f900d2fc0b43965814b7af62ec63da,Copilot,198982749+Copilot@users.noreply.github.com,2026-06-14 02:53:51+00:00,Copilot,assinatura,Copilot,True,docs(agents): sync AGENTS.md and llms.txt for west provider (#696)
+96c4ba71ce8a59f6d8a48964641534285aeed014,New Future,NewFuture@users.noreply.github.com,2026-06-15 01:59:50+00:00,,,,False,docs(agents): streamline agent guidance (#698)
+f8c098561ddabff4a2cf44e941539d1377579b4f,Copilot,198982749+Copilot@users.noreply.github.com,2026-06-16 00:04:58+00:00,Copilot,assinatura,Copilot,True,Update AGENTS documentation structure and check (#700)
+e2e055ef6e05a0acce90491cc3a5b81429107a0e,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-06-24 02:26:25+00:00,,,,False,Bump actions/checkout from 6 to 7 (#701)
+85070734311c3f082b03284ed075a9f41c498057,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-07-07 09:00:07+00:00,,,,False,Bump vitepress from 2.0.0-alpha.17 to 2.0.0-alpha.18 in /docs (#702)
+c0a5fb6c62d530cbde4e5e677ac2d68ebd3ddcfe,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-07-21 06:34:53+00:00,,,,False,Bump actions/setup-python from 6 to 7 (#704)
+024ba4a3368b767c92a5f1a7fcdd28a72bf07ff7,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-07-22 05:56:35+00:00,,,,False,Bump actions/setup-node from 6 to 7 (#703)
+e61bc6b47424aec5c737ef31da1925c31d2f2902,iCasture,icasture@gmail.com,2026-08-05 07:42:02+00:00,,,,False,fix(ip): honor fallback order for index4/index6 rules (#690)
+9a260d17c49a1b45eb26d418ba339e276387fa26,Copilot,198982749+Copilot@users.noreply.github.com,2026-08-05 10:51:03+00:00,Copilot,assinatura,Copilot,True,Fix Docker ARM build failure from buggy patchelf (#706)
+adc3d4fd404e4246de79d003a41f2b6eb9ef819f,Copilot,198982749+Copilot@users.noreply.github.com,2026-08-05 12:15:12+00:00,Copilot,assinatura,Copilot,True,Fix Nuitka onefile compression dependencies (#707)
+06fceed0f7413546d3575022a19f319a796f79ef,New Future,NewFuture@users.noreply.github.com,2026-08-06 09:59:40+00:00,,,,False,feat(cache): add configurable cache max age (#709)
+0a80f32fb82339813c3be21c792166733a1bb940,New Future,NewFuture@users.noreply.github.com,2026-08-07 15:23:43+00:00,,,,False,test(util.http): remove external network flakiness (#710)
+e102ce50399117ffa64669eaca48ce3112283a7c,New Future,NewFuture@users.noreply.github.com,2026-08-07 17:05:22+00:00,,,,False,fix(docker): prevent zombie process accumulation (#711)
+e58daa0a80b759cb5abbfec2acfd2e7cd8593a5b,New Future,NewFuture@users.noreply.github.com,2026-08-08 03:09:51+00:00,,,,False,feat(docs): add configuration studio (#712)
+1d04b4eb0f52d7f8e1f629cede9bd4c38752b5c6,New Future,NewFuture@users.noreply.github.com,2026-08-10 01:37:20+00:00,,,,False,feat(docs): redesign documentation experience (#715)
+c4b6d4e0d897c12df7372144fec1b5fee4156058,New Future,NewFuture@users.noreply.github.com,2026-08-10 02:35:34+00:00,,,,False,docs(agents): separate Config Studio from LLM sources (#716)
+5ee23518549e66015947c8ac46cd1501c01fe62d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-08-11 02:07:56+00:00,,,,False,Bump vitepress from 2.0.0-alpha.18 to 2.0.0-alpha.19 in /docs (#717)
+d14594f14d68eecc69c09e1796cc1bffd8779ed9,New Future,NewFuture@users.noreply.github.com,2026-08-11 18:23:17+00:00,,,,False,feat(web): add local management dashboard (#718)
+c30822bd33ebf42031b3458bacf2b947ad0ad8c7,New Future,NewFuture@users.noreply.github.com,2026-08-12 07:39:51+00:00,,,,False,test(e2e): cover source and binary workflows (#719)
+a05bedf0000c22ddf37fa4cce6336e3597be43ae,New Future,NewFuture@users.noreply.github.com,2026-08-12 09:42:56+00:00,,,,False,docs(agents): document embedded web package (#721)
+c919f2c6afd9f75f2c239642d6ea7f24a631df75,New Future,NewFuture@users.noreply.github.com,2026-08-13 09:25:47+00:00,,,,False,feat(mcp): add dependency-free DDNS server (#722)
+2e2daa50beed842c31d45e154552b2085b5f6dbd,Copilot,198982749+Copilot@users.noreply.github.com,2026-08-14 09:50:59+00:00,Copilot,assinatura,Copilot,True,Fix dashboard cache reads with small Windows mtime skew (#723)
+27fa7f478d85b6b489d8c8cc2b69f6e4e1ef0581,Copilot,198982749+Copilot@users.noreply.github.com,2026-08-15 09:02:12+00:00,Copilot,assinatura,Copilot,True,docs(agents): sync AGENTS.md structure with new ddns/mcp.py (#725)
+6e3d3560c725177ecab74f4880981a6dc7bc190d,New Future,NewFuture@users.noreply.github.com,2026-08-15 14:23:27+00:00,,,,False,fix(http): bound external requests in CI tests (#726)
+06c0e912f4626b1ad9b336fb6d80918e56cf7602,New Future,NewFuture@users.noreply.github.com,2026-08-15 18:43:33+00:00,,,,False,test(e2e): expand binary coverage (#727)
+dd16df78b7fa20d35798b61f0c9e89c869fe92ce,New Future,NewFuture@users.noreply.github.com,2026-08-17 06:13:55+00:00,,,,False,ci(build): persist incremental compiler caches (#730)
+e945f89c51bc694b57d3e318f9abac7f4a86e290,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-08-18 01:36:57+00:00,,,,False,build(deps): bump actions/cache from 5 to 6 (#731)
+6b12670cca6944d28e13a8610a9b440e3615990a,Copilot,198982749+Copilot@users.noreply.github.com,2026-08-19 13:15:53+00:00,Copilot,assinatura,Copilot,True,chore(ci): update Nuitka to 4.2 (#732)
+90e04b70bd8955f156515e88171b678946688ba3,New Future,NewFuture@users.noreply.github.com,2026-08-20 17:05:32+00:00,,,,False,test(http): handle wrapped network timeouts (#733)
+08837bbd09e4701d3176520cb181ccc88e4045e1,New Future,NewFuture@users.noreply.github.com,2026-08-21 06:02:26+00:00,,,,False,feat(agent): define portable project development contract (#734)
+2501c4a1d8bbc4a7cc4504a5a6fcb97f7043d247,New Future,NewFuture@users.noreply.github.com,2026-08-21 08:58:28+00:00,,,,False,ci(agent): add deterministic project checks (#735)
+3c8578e9f4a50778ebe0d63500e59b475b0ba777,New Future,NewFuture@users.noreply.github.com,2026-08-23 13:36:26+00:00,,,,False,feat(mcp): add Streamable HTTP transport (#736)
+8c42e248d6ace0f6c91f7ac765481bc9cadd4564,New Future,NewFuture@users.noreply.github.com,2026-08-27 12:33:10+00:00,,,,False,ci(release): support immutable publishing (#737)
+087b18bcdc7d24df1e353b040d3c114e464aaa22,New Future,NewFuture@users.noreply.github.com,2026-08-28 07:25:22+00:00,,,,False,fix(ci): set GitHub release repository context (#738)
+27f0f1c0ac79dc5ae1067c864b233ccaa9a4befe,New Future,NewFuture@users.noreply.github.com,2026-09-06 04:45:46+00:00,,,,False,fix: correct DNS sync results and configuration retention (#739)
+fee4927e875ad04af12e896b6ba3b11a1a44d7a7,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-09-08 02:49:39+00:00,,,,False,build(deps-dev): bump vitepress from 2.0.0-alpha.19 to 2.0.0-alpha.20 in /docs (#741)
+8e784f6976af090b9af9e57aec43c2841283746d,New Future,NewFuture@users.noreply.github.com,2026-09-08 10:44:17+00:00,,,,False,ci: migrate issue replies to Copilot with the built-in Actions token (#742)
+f454a41ace4cb5986b435c8be9a47141233e41b7,New Future,NewFuture@users.noreply.github.com,2026-09-09 09:37:52+00:00,,,,False,ci(copilot): optimize cloud agent setup and guidance (#743)
+2e21ecabfd386f62b711f66a10628346a5ee9087,New Future,NewFuture@users.noreply.github.com,2026-09-10 14:06:56+00:00,,,,False,fix(tests): clean up tooling contract temporary directories (#744)
+18b5b5bc9e15f3e2ef004d6ec2e50b697f089176,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-09-15 16:50:14+00:00,Copilot,assinatura,Copilot,True,build(deps): bump github/gh-aw-actions/setup from 0.88.2 to 0.89.9 (#746)
+f09eb4fd8a13af744ab025860468b9dfc79273e0,New Future,NewFuture@users.noreply.github.com,2026-09-22 16:16:59+00:00,,,,False,docs: update AGENTS.md (#748)
+e4d6c80fed054ae41d7a19c3b13c2a7775d953de,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-09-23 16:03:43+00:00,,,,False,build(deps): bump github/gh-aw-actions/setup from 0.89.9 to 0.89.17 (#749)
+1c17f4e049493c628effea72bf23dbddf66fcb59,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-09-30 03:24:34+00:00,,,,False,build(deps): bump github/gh-aw-actions/setup from 0.89.17 to 0.89.21 (#750)
+9257eebdd0f1e6156fc26d2f09ca1be4bd1c1761,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-10-08 07:15:01+00:00,,,,False,build(deps): bump github/gh-aw-actions/setup from 0.89.21 to 0.90.3 (#751)
+af64f4dccebe4aa1a907932c77d5430b25b296b5,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-10-08 07:31:31+00:00,,,,False,build(deps): bump the npm_and_yarn group across 1 directory with 2 updates (#753)
+be9901011f7f7c40bcd83738b69d1bdceed5730d,New Future,NewFuture@users.noreply.github.com,2026-10-08 08:33:25+00:00,,,,False,docs: update AGENTS.md (#752)
+9f6cee7a5e0eb4f6bd91bb8c76783ef002d72059,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-10-20 06:13:43+00:00,,,,False,build(deps): bump Nuitka/Nuitka-Action from 1.4 to 1.5 (#757)
+bdb9d65acf92d6701c3ee5308be870e663e5b482,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-10-21 05:21:15+00:00,,,,False,build(deps-dev): bump vite from 8.2.2 to 8.3.4 in /docs in the npm_and_yarn group across 1 directory (#758)
+ac2e4a1d1f5aab9de8fb86d15bbcf39431f24e46,New Future,NewFuture@users.noreply.github.com,2026-10-22 14:58:36+00:00,,,,False,fix(cache): tolerate small future cache timestamps (#759)
+36d988f91fac3a053549f4453d63a5eeb570a6c1,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-10-23 11:54:17+00:00,,,,False,build(deps): bump github/gh-aw-actions/setup from 0.90.3 to 0.92.5 (#756)
+0393bfe6d3f3d7a7e55f93248b2b3a269d429b9d,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,2026-10-27 09:16:51+00:00,,,,False,build(deps): bump github/gh-aw-actions/setup from 0.92.5 to 0.93.3 (#760)

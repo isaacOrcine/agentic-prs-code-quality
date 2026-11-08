@@ -1,0 +1,6 @@
+,commits_py,commits_agente,intensidade,var % avisos_kloc,var % cc_func,var % satd_kloc,agente principal
+numbagg,88.0,25.0,0.284,-4.0,5.0,-32.0,Claude_Code
+HARK,159.0,14.0,0.088,-5.0,-0.0,-45.0,OpenAI_Codex
+DDNS,71.0,38.0,0.535,-13.0,-48.0,,Copilot
+diffyscan,36.0,4.0,0.111,-63.0,-3.0,-100.0,OpenAI_Codex
+PyAirbyte,217.0,178.0,0.82,-6.0,5.0,-31.0,Devin
